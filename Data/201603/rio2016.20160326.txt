@@ -1,0 +1,313 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sat Mar 26 02:54:24 +0000 2016| user = nromulo| text = BRA 2 X 2 URU Tamos é lascado com Dunga... já podemos não esperar a medalha de ouro no #Rio2016
+date = Sat Mar 26 02:46:47 +0000 2016| user = BDCCCCX| text = RT @Rio2016: Perceba Ivair a elegância do cavalo 🐴 https://t.co/8JXZ5S9hvG https://t.co/ak9M5flVko
+date = Sat Mar 26 02:40:06 +0000 2016| user = hsventura| text = @AndreVentura00 @tiagosplitter @bycycle bora la. Fazer de tudo para recuperar e jogar na #Rio2016
+date = Sat Mar 26 02:23:21 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: A @CBDAoficial faz pré-convocação da seleção de Nado Sincronizado para o @Rio2016 https://t.co/uYeNBCtE81 https://t.co/Q…
+date = Sat Mar 26 02:20:50 +0000 2016| user = cecilianicolai| text = RT @SurtoOlimpico: Relembrando que atraso nas obras cancelam o evento-teste do Ciclismo de Pista do @Rio2016 https://t.co/YtvazqRbhs https:…
+date = Sat Mar 26 02:16:32 +0000 2016| user = jjmservicos| text = Vamos nessa!!!! https://t.co/TqWoBUh3Rs
+date = Sat Mar 26 02:07:29 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Coreano campeão Olímpico na ginástica se contunde e pode perder o @Rio2016 https://t.co/0JW16lTZSL https://t.co/K3oFB3a2…
+date = Sat Mar 26 02:07:18 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Relembrando que atraso nas obras cancelam o evento-teste do Ciclismo de Pista do @Rio2016 https://t.co/YtvazqRbhs https:…
+date = Sat Mar 26 02:07:07 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Colômbia e EUA empatam no primeiro jogo do Playoff do Futebol masculino para o @Rio2016 https://t.co/NJiJvfBbPw https://…
+date = Sat Mar 26 02:06:57 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A @CBDAoficial faz pré-convocação da seleção de Nado Sincronizado para o @Rio2016 https://t.co/uYeNBCtE81 https://t.co/Q…
+date = Sat Mar 26 02:04:19 +0000 2016| user = joanna_cr| text = RT @SurtoOlimpico: Relembrando que atraso nas obras cancelam o evento-teste do Ciclismo de Pista do @Rio2016 https://t.co/YtvazqRbhs https:…
+date = Sat Mar 26 02:04:05 +0000 2016| user = Luke_conceicao| text = Pessoal existe a possibilidade do Coach Pop estar no #Rio2016 comandando o #DreamTeam ?
+#TudopelaNBA
+date = Sat Mar 26 02:02:43 +0000 2016| user = SurtoOlimpico| text = Coreano campeão Olímpico na ginástica se contunde e pode perder o @Rio2016 https://t.co/0JW16lTZSL https://t.co/K3oFB3a2qw
+date = Sat Mar 26 02:01:00 +0000 2016| user = Seba_Pereira| text = RT @osolimpicos: Esse é o último torneio de sabre antes da definição do ranking para o #Rio2016
+date = Sat Mar 26 02:00:23 +0000 2016| user = Seba_Pereira| text = RT @SurtoOlimpico: Colômbia e EUA empatam no primeiro jogo do Playoff do Futebol masculino para o @Rio2016 https://t.co/NJiJvfBbPw https://…
+date = Sat Mar 26 02:00:22 +0000 2016| user = SurtoOlimpico| text = Relembrando que atraso nas obras cancelam o evento-teste do Ciclismo de Pista do @Rio2016 https://t.co/YtvazqRbhs https://t.co/1T3DUG69bN
+date = Sat Mar 26 01:57:32 +0000 2016| user = SurtoOlimpico| text = Colômbia e EUA empatam no primeiro jogo do Playoff do Futebol masculino para o @Rio2016 https://t.co/NJiJvfBbPw https://t.co/8aL6uj3Bz4
+date = Sat Mar 26 01:55:09 +0000 2016| user = SurtoOlimpico| text = A @CBDAoficial faz pré-convocação da seleção de Nado Sincronizado para o @Rio2016 https://t.co/uYeNBCtE81 https://t.co/Qo6JYpToxb
+date = Sat Mar 26 01:52:45 +0000 2016| user = AryMoraesX| text = RT @GKellyGBernardo: PT ameaça tirar apoio a Paes se PMDB romper com Dilma - https://t.co/pipdzJJVWw https://t.co/KspsIw4fL1 via @exame #RI…
+date = Sat Mar 26 01:42:19 +0000 2016| user = osolimpicos| text = Esse é o último torneio de sabre antes da definição do ranking para o #Rio2016
+date = Sat Mar 26 01:40:42 +0000 2016| user = AlexFerreiraRio| text = @GovRJ @rioprefeitura @Rio2016 Verdadeiro fiasco! @PM_RJ sem receber! População à deriva! Parabéns seus incompetentes!
+date = Sat Mar 26 01:37:33 +0000 2016| user = osolimpicos| text = Quem vencer, estará no #Rio2016
+date = Sat Mar 26 01:30:13 +0000 2016| user = SouNeusa_| text = RT @GKellyGBernardo: PT ameaça tirar apoio a Paes se PMDB romper com Dilma - https://t.co/pipdzJJVWw https://t.co/KspsIw4fL1 via @exame #RI…
+date = Sat Mar 26 01:29:32 +0000 2016| user = Bbarinijr| text = RT @GKellyGBernardo: PT ameaça tirar apoio a Paes se PMDB romper com Dilma - https://t.co/pipdzJJVWw https://t.co/KspsIw4fL1 via @exame #RI…
+date = Sat Mar 26 01:24:42 +0000 2016| user = GKellyGBernardo| text = SP tem 23 mortes por complicações respiratórias provocadas pelo H1N1 #G1 https://t.co/InRckLYaPo #Rio2016
+date = Sat Mar 26 01:17:01 +0000 2016| user = AbaixoComOsZoos| text = RT @BrennoRJ: A #CidadeOlimpica tem um zoológico agonizando, pedindo por socorro. Detalhe, os animais não falam #RJTV #Rio2016 #RioZoo
+date = Sat Mar 26 01:14:01 +0000 2016| user = GKellyGBernardo| text = PT ameaça tirar apoio a Paes se PMDB romper com Dilma - https://t.co/pipdzJJVWw https://t.co/KspsIw4fL1 via @exame #RIO2016
+date = Sat Mar 26 01:10:14 +0000 2016| user = GKellyGBernardo| text = Imagina na Olimpíada: crise brasileira preocupa o COI https://t.co/w0J5FhQjFe via @veja #RIO2016
+date = Sat Mar 26 01:04:47 +0000 2016| user = IgorNavarroBFR| text = RT @sergiobrother1: Colômbia 1x1EUA repescagem valendo a última  vaga para o #Rio2016 próximo jogo terça-feira no Texas. Sorteio dia 14. 04…
+date = Sat Mar 26 01:03:16 +0000 2016| user = sergiobrother1| text = Colômbia 1x1EUA repescagem valendo a última  vaga para o #Rio2016 próximo jogo terça-feira no Texas. Sorteio dia 14. 04 no Maracanã.
+date = Fri Mar 25 23:56:27 +0000 2016| user = SIGLIAABRAHAO| text = RT @Rio2016: Aproveita o tempo livre no feriadão para mostrar sua arte no nosso app! Ela pode virar #NossosSelosRio2016 https://t.co/QOzlTO…
+date = Fri Mar 25 23:53:04 +0000 2016| user = jaspassos| text = RT @cpboficial: Bom dia, feriado! 🙌🏼🙌🏼 Faltam 166 dias para os #JogosParalímpicos @Rio2016 😌
+date = Fri Mar 25 23:50:13 +0000 2016| user = YrlanGuedess| text = @CarolSexxxy é... de acordo com o https://t.co/vNLZAi7O6X só depois do dia 21 de agosto. Acho que não teria tamanha paciência
+date = Fri Mar 25 23:47:53 +0000 2016| user = GuilhermeJrg| text = RT @Cecillia: #Prioridades 1) Quarto Casa de Saúde para idosos Nossa Senhora das Graças  2) Quarto da Vila dos Atletas #Rio2016 https://t.c…
+date = Fri Mar 25 23:43:14 +0000 2016| user = enferika| text = RT @Cecillia: #Prioridades 1) Quarto Casa de Saúde para idosos Nossa Senhora das Graças  2) Quarto da Vila dos Atletas #Rio2016 https://t.c…
+date = Fri Mar 25 23:42:53 +0000 2016| user = JorgePmUerj| text = RT @Cecillia: #Prioridades 1) Quarto Casa de Saúde para idosos Nossa Senhora das Graças  2) Quarto da Vila dos Atletas #Rio2016 https://t.c…
+date = Fri Mar 25 23:42:28 +0000 2016| user = winchester118| text = RT @RodrigoHilbert: Canoagem, ciclismo, triatlo, vela: os #JogosParalímpicos da @rio2016 serão incríveis! E a cerimônia dos Jogos... http:/…
+date = Fri Mar 25 23:38:11 +0000 2016| user = WilliamSapucaia| text = RT @SeeljeRJ: O Transforma oferece capacitação p/  professores de ed. física que desejam aprender sobre esportes pouco difundidos. https://…
+date = Fri Mar 25 23:37:07 +0000 2016| user = WilliamSapucaia| text = RT @Rio2016: Seu desenho pode virar selo! Saiba tudo sobre o desafio #NossosSelosRio2016 no nosso app! https://t.co/Ae64gh9mU6 https://t.co…
+date = Fri Mar 25 23:37:03 +0000 2016| user = WilliamSapucaia| text = RT @Rio2016: Que tal ter o seu desenho nos #NossosSelosRio2016? Baixe o app e participe! https://t.co/LT8KH2WHn0 https://t.co/LyBTcyBQ84
+date = Fri Mar 25 23:36:55 +0000 2016| user = WilliamSapucaia| text = RT @SeeljeRJ: E as inscrições para o projeto de capacitação esportiva Transforma vão até o próximo dia 29! Corre lá: https://t.co/HMXmqEjyTS
+date = Fri Mar 25 23:24:35 +0000 2016| user = claubata| text = RT @TodoDeporteAR: Ginóbili estará en #Rio2016 https://t.co/QiU6a6Kvuf https://t.co/hiVYWJEOMw
+date = Fri Mar 25 23:11:29 +0000 2016| user = clavenoticias| text = RT @TodoDeporteAR: Ginóbili estará en #Rio2016 https://t.co/QiU6a6Kvuf https://t.co/hiVYWJEOMw
+date = Fri Mar 25 23:10:20 +0000 2016| user = futebolatino| text = Ficou pra ser decidido nos Estados Unidos! 
+
+#repescagem #FutebolLatino #Olimpíadas #Rio2016 #Futebol https://t.co/8W68G7DrZw
+date = Fri Mar 25 23:07:48 +0000 2016| user = Sergio_L07| text = #Preolimpico #Rio2016 #Colombia 1 - 1 #EstadosUnidos #COL - Quintero. #USA - Gil.
+date = Fri Mar 25 23:00:13 +0000 2016| user = fecomerciorj| text = Em ano de @Rio2016, você também pode se tornar um campeão pelo nosso projeto #MedalhadeOuroSenac https://t.co/8wlt6JF78z
+date = Fri Mar 25 22:59:44 +0000 2016| user = SurtoOlimpico| text = Na partida de ida válida pelo playoff do futebol masculino pela última vaga do @Rio2016, Colombia e EUA ficaram no 1-1
+date = Fri Mar 25 22:47:52 +0000 2016| user = UizFeinando| text = @TomRio2016 @Rio2016 @cpboficial @Paralympic por nada para meu mascote favorito amigo
+date = Fri Mar 25 22:44:34 +0000 2016| user = MDflojera| text = Festejamos que @manuginobili va a @Rio2016!! #GrandeManu
+date = Fri Mar 25 22:35:37 +0000 2016| user = BLifeMedia| text = #Rio2016 Gooooool Juan Fernando Quintero!!!!! Equalizer!!! #Colombia 1-1 #USA
+date = Fri Mar 25 22:30:26 +0000 2016| user = panchoZala| text = RT @TodoDeporteAR: Ginóbili estará en #Rio2016 https://t.co/QiU6a6Kvuf https://t.co/hiVYWJEOMw
+date = Fri Mar 25 22:27:01 +0000 2016| user = TodoDeporteAR| text = Ginóbili estará en #Rio2016 https://t.co/QiU6a6Kvuf https://t.co/hiVYWJEOMw
+date = Fri Mar 25 22:26:19 +0000 2016| user = BrennoRJ| text = A #CidadeOlimpica tem um zoológico agonizando, pedindo por socorro. Detalhe, os animais não falam #RJTV #Rio2016 #RioZoo
+date = Fri Mar 25 22:23:46 +0000 2016| user = ROBERTA60772874| text = RT @Brasil2016: #Rio2016 Atletas vivem a expectativa de conduzir a tocha em várias partes do Brasil. https://t.co/nviDYrTyej https://t.co/m…
+date = Fri Mar 25 22:21:53 +0000 2016| user = canalnettv811| text = Maris Strombergs na classificatoria da Copa do Mundo de Supercross em Sa... https://t.co/c8kLtgtySY via @YouTube #MARISSTROMBERGS #RIO2016
+date = Fri Mar 25 22:18:05 +0000 2016| user = Brasil2016| text = #Rio2016 Atletas vivem a expectativa de conduzir a tocha em várias partes do Brasil. https://t.co/nviDYrTyej https://t.co/mMALXjfXmk
+date = Fri Mar 25 22:08:15 +0000 2016| user = HenriqueCereja| text = Triste notícia. https://t.co/zzu9IIeZ7q
+date = Fri Mar 25 21:59:07 +0000 2016| user = Riha_17| text = Vamos Pelaos ! #VamosMiSeleccion 💛💜♥ #Repechaje #Rio2016
+date = Fri Mar 25 21:51:08 +0000 2016| user = Rosagath| text = RT @ACNURBrasil: Conheça Yusra, refugiada síria que está de olho nas #olimpíadas do Rio! Saiba mais https://t.co/B8u3m6gtgz #Rio2016 https:…
+date = Fri Mar 25 21:44:12 +0000 2016| user = tvmarajoarac50| text = RT @radiobandnewsfm: Craque do New Orleans Pelicans, time da @NBA, Anthony Davis, passou por cirurgia no joelho esquerdo e deve ficar fora …
+date = Fri Mar 25 21:44:07 +0000 2016| user = saogoncalo_RJ| text = RT @Rio2016: 5 dicas de atletas para manter a forma no feriado! 💪 https://t.co/9v9XCEy1hP https://t.co/yAraRsi7Nk
+date = Fri Mar 25 21:40:30 +0000 2016| user = jrinconlozano| text = Preambulo de #BatmanvsSuperman #ColombiaVsEEUU #Rio2016 https://t.co/76jr0AjP77
+date = Fri Mar 25 21:39:25 +0000 2016| user = ForaPTJa| text = @folha @UOL que história macabra, onde estava o ACTERJ #RJ #Vassouras ABSURDO!! Loucura!! #Pezão @RomarioOnze #Rio2016
+date = Fri Mar 25 21:34:20 +0000 2016| user = RodrigoRocatto| text = RT @Rio2016: Tudo ou nada: #EUA e #Colômbia disputam a última vaga no #futebol para o #Rio2016! https://t.co/paYvEz6aVG https://t.co/iuFDlg…
+date = Fri Mar 25 21:34:13 +0000 2016| user = BIABETH| text = RT @Brasil2016: São iniciadas apresentações do plano operacional de saúde durante os Jogos #Rio2016 #SomosTodosBrasil https://t.co/1hXXs2Vn…
+date = Fri Mar 25 21:30:05 +0000 2016| user = GilsonRGrimes| text = #LulaLixoMundial e aí Presidente Dilma @dilmabr e ex-presidente Lula @LulapeloBrasil @inst_lula Terão coragem de ir às Olimpíadas #Rio2016?
+date = Fri Mar 25 21:16:45 +0000 2016| user = Jac_o_mine| text = RT @Rio2016: #Futebol perde @JohanCruyff, astro do futebol holandês, aos 68 anos 😢😢 https://t.co/UfYnD1D0IA https://t.co/QyB0jOfsFF
+date = Fri Mar 25 21:16:10 +0000 2016| user = Hortencia| text = Esse é Caipira mesmo.... Indo a Áustria para ver uma competição de Adestramento. 🐎🐎🐎🐎 #timebrasil #rio2016 #orgulho https://t.co/6eKqiQNw1s
+date = Fri Mar 25 21:13:21 +0000 2016| user = Laurafwx| text = RT @cpboficial: 🏇🏼🏇🏼🏇🏼 Garanta seu ingresso para ver os #Guerreiros do #Hipismo nos #JogosParalímpicos! https://t.co/69ZV38tiBY https://t.c…
+date = Fri Mar 25 21:13:12 +0000 2016| user = CariocaEconomia| text = RT @Rio2016: Aproveita o tempo livre no feriadão para mostrar sua arte no nosso app! Ela pode virar #NossosSelosRio2016 https://t.co/QOzlTO…
+date = Fri Mar 25 21:12:56 +0000 2016| user = schonebm55| text = @BenSiems boooooooooom. Leggoooooo. #Rio2016
+date = Fri Mar 25 21:12:38 +0000 2016| user = adrmil| text = RT @Rio2016: Tudo ou nada: #EUA e #Colômbia disputam a última vaga no #futebol para o #Rio2016! https://t.co/paYvEz6aVG https://t.co/iuFDlg…
+date = Fri Mar 25 20:52:21 +0000 2016| user = Mari_Prodigy| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:51:24 +0000 2016| user = Gea_Colombo| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:46:14 +0000 2016| user = JairPagno| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 20:33:58 +0000 2016| user = elialukas1| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:26:50 +0000 2016| user = californiaxglrs| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:25:19 +0000 2016| user = dripompeo| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:24:11 +0000 2016| user = bibamaconh4do| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:23:43 +0000 2016| user = VickdosReis1| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:22:53 +0000 2016| user = elianessena| text = RT @dejaldir: https://t.co/mNVS2yYMEW A força da banana com paçoca de Adriana. #maratona #rio2016
+date = Fri Mar 25 20:22:47 +0000 2016| user = Ribeiro_Affonso| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:20:32 +0000 2016| user = TcpSandra| text = https://t.co/wFwBLU2rQj
+Matheus Miranda
+Agora é lista de espera,... https://t.co/MgR83ee0Uc
+date = Fri Mar 25 20:19:32 +0000 2016| user = citousuavida| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 20:10:43 +0000 2016| user = basiliorn| text = RT @Rio2016: 5 dicas de atletas para manter a forma no feriado! 💪 https://t.co/9v9XCEy1hP https://t.co/yAraRsi7Nk
+date = Fri Mar 25 20:00:57 +0000 2016| user = mariabuleggon| text = RT @ditonobar: É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 19:59:12 +0000 2016| user = ditonobar| text = É com grande satisfação que comunico aos amigos que estarei nas olimpíadas RIO2016 https://t.co/zqRGzQsL44
+date = Fri Mar 25 19:54:59 +0000 2016| user = /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+triily_com| text = RT @WeBringYouHome: 36 Hours in Paradise aka Rio de Janeiro. #travel #Paradise #Rio2016  https://t.co/QwmOPen0lm
+date = Fri Mar 25 19:52:04 +0000 2016| user = WeBringYouHome| text = 36 Hours in Paradise aka Rio de Janeiro. #travel #Paradise #Rio2016  https://t.co/QwmOPen0lm
+date = Fri Mar 25 19:50:56 +0000 2016| user = neywilson| text = Muito trabalho ainda... Rumo @Rio2016  https://t.co/PX6WIBBPjc
+date = Fri Mar 25 19:49:44 +0000 2016| user = urubugonzales| text = RT @Rio2016: #JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/9sFfb3eeuX
+date = Fri Mar 25 19:45:29 +0000 2016| user = neywilson| text = A caminho @Rio2016  https://t.co/QmaGNUIucq
+date = Fri Mar 25 19:30:47 +0000 2016| user = EmbaixadaEUA| text = Não perca #entrevista com @AriSimmons e @lweisellisweiss, do @TeamUSA! Aprenda + sb #esgrima https://t.co/TSqWWM8G7j #Rio2016 #USinRio
+date = Fri Mar 25 19:29:35 +0000 2016| user = johnvolkers| text = RT @Rio2016: Garanta seu ingresso para o @AqueceRio: https://t.co/FWqLWbkOTk https://t.co/elT03ISxBv
+date = Fri Mar 25 19:26:32 +0000 2016| user = EliveltonMont| text = Em Portel no Pará curtindo o feriado assistindo golfe. Estarei no Rio2016. ⛳ #espntemgolfe
+date = Fri Mar 25 19:23:45 +0000 2016| user = janesribeiro| text = RT @radiobandnewsfm: Craque do New Orleans Pelicans, time da @NBA, Anthony Davis, passou por cirurgia no joelho esquerdo e deve ficar fora …
+date = Fri Mar 25 19:23:30 +0000 2016| user = jsmithklimber| text = RT @radiobandnewsfm: Craque do New Orleans Pelicans, time da @NBA, Anthony Davis, passou por cirurgia no joelho esquerdo e deve ficar fora …
+date = Fri Mar 25 19:23:17 +0000 2016| user = brenobarros| text = @RicardoLeyser @romanoolimpico ela tem tudo p/ ser o grande nome da ginástica feminina no #Rio2016
+date = Fri Mar 25 19:18:43 +0000 2016| user = radiobandnewsfm| text = Craque do New Orleans Pelicans, time da @NBA, Anthony Davis, passou por cirurgia no joelho esquerdo e deve ficar fora da Olimpíada #Rio2016
+date = Fri Mar 25 19:12:28 +0000 2016| user = Trechos_HeD| text = RT @showspelobrasil: RIO DE JANEIRO
+
+Henrique &amp; Diego show dia 25/03/2016 
+sexta, 23h00 - Tradição
+
+https://t.co/aTrFsRm1Vd
+
+#rio2016
+date = Fri Mar 25 19:07:47 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Garanta seu ingresso para o @AqueceRio: https://t.co/FWqLWbkOTk https://t.co/elT03ISxBv
+date = Fri Mar 25 19:07:36 +0000 2016| user = FapsSilva| text = RT @Rio2016: Garanta seu ingresso para o @AqueceRio: https://t.co/FWqLWbkOTk https://t.co/elT03ISxBv
+date = Fri Mar 25 19:05:20 +0000 2016| user = jullyyy_w| text = RT @Rio2016: Garanta seu ingresso para o @AqueceRio: https://t.co/FWqLWbkOTk https://t.co/elT03ISxBv
+date = Fri Mar 25 19:04:03 +0000 2016| user = julianalisboa| text = RT @Rio2016: Garanta seu ingresso para o @AqueceRio: https://t.co/FWqLWbkOTk https://t.co/elT03ISxBv
+date = Fri Mar 25 19:03:31 +0000 2016| user = instaipanema| text = Olha elaaaaaa 😂😂😂😂 veio me visitar 👊🐽🐷❤️#amigo #friend #ipanemabeach #ipanema #rj #rio2016… https://t.co/MBLH0CKLxd https://t.co/IAem5V6h8i
+date = Fri Mar 25 19:01:49 +0000 2016| user = marcos_s10| text = RT @Rio2016: Garanta seu ingresso para o @AqueceRio: https://t.co/FWqLWbkOTk https://t.co/elT03ISxBv
+date = Fri Mar 25 19:01:43 +0000 2016| user = CulturaBrasilVE| text = RT @Brasil2016: Estamos no Parque Olímpico para mostrar para vocês a vista privilegiada das instalações #Rio2016 https://t.co/meovOtFoJJ
+date = Fri Mar 25 19:01:28 +0000 2016| user = Rio2016| text = Garanta seu ingresso para o @AqueceRio: https://t.co/FWqLWbkOTk https://t.co/elT03ISxBv
+date = Fri Mar 25 18:39:30 +0000 2016| user = Hemanfriemann| text = RT @Rio2016: #Futebol perde @JohanCruyff, astro do futebol holandês, aos 68 anos 😢😢 https://t.co/UfYnD1D0IA https://t.co/QyB0jOfsFF
+date = Fri Mar 25 18:35:35 +0000 2016| user = luciafwx| text = RT @Rio2016: #JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/9sFfb3eeuX
+date = Fri Mar 25 18:35:27 +0000 2016| user = beBee_PT| text = Já imaginou como é um dia de trabalho de um voluntário do #RIO2016? O #hiveBlog te conta 👉 https://t.co/vCTLQxoOd5 https://t.co/Pm5LMST9LQ
+date = Fri Mar 25 18:32:19 +0000 2016| user = Zico21Gylmar| text = RT @Rio2016: Aproveita o tempo livre no feriadão para mostrar sua arte no nosso app! Ela pode virar #NossosSelosRio2016 https://t.co/QOzlTO…
+date = Fri Mar 25 18:32:01 +0000 2016| user = Laurafwx| text = RT @Rio2016: #JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/9sFfb3eeuX
+date = Fri Mar 25 18:31:56 +0000 2016| user = Neerlandaise01| text = RT @Rio2016: #Futebol perde @JohanCruyff, astro do futebol holandês, aos 68 anos 😢😢 https://t.co/UfYnD1D0IA https://t.co/QyB0jOfsFF
+date = Fri Mar 25 18:30:49 +0000 2016| user = EmbaixadaEUA| text = Na #esgrima, é preciso ter bom #reflexo e muita #atenção! Aprenda + detalhes sb este esporte p/ #Rio2016: https://t.co/TSqWWM8G7j #USinRio
+date = Fri Mar 25 18:25:57 +0000 2016| user = YesbananasSport| text = Yes!Sports - Diego Hypolito leva ouro em etapa da Copa do Mundo de ginástica artística:  https://t.co/qWonAXlMmf #sports #esportes
+date = Fri Mar 25 18:25:52 +0000 2016| user = FutebolMundial5| text = Diego Hypolito leva ouro em etapa da Copa do Mundo de ginástica artística:  https://t.co/GIzYIpCzzG
+date = Fri Mar 25 18:25:52 +0000 2016| user = FutebolEspiao| text = Diego Hypolito leva ouro em etapa da Copa do Mundo de ginástica artística https://t.co/rnGeAkAAkZ
+date = Fri Mar 25 18:25:50 +0000 2016| user = PortalEsporte10| text = Diego Hypolito leva ouro em etapa da Copa do Mundo de ginástica artística https://t.co/95v7vyb9iR
+date = Fri Mar 25 18:25:48 +0000 2016| user = irafaelbarros| text = Diego Hypolito leva ouro em etapa da Copa do Mundo de ginástica artística:  https://t.co/0LHWiMZZEF
+date = Fri Mar 25 18:25:46 +0000 2016| user = BrunoJaquet03| text = Diego Hypolito leva ouro em etapa da Copa do Mundo de ginástica artística:  https://t.co/F3i4z3hH8w
+date = Fri Mar 25 18:23:51 +0000 2016| user = RodneyMooij| text = RT @Rio2016: #Futebol perde @JohanCruyff, astro do futebol holandês, aos 68 anos 😢😢 https://t.co/UfYnD1D0IA https://t.co/QyB0jOfsFF
+date = Fri Mar 25 18:20:09 +0000 2016| user = feestman| text = RT @Rio2016: #Futebol perde @JohanCruyff, astro do futebol holandês, aos 68 anos 😢😢 https://t.co/UfYnD1D0IA https://t.co/QyB0jOfsFF
+date = Fri Mar 25 18:16:59 +0000 2016| user = apostaganha| text = Dois sonham com os jogos olímpicos de 2016
+https://t.co/NpdjwdTj6P
+#colombia #usa #apostas #rio2016 #olimpiadas #bet https://t.co/4MhBLldPIt
+date = Fri Mar 25 18:16:11 +0000 2016| user = AntnioCarlosAl6| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 18:10:52 +0000 2016| user = adailton_farf| text = RT @Rio2016: Aproveita o tempo livre no feriadão para mostrar sua arte no nosso app! Ela pode virar #NossosSelosRio2016 https://t.co/QOzlTO…
+date = Fri Mar 25 18:10:17 +0000 2016| user = vanessacabralsp| text = Não faça nada que um atleta Olímpico não faria... #Rio2016 https://t.co/5sNtAKs4ye
+date = Fri Mar 25 18:04:56 +0000 2016| user = AnnaLuGama| text = RT @oConsciente: TVNBR: RT TomRio2016: Essa noite sonhei que já estava na abertura do Rio2016, festejando com todo mundo numa festa… https:…
+date = Fri Mar 25 18:03:40 +0000 2016| user = marcelmerguizo| text = Vôlei do Brasil jogará à noite na quadra e durante o dia na praia na Olimpíada https://t.co/OPErJXfGS6 #Rio2016 #TimeBrasil #Olímpicos
+date = Fri Mar 25 18:03:16 +0000 2016| user = oConsciente| text = TVNBR: RT TomRio2016: Essa noite sonhei que já estava na abertura do Rio2016, festejando com todo mundo numa festa… https://t.co/TzHs6b4NhQ
+date = Fri Mar 25 18:02:12 +0000 2016| user = lewisellisweiss| text = RT @EmbaixadaEUA: .@AriSimmons e @lewisellisweiss nos contam como funciona a #esgrima! https://t.co/TSqWWM8G7j #Rio2016 #Olimpíadas #USinRio
+date = Fri Mar 25 18:01:31 +0000 2016| user = EmbaixadaEUA| text = .@AriSimmons e @lewisellisweiss nos contam como funciona a #esgrima! https://t.co/TSqWWM8G7j #Rio2016 #Olimpíadas #USinRio
+date = Fri Mar 25 17:58:54 +0000 2016| user = SimonBoer| text = RT @Rio2016: #Futebol perde @JohanCruyff, astro do futebol holandês, aos 68 anos 😢😢 https://t.co/UfYnD1D0IA https://t.co/QyB0jOfsFF
+date = Fri Mar 25 17:58:07 +0000 2016| user = tribunalusitana| text = Luiza Almeida em busca da vaga para #Rio2016 com Vendaval https://t.co/MRYovbI7f3
+date = Fri Mar 25 17:56:37 +0000 2016| user = showspelobrasil| text = RIO DE JANEIRO
+
+Henrique &amp; Diego show dia 25/03/2016 
+sexta, 23h00 - Tradição
+
+https://t.co/aTrFsRm1Vd
+
+#rio2016
+date = Fri Mar 25 17:52:17 +0000 2016| user = carmendayang| text = @TomRio2016 @TVNBR @Rio2016 "A vida é tecida com o mesmo fio que tece os sonhos." (W.Sheakespeare)
+date = Fri Mar 25 17:52:06 +0000 2016| user = minesporte| text = Seleção masculina de handebol disputa torneio no Qatar de olho no #Rio2016. https://t.co/78HharSpzA https://t.co/r5bVqtTY64
+date = Fri Mar 25 17:51:43 +0000 2016| user = carmendayang| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 17:50:57 +0000 2016| user = melvieirav| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 17:50:34 +0000 2016| user = TVNBR| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 17:44:07 +0000 2016| user = nocnsf| text = RT @Rio2016: #Futebol perde @JohanCruyff, astro do futebol holandês, aos 68 anos 😢😢 https://t.co/UfYnD1D0IA https://t.co/QyB0jOfsFF
+date = Fri Mar 25 17:41:07 +0000 2016| user = RoserMorenoPr| text = RT @Brasil2016: Casa Brasil mostrará a diversidade cultural do país durante os Jogos #Rio2016. https://t.co/qygGw6XinG https://t.co/FjskuVP…
+date = Fri Mar 25 17:37:18 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Aproveita o tempo livre no feriadão para mostrar sua arte no nosso app! Ela pode virar #NossosSelosRio2016 https://t.co/QOzlTO…
+date = Fri Mar 25 17:36:25 +0000 2016| user = mataruna| text = @donaerika é BRONZE!!!! #bronzemedal #JudoTbilisi2016 #judo #parabens @rio2016_es #timebrasil… https://t.co/EScjMThS3y
+date = Fri Mar 25 17:36:15 +0000 2016| user = SelecaoMexicana| text = Segunda feira @miseleccionmx #Sub23 jogara contra Portugal em solo portugues as 13h br
+#Incondicionales
+#DefiendeTuCancha
+#Rio2016
+date = Fri Mar 25 17:34:54 +0000 2016| user = dario348| text = RT @Rio2016: Aproveita o tempo livre no feriadão para mostrar sua arte no nosso app! Ela pode virar #NossosSelosRio2016 https://t.co/QOzlTO…
+date = Fri Mar 25 17:33:56 +0000 2016| user = schnellflu| text = RT @Brasil2016: Casa Brasil mostrará a diversidade cultural do país durante os Jogos #Rio2016. https://t.co/qygGw6XinG https://t.co/FjskuVP…
+date = Fri Mar 25 17:31:43 +0000 2016| user = eleneide2015| text = RT @Rio2016: Aproveita o tempo livre no feriadão para mostrar sua arte no nosso app! Ela pode virar #NossosSelosRio2016 https://t.co/QOzlTO…
+date = Fri Mar 25 17:30:50 +0000 2016| user = Rio2016| text = Aproveita o tempo livre no feriadão para mostrar sua arte no nosso app! Ela pode virar #NossosSelosRio2016 https://t.co/QOzlTOYauY
+date = Fri Mar 25 17:25:29 +0000 2016| user = AlvesPauloP| text = Zé Roberto faz 'preparação à distância' e Sheilla ganha atenção especial via @UOLEsporte #Rio2016   https://t.co/GaWCvqPfZ0
+date = Fri Mar 25 17:22:07 +0000 2016| user = welldohnal| text = e no #Rio2016 não ganhará o Ouro! Tenham Certeza https://t.co/Q6UM8lGAQe
+date = Fri Mar 25 17:15:07 +0000 2016| user = Brasil2016| text = Casa Brasil mostrará a diversidade cultural do país durante os Jogos #Rio2016. https://t.co/qygGw6XinG https://t.co/FjskuVPvAb
+date = Fri Mar 25 17:12:51 +0000 2016| user = GeekCharming_13| text = RT @Rio2016: 5 dicas de atletas para manter a forma no feriado! 💪 https://t.co/9v9XCEy1hP https://t.co/yAraRsi7Nk
+date = Fri Mar 25 17:11:56 +0000 2016| user = _mati16| text = RT @Rio2016: Um passeio pelo bondinho do Pão de Açúcar de um jeito diferente! :P https://t.co/7mxc53XHkc
+date = Fri Mar 25 17:00:22 +0000 2016| user = CNI_br| text = Atenção, empresário! Não perca a chance de participar dos primeiros Jogos Olímpicos da América do Sul. https://t.co/V2XanpNrN4 #Rio2016
+date = Fri Mar 25 16:54:21 +0000 2016| user = NahuelDubaz| text = RT @temnoticiasarg: #Basquet] #Ginobili confirmo que ira a #Rio2016 https://t.co/Fw6wEK2Cj4
+date = Fri Mar 25 16:48:42 +0000 2016| user = zidruxXx| text = 133 dias pras Olimpíadas
+#Rio2016 #133days
+date = Fri Mar 25 16:44:46 +0000 2016| user = temnoticiasarg| text = #Basquet] #Ginobili confirmo que ira a #Rio2016 https://t.co/Fw6wEK2Cj4
+date = Fri Mar 25 16:44:44 +0000 2016| user = sportsluciene| text = RT @Rio2016: 5 dicas de atletas para manter a forma no feriado! 💪 https://t.co/9v9XCEy1hP https://t.co/yAraRsi7Nk
+date = Fri Mar 25 16:42:24 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: 5 dicas de atletas para manter a forma no feriado! 💪 https://t.co/9v9XCEy1hP https://t.co/yAraRsi7Nk
+date = Fri Mar 25 16:35:00 +0000 2016| user = WandaReginaKass| text = RT @Rio2016: 5 dicas de atletas para manter a forma no feriado! 💪 https://t.co/9v9XCEy1hP https://t.co/yAraRsi7Nk
+date = Fri Mar 25 16:32:26 +0000 2016| user = AssuntoMilitar| text = Presos na Alemanha suspeitos ligados a terror em Bruxelas.
+https://t.co/X1yJ6CywwH #JeSuisBruxelles #Rio2016 @IBN24H https://t.co/diLtiN7bb7
+date = Fri Mar 25 16:30:44 +0000 2016| user = Rio2016| text = 5 dicas de atletas para manter a forma no feriado! 💪 https://t.co/9v9XCEy1hP https://t.co/yAraRsi7Nk
+date = Fri Mar 25 16:30:02 +0000 2016| user = NBAFANSPORTUGAL| text = Anthony Davis vai ficar 3-4 meses e fora e parece que vai falhar o #RIO2016 https://t.co/pJpJf9O5QS
+date = Fri Mar 25 16:13:55 +0000 2016| user = jjmservicos| text = Boa tarde: https://t.co/ayrajs0Fx5
+date = Fri Mar 25 16:07:19 +0000 2016| user = Melanie_ADR| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Fri Mar 25 16:03:22 +0000 2016| user = DayseCarraco| text = RT @minesporte: Seleção brasileira de Levantamento de Peso é convocada para o evento-teste do #Rio2016. https://t.co/SEBGAz8SYq https://t.c…
+date = Fri Mar 25 15:56:21 +0000 2016| user = ribeiroivanir| text = RT @minesporte: Seleção brasileira de Levantamento de Peso é convocada para o evento-teste do #Rio2016. https://t.co/SEBGAz8SYq https://t.c…
+date = Fri Mar 25 15:52:15 +0000 2016| user = Laurafwx| text = RT @minesporte: Seleção brasileira de Levantamento de Peso é convocada para o evento-teste do #Rio2016. https://t.co/SEBGAz8SYq https://t.c…
+date = Fri Mar 25 15:50:06 +0000 2016| user = minesporte| text = Seleção brasileira de Levantamento de Peso é convocada para o evento-teste do #Rio2016. https://t.co/SEBGAz8SYq https://t.co/xXP5sMFkRo
+date = Fri Mar 25 15:42:33 +0000 2016| user = joaoderly| text = Parabéns, @Rafaelasilvaa! #Rio2016 #judo  https://t.co/vDVlQW1NJK
+date = Fri Mar 25 15:34:27 +0000 2016| user = marcelo_kiala| text = final no maraca seria perfeito #Maracana #FinalDaLigaNoMaraca @maracana #Rio2016
+date = Fri Mar 25 15:27:01 +0000 2016| user = maurogoespaiva| text = Hj saberemos a última seleção masculina classificada para o @Rio2016 ! A última vaga sairá do confronto entre @FCFSeleccionCol x @ussoccer
+date = Fri Mar 25 15:16:31 +0000 2016| user = PedroJoseConce2| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 15:11:24 +0000 2016| user = 30tododia| text = Essas são as novas havaianas @rio2016_es testada e aprovada pelo idealizador do #30tododia… https://t.co/W1zlKRPx6D
+date = Fri Mar 25 14:50:53 +0000 2016| user = cpboficial| text = 🏇🏼🏇🏼🏇🏼 Garanta seu ingresso para ver os #Guerreiros do #Hipismo nos #JogosParalímpicos! https://t.co/69ZV38tiBY https://t.co/K4vLdxCGOp
+date = Fri Mar 25 14:44:57 +0000 2016| user = dodsdmr| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 14:40:10 +0000 2016| user = Centraltres| text = Há risco de terrorismo na #Rio2016? O podcast @esporte_final discute esse tema complicado https://t.co/7JLP3mkuZ1 https://t.co/yhgzFDKlIm
+date = Fri Mar 25 14:35:11 +0000 2016| user = arianatamb_| text = RT @NBAenlinea: Que lindo volver a verte Manu Ginobili!!!! #RIO2016 #LaPalomita https://t.co/HSgTP3aNmL
+date = Fri Mar 25 14:34:20 +0000 2016| user = SelecaoMexicana| text = E a selecao olimpica inicia hj sua preparacao rumo as olimpiadas #Rio2016 daqui a pouco ao 12h
+#DefiendeTuCancha https://t.co/puQPjB4iug
+date = Fri Mar 25 14:25:45 +0000 2016| user = Laurafwx| text = RT @cpboficial: Bom dia, feriado! 🙌🏼🙌🏼 Faltam 166 dias para os #JogosParalímpicos @Rio2016 😌
+date = Fri Mar 25 14:16:57 +0000 2016| user = maryfu| text = RT @cpboficial: Bom dia, feriado! 🙌🏼🙌🏼 Faltam 166 dias para os #JogosParalímpicos @Rio2016 😌
+date = Fri Mar 25 14:07:02 +0000 2016| user = WendellBws12| text = RT @cpboficial: Bom dia, feriado! 🙌🏼🙌🏼 Faltam 166 dias para os #JogosParalímpicos @Rio2016 😌
+date = Fri Mar 25 14:06:43 +0000 2016| user = cpboficial| text = Bom dia, feriado! 🙌🏼🙌🏼 Faltam 166 dias para os #JogosParalímpicos @Rio2016 😌
+date = Fri Mar 25 14:06:10 +0000 2016| user = FOA_ARG| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 14:02:12 +0000 2016| user = badgalmusashi| text = RT @Cecillia: #Prioridades 1) Quarto Casa de Saúde para idosos Nossa Senhora das Graças  2) Quarto da Vila dos Atletas #Rio2016 https://t.c…
+date = Fri Mar 25 14:01:44 +0000 2016| user = naldobarros690| text = RT @cpboficial: Seleção Brasileira de tênis de mesa está definida para os #JogosParalímpicos @Rio2016  https://t.co/vgUEDeUny7 https://t.co…
+date = Fri Mar 25 14:01:14 +0000 2016| user = naldobarros690| text = RT @cpboficial: Olha a elegância dos atletas do Hipismo! @Rio2016
+https://t.co/Cgvd76H5du
+date = Fri Mar 25 14:00:46 +0000 2016| user = moisomedrano| text = RT @Rio2016: #JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/9sFfb3eeuX
+date = Fri Mar 25 13:59:10 +0000 2016| user = gracieteram| text = RT @Cecillia: #Prioridades 1) Quarto Casa de Saúde para idosos Nossa Senhora das Graças  2) Quarto da Vila dos Atletas #Rio2016 https://t.c…
+date = Fri Mar 25 13:54:47 +0000 2016| user = Cecillia| text = #Prioridades 1) Quarto Casa de Saúde para idosos Nossa Senhora das Graças  2) Quarto da Vila dos Atletas #Rio2016 https://t.co/jxwczpDiqw
+date = Fri Mar 25 13:50:43 +0000 2016| user = JullyeneBatista| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 13:45:20 +0000 2016| user = VodoCalvario| text = Las mais gostosas. #rio2016 https://t.co/11MBVPrzLS
+date = Fri Mar 25 13:39:40 +0000 2016| user = paynewolff| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Fri Mar 25 13:32:41 +0000 2016| user = COE_es| text = RT @Rio2016: 16 dicas medalhas de ouro para curtir o Rio! https://t.co/Pp0Z4dHUcf https://t.co/tlv5qK5ilz
+date = Fri Mar 25 13:32:20 +0000 2016| user = Dialogo_pt| text = Força Nacional de Segurança Pública quase pronto:#Rio2016 #Olimpíadas @JusticaGovBR @rio2016 https://t.co/Cas6RwlxyH https://t.co/bYLXOb93yd
+date = Fri Mar 25 13:31:21 +0000 2016| user = SheeDJulio| text = RT @dasslermarques: Willian ganha força para se juntar a Neymar em luta pelo ouro olímpico https://t.co/ZVY2d6aUct via @UOLEsporte #Rio2016
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Fri Mar 25 13:31:21 +0000 2016| user = JulioSheeeD| text = RT @dasslermarques: Willian ganha força para se juntar a Neymar em luta pelo ouro olímpico https://t.co/ZVY2d6aUct via @UOLEsporte #Rio2016
+date = Fri Mar 25 13:26:29 +0000 2016| user = Havreck| text = RT @dasslermarques: Willian ganha força para se juntar a Neymar em luta pelo ouro olímpico https://t.co/ZVY2d6aUct via @UOLEsporte #Rio2016
+date = Fri Mar 25 13:25:12 +0000 2016| user = jeremiaswernek| text = RT @dasslermarques: Willian ganha força para se juntar a Neymar em luta pelo ouro olímpico https://t.co/ZVY2d6aUct via @UOLEsporte #Rio2016
+date = Fri Mar 25 13:24:35 +0000 2016| user = dasslermarques| text = Willian ganha força para se juntar a Neymar em luta pelo ouro olímpico https://t.co/ZVY2d6aUct via @UOLEsporte #Rio2016
+date = Fri Mar 25 13:21:49 +0000 2016| user = Laurafwx| text = deixei de seguir @rio2016 e @cpboficial  não respondem a nada
+date = Fri Mar 25 13:17:13 +0000 2016| user = ribeiroivanir| text = RT @Rio2016: 16 dicas medalhas de ouro para curtir o Rio! https://t.co/Pp0Z4dHUcf https://t.co/tlv5qK5ilz
+date = Fri Mar 25 13:12:06 +0000 2016| user = doeumlivro| text = RT @Rio2016: #JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/9sFfb3eeuX
+date = Fri Mar 25 13:03:44 +0000 2016| user = WandaReginaKass| text = RT @Rio2016: 16 dicas medalhas de ouro para curtir o Rio! https://t.co/Pp0Z4dHUcf https://t.co/tlv5qK5ilz
+date = Fri Mar 25 13:02:34 +0000 2016| user = FCGLOBORIO| text = RT @Rio2016: 16 dicas medalhas de ouro para curtir o Rio! https://t.co/Pp0Z4dHUcf https://t.co/tlv5qK5ilz
+date = Fri Mar 25 13:02:28 +0000 2016| user = ari03jp03| text = RT @DLasAmericas: #Brasil Ministro de Deportes renuncia a cinco meses de #Río2016 https://t.co/xgiXUwE1ze https://t.co/WFSQR8dVby
+date = Fri Mar 25 13:01:45 +0000 2016| user = ProfBrunoo| text = @TomRio2016 @Brasil2016 @Rio2016 Eu sonhei que todo o dinheiro fosse para a saúde e educação do RJ. Muito louco!!
+date = Fri Mar 25 13:01:30 +0000 2016| user = fernandopontall| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 13:01:12 +0000 2016| user = Rio2016| text = 16 dicas medalhas de ouro para curtir o Rio! https://t.co/Pp0Z4dHUcf https://t.co/tlv5qK5ilz
+date = Fri Mar 25 13:00:00 +0000 2016| user = thgwilliams| text = RT @GEdoBrasil: Haja inovação para acompanhar de perto a saúde dos atletas dos Jogos @Rio2016! https://t.co/b0x65hHC3q https://t.co/QsMqa4V…
+date = Fri Mar 25 12:49:52 +0000 2016| user = RoserMorenoPr| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 12:49:14 +0000 2016| user = fabianrozo| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 12:48:39 +0000 2016| user = profhelder| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 12:46:39 +0000 2016| user = minesporte| text = Governos federal, estadual e municipal detalham operação de saúde para os Jogos #Rio2016. https://t.co/NebFFJifYN
+date = Fri Mar 25 12:45:47 +0000 2016| user = LeonorAbreu10| text = RT @Publico: Yusra, que salvou 20 pessoas no mar, quer mostrar no #Rio2016 o que um refugiado pode fazer https://t.co/a1tYPEfgIJ https://t.…
+date = Fri Mar 25 12:42:24 +0000 2016| user = Brasil2016| text = RT @TomRio2016: Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/F…
+date = Fri Mar 25 12:40:23 +0000 2016| user = TomRio2016| text = Essa noite sonhei que já estava na abertura do @Rio2016, festejando com todo mundo numa festa mto animada! 😍 https://t.co/FiN1BgDkYA
+date = Fri Mar 25 12:31:24 +0000 2016| user = nestorape| text = RT @DLasAmericas: #Brasil Ministro de Deportes renuncia a cinco meses de #Río2016 https://t.co/xgiXUwE1ze https://t.co/WFSQR8dVby
+date = Fri Mar 25 12:26:05 +0000 2016| user = Jadercassio_| text = RT @Rio2016: #JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/9sFfb3eeuX
+date = Fri Mar 25 12:25:50 +0000 2016| user = libertador_dig| text = RT @DLasAmericas: #Brasil Ministro de Deportes renuncia a cinco meses de #Río2016 https://t.co/xgiXUwE1ze https://t.co/WFSQR8dVby
+date = Fri Mar 25 12:25:06 +0000 2016| user = DLasAmericas| text = #Brasil Ministro de Deportes renuncia a cinco meses de #Río2016 https://t.co/xgiXUwE1ze https://t.co/WFSQR8dVby
+date = Fri Mar 25 11:43:06 +0000 2016| user = agda_oliver2010| text = 2 anos isso! #sucessocontinua #tochaolimpica #rio2016 #euvoucarregaratocha https://t.co/c5Bg7AQ53P
+date = Fri Mar 25 11:31:32 +0000 2016| user = OhMyJorge| text = Theatro Municipal do Brasil #Brazil #rio2016 #theatre #city #citylife @ Theatro Municipal (Rio… https://t.co/4SEqMoe8FM
+date = Fri Mar 25 11:30:59 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: #JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/9sFfb3eeuX
+date = Fri Mar 25 11:30:26 +0000 2016| user = Rio2016| text = #JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/9sFfb3eeuX
+date = Fri Mar 25 11:03:58 +0000 2016| user = fcorodolfo32| text = RT @ACNURBrasil: Conheça Yusra, refugiada síria que está de olho nas #olimpíadas do Rio! Saiba mais https://t.co/B8u3m6gtgz #Rio2016 https:…
+date = Fri Mar 25 11:00:22 +0000 2016| user = ACNURBrasil| text = Conheça Yusra, refugiada síria que está de olho nas #olimpíadas do Rio! Saiba mais https://t.co/B8u3m6gtgz #Rio2016 https://t.co/2scONklm1v
+date = Fri Mar 25 10:57:23 +0000 2016| user = marcionarciment| text = "Páscoa, prosperidade, vida, humildade. Nesta sexta-feira  seja mais tudo isso. "
+#Bomdia #Rio2016  @InformeRJO https://t.co/oQsOcwJuad
+date = Fri Mar 25 10:48:52 +0000 2016| user = Picharillo77| text = Nigéria bate Brasil em amistoso olímpico duas décadas após Jogos de Atlanta https://t.co/8RdkWomngp via @UOLEsporte #Rio2016
+date = Fri Mar 25 10:33:26 +0000 2016| user = esportegestao| text = RT @SurtoOlimpico: Destaques do Surto..Cancelado o evento-teste do ciclismo de pista para o @Rio2016 https://t.co/YtvazqRbhs https://t.co/Y…
+date = Fri Mar 25 10:31:41 +0000 2016| user = HanzenWerner| text = RT @Rio2016: Perceba Ivair a elegância do cavalo 🐴 https://t.co/8JXZ5S9hvG https://t.co/ak9M5flVko
+date = Fri Mar 25 09:43:14 +0000 2016| user = Alzipp| text = Muito bom. https://t.co/tL6qQc5ICy
+date = Fri Mar 25 09:06:43 +0000 2016| user = Raffafust| text = Apaixonada pelos pins emborrachados da Rio2016 ♡♥♡♥ @ Santos Dumont Airport https://t.co/ed3tIR7I3a
+date = Fri Mar 25 07:34:47 +0000 2016| user = kennisbundel| text = RT @NLinRio: Holanda e Brasil debatem estratégias de #inovação para o #esporte no Rio https://t.co/92TrI3QP43 #Rio2016 https://t.co/HOoD0nx…
+date = Fri Mar 25 05:12:53 +0000 2016| user = DePelotasMX| text = Las atletas "mais gostosas" de #Rio2016 https://t.co/8jLpK6upX1 https://t.co/NjtVSIgwn9
+date = Fri Mar 25 03:57:01 +0000 2016| user = WallePereira| text = SE EU AMO A CIDADE DO RIO DE JANEIRO? VIADOS, NÃO TENHAM DUVIDAS DISSO. SEGURA @eduardopaes_ @Rio2016 https://t.co/cuqKieshC1
+date = Fri Mar 25 03:43:54 +0000 2016| user = Discurso2014| text = RT @PORTO_Nat: @nytimes #Rio2016 Governo  Rio corta R$ 2 bilhões da segurança "preparem-se para a guerra"   https://t.co/uC4apq2GHt https:/…
+date = Fri Mar 25 03:37:42 +0000 2016| user = DaniBarnabe| text = Fica a dica: https://t.co/v3gIyDTm5j
+date = Fri Mar 25 03:26:40 +0000 2016| user = Placares_aovivo| text = Volante do Inter retorna a Porto Alegre após lesão em amistoso da seleção https://t.co/U41FqtwB1G via @UOLEsporte #Rio2016
+date = Fri Mar 25 03:23:13 +0000 2016| user = frehleydiaz| text = RT @LPB_NATION: #INT  Manu Ginóbili acaba de anunciar que estará en #Rio2016 .
+date = Fri Mar 25 03:10:32 +0000 2016| user = harrymeestrupe| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Fri Mar 25 02:42:11 +0000 2016| user = 83thiagao| text = RT @SurtoOlimpico: Destaques do Surto..Cancelado o evento-teste do ciclismo de pista para o @Rio2016 https://t.co/YtvazqRbhs https://t.co/Y…
+date = Fri Mar 25 02:36:46 +0000 2016| user = Projectesporte| text = RT @Brasil2016: Min. Marcelo Castro pode dar uma conferida na estrutura onde os atletas ficarão hospedados durante os Jogos #Rio2016 https:…
+date = Fri Mar 25 02:32:08 +0000 2016| user = AldoDivingMex| text = RT @Brasil2016: Estamos no Parque Olímpico para mostrar para vocês a vista privilegiada das instalações #Rio2016 #SomosTodosBrasil https://…
+date = Fri Mar 25 02:06:52 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Melhor jogador argentino, @chinosimonet se contunde e deve ficar de fora do @Rio2016 https://t.co/PwMw8TarPv https://t.c…
+date = Fri Mar 25 02:05:57 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Colômbia e EUA começam a decidir a última vaga do futebol masculino no @Rio2016 https://t.co/UqLbAScwvm https://t.co/imJ…
+date = Fri Mar 25 02:05:50 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Ginasta coreano campeão no Salto da Ginástica em Londres 2012 pode ficar de fora do @Rio2016 https://t.co/0JW16lTZSL htt…
+date = Fri Mar 25 02:05:37 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: .@manuginobili decide se colocar a disposição para jogar o @Rio2016 https://t.co/nMkpjHfumA https://t.co/9DPx3U51hN
+date = Fri Mar 25 02:05:33 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto..Cancelado o evento-teste do ciclismo de pista para o @Rio2016 https://t.co/YtvazqRbhs https://t.co/Y…
+date = Fri Mar 25 02:03:09 +0000 2016| user = SurtoOlimpico| text = Melhor jogador argentino, @chinosimonet se contunde e deve ficar de fora do @Rio2016 https://t.co/PwMw8TarPv https://t.co/6ssrRDKKez
+date = Fri Mar 25 01:56:07 +0000 2016| user = SurtoOlimpico| text = Colômbia e EUA começam a decidir a última vaga do futebol masculino no @Rio2016 https://t.co/UqLbAScwvm https://t.co/imJogQy0p4
+date = Fri Mar 25 01:54:38 +0000 2016| user = SurtoOlimpico| text = Ginasta coreano campeão no Salto da Ginástica em Londres 2012 pode ficar de fora do @Rio2016 https://t.co/0JW16lTZSL https://t.co/LO1dza48Lk
+date = Fri Mar 25 01:51:46 +0000 2016| user = Pipegnazzo0| text = RT @AugustSagasti: Pão de açúcar #RIO2016 #PanDeAzucar #VuelveLuis #Copacabana @ Pan De Azucar Rio De Janeiro Brazil https://t.co/kmny9RuOh7
+date = Fri Mar 25 01:51:03 +0000 2016| user = SurtoOlimpico| text = .@manuginobili decide se colocar a disposição para jogar o @Rio2016 https://t.co/nMkpjHfumA https://t.co/9DPx3U51hN
+date = Fri Mar 25 01:50:26 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto..Cancelado o evento-teste do ciclismo de pista para o @Rio2016 https://t.co/YtvazqRbhs https://t.co/YOrPibEnp6
+date = Fri Mar 25 01:46:48 +0000 2016| user = 775fd3669e774f6| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:36:20 +0000 2016| user = AugustSagasti| text = Pão de açúcar #RIO2016 #PanDeAzucar #VuelveLuis #Copacabana @ Pan De Azucar Rio De Janeiro Brazil https://t.co/kmny9RuOh7
+date = Fri Mar 25 01:24:51 +0000 2016| user = GABIHERMES| text = Agora vamos d pedal? https://t.co/kc7ZF8bnox #bikegirl #riding #cycling #ciclists e o velódromo...afe! #Rio2016 https://t.co/xnhucYgaf7
+date = Fri Mar 25 01:14:03 +0000 2016| user = adria_oli| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:10:58 +0000 2016| user = luucia_oliveira| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:06:31 +0000 2016| user = beatrizmslima| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:06:28 +0000 2016| user = laisstefaniak| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:05:45 +0000 2016| user = carladenise18| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:05:42 +0000 2016| user = MaristelaPeris| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:05:38 +0000 2016| user = Silvia_Helena14| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:05:27 +0000 2016| user = carla_fatima| text = RT @femedeirostt: Apresentando o #CulturaDePonta com o @pedroscooby e o #MacosViniciusFreire do @Rio2016  @AfroReggae https://t.co/fJhQ35vD…
+date = Fri Mar 25 01:05:03 +0000 2016| user = soniainacio1952| text = @femedeirostt @pedroscooby @Rio2016 @AfroReggae  só orgulho de você Fe 👊👊👊👊😍😍😍😍

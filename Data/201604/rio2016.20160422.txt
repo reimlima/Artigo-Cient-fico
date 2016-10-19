@@ -1,0 +1,931 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Fri Apr 22 03:03:21 +0000 2016| user = EmersonDaviB| text = RT @CaosNoRio: RT AlexFerreiraRio: CaosNoRio rioprefeitura Rio2016 um fisco! Cara mídia internacional... O Brasil está um lixo! Aqui o o Go…
+date = Fri Apr 22 03:01:16 +0000 2016| user = jcnovaesrio| text = #Rio2016 #CidadeOlimpica #LavaJatoRJ
+
+A culpa foi do mar? https://t.co/XsbPqFeJFd
+date = Fri Apr 22 02:53:35 +0000 2016| user = Picharillo77| text = Disparos em tentativa de assalto na zona sul do Rio deixam três feridos https://t.co/uwHuE58fjs Sejam Bem-vindos ao aprazível RJ #Rio2016 !!
+date = Fri Apr 22 02:52:47 +0000 2016| user = pilotourbano| text = RT @LidiaCardoso: 45 milhões por aquilo. Milhões  gastos em obras mal planejadas q fazem a alegria das empreiteiras. São uns canalhas. Sórd…
+date = Fri Apr 22 02:51:12 +0000 2016| user = elainerff| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Fri Apr 22 02:47:30 +0000 2016| user = AldemJohnston| text = RT @JamilChade: Rio2016: informe confidencial de 18.04 diz que segurança de atletas é ameaçada com apagão. Motivo: falta de grana. https://…
+date = Fri Apr 22 02:42:04 +0000 2016| user = LidiaCardoso| text = 45 milhões por aquilo. Milhões  gastos em obras mal planejadas q fazem a alegria das empreiteiras. São uns canalhas. Sórdidos. #Rio2016
+date = Fri Apr 22 02:40:58 +0000 2016| user = thiagomorelatto| text = Vai #NataliaGaudio ao som de #OswaldoMontenegro #Rio2016 #OlympicGames2016 #Bandolins https://t.co/4uOBlGciAp
+date = Fri Apr 22 02:40:14 +0000 2016| user = CarlaPola| text = RT @raphaelscostarj: @CarlaPola ...dizem q é p/ @Rio2016, mas é mentira! Isso serve p/ mascarar o assalto aos cofres públicos q @eduardopae…
+date = Fri Apr 22 02:37:32 +0000 2016| user = GKellyGBernardo| text = Ciclovia desaba em São Conrado https://t.co/luC0WkC84j #foto #photo #Bike #RIO2016
+date = Fri Apr 22 02:35:03 +0000 2016| user = raphaelscostarj| text = @CarlaPola ...dizem q é p/ @Rio2016, mas é mentira! Isso serve p/ mascarar o assalto aos cofres públicos q @eduardopaes_ e sua quadrilha...
+date = Fri Apr 22 02:34:20 +0000 2016| user = cidade_maravilh| text = RT @Mitty2011: #ciclovia 🚴 #cicloviaTimMaia  #RiodeJaneiro #Luto #RioFalido #Olimpiadas2016 
+#Rio2016 44,7 Milhões #Odebrecht https://t.co/…
+date = Fri Apr 22 02:32:35 +0000 2016| user = GKellyGBernardo| text = Parte de ciclovia desaba em São Conrado #RIO2016 #RioJO2016
+https://t.co/OOmP7Dh9wq via @jornalodia
+date = Fri Apr 22 02:31:35 +0000 2016| user = Mitty2011| text = #ciclovia 🚴 #cicloviaTimMaia  #RiodeJaneiro #Luto #RioFalido #Olimpiadas2016 
+#Rio2016 44,7 Milhões #Odebrecht https://t.co/mc1n82obPA
+date = Fri Apr 22 02:27:48 +0000 2016| user = fernanda172| text = #Rio2016 #Prince esquece!!!!demais sad  #sad  #triuste  
+
+XÔ MULHER FEIA https://t.co/zQA43d526k
+date = Fri Apr 22 02:23:28 +0000 2016| user = esportegestao| text = RT @SurtoOlimpico: Destaques do Surto...A @iaaforg define data para decidir o atletismo da Rússia no @Rio2016 https://t.co/gzgZlZipEC https…
+date = Fri Apr 22 02:23:16 +0000 2016| user = anagalvamorim| text = RT @lec_amorim: Ontem cai teto do hospital Rocha Faria, hoje vai ciclovia. @Rio2016 caindo aos poucos . A população no seu martírio diário
+date = Fri Apr 22 02:22:44 +0000 2016| user = AlvesBinhosouza| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Fri Apr 22 02:21:59 +0000 2016| user = esportegestao| text = RT @SurtoOlimpico: Definidos os potes do sorteio do torneio de Handebol do @Rio2016 https://t.co/bbbD0gJOWh https://t.co/Ni4mDLqqQB
+date = Fri Apr 22 02:21:42 +0000 2016| user = esportegestao| text = RT @SurtoOlimpico: Foi acesa na Grécia a chama Olímpica do @Rio2016 https://t.co/lcYb4XWze9 https://t.co/fewv7K0Obr
+date = Fri Apr 22 02:20:05 +0000 2016| user = Blinda_Brasil| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 02:18:21 +0000 2016| user = edwinfer7| text = RT @EstelaFarah: Magno leva a camisa de mais combativo do dia!!! 🇧🇷🏆 #GdTM #socialpeloton #Rio2016 #cbc… https://t.co/04EOWLxNcP
+date = Fri Apr 22 02:17:01 +0000 2016| user = NataliaB_SCCP| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Fri Apr 22 02:10:08 +0000 2016| user = julianalisboa| text = RT @SurtoOlimpico: Foi acesa na Grécia a chama Olímpica do @Rio2016 https://t.co/lcYb4XWze9 https://t.co/fewv7K0Obr
+date = Fri Apr 22 02:10:06 +0000 2016| user = AmsVasconcelos| text = RT @SurtoOlimpico: Foi acesa na Grécia a chama Olímpica do @Rio2016 https://t.co/lcYb4XWze9 https://t.co/fewv7K0Obr
+date = Fri Apr 22 02:08:24 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Definidos os potes do sorteio do torneio de Handebol do @Rio2016 https://t.co/bbbD0gJOWh https://t.co/Ni4mDLqqQB
+date = Fri Apr 22 02:07:56 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A Grã-Bretanha anuncia equipe de natação para o @Rio2016 https://t.co/hgidf0ekqY https://t.co/F9T5sH8Rpe
+date = Fri Apr 22 02:07:53 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: .@FCBarcelona libera Neymar para o @Rio2016 https://t.co/5HBbbnFA6D https://t.co/jtoLZrG2wk
+date = Fri Apr 22 02:07:43 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Foi acesa na Grécia a chama Olímpica do @Rio2016 https://t.co/lcYb4XWze9 https://t.co/fewv7K0Obr
+date = Fri Apr 22 02:07:39 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...A @iaaforg define data para decidir o atletismo da Rússia no @Rio2016 https://t.co/gzgZlZipEC https…
+date = Fri Apr 22 02:04:02 +0000 2016| user = Gaviao_SCCP| text = O saldo dessa tragédia,foram dois mortos e uma pessoa desaparecida.E olhe que os jogos @Rio2016 tá bem pertinho,em Agosto.
+date = Fri Apr 22 02:03:18 +0000 2016| user = SurtoOlimpico| text = Definidos os potes do sorteio do torneio de Handebol do @Rio2016 https://t.co/bbbD0gJOWh https://t.co/Ni4mDLqqQB
+date = Fri Apr 22 02:03:12 +0000 2016| user = raphaelscostarj| text = #Rio2016 Tocha olímpica inicia viagem ao Rio, e COI cita crise no Brasil https://t.co/UqXRtiSYrT
+date = Fri Apr 22 02:01:42 +0000 2016| user = MariRock1000| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 01:56:54 +0000 2016| user = SurtoOlimpico| text = A Grã-Bretanha anuncia equipe de natação para o @Rio2016 https://t.co/hgidf0ekqY https://t.co/F9T5sH8Rpe
+date = Fri Apr 22 01:56:39 +0000 2016| user = herbert_miranda| text = RT @bbcbrasil: #RIO2016 O bicampeão olímpico de vôlei Giovane é o 1º brasileiro a carregar Tocha Olímpica, em Olímpia, na Grécia. https://t…
+date = Fri Apr 22 01:56:18 +0000 2016| user = contentecontent| text = Rio de Janeiro : bosta metidinha com a calça arreada e cara de chiclete mastigado.
+#ciclovia #Rio2016 #compartilhearte #ArteRio ...tudo.
+date = Fri Apr 22 01:55:56 +0000 2016| user = SurtoOlimpico| text = .@FCBarcelona libera Neymar para o @Rio2016 https://t.co/5HBbbnFA6D https://t.co/jtoLZrG2wk
+date = Fri Apr 22 01:54:36 +0000 2016| user = SurtoOlimpico| text = Foi acesa na Grécia a chama Olímpica do @Rio2016 https://t.co/lcYb4XWze9 https://t.co/fewv7K0Obr
+date = Fri Apr 22 01:52:47 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...A @iaaforg define data para decidir o atletismo da Rússia no @Rio2016 https://t.co/gzgZlZipEC https://t.co/N6sfB17qJy
+date = Fri Apr 22 01:52:40 +0000 2016| user = Soraiaferraz2| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 01:51:50 +0000 2016| user = Kitri1| text = RT @Rio2016: O estádio Panathinaiko fica em Atenas e é onde ocorreram os primeiros Jogos da era moderna, em 1896. #TochaOlímpica https://t.…
+date = Fri Apr 22 01:51:24 +0000 2016| user = Kitri1| text = RT @Rio2016: A pira da #TochaOlímpica é acesa de forma natural, com um raio de sol convertido através de um espelho côncavo. https://t.co/p…
+date = Fri Apr 22 01:50:50 +0000 2016| user = Kitri1| text = RT @Rio2016: Giovane é o 1º condutor brasileiro do nosso revezamento! #TochaOlímpica muito bem conduzida! 🔥 📷: André Luiz Mello https://t.c…
+date = Fri Apr 22 01:50:29 +0000 2016| user = Kitri1| text = RT @Rio2016: Novos ingressos para as #Cerimônias e o #Atletismo disponíveis! https://t.co/VKwh5Vcr0m https://t.co/RpUwMxGZEt
+date = Fri Apr 22 01:49:16 +0000 2016| user = Kitri1| text = RT @Rio2016: Melhores momentos do acendimento da #TochaOlímpica 🔥! Mais 📷 de André Luiz Mello : https://t.co/wsa1CjTcsX https://t.co/EOgEgp…
+date = Fri Apr 22 01:46:45 +0000 2016| user = PIB_BRASIL| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 01:39:51 +0000 2016| user = Grazzi_Brasil| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 01:39:47 +0000 2016| user = CaosNoRio| text = RT AlexFerreiraRio: CaosNoRio rioprefeitura Rio2016 um fisco! Cara mídia internacional... O Brasil está um lixo! Aqui o o Golpe é pagar imp…
+date = Fri Apr 22 01:39:11 +0000 2016| user = paulorjcarvalho| text = #rio2016 @miltonneves após tanta corrupção, obras superfaturadas, etc... , esse é o sentimento dos cariocas hoje. https://t.co/6bbaN7oS1I
+date = Fri Apr 22 01:38:26 +0000 2016| user = alexandreatp| text = RT @exercitooficial: Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https:…
+date = Fri Apr 22 01:30:33 +0000 2016| user = edvaldomartin| text = Dinheiro de lavado de sangue de brasileiros. https://t.co/XHDBKX0YaW
+date = Fri Apr 22 01:29:27 +0000 2016| user = evelinha__| text = RT @Leo_Alli: Ciclovia do Paes... "foi só uma marolinha" Né não, @dilmabr ?
+#RioDeJaneiro
+#Rio2016
+#RioWaters https://t.co/QGAyGJOlbi
+date = Fri Apr 22 01:28:43 +0000 2016| user = cidade_maravilh| text = RT @jorgepaulovaz: Isto porque ficaria como legado olímpico. Lamentável!!! #CidadeOlimpica #Rio2016 #riodejaneiro https://t.co/V9s15Q9vyh
+date = Fri Apr 22 01:26:49 +0000 2016| user = angelaratkie| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Fri Apr 22 01:25:20 +0000 2016| user = DUDU_BR45IL| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 01:23:30 +0000 2016| user = annaalves2010| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Fri Apr 22 01:22:51 +0000 2016| user = rfochacon| text = Galera, n importa o q fez a onda ficar mais violenta, isso teria q ser previsto... Agora sabem os motivos. #acordaBrasil #Rio2016
+date = Fri Apr 22 01:22:10 +0000 2016| user = kimkavalera| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 01:21:54 +0000 2016| user = GKellyGBernardo| text = Três pessoas são baleadas durante assalto em Ipanema, Zona Sul do Rio  https://t.co/6pCW8HvXLZ #RIO2016 #JO2016
+date = Fri Apr 22 01:19:17 +0000 2016| user = LARACR0FT| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 01:18:36 +0000 2016| user = AlexFerreiraRio| text = @CaosNoRio @rioprefeitura @Rio2016 um fisco! Cara mídia internacional... O Brasil está um lixo! Aqui o o Golpe é pagar impostos!
+date = Fri Apr 22 01:17:42 +0000 2016| user = jorgepaulovaz| text = Isto porque ficaria como legado olímpico. Lamentável!!! #CidadeOlimpica #Rio2016 #riodejaneiro https://t.co/V9s15Q9vyh
+date = Fri Apr 22 01:15:06 +0000 2016| user = aguuvi| text = Obrigada! 👏 #evs #somostodosevs #aquecerio #rio2016 @ HSBC ARENA - Barra da Tijuca, RJ https://t.co/SCDQw7Nhp3
+date = Fri Apr 22 01:14:11 +0000 2016| user = kelykardashian| text = RT @Mari_Kali: Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um des…
+date = Fri Apr 22 01:13:01 +0000 2016| user = monidibb| text = RT @AlexFerreiraRio: @NosTrendsBrasil @rioprefeitura É um lixo como seu Prefeito Paspalhão! @eduardopaes_ Rio entregue aos caos @Rio2016 Ca…
+date = Fri Apr 22 01:08:49 +0000 2016| user = ItaloNegromonte| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Fri Apr 22 01:06:19 +0000 2016| user = gustavo_nicolau| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Fri Apr 22 01:04:42 +0000 2016| user = _Lavoisier| text = Vídeo mostra momento do desabamento de ciclovia olimpica no Rio de Janeiro https://t.co/fhRIPh8Yon #Rio2016  #rio2016torch #rioolympics
+date = Fri Apr 22 01:03:25 +0000 2016| user = yurimaniac25| text = RT @Rio2016: A pira da #TochaOlímpica é acesa de forma natural, com um raio de sol convertido através de um espelho côncavo. https://t.co/p…
+date = Fri Apr 22 01:01:30 +0000 2016| user = BrunnoHard| text = Óbvio que NINGUÉÉÉÉÉÉM será punido pela queda da ciclovia no Rio de Janeiro. Até hoje, Mariana está debaixo da Lama! #Rio2016
+date = Fri Apr 22 01:00:52 +0000 2016| user = rosamariaferr10| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Fri Apr 22 00:57:04 +0000 2016| user = terezinhadefa13| text = @portalbrasil @Rio2016 @YouTube achei Emocionante
+date = Fri Apr 22 00:54:52 +0000 2016| user = flaviomac| text = RT @cpboficial: Os #guerreiros paralímpicos estão preparados para a batalha. E vcs? Preparados para torcer? #TEMQUEIR @Rio2016
+https://t.co…
+date = Fri Apr 22 00:49:55 +0000 2016| user = sfcdjalmasantos| text = #Rio2016
+
+Olím piadas   https://t.co/dPFlDBrHha
+date = Fri Apr 22 00:49:52 +0000 2016| user = ReginaldoLimaBa| text = Queda de ciclovia faz imprensa estrangeira questionar RJ como sede olímpica https://t.co/0S20QfW1k0 via @UOLEsporte #Rio2016
+date = Fri Apr 22 00:49:45 +0000 2016| user = agenciauva| text = Novas provas de #TiroEsportivo foram disputadas, no evento-teste dos jogos #Rio2016: https://t.co/2JZkhnyuiG https://t.co/QB7iNEd5l0
+date = Fri Apr 22 00:48:43 +0000 2016| user = thidemelo| text = Para as obras das olimpíadas serem destruídas nem precisou do Estado Islâmico atacar.
+
+#rio
+#Rio2016
+date = Fri Apr 22 00:47:12 +0000 2016| user = BolaNaCanela| text = Bela imagem para o Rio2016 https://t.co/YgiNkHFxdC
+date = Fri Apr 22 00:47:05 +0000 2016| user = casa_dos_pobres| text = RT @TVNBR: #EspecialTochaRio2016: Tocha olímpica passará pela Chapada dos Guimarães e o #Pantanal antes dos Jogos #Rio2016
+https://t.co/Z15…
+date = Fri Apr 22 00:46:45 +0000 2016| user = GBSBarbosa19| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Fri Apr 22 00:46:06 +0000 2016| user = coimbramariap| text = RT @TVNBR: #EspecialTochaRio2016: Tocha olímpica passará pela Chapada dos Guimarães e o #Pantanal antes dos Jogos #Rio2016
+https://t.co/Z15…
+date = Fri Apr 22 00:44:46 +0000 2016| user = cidade_maravilh| text = RT @Phe_Verissimo: Já podem cancelar as olimpíadas né! 
+#Rio2016 #riodejaneiro #VERGONHA https://t.co/d4iy7ZOM5Q
+date = Fri Apr 22 00:44:43 +0000 2016| user = CastroGabryel| text = Come/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+çamos o dia com o acendimento da tocha olímpica e olha o que fizeram com a primeira ciclovia do Rio! #Rio2016 https://t.co/qrKExLFl9U
+date = Fri Apr 22 00:43:02 +0000 2016| user = fabiofm2000| text = Infelizmente nosso legado olímpico já começa marcado. Não importa o que aconteça, duas pessoas morreram hoje. @CidadeOlimpica @Rio2016
+date = Fri Apr 22 00:41:33 +0000 2016| user = LuizDoreaJr| text = RT @timebrasil: Robenílson defenderá o #TimeBrasil nos ringues durante os Jogos Olímpicos @Rio2016. Vamos torcer? https://t.co/ZkcjpWM5WA
+date = Fri Apr 22 00:41:02 +0000 2016| user = danielazcovizi| text = RT @bbcbrasil: #RIO2016 O bicampeão olímpico de vôlei Giovane é o 1º brasileiro a carregar Tocha Olímpica, em Olímpia, na Grécia. https://t…
+date = Fri Apr 22 00:39:38 +0000 2016| user = Phe_Verissimo| text = Já podem cancelar as olimpíadas né! 
+#Rio2016 #riodejaneiro #VERGONHA https://t.co/d4iy7ZOM5Q
+date = Fri Apr 22 00:35:07 +0000 2016| user = Alagenor| text = RT @ERickenbackerRJ: Brother, parece puxadinho de favela. Compartilhe essa obra feita com os nossos 45 milhões.  #Niemeyer #Rio2016 https:/…
+date = Fri Apr 22 00:35:03 +0000 2016| user = Alagenor| text = RT @Brasil2016: 🇬🇷 Com a chama olímpica acesa, tem início o #TourDaTocha rumo aos Jogos do #Rio2016: https://t.co/ISmC92PVVH https://t.co/2…
+date = Fri Apr 22 00:34:54 +0000 2016| user = Alagenor| text = RT @joaopaulom: O #JN está no ar mostrando as obras da corrupção matando como nunca antes no país das olimpíadas. #Rio2016
+date = Fri Apr 22 00:34:43 +0000 2016| user = Alagenor| text = RT @exercitooficial: Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https:…
+date = Fri Apr 22 00:34:35 +0000 2016| user = Alagenor| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Fri Apr 22 00:33:16 +0000 2016| user = JoseAloiseBahia| text = RT @portalbrasil: O #TourDaTocha começou! 🔥🇧🇷🎉😍💚💛 https://t.co/LLJwXvRLSF
+date = Fri Apr 22 00:33:05 +0000 2016| user = tom_bike| text = Vídeo do momento exato em que onda destrói parte da #ciclovia Tim Maia no Rio de Janeiro https://t.co/3iRhIWudTK #vadebike #Rio2016
+date = Fri Apr 22 00:30:45 +0000 2016| user = RolandDavi| text = Rede Globo dará férias a várias atrações durantes os Jogos Olímpicos #Rio2016 https://t.co/653VcLN12m https://t.co/xQHCUn5D1X
+date = Fri Apr 22 00:29:01 +0000 2016| user = BailaSG| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Fri Apr 22 00:28:55 +0000 2016| user = AlinePiKenna| text = Chama Olimpíca!!  😍🎉🔥 
+#TimeRio2016 #Rio2016
+date = Fri Apr 22 00:28:50 +0000 2016| user = Havreck| text = RT @donaervilha: A construtora da ciclovia é da família do Secretário de TURISMO do Rio... #Rio2016 https://t.co/jFDKj591yy
+date = Fri Apr 22 00:28:31 +0000 2016| user = eduWHO| text = Sou especialista em atochar na Grécia. #olimpiadas #Rio2016 #OlympicFlame
+date = Fri Apr 22 00:28:22 +0000 2016| user = tvfloripa| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Fri Apr 22 00:28:07 +0000 2016| user = caitomainier| text = RT @donaervilha: A construtora da ciclovia é da família do Secretário de TURISMO do Rio... #Rio2016 https://t.co/jFDKj591yy
+date = Fri Apr 22 00:28:00 +0000 2016| user = sergiobrother1| text = #Rio2016 "Rio de Luto" faltam 116 dias. #tragédia #estoupreocupado
+date = Fri Apr 22 00:27:35 +0000 2016| user = RicardoRoquetti| text = RT @azevedotc: @TatahPaulista @ChamaOlimpica @Rio2016 eu entendo a sua empolgação, Como diz @Jacken_River país subdesenvolvido não pode ter…
+date = Fri Apr 22 00:27:25 +0000 2016| user = clar__| text = Admito que eu vivo torcendo pra essa chama olímpica apagar. #Rio2016
+date = Fri Apr 22 00:26:58 +0000 2016| user = PalmeiraBeatriz| text = São tantas doenças novas que já estou com medo da nova que virá depois das olimpíadas. #Rio2016
+date = Fri Apr 22 00:26:54 +0000 2016| user = taprates| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Fri Apr 22 00:25:44 +0000 2016| user = donaervilha| text = A construtora da ciclovia é da família do Secretário de TURISMO do Rio... #Rio2016 https://t.co/jFDKj591yy
+date = Fri Apr 22 00:24:54 +0000 2016| user = Leo_Balmant| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Fri Apr 22 00:24:32 +0000 2016| user = StefaneTef| text = RT @TurismoPalmas: A Tocha Olímpica já foi acesa na Grécia, e no dia 11 de junho ela chegará aqui na Capital.
+#TourDaTocha #Rio2016 https:/…
+date = Fri Apr 22 00:23:03 +0000 2016| user = digestivo| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Fri Apr 22 00:17:08 +0000 2016| user = andreacartaxo| text = RT @Brasil2016: "Vaga garantida em 2016", é o q diz a camisa dessa turma, q tem nossa torcida garantida no #Rio2016! @CBDAoficial https://t…
+date = Fri Apr 22 00:16:49 +0000 2016| user = mkfg0914| text = RT @Brasil2016: "Vaga garantida em 2016", é o q diz a camisa dessa turma, q tem nossa torcida garantida no #Rio2016! @CBDAoficial https://t…
+date = Fri Apr 22 00:16:21 +0000 2016| user = Clemins_junior| text = RT @timebrasil: Jonathan Riekmann, da marcha atlética, tem índice para @Rio2016 na marcha atlética. Cadê a sua torcida? https://t.co/nEzXlD…
+date = Fri Apr 22 00:15:19 +0000 2016| user = LOVELY_DDOG| text = #Rio2016
+Olha o clima da cidade. https://t.co/sLszX2GiKZ
+date = Fri Apr 22 00:15:12 +0000 2016| user = josecarlos8917| text = RT @Hortencia: Começou a corrida da tocha Olímpica #rio2016 nas mãos do nosso bi campeão olímpico Giovani Gávio. 🔥🔥🔥🔥🇧🇷 https://t.co/5sL0AX…
+date = Fri Apr 22 00:14:19 +0000 2016| user = ribeiroivanir| text = RT @exercitooficial: Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https:…
+date = Fri Apr 22 00:13:53 +0000 2016| user = cleicar2000| text = RT @carlosreboucasj: @eduardopaes_ VERGONHA!!! @Rio2016_en @Rio2016 @rio2016_es Sem segurança, com zika, chikungunya, dengue, H1N1, H3N3 e…
+date = Fri Apr 22 00:13:12 +0000 2016| user = Clemins_junior| text = RT @Rio2016: Hj tem sorteio de grupos do #BasqueteEmCR! 🏀 Acompanhem com a gente a partir de 10h! Não dá pra explicar, #TemQueIr https://t.…
+date = Fri Apr 22 00:13:04 +0000 2016| user = GuilhermeDicosi| text = @Hermes_Paris É A SELARIA OFICIAL DA EQUIPE OLÍMPICA BRASILEIRA: https://t.co/42lMDwQVXF #esporte #modamasculina #Rio2016 #Menstyle
+date = Fri Apr 22 00:12:56 +0000 2016| user = Clemins_junior| text = RT @Rio2016: Amanhã acontece o acendimento da #TochaOlímpica no Templo de Hera, na Grécia 🇬🇷 Acompanhe a partir de 6h da manhã! 🔥 https://t…
+date = Fri Apr 22 00:12:45 +0000 2016| user = Clemins_junior| text = RT @Rio2016: A #TochaOlímpica será acesa em Olímpia, palco dos Jogos na Antiguidade amanhã, a partir das 6h (hora de Brasília). https://t.c…
+date = Fri Apr 22 00:12:26 +0000 2016| user = Clemins_junior| text = RT @timebrasil: Gilda Oliveira vestirá a camisa do #TimeBrasil nos Jogos Olímpicos @Rio2016. Está na torcida? https://t.co/ge2tkNGpfr
+date = Fri Apr 22 00:11:57 +0000 2016| user = Clemins_junior| text = RT @Rio2016: Após a cerimônia de acendimento, na Grécia, a #TochaOlímpica segue para a sede do COI, em Lausanne, na Suíça. https://t.co/MiA…
+date = Fri Apr 22 00:11:51 +0000 2016| user = paty5757| text = RT @bbcbrasil: #RIO2016 O bicampeão olímpico de vôlei Giovane é o 1º brasileiro a carregar Tocha Olímpica, em Olímpia, na Grécia. https://t…
+date = Fri Apr 22 00:07:46 +0000 2016| user = skysupers| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Fri Apr 22 00:06:29 +0000 2016| user = juniorgdiogenes| text = @Rio2016 É vdd que o COB vai custear as passagens de todos os atletas estrangeiros na vinda para olimpíadas?!😱
+date = Fri Apr 22 00:05:45 +0000 2016| user = MaxieMaya| text = Tiroteio na Visconde! E depois dizem que há segurança na Zona Sul do Rio! ... Nem isso monamù! Nem isso!. #Rio2016
+date = Fri Apr 22 00:04:30 +0000 2016| user = renanpbs| text = Piedade do nosso Brasil.. tragédia no Rio, "guerra" na política, descontrole do Zika vírus.. #StopCoupInBrazil #Rio2016
+date = Fri Apr 22 00:03:51 +0000 2016| user = arancibiao| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Fri Apr 22 00:03:04 +0000 2016| user = claudaltro| text = #Rio2016 | Twitter anuncia açoes para os Jogos Olímpicos do Rio https://t.co/NFzscmeZmh
+date = Fri Apr 22 00:02:50 +0000 2016| user = _Lavoisier| text = Três pessoas são baleadas durante tentativa de assalto em bairro mais chic do Rio de Janeiro  https://t.co/2dHcgrsWQl #Rio2016  #rioolympics
+date = Fri Apr 22 00:00:58 +0000 2016| user = _reginasl| text = RT @IKEDA_: Custou qto mesmo?  R$11,3 MILHÕES cada KM!!! 
+
+Isso pq não existe corrupção e nem superfaturamento 
+
+#RIO2016
+ https://t.co/Z9X…
+date = Fri Apr 22 00:00:19 +0000 2016| user = nalapuri| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Thu Apr 21 23:59:29 +0000 2016| user = jvelascojr| text = RT @JogosOlimpicos: Momento em que o @giovanegavio recebeu a @chamaolimpica 🔥! #chamaolimpica @Rio2016
+https://t.co/DZPi0yqCk6
+date = Thu Apr 21 23:59:10 +0000 2016| user = Mari_Kali| text = Os cariocas não mereciam! 45MI por uma ciclovia de papel à beira do precipício é caso de polícia! O  governo do Rio é um desastre! #Rio2016
+date = Thu Apr 21 23:59:05 +0000 2016| user = gabrielcosta88| text = RT @ESPNagora: Entre os 10 mil atletas da Olimpíada, @neymarjr será o 8º mais rico no @Rio2016; VEJA LISTA: https://t.co/oLGlbUo4qC https:/…
+date = Thu Apr 21 23:58:57 +0000 2016| user = dededobrasil| text = RT @joaopaulom: Com as obras da corrupção o Estado Islâmico nem precisa se preocupar com o Brasil. É só deixar rolar. #Rio2016 https://t.co…
+date = Thu Apr 21 23:58:39 +0000 2016| user = dct_ihjc| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Thu Apr 21 23:58:04 +0000 2016| user = joaopaulom| text = Com as obras da corrupção o Estado Islâmico nem precisa se preocupar com o Brasil. É só deixar rolar. #Rio2016 https://t.co/j76qdQBzXQ
+date = Thu Apr 21 23:57:18 +0000 2016| user = Avan__RJ| text = @LeiSecaRJ @InformeRJO Legado Olímpico com risco de morte do carioca ficou normal! #Rio2016 na zona norte: https://t.co/CkKR9Q671M
+date = Thu Apr 21 23:56:27 +0000 2016| user = JuliemBueno| text = @ClaMendes pensei a mesma coisa, pois há anos sofremos com isso, triste! #olimpiadas #rio2016 #jeitinhobrasileiro #assassinatoolimpico
+date = Thu Apr 21 23:55:44 +0000 2016| user = Dudinhaborg| text = Eduardo Paes e Pedro Paulo, casal, a ciclovia caiu e matou gente! Vcs estão enrascados!
+#jornalNacional #cicloviaNiemeyer #Rio2016
+date = Thu Apr 21 23:54:04 +0000 2016| user = francisco_bh| text = RT @timebrasil: Robenílson defenderá o #TimeBrasil nos ringues durante os Jogos Olímpicos @Rio2016. Vamos torcer? https://t.co/ZkcjpWM5WA
+date = Thu Apr 21 23:53:24 +0000 2016| user = mairacflores| text = RT @joaopaulom: O #JN está no ar mostrando as obras da corrupção matando como nunca antes no país das olimpíadas. #Rio2016
+date = Thu Apr 21 23:52:24 +0000 2016| user = PandoraHates| text = Qm tá animado pras olimpíadas #Rio2016 ? Olimpíadas da corrupção e da morte. A vergonha já começa c/a festa d inauguração/escola pública.
+date = Thu Apr 21 23:52:20 +0000 2016| user = kleber_zonaro| text = RT @exercitooficial: Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https:…
+date = Thu Apr 21 23:52:14 +0000 2016| user = ManyCell| text = RT @exercitooficial: Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https:…
+date = Thu Apr 21 23:52:08 +0000 2016| user = heliodecao| text = As obras são super faturadas, de má qualidade e que só favorecem a empreiteiras com cartas marcadas #Niemeyer #Rio2016 #Brasildodescaso
+date = Thu Apr 21 23:51:04 +0000 2016| user = ArimateaSantos| text = Começou! Tocha Olímpica é acesa e traz herança milenar da Grécia ao Brasil https://t.co/P7piTzbmMc
+date = Thu Apr 21 23:50:58 +0000 2016| user = dricacamara| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 23:50:57 +0000 2016| user = exercitooficial| text = Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https://t.co/biKggLHyni
+date = Thu Apr 21 23:50:50 +0000 2016| user = eduardoriosOL| text = Primeiro legado das olimpíadas, duas mortes na ciclo via na avenida Niemeyer, no Rio de Janeiro. Parabéns @Rio2016 @eduardopaes_
+date = Thu Apr 21 23:50:46 +0000 2016| user = cleverqueiroz| text = RT @TVNBR: #EspecialTochaRio2016: Tocha olímpica passará pela Chapada dos Guimarães e o #Pantanal antes dos Jogos #Rio2016
+https://t.co/Z15…
+date = Thu Apr 21 23:48:06 +0000 2016| user = LuizaReisFoto| text = E assim terminou mais um dia de trabalho. 🙌🏻📷 #campoolimpicodegolfe #rio2016 #natgeo… https://t.co/nbDI0a0Cwr
+date = Thu Apr 21 23:47:29 +0000 2016| user = TVNBR| text = #EspecialTochaRio2016: Tocha olímpica passará pela Chapada dos Guimarães e o #Pantanal antes dos Jogos #Rio2016
+https://t.co/Z15unwhg3C
+date = Thu Apr 21 23:46:38 +0000 2016| user = leosabino| text = RT @Rio2016: A cerimônia de acendimento da #TochaOlímpica continua e tá maravilhosa! 🔥😍😍
+📷: André Luiz Mello https://t.co/2P1pJ39yUy
+date = Thu Apr 21 23:45:59 +0000 2016| user = Mkriiger| text = RT @Leo_Alli: Ciclovia do Paes... "foi só uma marolinha" Né não, @dilmabr ?
+#RioDeJaneiro
+#Rio2016
+#RioWaters https://t.co/QGAyGJOlbi
+date = Thu Apr 21 23:44:34 +0000 2016| user = Ana_palatinsky| text = RT @Rio2016: A pira da #TochaOlímpica é acesa de forma natural, com um raio de sol convertido através de um espelho côncavo. https://t.co/p…
+date = Thu Apr 21 23:43:56 +0000 2016| user = BearPax| text = RT @joaopaulom: O #JN está no ar mostrando as obras da corrupção matando como nunca antes no país das olimpíadas. #Rio2016
+date = Thu Apr 21 23:42:33 +0000 2016| user = _Rodrigo_Souza| text = Melhor programa de esportes: #rodadevolei seremos 4 ouros no Rio2016 #euacredito
+date = Thu Apr 21 23:42:22 +0000 2016| user = CaruMurad| text = RT @joaopaulom: O #JN está no ar mostrando as obras da corrupção matando como nunca antes no país das olimpíadas. #Rio2016
+date = Thu Apr 21 23:42:16 +0000 2016| user = vo2joacabavolei| text = Toda sorte do mundo pra esse time!!! #brasil #rio2016 #olympics #volleyball #beachvolley @volei… https://t.co/YPsxqwqFAW
+date = Thu Apr 21 23:42:13 +0000 2016| user = yeshualcb| text = @Rio2016 porque não tem App pra Windows Phone?
+date = Thu Apr 21 23:42:01 +0000 2016| user = Dorasil76578668| text = RT @laviniagondim: VEXAME DA RIO2016 JÁ COMEÇA NA GRÉCIA C/AUSÊNCIA TUMULTUADA DO PREF/RJ,P/DESABAMENTO DA CICLOVIA!FAZ OUTRA MAMBEMBE! htt…
+date = Thu Apr 21 23:41:38 +0000 2016| user = joaopaulom| text = O #JN está no ar mostrando as obras da corrupção matando como nunca antes no país das olimpíadas. #Rio2016
+date = Thu Apr 21 23:41:25 +0000 2016| user = laviniagondim| text = VEXAME DA RIO2016 JÁ COMEÇA NA GRÉCIA C/AUSÊNCIA TUMULTUADA DO PREF/RJ,P/DESABAMENTO DA CICLOVIA!FAZ OUTRA MAMBEMBE! https://t.co/Sr9KI4IxJp
+date = Thu Apr 21 23:40:59 +0000 2016| user = stsouza| text = RT @Leo_Alli: Ciclovia do Paes... "foi só uma marolinha" Né não, @dilmabr ?
+#RioDeJaneiro
+#Rio2016
+#RioWaters https://t.co/QGAyGJOlbi
+date = Thu Apr 21 23:40:14 +0000 2016| user = mischaa_27| text = RT @Brasil2016: "Vaga garantida em 2016", é o q diz a camisa dessa turma, q tem nossa torcida garantida no #Rio2016! @CBDAoficial https://t…
+date = Thu Apr 21 23:39:34 +0000 2016| user = __Factory__Girl| text = Essa minha capado face tha linda #Rio2016 #RumoAoTri
+date = Thu Apr 21 23:39:10 +0000 2016| user = retrocidinha| text = RT @Leo_Alli: Ciclovia do Paes... "foi só uma marolinha" Né não, @dilmabr ?
+#RioDeJaneiro
+#Rio2016
+#RioWaters https://t.co/QGAyGJOlbi
+date = Thu Apr 21 23:38:28 +0000 2016| user = bertabalinho| text = Berta:
+E os Jogos Olímpicos estão cada vez mais perto! A Tocha Olímpica já foi acesa! #rio2016 https://t.co/CYnjbENPzr
+date = Thu Apr 21 23:33:20 +0000 2016| user = edilenealvesfe1| text = @Telemundo @rio2016_es Ansiosa para que comece o espetáculo!
+date = Thu Apr 21 23:32:58 +0000 2016| user = carlosreboucasj| text = @eduardopaes_ VERGONHA!!! @Rio2016_en @Rio2016 @rio2016_es Sem segurança, com zika, chikungunya, dengue, H1N1, H3N3 e muita corrupção!!!
+date = Thu Apr 21 23:32:05 +0000 2016| user = vencendolafora| text = RT @TwitterBrasil: Agora você pode acompanhar a viagem da @ChamaOlimpica pelo 🌎  a caminho da @Rio2016: https://t.co/Y9aqPxYx6y https://t.c…
+date = Thu Apr 21 23:31:18 +0000 2016| user = FilipeCandiiido| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 23:29:26 +0000 2016| user = alo_sergipe| text = Twitter terá ônibus com Wi-Fi gratuito nas Olimpíadas do Rio. https://t.co/88Gw1GnCoi #Olimpíadas #Rio2016 #Twitter https://t.co/LsFrBAuT1Q
+date = Thu Apr 21 23:25:21 +0000 2016| user = SeuEsporteBR| text = Egito conquistou sua vaga para #Rio2016 vencendo o Continental Cup Africana de #vôleidepraia. Além do BR, é o único país garantido nos Jogos
+date = Thu Apr 21 23:24:31 +0000 2016| user = dorierc| text = Pois é. #Rio2016 #eleiçõesgerais #eleiçõesgerais2016 https://t.co/ishsNz73kx
+date = Thu Apr 21 23:24:13 +0000 2016| user = dois_min| text = Legado olímpico, ciclovia desaba no Rio de Janeiro após forte onda https://t.co/kcdZKutqGK
+date = Thu Apr 21 23:23:47 +0000 2016| user = CLAUDIAFGJ| text = RT @RGottino: Começa a caminhada olímpica!!! #Rio2016 https://t.co/JFVO8YEP3c
+date = Thu Apr 21 23:23:38 +0000 2016| user = CLAUDIAFGJ| text = RT @RGottino: Começa a caminhada olímpica!!! #rio2016 https://t.co/kMXCBjUQCA
+date = Thu Apr 21 23:21:41 +0000 2016| user = jorgemeb| text = RT @Rio2016: Melhores momentos do acendimento da #TochaOlímpica 🔥! Mais 📷 de André Luiz Mello : https://t.co/wsa1CjTcsX https://t.co/EOgEgp…
+date = Thu Apr 21 23:16:07 +0000 2016| user = cidade_maravilh| text = RT @AuriRodrigo: Relembrando o início do crime. 
+#riodejaneiro #Rio2016 https://t.co/O2VYtyOmJu
+date = Thu Apr 21 23:15:57 +0000 2016| user = biofajr| text = O único "LEGADO" vai ser as dívidas.
+#TochaOlimpica 
+#Rio2016 https://t.co/BPDOzOegz4
+date = Thu Apr 21 23:15:34 +0000 2016| user = aguiarlondon| text = RT @MovBConsciente: #ciclovia da morte de @eduardopaes_: https://t.co/44KJCEUlsI . #Olimpiadas2016 #Rio2016 @folha @veja @BlogDoPim https:/…
+date = Thu Apr 21 23:13:35 +0000 2016| user = saogoncalo_RJ| text = RT @timebrasil: Robenílson defenderá o #TimeBrasil nos ringues durante os Jogos Olímpicos @Rio2016. Vamos torcer? https://t.co/ZkcjpWM5WA
+date = Thu Apr 21 23:13:05 +0000 2016| user = _Lavoisier| text = Tragédia de ciclovia olímpica: com 2 mortes, buscas serão retomadas no Rio de Janeiro #G1 https://t.co/kuqrKQENDK #Rio2016  #rioolympics
+date = Thu Apr 21 23:11:27 +0000 2016| user = SeuEsporteBR| text = Lembrando que a brasileira Natália Gaudio já está classificada na ginástica rítmica para os @JogosOlimpicos #/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Rio2016 #Rhythmic
+date = Thu Apr 21 23:10:36 +0000 2016| user = llazzaro_lucia| text = RT @SergioAguiarGN: No dia do início do revezamento, a tocha olímpica já passou pelo #EmPauta!😀😀 #Rio2016 https://t.co/B0JJrBVgZv
+date = Thu Apr 21 23:08:15 +0000 2016| user = lucassc| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 23:08:13 +0000 2016| user = MicaAbbud| text = RT @Rio2016: O #TênisDeMesa esteve em todas as edições dos #JogosParalímpicos! ⚪
+Não dá pra explicar, #TemQueIr https://t.co/NmbVHSP7Ty
+date = Thu Apr 21 23:07:38 +0000 2016| user = tatidamasceno| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 23:07:29 +0000 2016| user = AuriRodrigo| text = Relembrando o início do crime. 
+#riodejaneiro #Rio2016 https://t.co/O2VYtyOmJu
+date = Thu Apr 21 23:07:26 +0000 2016| user = ronilsonsalg| text = RT @timebrasil: Robenílson defenderá o #TimeBrasil nos ringues durante os Jogos Olímpicos @Rio2016. Vamos torcer? https://t.co/ZkcjpWM5WA
+date = Thu Apr 21 23:06:00 +0000 2016| user = EduardodeSouzaB| text = RT @mkt_esportivo: Os reflexos da ausência de César Celo nos Jogos Rio2016. Oito empresas patrocinam o nadador. https://t.co/3mCx3zzxNO htt…
+date = Thu Apr 21 23:04:14 +0000 2016| user = joaopaulolucena| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 23:03:53 +0000 2016| user = AleSuniga| text = RT @portaljovempan: #Especial Cielo está fora, mas a natação brasileira está bem representada no #Rio2016: https://t.co/yXQsdKVDuz https://…
+date = Thu Apr 21 23:03:01 +0000 2016| user = alextremis| text = RT @Rio2016: Melhores momentos do acendimento da #TochaOlímpica 🔥! Mais 📷 de André Luiz Mello : https://t.co/wsa1CjTcsX https://t.co/EOgEgp…
+date = Thu Apr 21 23:02:54 +0000 2016| user = dois_min| text = Definidos os potes para o sorteio do handebol dos Jogos #Rio2016 e a Pira Olímpica é acessa https://t.co/psCS6xLt2y https://t.co/OodK8BVo3E
+date = Thu Apr 21 23:02:00 +0000 2016| user = gabispana| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 23:01:43 +0000 2016| user = liamnojao| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 23:01:04 +0000 2016| user = AloysioSsa| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 23:00:47 +0000 2016| user = timebrasil| text = Robenílson defenderá o #TimeBrasil nos ringues durante os Jogos Olímpicos @Rio2016. Vamos torcer? https://t.co/ZkcjpWM5WA
+date = Thu Apr 21 22:59:39 +0000 2016| user = alpha_compres| text = Karcher, fornecedora oficial das Olimpíadas Rio 2016
+
+#limpeza #karcher #rio2016 #alphacompressores https://t.co/yNHrlemS08
+date = Thu Apr 21 22:59:17 +0000 2016| user = evandrossR| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 22:59:16 +0000 2016| user = farquardi| text = @SakaSakamori @Fusca_Brasil @neusamandrade tragédia ciclovia #Rio2016 era prevista por quem conhece barateamento custou vidas cara de #dilma
+date = Thu Apr 21 22:59:06 +0000 2016| user = MovBConsciente| text = #ciclovia da morte de @eduardopaes_: https://t.co/44KJCEUlsI . #Olimpiadas2016 #Rio2016 @folha @veja @BlogDoPim https://t.co/UejyFDuEXr
+date = Thu Apr 21 22:58:45 +0000 2016| user = MarcosFranzao| text = RT @chrisshishiro: @dani0773 @MarcosFranzao @Tom_brz o viaduto atras tem quase 100 anos Explique-se Eduardo Paes #Rio2016
+date = Thu Apr 21 22:58:32 +0000 2016| user = VictorHugb| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 22:57:59 +0000 2016| user = MarcioHuser| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 22:57:48 +0000 2016| user = J_Alberto210565| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 22:57:43 +0000 2016| user = CleitonAbilio| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Thu Apr 21 22:57:41 +0000 2016| user = RogerBLSamuel| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 22:57:27 +0000 2016| user = flaviofachel| text = Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria capacidade. #Rio2016
+date = Thu Apr 21 22:57:25 +0000 2016| user = marcosrmata| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 22:56:07 +0000 2016| user = SleepingGiantBR| text = @carloslira2015 @antoniotabet Isso é resultado do esquema do PT/PMDB de superfaturamento de obras ligadas a Copa e #Rio2016
+date = Thu Apr 21 22:55:37 +0000 2016| user = joycecruz_sccp| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 22:54:48 +0000 2016| user = dilane_t| text = RT @SergioAguiarGN: No dia do início do revezamento, a tocha olímpica já passou pelo #EmPauta!😀😀 #Rio2016 https://t.co/B0JJrBVgZv
+date = Thu Apr 21 22:54:20 +0000 2016| user = chrisshishiro| text = @dani0773 @MarcosFranzao @Tom_brz o viaduto atras tem quase 100 anos Explique-se Eduardo Paes #Rio2016
+date = Thu Apr 21 22:53:55 +0000 2016| user = MarSouza15| text = RT @Corinthians: Mais #Timão no @Rio2016! Thiago Simon mantém índice nos 200m peito e participará da primeira olimpíada da carreira. https:…
+date = Thu Apr 21 22:53:21 +0000 2016| user = Bella_almd| text = RT @TwitterBrasil: A #TochaOlímpica foi acesa na Grécia e sua jornada rumo à @Rio2016 já começou. Veja pelo #Periscope https://t.co/1HmLBzt…
+date = Thu Apr 21 22:53:14 +0000 2016| user = MarSouza15| text = RT @Corinthians: Garantido no @Rio2016, Leonardo de Deus está na final dos 200m costas e pode confirmar mais um índice no #MariaLenk. https…
+date = Thu Apr 21 22:52:30 +0000 2016| user = educacao_rio| text = Salto em distância!
+#Rio2016
+@CNNEE @sabor809 @RaiTv @nhk_news @clarincom @lemondefr @ABC @telediario_tve
+¡Alcalde mató dos personas!
+date = Thu Apr 21 22:46:30 +0000 2016| user = _Lavoisier| text = The Guardian: tragédia em ciclovia prejudica credibilidade da segurança da Rio 2016 https://t.co/NRGLHURkzW  #Rio2016  #rioolympics
+date = Thu Apr 21 22:45:14 +0000 2016| user = CarlaGarciaMart| text = RT @Andrea_Ramal: Só quero ver quem vai ter coragem de passar de carro na duplicação do Elevado do Joá, quando inaugurar. #Rio2016 #SaoConr…
+date = Thu Apr 21 22:40:15 +0000 2016| user = marlaoblanco| text = @EstadaoEsporte @CesarCielo @Rio2016 Uma pena nosso maior nadador estar fora. Mas essa nova geração vem com força e apoio de Cielo.
+date = Thu Apr 21 22:39:41 +0000 2016| user = alexandradefoto| text = Vote na minha foto para ser a representante de Barra do Piraí nos jogos Olímpicos Rio 2016! https://t.co/pAolSMCZ5j
+date = Thu Apr 21 22:38:44 +0000 2016| user = paivallandro| text = RT @OGlobo_Esportes: Confederação descarta levar @CesarCielo como reserva para a #Rio2016 https://t.co/nmg2UfCxjc https://t.co/sitqoB3eDd
+date = Thu Apr 21 22:35:56 +0000 2016| user = LucimeireToyama| text = RT @alvarojosetv: Faltam 106 dias para os Jogos do #Rio2016 ..
+date = Thu Apr 21 22:33:46 +0000 2016| user = GRItaliana| text = https://t.co/1jojpvZgbS #VeronicaBertolini vola a #Rio2016 #TestEvent #ginnasticaritmica https://t.co/0Wm8Uj4Q6T
+date = Thu Apr 21 22:31:27 +0000 2016| user = RosanyCosta| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:30:35 +0000 2016| user = SiteLF| text = Aquecimento Olímpico: #Rugby Sevens || https://t.co/K88pptCy8U  || Por @ismahsantos e @cassinha_moura #Rio2016 https://t.co/u9mLIOW8JM
+date = Thu Apr 21 22:30:20 +0000 2016| user = portaljovempan| text = #Especial Cielo está fora, mas a natação brasileira está bem representada no #Rio2016: https://t.co/yXQsdKVDuz https://t.co/HvhCnqBQE7
+date = Thu Apr 21 22:29:39 +0000 2016| user = OGlobo_Esportes| text = Confederação descarta levar @CesarCielo como reserva para a #Rio2016 https://t.co/nmg2UfCxjc https://t.co/sitqoB3eDd
+date = Thu Apr 21 22:28:50 +0000 2016| user = jailtonpereira4| text = RT @EstadaoEsporte: CBDA define equipe e situação de @CesarCielo no @Rio2016. CONFIRA: https://t.co/RsO4DLXk0A https://t.co/YAbYhBCt37
+date = Thu Apr 21 22:28:25 +0000 2016| user = alvarojosetv| text = Faltam 106 dias para os Jogos do #Rio2016 ..
+date = Thu Apr 21 22:27:21 +0000 2016| user = London_Lady| text = RT @Brasil2016: A @natigaudio ficou em 17º, mas nos Jogos @Rio2016, vamos torcer pra que ela consiga um resultado ainda melhor! 🇧🇷 #BR2016
+date = Thu Apr 21 22:27:05 +0000 2016| user = aliciahi| text = Rio2016 vai ser loko, crise política, o mundo todo lá, segurança, terrorista
+date = Thu Apr 21 22:26:09 +0000 2016| user = EstadaoEsporte| text = CBDA define equipe e situação de @CesarCielo no @Rio2016. CONFIRA: https://t.co/RsO4DLXk0A https://t.co/YAbYhBCt37
+date = Thu Apr 21 22:25:23 +0000 2016| user = tdsrio| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:25:22 +0000 2016| user = chesterbs| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:23:21 +0000 2016| user = abdulalimuk| text = RT @Brasil2016: A @natigaudio ficou em 17º, mas nos Jogos @Rio2016, vamos torcer pra que ela consiga um resultado ainda melhor! 🇧🇷 #BR2016
+date = Thu Apr 21 22:21:23 +0000 2016| user = Brasil2016| text = A @natigaudio ficou em 17º, mas nos Jogos @Rio2016, vamos torcer pra que ela consiga um resultado ainda melhor! 🇧🇷 #BR2016
+date = Thu Apr 21 22:20:35 +0000 2016| user = silvamichel14| text = @MauroCezarESPN Gostaria de lembrar que rio2016 foi cancelada, do que lembrar dessa imagem. Sem medo de errar: corrupção mata! Eis o exemplo
+date = Thu Apr 21 22:19:45 +0000 2016| user = Kaamardiin| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 22:19:07 +0000 2016| user = MarSouza15| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 22:17:42 +0000 2016| user = jaywan1989| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 22:17:31 +0000 2016| user = luacris| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:16:38 +0000 2016| user = jaywan1989| text = RT @JogosOlimpicos: Olha só quem está com o passaporte @Rio2016 quase carimbado... @neymarjr ganhou sinal verde para os Jogos! ⚽ https://t.…
+date = Thu Apr 21 22:15:40 +0000 2016| user = tadeusajunior| text = Amanhã vai ser realizada a cerimônia de acendimento da Tocha Olímpica da #Rio2016! Faltam... https://t.co/PouholNH8N via @luizatrajano
+date = Thu Apr 21 22:14:57 +0000 2016| user = azevedotc| text = @TatahPaulista @ChamaOlimpica @Rio2016 eu entendo a sua empolgação, Como diz @Jacken_River país subdesenvolvido não pode ter olimpíadas!
+date = Thu Apr 21 22:13:37 +0000 2016| user = meuworldcaiu| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:13:19 +0000 2016| user = azevedotc| text = @TatahPaulista @ChamaOlimpica @Rio2016 e o que separa? A corrupção! Eu sou corredor de maratona isso que aconteceu a tocha não vai apagar!
+date = Thu Apr 21 22:12:32 +0000 2016| user = Amazonas| text = O Comitê Rio 2016 liberou hoje (21), às 12h, no site https://t.co/KYFCIK9JHK, novo volume de ingressos para ... https://t.co/NK0xx0xvAV
+date = Thu Apr 21 22:12:08 +0000 2016| user = RDSaraceno| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:11:59 +0000 2016| user = FamiliaemPauta| text = RT @SergioAguiarGN: No dia do início do revezamento, a tocha olímpica já passou pelo #EmPauta!😀😀 #Rio2016 https://t.co/B0JJrBVgZv
+date = Thu Apr 21 22:09:15 +0000 2016| user = TatahPaulista| text = @azevedotc @ChamaOlimpica @Rio2016  "A força que nos une é maior que aquilo que nos separa" #TochaOlimpica #Rio2016 https://t.co/9EqW5LXEsH
+date = Thu Apr 21 22:08:10 +0000 2016| user = ABFanGonzalez| text = RT @viniciusnatan: Um bom cafe e uma boa semana! #rio2016 #cafecomaromademulher #gaviotaquevoalonge #happy #hashtag https://t.co/aR5qA4OSjP
+date = Thu Apr 21 22:08:00 +0000 2016| user = brazilian_wave| text = Rio 2016 abre a venda de novos ingressos para ver Bolt e as cerimônias. https://t.co/somCKjuDUy
+date = Thu Apr 21 22:07:22 +0000 2016| user = OOOwal| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:07:15 +0000 2016| user = sandravcds1| text = RT @Andrea_Ramal: Só quero ver quem vai ter coragem de passar de carro na duplicação do Elevado do Joá, quando inaugurar. #Rio2016 #SaoConr…
+date = Thu Apr 21 22:06:50 +0000 2016| user = JP_ELELIOM| text = https://t.co/Vs0FG0y0Ba e de quem será as obras da #Rio2016 @leisecarj
+date = Thu Apr 21 22:06:32 +0000 2016| user = zoelileal| text = RT @GilsonRGrimes: São Conrado , o Eduardo Paes, a exemplo do Lula e por ser cachorrinho dele, já enfiou a tocha no c*? #RioOlympics2016 #R…
+date = Thu Apr 21 22:06:10 +0000 2016| user = CjIlha| text = 📢 @eduardopaes_ leva a tocha para acender as velas no funeral das vítimas de seu legado! @JogosOlimpicos @Rio2016 
+https://t.co/ptOTVdLQ2y
+date = Thu Apr 21 22:04:23 +0000 2016| user = rhebecore| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:03:29 +0000 2016| user = LuTaranto| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 22:00:06 +0000 2016| user = jeanprojetista| text = Acenderam a xota olímpica!!! #Rio2016 #Olimpiadas2016
+date = Thu Apr 21 21:56:50 +0000 2016| user = JoelSant| text = RT @bpmsports: O legado começou. Ciclovia desmorona e dois morrem. #ciclovia #Olimpiada2016 #Rio2016 #vaipiorar
+date = Thu Apr 21 21:56:42 +0000 2016| user = RaptorHawk| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:56:08 +0000 2016| user = esportegestao| text = RT @bbcbrasil: #RIO2016 O bicampeão olímpico de vôlei Giovane é o 1º brasileiro a carregar Tocha Olímpica, em Olímpia, na Grécia. https://t…
+date = Thu Apr 21 21:55:04 +0000 2016| user = Christian_Zini| text = RT @TurismoPalmas: A Tocha Olímpica já foi acesa na Grécia, e no dia 11 de junho ela chegará aqui na Capital.
+#TourDaTocha #Rio2016 https:/…
+date = Thu Apr 21 21:54:45 +0000 2016| user = mariovbl| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:54:41 +0000 2016| user = ViniciusMJusto| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:53:05 +0000 2016| user = boni_geek| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:53:03 +0000 2016| user = aarrio2016| text = Ingressos comprados para a final dos 200m Masculino do Atletismo dos jogos @Rio2016 vem #Bolt
+date = Thu Apr 21 21:51:32 +0000 2016| user = __j4na| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:51:16 +0000 2016| user = Jana_Oliveira84| text = RT @Rio2016: Melhores momentos do acendimento da #TochaOlímpica 🔥! Mais 📷 de André Luiz Mello : https://t.co/wsa1CjTcsX https://t.co/EOgEgp…
+date = Thu Apr 21 21:49:36 +0000 2016| user = dra_luluzita| text = RT @bbcbrasil: #RIO2016 O bicampeão olímpico de vôlei Giovane é o 1º brasileiro a carregar Tocha Olímpica, em Olímpia, na Grécia. https://t…
+date = Thu Apr 21 21:48:18 +0000 2016| user = Andrea_Ramal| text = Só quero ver quem vai ter coragem de passar de carro na duplicação do Elevado do Joá, quando inaugurar. #Rio2016 #SaoConrado #Ciclovia
+date = Thu Apr 21 21:48:01 +0000 2016| user = itapematv| text = Lamentável #rio2016 https://t.co/bicvxom9aA
+date = Thu Apr 21 21:47:17 +0000 2016| user = MaiconSouza_| text = Rio de Janeiro passando vergonha internacional. #tragédia #vergonha #cicloviatimmaia #rio2016… https://t.co/FmMww5MOGS
+date = Thu Apr 21 21:47:13 +0000 2016| user = MorganaMC| text = RT @brasilnorio: Tem ingressos para os 100m e 200m rasos lá no site oficial dos Jogos!
+Corre lá
+https://t.co/h1wZrcYHrN
+date = Thu Apr 21 21:46:52 +0000 2016| user = UsielRios| text = RT @esmaelmorais: Golpe atrapalha a Olimpíada #QuemTemCunhaTemMedo #Rio2016 #OMundoContraOGolpe https://t.co/6RAOj0baov https://t.co/x55Md4…
+date = Thu Apr 21 21:46:20 +0000 2016| user = cidade_maravilh| text = RT @CazuNinja: #RIO2016 #COPACABANA #CICLOVIA #CONCREMAT / #RESSACA  #FERIADAO
+     #CICLOVIA DA MORTE https://t.co/hl7qC6f7i3
+date = Thu Apr 21 21:46:13 +0000 2016| user = maripelomundo| text = RT @RaphinadasBlog: Hoje o 👻 Raphinadasblog vai estar no Instituto Moreira Salles do #rio2016 #riodejaneiro pelo 👻 @maripelomundo https://t…
+date = Thu Apr 21 21:45:08 +0000 2016| user = afagundes| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:45:02 +0000 2016| user = ueelisa| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:44:48 +0000 2016| user = barcellos_jr| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:44:23 +0000 2016| user = ratrovarelli| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:43:10 +0000 2016| user = apoIogeta| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:43:02 +0000 2016| user = matheusssenna| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+E/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+spancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:42:27 +0000 2016| user = bpmsports| text = O legado começou. Ciclovia desmorona e dois morrem. #ciclovia #Olimpiada2016 #Rio2016 #vaipiorar
+date = Thu Apr 21 21:41:41 +0000 2016| user = guscip02| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:40:59 +0000 2016| user = SampaioRules| text = RT @exercitooficial: Tropas do Exército fazem último evento-teste de segurança antes dos Jogos #Rio2016 https://t.co/fXRpqka3Jo
+date = Thu Apr 21 21:40:55 +0000 2016| user = GilsonRGrimes| text = São Conrado , o Eduardo Paes, a exemplo do Lula e por ser cachorrinho dele, já enfiou a tocha no c*? #RioOlympics2016 #Rio2016  #RJTV @g1rio
+date = Thu Apr 21 21:40:42 +0000 2016| user = MLF_MOREIRA| text = RT @brasilnorio: Tem ingressos para os 100m e 200m rasos lá no site oficial dos Jogos!
+Corre lá
+https://t.co/h1wZrcYHrN
+date = Thu Apr 21 21:40:09 +0000 2016| user = edilbertocdias| text = RT @jornal_opopular: Começou: tocha olímpica é acesa na Grécia. https://t.co/8hnoUFNqPr #TochaOlimpica #Olimpiada #Rio2016 https://t.co/538…
+date = Thu Apr 21 21:38:58 +0000 2016| user = giovanic| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:38:52 +0000 2016| user = andrecatapan| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:38:20 +0000 2016| user = CazuNinja| text = #RIO2016 #COPACABANA #CICLOVIA #CONCREMAT / #RESSACA  #FERIADAO
+     #CICLOVIA DA MORTE https://t.co/hl7qC6f7i3
+date = Thu Apr 21 21:37:42 +0000 2016| user = tatyts| text = Mais um evento maravilhoso com pessoas maravilhosas!! 💟 #aquecerio  #rio2016 #olympics… https://t.co/OJj86PmJrV
+date = Thu Apr 21 21:36:19 +0000 2016| user = josiel_dias| text = @marisascruz @KmPasso Desabamento d Ciclovia do RJ 3 meses 2 mortos 45 milhões Prefeito na Grécia Espancador é porta voz Vai Brasil #Rio2016
+date = Thu Apr 21 21:35:55 +0000 2016| user = arlencezar| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:35:50 +0000 2016| user = DiihSilva99| text = RT @MarceloCourrege: Será que a ciclovia da Niemeyer foi construída pelos mesmos gênios da construção civil do Engenhão? #Rio2016 https://t…
+date = Thu Apr 21 21:35:45 +0000 2016| user = josiel_dias| text = Desabamento da Ciclovia do RJ 3 meses 2 mortos 45 milhões Prefeito na Grécia Espancador é porta voz Vai Brasil #Rio2016
+date = Thu Apr 21 21:35:22 +0000 2016| user = behnovaesway| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 21:35:16 +0000 2016| user = cidade_maravilh| text = RT @RaphinadasBlog: Hoje o 👻 Raphinadasblog vai estar no Instituto Moreira Salles do #rio2016 #riodejaneiro pelo 👻 @maripelomundo https://t…
+date = Thu Apr 21 21:34:45 +0000 2016| user = vejaocentro| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:34:42 +0000 2016| user = brasildeovelhas| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:34:02 +0000 2016| user = thiagoeca| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:33:38 +0000 2016| user = TonhoDrinks| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:32:41 +0000 2016| user = Cibezane| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:32:13 +0000 2016| user = juliacypriano| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:31:57 +0000 2016| user = jcgwanderley| text = RT @SergioAguiarGN: No dia do início do revezamento, a tocha olímpica já passou pelo #EmPauta!😀😀 #Rio2016 https://t.co/B0JJrBVgZv
+date = Thu Apr 21 21:31:03 +0000 2016| user = ____JIMMY| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:30:58 +0000 2016| user = helnz| text = @OGlobo_Rio  o governo mandou lembranças para a segurança das obras Rio2016
+date = Thu Apr 21 21:30:51 +0000 2016| user = aragao_83| text = RT @brasilnorio: Tem ingressos para os 100m e 200m rasos lá no site oficial dos Jogos!
+Corre lá
+https://t.co/h1wZrcYHrN
+date = Thu Apr 21 21:30:45 +0000 2016| user = dragon_nay| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:30:04 +0000 2016| user = AnnaPSCorrea| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:30:02 +0000 2016| user = RaphinadasBlog| text = Hoje o 👻 Raphinadasblog vai estar no Instituto Moreira Salles do #rio2016 #riodejaneiro pelo 👻 @maripelomundo https://t.co/f40dCFWzq5
+date = Thu Apr 21 21:29:43 +0000 2016| user = evadiaze1| text = RT @Rio2016: A pira da #TochaOlímpica é acesa de forma natural, com um raio de sol convertido através de um espelho côncavo. https://t.co/p…
+date = Thu Apr 21 21:29:40 +0000 2016| user = brasilnorio| text = Tem ingressos para os 100m e 200m rasos lá no site oficial dos Jogos!
+Corre lá
+https://t.co/h1wZrcYHrN
+date = Thu Apr 21 21:29:08 +0000 2016| user = cassianocf| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:28:39 +0000 2016| user = RosaACL| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:28:35 +0000 2016| user = enporta| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:28:28 +0000 2016| user = creyto_| text = RT @crissporta: Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:28:11 +0000 2016| user = crissporta| text = Desabamento da Ciclovia do RJ
+3 meses
+2 mortos
+45 milhões
+Prefeito na Grécia
+Espancador é porta voz
+
+Vai Brasil #Rio2016
+date = Thu Apr 21 21:26:52 +0000 2016| user = tatianacaneschi| text = Tocha Olímpica: da Grécia Antiga ao Rio 2016 https://t.co/IJRxkx0OAN
+date = Thu Apr 21 21:26:50 +0000 2016| user = azevedotc| text = @JogosOlimpicos @ChamaOlimpica @Rio2016 acendeu a tocha aí enquanto a ciclovia caiu no Rio com a obra superfaturada!
+date = Thu Apr 21 21:26:05 +0000 2016| user = azevedotc| text = @JogosOlimpicos @giovanegavio @ChamaOlimpica @Rio2016 Giovani não compactue com essa bandidagem você é do bem! Eduardo Paes e bandido!
+date = Thu Apr 21 21:24:05 +0000 2016| user = neto_go| text = RT @exercitooficial: Tropas do Exército fazem último evento-teste de segurança antes dos Jogos #Rio2016 https://t.co/fXRpqka3Jo
+date = Thu Apr 21 21:18:11 +0000 2016| user = andretavares06| text = RT @thalescmachado: César Cielo, Emanuel do Vôlei de Praia e Fabiana Beltrame, do Remo. 
+
+3 nomes famosos, atletas-propaganda, não estarão…
+date = Thu Apr 21 21:18:03 +0000 2016| user = imastargirl| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Thu Apr 21 21:15:40 +0000 2016| user = luisito2382| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 21:12:19 +0000 2016| user = CIDADANIA_NEWS| text = RT @luizatrajano: Amanhã vai ser realizada a cerimônia de acendimento da Tocha Olímpica da #Rio2016! Faltam 107 dias! https://t.co/5w7mXCqB…
+date = Thu Apr 21 21:12:05 +0000 2016| user = boladeproa| text = No #Rio2016 não vou ver apenas as provas de #Remo. 😍 😍😍 
+https://t.co/Vqjz0gSBeQ
+date = Thu Apr 21 21:11:25 +0000 2016| user = CIDADANIA_NEWS| text = RT @luizatrajano: E neste fim de semana o time da ginástica artística brasileira garantiu vaga na #Rio2016! Olha que bacana! https://t.co/t…
+date = Thu Apr 21 21:11:11 +0000 2016| user = daysecoficial| text = RT @Leo_Alli: Ciclovia do Paes... "foi só uma marolinha" Né não, @dilmabr ?
+#RioDeJaneiro
+#Rio2016
+#RioWaters https://t.co/QGAyGJOlbi
+date = Thu Apr 21 21:09:09 +0000 2016| user = italogeo| text = Pezão/Dornelles cagando as claras na boca de todo povo fluminense e ninguém pede impeachment. A bandidagem rola solta no #Rio2016 #Rio
+date = Thu Apr 21 21:07:51 +0000 2016| user = Gabiy_Silva| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 21:05:05 +0000 2016| user = BartheMarion| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 21:04:51 +0000 2016| user = StephReist| text = Cadê @eduardopaes_  !? Cadê o seu legado de transporte na #cidadeolímpica #Rio2016 ? https://t.co/GitREt0MTV
+date = Thu Apr 21 21:01:46 +0000 2016| user = pimenta_suzana| text = RT @SergioAguiarGN: No dia do início do revezamento, a tocha olímpica já passou pelo #EmPauta!😀😀 #Rio2016 https://t.co/B0JJrBVgZv
+date = Thu Apr 21 21:00:09 +0000 2016| user = fecomerciorj| text = Em ano de @Rio2016, seja também um campeão pelo projeto #MedalhadeOuroSenac https://t.co/8wlt6JF78z
+date = Thu Apr 21 20:47:56 +0000 2016| user = LordKrausMrRoss| text = Turistas assassinados, bueiros que explodem, taxistas que enganam e obras que desabam.Obrigado por não me 'sortear' @Rio2016 . Dêem pro Huck
+date = Thu Apr 21 20:47:02 +0000 2016| user = observalp| text = Rio2016: Rosa Mota vai transportar a tocha olímpica https://t.co/L09X0jL7dO
+date = Thu Apr 21 20:46:35 +0000 2016| user = observalp| text = Rio2016: Rosa Mota vai transportar a tocha olímpica https://t.co/xsmELCOy2I
+date = Thu Apr 21 20:46:04 +0000 2016| user = flaviomuller| text = RT @exercitooficial: Tropas do Exército fazem último evento-teste de segurança antes dos Jogos #Rio2016 https://t.co/fXRpqka3Jo
+date = Thu Apr 21 20:44:07 +0000 2016| user = SergioAguiarGN| text = No dia do início do revezamento, a tocha olímpica já passou pelo #EmPauta!😀😀 #Rio2016 https://t.co/B0JJrBVgZv
+date = Thu Apr 21 20:43:26 +0000 2016| user = Fernand96709852| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 20:42:19 +0000 2016| user = RamonMatos19| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 20:41:03 +0000 2016| user = SleepingGiantBR| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 20:40:53 +0000 2016| user = Duda18Amorim| text = #Repost @rio2016 with @repostapp.
+・・・
+O revezamento da #TochaOlímpica começou. Mais de 300 cidades e 12 mil... https://t.co/OSiR2hi96H
+date = Thu Apr 21 20:40:02 +0000 2016| user = agnaldoregojr| text = RT @Leo_Alli: Ciclovia do Paes... "foi só uma marolinha" Né não, @dilmabr ?
+#RioDeJaneiro
+#Rio2016
+#RioWaters https://t.co/QGAyGJOlbi
+date = Thu Apr 21 20:38:46 +0000 2016| user = marcelopatrizi| text = #Rio2016
+Empresa q construiu ciclovia que ruiu é da família do secretário de Turismo do Rio https://t.co/QmUyFjqhTQ https://t.co/7drYElvdGW
+date = Thu Apr 21 20:38:42 +0000 2016| user = KarlaKazinha| text = @Corinthians @Rio2016 meu amor
+date = Thu Apr 21 20:38:16 +0000 2016| user = SpeedsterNumb1| text = RT @ESPNagora: Entre os 10 mil atletas da Olimpíada, @neymarjr será o 8º mais rico no @Rio2016; VEJA LISTA: https://t.co/oLGlbUo4qC https:/…
+date = Thu Apr 21 20:37:13 +0000 2016| user = KarlaKazinha| text = @Corinthians @Rio2016 meu amor
+date = Thu Apr 21 20:36:17 +0000 2016| user = fofaodaopressao| text = A culpa foi de Deus @OCriador . Proxima notícia, por favor. #LegadoOlímpico #Rio2016  https://t.co/k4VzHMuEgO
+date = Thu Apr 21 20:36:16 +0000 2016| user = elisarddo| text = RT @globoesportecom: Chama é acesa, e Giovane dá início ao revezamento da tocha rumo ao Rio https://t.co/KE96VvGiRI #Rio2016 https://t.co/H…
+date = Thu Apr 21 20:34:21 +0000 2016| user = CanalBoleiragem| text = Vídeo novo: Boleiragem já no Clima das Olímpiadas #Rio2016, o loco bicho!! https://t.co/FemvKy3LT5 via @YouTube
+date = Thu Apr 21 20:33:43 +0000 2016| user = NoyanJane| text = Acendeu a tocha olímpica na Grécia e caiu a ciclovia olímpica no Rio!! Rachei o bico quando o #Datena falou isso #BrasilSilSil xD #Rio2016
+date = Thu Apr 21 20:33:41 +0000 2016| user = locogfs| text = RT @ESPNagora: Entre os 10 mil atletas da Olimpíada, @neymarjr será o 8º mais rico no @Rio2016; VEJA LISTA: https://t.co/oLGlbUo4qC https:/…
+date = Thu Apr 21 20:32:46 +0000 2016| user = olliveiravini| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 20:28:08 +0000 2016| user = ellensaltrin| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 20:27:30 +0000 2016| user = ricovarig| text = @fernandokallas @Rio2016 desnecessário e desrespeitoso o post, meu caro..
+date = Thu Apr 21 20:26:44 +0000 2016| user = nubia10GTA| text = Estamos rezando muito para Jaque fica 100% para Rio2016 https://t.co/ZntBVlYSb3
+date = Thu Apr 21 20:23:46 +0000 2016| user = FabioMarcondes| text = Se estivéssemos num PAÌS SÈRIO, a esta hora estariam em cana o arquiteto, o engenheiro, o prefeito e o governador do @Rio2016 por HOMICÍDIO.
+date = Thu Apr 21 20:20:21 +0000 2016| user = blogdosilvinho| text = RT @EstadaoEsporte: Novo ciclo da natação brasileira classifica só 4 para @Rio2016. CONFIRA: https://t.co/IOAHzCIZFb https://t.co/0ZIz95w9SX
+date = Thu Apr 21 20:19:05 +0000 2016| user = canottaggio1888| text = RT @Rio2016: Melhores momentos do acendimento da #TochaOlímpica 🔥! Mais 📷 de André Luiz Mello : https://t.co/wsa1CjTcsX https://t.co/EOgEgp…
+date = Thu Apr 21 20:16:09 +0000 2016| user = CariocaEconomia| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 20:15:31 +0000 2016| user = EstadaoEsporte| text = Novo ciclo da natação brasileira classifica só 4 para @Rio2016. CONFIRA: https://t.co/IOAHzCIZFb https://t.co/0ZIz95w9SX
+date = Thu Apr 21 20:13:26 +0000 2016| user = MMCConsulting| text = Evento-Teste Ginástica Rítmica dos Jogos Olímpicos Rio2016! @ Parque… https://t.co/ryrlo35cGi
+date = Thu Apr 21 20:12:12 +0000 2016| user = btygarciaj| text = RT @JogosOlimpicos: A @chamaolimpica foi acesa! 🔥#ChamaOlimpica @Rio2016 #RoadToRio https://t.co/1Dphzf0CdF
+date = Thu Apr 21 20:11:01 +0000 2016| user = livregrito| text = @ESPNagora @neymarjr @Rio2016, seleção brasileira de futebol é favorita com o apito amigo e o poder do marketing.
+date = Thu Apr 21 20:11:00 +0000 2016| user = ialancovich| text = RT @exercitooficial: Tropas do Exército fazem último evento-teste de segurança antes dos Jogos #Rio2016 https://t.co/fXRpqka3Jo
+date = Thu Apr 21 20:10:24 +0000 2016| user = RodrigoBarrosA| text = RT @fernandokallas: O @Rio2016, cidade olímpica! https://t.co/UzCxwv7W93
+date = Thu Apr 21 20:09:59 +0000 2016| user = Rio2016HQ| text = Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/iGHmOUbVNV
+date = Thu Apr 21 20:09:55 +0000 2016| user = tiagosmoves| text = Sobre o risco de ataques terroristas nos jogos olímpicos #Rio2016. https://t.co/ri5J7SD0s7
+date = Thu Apr 21 20:08:21 +0000 2016| user = mayarenta| text = @dcmanhaes @fernandokallas @Rio2016 porra, como q não pensam nisso cara
+date = Thu Apr 21 20:07:30 +0000 2016| user = jorleytavares| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21) https://t.co/i8abTUbl5L
+date = Thu Apr 21 20:07:29 +0000 2016| user = marcos_pontes| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21) https://t.co/fnmjx2IwsX
+date = Thu Apr 21 20:07:23 +0000 2016| user = marcos_pontes| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21)... https://t.co/HhQCWIhGhF
+date = Thu Apr 21 20:07:15 +0000 2016| user = marcos_pontes| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21) https://t.co/sey5tzkl9s
+date = Thu Apr 21 20:07:14 +0000 2016| user = nosso_am| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21) https://t.co/6OLDcNswqS
+date = Thu Apr 21 20:07:14 +0000 2016| user = key_wins| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21) https://t.co/WRilO1Lwr9
+date = Thu Apr 21 20:07:10 +0000 2016| user = am_noticias| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21) https://t.co/B0pNvShwUQ
+date = Thu Apr 21 20:07:07 +0000 2016| user = jorleytavares| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21) https://t.co/fqY9ukXjZo
+date = Thu Apr 21 20:06:19 +0000 2016| user = ndawach| text = RT @gilvancedrim: Tragédia no #RioDeJaneiro e estão falando em falha de projeto. Mais uma bronca pesada pra o mundo ver! #Rio2016 https://t…
+date = Thu Apr 21 20:05:13 +0000 2016| user = London_Lady| text = RT @Brasil2016: A equipe do nado sincronizado tb esteve na coletiva da @CBDAoficial. No #Rio2016 vamos torcer por elas! #BR2016 https://t.c…
+date = Thu Apr 21 20:04:43 +0000 2016| user = abilitychannel| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 20:03:44 +0000 2016| user = outramichelle| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 20:03:40 +0000 2016| user = Jonexalmeida| text = @Brasil2016 quem não produze resultado...prognostico: Vc esta fora... Sdd Campeão..., Mas o futuro é implacável! #Rio2016
+date = Thu Apr 21 20:02:21 +0000 2016| user = mayarenta| text = @dcmanhaes @fernandokallas @Rio2016 putzz que tristeza
+date = Thu Apr 21 20:01:52 +0000 2016| user = alex_costa1982| text = #Rio2016 Vimos tempos estranhos.De um lado um golpe atrás do outro tragédias estruturais. O bêbado e o equilibrista https://t.co/LxFbvM4fWx
+date = Thu Apr 21 20:01:28 +0000 2016| user = lsouza73| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Thu Apr 21 20:01:26 +0000 2016| user = RoseLhp| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 20:01:12 +0000 2016| user = SiteLF| text = Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+o/KZWC48amPs
+date = Thu Apr 21 20:00:05 +0000 2016| user = mayarenta| text = @dcmanhaes @fernandokallas @Rio2016 o q aconteceu??
+date = Thu Apr 21 19:59:04 +0000 2016| user = gianoddi| text = RT @ESPNagora: Entre os 10 mil atletas da Olimpíada, @neymarjr será o 8º mais rico no @Rio2016; VEJA LISTA: https://t.co/oLGlbUo4qC https:/…
+date = Thu Apr 21 19:58:44 +0000 2016| user = Seba_Pereira| text = RT @Rio2016: Novos ingressos para as #Cerimônias e o #Atletismo disponíveis! https://t.co/VKwh5Vcr0m https://t.co/RpUwMxGZEt
+date = Thu Apr 21 19:57:48 +0000 2016| user = sandrinerodrig| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 19:57:43 +0000 2016| user = kikakt| text = RT @TwitterBrasil: Agora você pode acompanhar a viagem da @ChamaOlimpica pelo 🌎  a caminho da @Rio2016: https://t.co/Y9aqPxYx6y https://t.c…
+date = Thu Apr 21 19:56:48 +0000 2016| user = Su_firstavenger| text = Alguém viu meu nariz de palhaço? Acho que ficou perdido por aí? #Rio2016 #SaoConrado #ciclovia
+date = Thu Apr 21 19:56:13 +0000 2016| user = PadronFerney| text = RT @Rio2016: Melhores momentos do acendimento da #TochaOlímpica 🔥! Mais 📷 de André Luiz Mello : https://t.co/wsa1CjTcsX https://t.co/EOgEgp…
+date = Thu Apr 21 19:55:54 +0000 2016| user = wgrsilvacrf| text = RT @Valdorj: Prefeito @eduardopaes_ a @concremat não pode sair ilesa desta.
+Precisamos reforçar 100% desta estrutura.
+#Rio2016 https://t.co…
+date = Thu Apr 21 19:55:37 +0000 2016| user = Gianky_Mathias| text = @fernandokallas @Rio2016 cidade maravilhosa... Se vc é uma funeraria xD
+date = Thu Apr 21 19:55:19 +0000 2016| user = Retina_Boy| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 19:55:07 +0000 2016| user = Seba_Pereira| text = RT @JogosOlimpicos: Momento em que o @giovanegavio recebeu a @chamaolimpica 🔥! #chamaolimpica @Rio2016
+https://t.co/DZPi0yqCk6
+date = Thu Apr 21 19:55:05 +0000 2016| user = CristanoRonaldu| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 19:54:35 +0000 2016| user = gutomelllo| text = @ESPNagora @neymarjr @Rio2016 coloque a lista !!!!!
+date = Thu Apr 21 19:54:07 +0000 2016| user = GazetaDoEsporte| text = RT @ESPNagora: Entre os 10 mil atletas da Olimpíada, @neymarjr será o 8º mais rico no @Rio2016; VEJA LISTA: https://t.co/oLGlbUo4qC https:/…
+date = Thu Apr 21 19:52:39 +0000 2016| user = carlos9770| text = RT @ESPNagora: Entre os 10 mil atletas da Olimpíada, @neymarjr será o 8º mais rico no @Rio2016; VEJA LISTA: https://t.co/oLGlbUo4qC https:/…
+date = Thu Apr 21 19:52:16 +0000 2016| user = denisborges26| text = RT @ESPNagora: Entre os 10 mil atletas da Olimpíada, @neymarjr será o 8º mais rico no @Rio2016; VEJA LISTA: https://t.co/oLGlbUo4qC https:/…
+date = Thu Apr 21 19:50:49 +0000 2016| user = am_noticias| text = RIO2016: Novo lote de ingressos para as Olimpíadas foi disponibilizado, nesta quinta-feira (21) https://t.co/ET0JLnjU0o
+date = Thu Apr 21 19:50:27 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 19:50:16 +0000 2016| user = Rio2016| text = Cerimônia de acendimento da #TochaOlímpica #Rio2016 é destaque no #Twitter https://t.co/nsRGG8PLjn
+date = Thu Apr 21 19:49:57 +0000 2016| user = diadianamg| text = #Rio2016 #Olimpiadas2016 ciclovia desabando,será q essas obras p o evento estão seguras?Material de boa qualidade, engenheiro sério e capaz?
+date = Thu Apr 21 19:48:51 +0000 2016| user = ghesten| text = @ESPNagora @neymarjr @Rio2016 informaçãozinha ridícula essa
+date = Thu Apr 21 19:48:40 +0000 2016| user = cout_rj| text = #Rio2016 As límpidas águas das Baía da Guanabara. Reparem na "pequena" quantidade de lixo... https://t.co/htAB1D7kJa
+date = Thu Apr 21 19:47:43 +0000 2016| user = vagnervargas| text = RT @Brasil2016: O primeiro drama do Estádio Olímpico de natação: Cesar Cielo fica fora do #Rio2016: https://t.co/nntBubcihB https://t.co/Q4…
+date = Thu Apr 21 19:47:21 +0000 2016| user = povotupy| text = RT @jornal_opopular: Começou: tocha olímpica é acesa na Grécia. https://t.co/8hnoUFNqPr #TochaOlimpica #Olimpiada #Rio2016 https://t.co/538…
+date = Thu Apr 21 19:47:16 +0000 2016| user = gilgildefreitas| text = @bbcbrasil Essas obras a toque de caixa Ciclovia nos subúrbios já #BoicoteAsOlimpiadas @Rio2016_en @eduardopaes_
+date = Thu Apr 21 19:47:04 +0000 2016| user = BrasilVene_ale| text = RT @timebrasil: Novos uniformes do @timebrasil para @Rio2016! Gostaram? #Eusoutimebrasil https://t.co/loYFMBqVEo
+date = Thu Apr 21 19:46:22 +0000 2016| user = ESPNagora| text = Entre os 10 mil atletas da Olimpíada, @neymarjr será o 8º mais rico no @Rio2016; VEJA LISTA: https://t.co/oLGlbUo4qC https://t.co/6uFwsqf0gL
+date = Thu Apr 21 19:46:14 +0000 2016| user = fernandokallas| text = O @Rio2016, cidade olímpica! https://t.co/UzCxwv7W93
+date = Thu Apr 21 19:46:04 +0000 2016| user = vagnervargas| text = RT @Brasil2016: Natação brasileira vai aos Jogos #Rio2016 com delegação recorde: 29 atletas! https://t.co/oSsDU9qFUM https://t.co/cUfdc70hOA
+date = Thu Apr 21 19:42:47 +0000 2016| user = tomasmagno14| text = Hoje recebi a noticia que serei um dos milhares de condutores da tocha olímpica aqui no Brasil, cara eu to muito feliz! #Rio2016
+date = Thu Apr 21 19:41:12 +0000 2016| user = luizkaenzo| text = RT @globoesportecom: Chama é acesa, e Giovane dá início ao revezamento da tocha rumo ao Rio https://t.co/KE96VvGiRI #Rio2016 https://t.co/H…
+date = Thu Apr 21 19:38:17 +0000 2016| user = abdulalimuk| text = RT @Brasil2016: A equipe do nado sincronizado tb esteve na coletiva da @CBDAoficial. No #Rio2016 vamos torcer por elas! #BR2016 https://t.c…
+date = Thu Apr 21 19:37:55 +0000 2016| user = atarde| text = 'Receber a tocha olímpica neste lugar sagrado é único', festeja Giovane na Grécia https://t.co/AeTPWZUcnM #Rio2016 #Tocha
+date = Thu Apr 21 19:35:55 +0000 2016| user = Franciscco_| text = Cerimônia na Grécia marca início do revezamento da tocha olímpica https://t.co/l93X8tHiLA #Rio2016
+date = Thu Apr 21 19:35:51 +0000 2016| user = SurtoOlimpico| text = RT @marcelobloc: @SurtoOlimpico @Rio2016 poderia ser José Roberto Guimarães (mas votei no Scheidt)
+date = Thu Apr 21 19:35:18 +0000 2016| user = PedroSerodio| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 19:34:49 +0000 2016| user = JPSperoni| text = RT @mkt_esportivo: Os reflexos da ausência de César Celo nos Jogos Rio2016. Oito empresas patrocinam o nadador. https://t.co/3mCx3zzxNO htt…
+date = Thu Apr 21 19:33:59 +0000 2016| user = brunoavilla_jor| text = RT @mkt_esportivo: Os reflexos da ausência de César Celo nos Jogos Rio2016. Oito empresas patrocinam o nadador. https://t.co/3mCx3zzxNO htt…
+date = Thu Apr 21 19:33:28 +0000 2016| user = herrjakobus| text = RT @gilvancedrim: Tragédia no #RioDeJaneiro e estão falando em falha de projeto. Mais uma bronca pesada pra o mundo ver! #Rio2016 https://t…
+date = Thu Apr 21 19:32:39 +0000 2016| user = bjs_maari| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 19:32:06 +0000 2016| user = victourinoo| text = RT @adowniebrazil: A realidade do Parque Olimpico vs. O que prometeram para o Parque Olimpico  #Rio2016 https://t.co/qyUEgu9g43
+date = Thu Apr 21 19:31:08 +0000 2016| user = danielrbm| text = RT @MarceloCourrege: Será que a ciclovia da Niemeyer foi construída pelos mesmos gênios da construção civil do Engenhão? #Rio2016 https://t…
+date = Thu Apr 21 19:30:32 +0000 2016| user = Brasil2016| text = A equipe do nado sincronizado tb esteve na coletiva da @CBDAoficial. No #Rio2016 vamos torcer por elas! #BR2016 https://t.co/j4f7pRiiPU
+date = Thu Apr 21 19:29:40 +0000 2016| user = marcelobloc| text = @SurtoOlimpico @Rio2016 poderia ser José Roberto Guimarães (mas votei no Scheidt)
+date = Thu Apr 21 19:29:22 +0000 2016| user = welsinner| text = RT @RicardoPF: Pensaram em fazer a ciclovia na beira do mar, pensaram em pagar 45 milhões, mas ninguém pensou que uma onda poderia chegar a…
+date = Thu Apr 21 19:28:29 +0000 2016| user = alexpussieldi| text = RT @Tonclayton: .@alexpussieldi no furo de reportagem com @BrPhelipeR aqui no Estádio Aquático Olímpico. #Rio2016 https://t.co/7YR6a0NwN7
+date = Thu Apr 21 19:25:55 +0000 2016| user = WanderleyDricka| text = Engenharia militar jamais teria feito ciclovia pra onda derrubar ! #fato #Rio2016
+date = Thu Apr 21 19:25:45 +0000 2016| user = mkt_esportivo| text = Os reflexos da ausência de César Celo nos Jogos Rio2016. Oito empresas patrocinam o nadador. https://t.co/3mCx3zzxNO https://t.co/FGIDkeEEaZ
+date = Thu Apr 21 19:23:39 +0000 2016| user = izawhy| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 19:23:08 +0000 2016| user = nunes_nano| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 19:23:07 +0000 2016| user = sergioricardo| text = Um horror. Ciclovia recém-inaugurada no Rio desaba às vésperas da Rio2016. Quem projetou? Quem construiu? Um horror https://t.co/xFRYCpYysa
+date = Thu Apr 21 19:23:01 +0000 2016| user = rosavala| text = RT @esmaelmorais: Golpe atrapalha a Olimpíada #QuemTemCunhaTemMedo #Rio2016 #OMundoContraOGolpe https://t.co/6RAOj0baov https://t.co/x55Md4…
+date = Thu Apr 21 19:22:07 +0000 2016| user = itoh_cuervo1800| text = é zika vírus, h1n1, briga de taxistas e uber, briga de torcidas, e mais esta.
+a gringaiada deve ficar loka
+#Rio2016 https://t.co/HPf8u9SoZ6
+date = Thu Apr 21 19:22:02 +0000 2016| user = annalouzada| text = "Alguém pensou em uma estrutura leve p a bicicleta, mas ñ pensou na onda." Professor na #Globonews. Inaceitável, p usar eufemismo! #Rio2016
+date = Thu Apr 21 19:21:59 +0000 2016| user = DanMarroni_| text = RT @Rio2016: A cerimônia de acendimento da #TochaOlímpica continua e tá maravilhosa! 🔥😍😍
+📷: André Luiz Mello https://t.co/2P1pJ39yUy
+date = Thu Apr 21 19:20:36 +0000 2016| user = Mariosantos09| text = RT @bola24pt: Barcelona anuncia que Neymar vai participar nos Jogos Olímpicos. #Rio2016 https://t.co/PYjeubo0Wb
+date = Thu Apr 21 19:20:05 +0000 2016| user = erikzito| text = Não estou bravo, fico triste eu queria muito os ingressos para #Rio2016
+date = Thu Apr 21 19:19:35 +0000 2016| user = SergioPress| text = Ei @Agarie a olimpíada aqui já começou kkk
+@BrahmaCerveja #rio2016 https://t.co/ss3ZlwTQzq
+date = Thu Apr 21 19:19:33 +0000 2016| user = gucarta| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 19:19:07 +0000 2016| user = rafael_lins83| text = @rafael_lins83 Rio está abandonado. Colapso na saúde. Segurança nota 0. É assim que se sedia uma Olimpíada? #Rio2016
+date = Thu Apr 21 19:19:02 +0000 2016| user = zquadx| text = RT @Brasil2016: 🇬🇷 A chama olímpica foi acesa! O espírito dos Jogos #Rio2016! #TourDaTocha
+date = Thu Apr 21 19:18:47 +0000 2016| user = leiv235| text = RT @Hortencia: Começou a corrida da tocha Olímpica #rio2016 nas mãos do nosso bi campeão olímpico Giovani Gávio. 🔥🔥🔥🔥🇧🇷 https://t.co/5sL0AX…
+date = Thu Apr 21 19:17:17 +0000 2016| user = nivea_mc| text = RT @gilvancedrim: Tragédia no #RioDeJaneiro e estão falando em falha de projeto. Mais uma bronca pesada pra o mundo ver! #Rio2016 https://t…
+date = Thu Apr 21 19:16:40 +0000 2016| user = g_porto| text = RT @Chang021: Engenhão - interditado 
+Vila do Pan - afundou 
+Cidade da Música - não funciona 
+Ciclovia da Niemeyer - Caiu!!
+#CidadeOlimpica…
+date = Thu Apr 21 19:16:19 +0000 2016| user = carolinambastos| text = RT @TwitterBrasil: Agora você pode acompanhar a viagem da @ChamaOlimpica pelo 🌎  a caminho da @Rio2016: https://t.co/Y9aqPxYx6y https://t.c…
+date = Thu Apr 21 19:15:54 +0000 2016| user = dchuchu| text = RT @Leo_Alli: Ciclovia do Paes... "foi só uma marolinha" Né não, @dilmabr ?
+#RioDeJaneiro
+#Rio2016
+#RioWaters https://t.co/QGAyGJOlbi
+date = Thu Apr 21 19:14:13 +0000 2016| user = Mia_Barbosaa| text = RT @zappedaniel: Boa tarde direto do Parque Olímpico Rio 2016 #canon #cps #cpb #1dx #Rio2016 https://t.co/yseRmp4wPe
+date = Thu Apr 21 19:13:14 +0000 2016| user = OldanoCarvalho| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 19:11:57 +0000 2016| user = lec_amorim| text = Ontem cai teto do hospital Rocha Faria, hoje vai ciclovia. @Rio2016 caindo aos poucos . A população no seu martírio diário
+date = Thu Apr 21 19:11:54 +0000 2016| user = mataruna| text = RT @Rio2016: Novos ingressos para as #Cerimônias e o #Atletismo disponíveis! https://t.co/VKwh5Vcr0m https://t.co/RpUwMxGZEt
+date = Thu Apr 21 19:11:51 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Blue Bus
+#Rio2016 | Twitter anuncia açoes para os Jogos Olímpicos do Rio
+Blue Bus
+O Twitter anu… https://t.co/GNf95lL5dt
+date = Thu Apr 21 19:10:56 +0000 2016| user = ReginaGondim1| text = RT @Brasil2016: Ricardo de Moura, da @CBDAoficial, explica q será feita uma clínica para discutir as ações p/ os Jogos #Rio2016 https://t.c…
+date = Thu Apr 21 19:10:37 +0000 2016| user = ReginaGondim1| text = RT @Brasil2016: "Vaga garantida em 2016", é o q diz a camisa dessa turma, q tem nossa torcida garantida no #Rio2016! @CBDAoficial https://t…
+date = Thu Apr 21 19:10:36 +0000 2016| user = GDF_Renan| text = RT @Corinthians: Timão termina Maria Lenk em terceiro e com quatro atletas confirmados no @Rio2016. Parabéns! #VaiCorinthians https://t.co/…
+date = Thu Apr 21 19:09:14 +0000 2016| user = rafael_lins83| text = Quem confia nessas obras públicas feita às pressas? Pra gringo ver? #Rio2016
+date = Thu Apr 21 19:08:48 +0000 2016| user = DavidSousaSilv4| text = RT @sincrobrasil: Garantidas em 2016 !! Vamoa com tudo 🇧🇷🇧🇷🇧🇷 #Sincrobrasil #rio2016 #synchro https://t.co/eTYDh328ig
+date = Thu Apr 21 19:07:43 +0000 2016| user = cidade_maravilh| text = RT @_Palmito: Vou chamar o síndico, Tim Maia #riodejaneiro #rj #timmaia #rio40graus #rio2016 @ Praça Afonso Pena https://t.co/DMzqvbuvfz
+date = Thu Apr 21 19:06:14 +0000 2016| user = mbiscaia| text = RT @Brasil2016: 🇬🇷 A chama olímpica foi acesa! O espírito dos Jogos #Rio2016! #TourDaTocha
+date = Thu Apr 21 19:05:49 +0000 2016| user = paulohss1802| text = RT @timebrasil: Jonathan Riekmann, da marcha atlética, tem índice para @Rio2016 na marcha atlética. Cadê a sua torcida? https://t.co/nEzXlD…
+date = Thu Apr 21 19:05:08 +0000 2016| user = _Palmito| text = Vou chamar o síndico, Tim Maia #riodejaneiro #rj #timmaia #rio40graus #rio2016 @ Praça Afonso Pena https://t.co/DMzqvbuvfz
+date = Thu Apr 21 19:05:05 +0000 2016| user = ReginaGondim1| text = RT @Brasil2016: Ontem a @natigaudio, já classificada pro #Rio2016, fez teste de pódio. Veja a apresentação dela #BR2016 #EventoTeste https:…
+date = Thu Apr 21 19:03:58 +0000 2016| user = TopBeaches| text = RT @TwitterBrasil: Agora você pode acompanhar a viagem da @ChamaOlimpica pelo 🌎  a caminho da @Rio2016: https://t.co/Y9aqPxYx6y https://t.c…
+date = Thu Apr 21 19:02:53 +0000 2016| user = ReginaGondim1| text = RT @Brasil2016: 🇬🇷 Com a chama olímpica acesa, tem início o #TourDaTocha rumo aos Jogos do #Rio2016: https://t.co/ISmC92PVVH https://t.co/2…
+date = Thu Apr 21 19:02:01 +0000 2016| user = ciddasiqueira| text = RT @flaviofachel: No dia em que se acende o fogo dos Jogos, o Rio vive sua primeira tragédia olímpica. #Rio2016 #TragédiaNaCiclovia
+date = Thu Apr 21 19:01:52 +0000 2016| user = zappedaniel| text = Boa tarde direto do Parque Olímpico Rio 2016 #canon #cps #cpb #1dx #Rio2016 https://t.co/yseRmp4wPe
+date = Thu Apr 21 19:01:21 +0000 2016| user = joaonetoo| text = RT @TurismoPalmas: A Tocha Olímpica já foi acesa na Grécia, e no dia 11 de junho ela chegará aqui na Capital.
+#TourDaTocha #Rio2016 https:/…
+date = Thu Apr 21 18:59:39 +0000 2016| user = CURSOMAXIMUSPS| text = RT @Chang021: Engenhão - interditado 
+Vila do Pan - afundou 
+Cidade da Música - não funciona 
+Ciclovia da Niemeyer - Caiu!!
+#CidadeOlimpica…
+date = Thu Apr 21 18:58:35 +0000 2016| user = jean15oliveira| text = RT @Rio2016: A cerimônia de acendimento da #TochaOlímpica continua e tá maravilhosa! 🔥😍😍
+📷: André Luiz Mello https://t.co/2P1pJ39yUy
+date = Thu Apr 21 18:58:15 +0000 2016| user = 2Saopaulo| text = RT @JogosOlimpicos: Momento em que o @giovanegavio recebeu a @chamaolimpica 🔥! #chamaolimpica @Rio2016
+https://t.co/DZPi0yqCk6
+date = Thu Apr 21 18:56:21 +0000 2016| user = cidade_maravilh| text = RT @RodrigoBonheur: Prefeito @eduardopaes_  está muito triste #SaoConrado Maricá, São Pedro da Aldeia e Araruama é que sabem né Lula ! #Rio…
+date = Thu Apr 21 18:54:54 +0000 2016| user = tiagosmoves| text = Me recuso a tratar a queda da ciclovia como fatalidade. Quem assume a culpa agora? #Rio2016 #CidadeOlimpica https://t.co/hNU16cenAM
+date = Thu Apr 21 18:54:50 +0000 2016| user = BrunoMarfinati| text = RT @TwitterBrasil: Agora você pode acompanhar a viagem da @ChamaOlimpica pelo 🌎  a caminho da @Rio2016: https://t.co/Y9aqPxYx6y https://t.c…
+date = Thu Apr 21 18:54:35 +0000 2016| user = RadioBlaFM| text = Mais um lote de ingressos é liberado para as Olimpíadas no Rio - https://t.co/TvDalteMYQ #BláFM #Rio2016
+date = Thu Apr 21 18:52:42 +0000 2016| user = felipebarro| text = Com os 50 milhões q Cunha emboçou das Olimpíadas #Rio2016 dava para fazer uma ciclovia bem melhor
+date = Thu Apr 21 18:51:01 +0000 2016| user = OlivaldoWeiler| text = @cristie_fabris quando eu leio sobre Rio2016 eu lembro do Lula pulando de alegria na cadeira quando escolheram o Rio.
+date = Thu Apr 21 18:50:37 +0000 2016| user = felipeneiva111| text = Onde tem familia Picciani, tem lixo! Obrigado Eduardo Paes e Concremat.  #Rio2016 #Olympics2016 #ciclovia #saoconrado #niemeyer #timmaia

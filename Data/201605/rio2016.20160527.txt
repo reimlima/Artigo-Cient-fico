@@ -1,0 +1,235 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Fri May 27 03:09:42 +0000 2016| user = CarelliJafe| text = Estádio Tropical!!! Escola de Educação Física do Exército-ESEFEX. Rio2016 !!! https://t.co/WLuED3GFKJ
+date = Fri May 27 02:59:11 +0000 2016| user = SergioVanDeerPA| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:59:04 +0000 2016| user = amandiosca| text = RT @Rio2016: Momento do "beijo" da @ChamaOlimpica de Luislinda Santos, primeira mulher negra a se tornar juíza e desembargadora. https://t.…
+date = Fri May 27 02:58:46 +0000 2016| user = gianblog21| text = (A questão sobre o Anderson vai sobrar para Magnano. #Rio2016 chegando) https://t.co/wgjiSTI9gD
+date = Fri May 27 02:57:39 +0000 2016| user = Adry_27| text = #Olympics2016 #Rio2016 #Rape! Polícia do RJ pede prisão de 4 suspeitos de estupro coletivo #G1 https://t.co/0HTZYTy9c0
+date = Fri May 27 02:52:51 +0000 2016| user = Janianecastro13| text = RT @Rio2016: Momento do "beijo" da @ChamaOlimpica de Luislinda Santos, primeira mulher negra a se tornar juíza e desembargadora. https://t.…
+date = Fri May 27 02:49:29 +0000 2016| user = Pauloespindola3| text = @carlosreboucasj @Rio2016 Lixo é a água do RJ, onde farão as provas; VERGONHA, a imagem do Brasil já está debaixo do rabo do cavalo...
+date = Fri May 27 02:46:54 +0000 2016| user = Boroshov| text = 10 semanas para Rio2016!!! 💪❤👽✌💕💃⌚🎯🌐⚽🎾⛳⚾🏉🏆🎽🏈🏀🚴🚶🚀⛵🔯♎♿ https://t.co/RHdSZTCvwr
+date = Fri May 27 02:46:37 +0000 2016| user = carlosreboucasj| text = Se isto fosse um país sério, todas as tochas iriam parar no LIXO!!!! Queira Deus q @Rio2016 seja um fiasco!!! https://t.co/ShsP0BTEkr
+date = Fri May 27 02:42:52 +0000 2016| user = AnderMalagutti| text = Não comprei ingressos para o @Rio2016. Mas se tivesse oportunidade, queria ver demais a seleção dos EUA de basquete
+date = Fri May 27 02:42:38 +0000 2016| user = ssamdm| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:41:10 +0000 2016| user = taaojuan| text = RT @Juventus_Brasil: Dybala foi chamado pela seleção argentina para os jogos #Rio2016 mesmo sem a permissão da Juventus.
+date = Fri May 27 02:39:25 +0000 2016| user = Uatismaineime| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:37:25 +0000 2016| user = Adry_27| text = #Rapecrimes #Rio2016.ONU condena estupros coletivos no  Brasil e pede não culpe as vítimas #G1 https://t.co/l8cgG7WaM7
+date = Fri May 27 02:36:35 +0000 2016| user = LiliLoucs| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 02:36:23 +0000 2016| user = AngelMercuriana| text = RT @danielamercury: O show de ontem no Farol da barra.Cantando samba reggae e afirmando a nossa bela negritude. #Rio2016 #chamaolimpica htt…
+date = Fri May 27 02:35:00 +0000 2016| user = Aniadny| text = Vão dar um trabalho (já dão) 😂😂😂 vem olimpíadas #Rio2016 #71dias #Somostodosbrasil #VOALUCA https://t.co/Exkk6vIHLh
+date = Fri May 27 02:33:20 +0000 2016| user = jornalistavitor| text = #Rio2016: Policiais franceses treinam cães cariocas para segurança olímpica https://t.co/QmZ1scJJZR
+date = Fri May 27 02:31:03 +0000 2016| user = jornalistavitor| text = RT @agenciabrasil: Comitê @Rio2016 libera ingressos para tênis e handebol https://t.co/APBuSjAHxv https://t.co/acE3EDfik7
+date = Fri May 27 02:30:58 +0000 2016| user = valnicealves201| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:26:57 +0000 2016| user = icarocdiniz| text = @Rio2016 @ChamaOlimpica como faz para ajudar?
+date = Fri May 27 02:17:19 +0000 2016| user = ismaeljesus10| text = Participação dos desbravadores no revezamento da tocha olímpica em Petrolina, #rio2016
+date = Fri May 27 02:13:04 +0000 2016| user = raphaelscostarj| text = #NoPulsoDoBrasil @AyrtonSenna olímpico https://t.co/SdLVTKWnAY #Rio2016
+date = Fri May 27 02:11:36 +0000 2016| user = brunagou| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:10:12 +0000 2016| user = diulianlopes| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:09:07 +0000 2016| user = VillacaVinicius| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:08:53 +0000 2016| user = viniciuslemosn| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:07:51 +0000 2016| user = GIFFONIBRAVO| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:06:58 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: Com ajuda de norte-americana, Brasil ganha vaga de bandeja no boxe feminino do @Rio2016 https://t.co/5Mx4mQ2zml https://…
+date = Fri May 27 02:06:48 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: Brasil define equipe de Triatlo para o @Rio2016 https://t.co/qCDPWngN8W https://t.co/mbgbHMi2U1
+date = Fri May 27 02:06:44 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: A @RedeGlobo vai disponibilizar sinal de internet gratuito durante o @Rio2016 https://t.co/fn8FI3nPNf https://t.co/EIVrp…
+date = Fri May 27 02:05:53 +0000 2016| user = davidjc13| text = RT @SurtoOlimpico: A Argentina anuncia pré-lista para o torneio de futebol do @Rio2016 https://t.co/r0aArj7xf2 https://t.co/QfOQLLCKvh
+date = Fri May 27 02:05:44 +0000 2016| user = CaioHenrique75| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:05:36 +0000 2016| user = Maelrocker| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:04:05 +0000 2016| user = pedrohvaldez| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:03:42 +0000 2016| user = adriana_clima| text = RT @SurtoOlimpico: A @RedeGlobo vai disponibilizar sinal de internet gratuito durante o @Rio2016 https://t.co/fn8FI3nPNf https://t.co/EIVrp…
+date = Fri May 27 02:03:23 +0000 2016| user = luzyasylva_gugu| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:02:52 +0000 2016| user = henriquefn1| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:02:42 +0000 2016| user = PepeCalumby| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:02:41 +0000 2016| user = jsmithklimber| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:02:41 +0000 2016| user = Bernardostfla| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:02:28 +0000 2016| user = Advrio_Aquino| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:02:18 +0000 2016| user = Jowtromundo__| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:02:04 +0000 2016| user = CarlosAdorart| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:01:49 +0000 2016| user = WelintonWD14| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:01:09 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: e foi lançado o álbum do @Rio2016. Falência a vista? https://t.co/OCj5pE54U7 https://t.co/Tlh60L0Q0v
+date = Fri May 27 02:01:07 +0000 2016| user = NunoHott| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:01:06 +0000 2016| user = yasminbfaria1| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:00:59 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A Argentina anuncia pré-lista para o torneio de futebol do @Rio2016 https://t.co/r0aArj7xf2 https://t.co/QfOQLLCKvh
+date = Fri May 27 02:00:58 +0000 2016| user = JeanWaterloo| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:00:58 +0000 2016| user = edmo_tavares| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:00:56 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Com ajuda de norte-americana, Brasil ganha vaga de bandeja no boxe feminino do @Rio2016 https://t.co/5Mx4mQ2zml https://…
+date = Fri May 27 02:00:55 +0000 2016| user = heitorbo| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:00:50 +0000 2016| user = caxiado_xd| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 02:00:49 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Brasil define equipe de Triatlo para o @Rio2016 https://t.co/qCDPWngN8W https://t.co/mbgbHMi2U1
+date = Fri May 27 02:00:46 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A @RedeGlobo vai disponibilizar sinal de internet gratuito durante o @Rio2016 https://t.co/fn8FI3nPNf https://t.co/EIVrp…
+date = Fri May 27 02:00:18 +0000 2016| user = g1| text = Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcxmEzZ
+date = Fri May 27 02:00:15 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: .@DjokerNole pede para que torneio olímpico de tênis conte pontos para o @Rio2016 https://t.co/oJRTkVFpI3 https://t.co/P…
+date = Fri May 27 02:00:08 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...Isinbayeva diz que vai processar a @iaaforg se não fora para o @Rio2016 https://t.co/GeEEaLM1v8 htt…
+date = Fri May 27 01:59:18 +0000 2016| user = SurtoOlimpico| text = e foi lançado o álbum do @Rio2016. Falência a vista? https://t.co/OCj5pE54U7 https://t.co/Tlh60L0Q0v
+date = Fri May 27 01:58:34 +0000 2016| user = pedrodeabrasil| text = RT @SurtoOlimpico: A @RedeGlobo vai disponibilizar sinal de internet gratuito durante o @Rio2016 https://t.co/fn8FI3nPNf https://t.co/EIVrp…
+date = Fri May 27 01:58:16 +0000 2016| user = SurtoOlimpico| text = A Argentina anuncia pré-lista para o torneio de futebol do @Rio2016 https://t.co/r0aArj7xf2 https://t.co/QfOQLLCKvh
+date = Fri May 27 01:57:35 +0000 2016| user = SurtoOlimpico| text = Com ajuda de norte-americana, Brasil ganha vaga de bandeja no boxe feminino do @Rio2016 https://t.co/5Mx4mQ2zml https://t.co/CSic3q2a8X
+date = Fri May 27 01:57:30 +0000 2016| user = FCO_OutrodiaTH| text = #VamoQVamo #ChamaOlímpica #TochaOlímpica #Rio2016 #RumoAoRio #Olimpíadas2016 ai simm https://t.co/jEuGtVt8Ry
+date = Fri May 27 01:56:37 +0000 2016| user = SurtoOlimpico| text = Brasil define equipe de Triatlo para o @Rio2016 https://t.co/qCDPWngN8W https://t.co/mbgbHMi2U1
+date = Fri May 27 01:55:54 +0000 2016| user = SurtoOlimpico| text = A @RedeGlobo vai disponibilizar sinal de internet gratuito durante o @Rio2016 https://t.co/fn8FI3nPNf https://t.co/EIVrpJHfSd
+date = Fri May 27 01:49:48 +0000 2016| user = SurtoOlimpico| text = .@DjokerNole pede para que torneio olímpico de tênis conte pontos para o @Rio2016 https://t.co/oJRTkVFpI3 https://t.co/PP6Qm3zjg8
+date = Fri May 27 01:49:23 +0000 2016| user = Anb_Li| text = RT @SurtoOlimpico: Destaques do Surto...Isinbayeva diz que vai processar a @iaaforg se não fora para o @Rio2016 https://t.co/GeEEaLM1v8 htt…
+date = Fri May 27 01:48:50 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...Isinbayeva diz que vai processar a @iaaforg se não fora para o @Rio2016 https://t.co/GeEEaLM1v8 https://t.co/xqUmF2boj5
+date = Fri May 27 01:47:22 +0000 2016| user = FormigadBermuda| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 01:42:42 +0000 2016| user = k_kevenj| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 01:39:50 +0000 2016| user = myrianrios| text = RT @minesporte: Mas quem vocês acham que são as maiores esperanças de medalha do país na competição? #Rio2016 https://t.co/vISZ6zluVb
+date = Fri May 27 01:38:52 +0000 2016| user = Bruno_Cafu| text = RT @Jogo_Extra: .@FluminenseFC: Inauguração de CT em julho ainda não é confirmada; @Rio2016 forçará estreia. https://t.co/KdjdH5fcQb https:…
+date = Fri May 27 01:38:29 +0000 2016| user = Janianecastro13| text = RT @SeuEsporteBR: Tabela do Pré-Olímpico Mundial Masculino que classificará quatro seleções de vôlei para os Jogos #Rio2016 #RumoAoRio http…
+date = Fri May 27 01:36:31 +0000 2016| user = liviammr| text = RT @Rio2016: 😃😃😃Olha o sorriso dos condutores da @ChamaOlimpica em Petrolina! 😃😃😃 https://t.co/6H7rxNbYfF
+date = Fri May 27 01:24:44 +0000 2016| user = Nannda_Calixto| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 01:23:02 +0000 2016| user = germania4500| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 01:22:26 +0000 2016| user = liliporaqui| text = RT @Lucas1Mart: #Rio2016
+Denúncias de estupro, vários latrocínios, cidade extremamente suja e nojenta. E tem gente que acha que não vai ser…
+date = Fri May 27 01:22:10 +0000 2016| user = liliporaqui| text = RT @Lucas1Mart: #Rio2016
+Cidade maravilhosa? Está mais pra cidade do inferno! https://t.co/QcwWRmJTsB
+date = Fri May 27 01:15:32 +0000 2016| user = lorrany_Cristin| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 01:12:37 +0000 2016| user = Lucas1Mart| text = #Rio2016
+Cidade maravilhosa? Está mais pra cidade do inferno! https://t.co/QcwWRmJTsB
+date = Fri May 27 01:11:42 +0000 2016| user = JulioBig| text = @FabianaClaudino gosto muito de vc!, b/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+oa sorte e estamos na torcida sempre! #Rio2016
+date = Fri May 27 01:08:02 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: #AntesDeMorrerEuAindaIrei ver essas rainhas com uma medalha de ouro olímpica! Chega #Rio2016! #RumoAoRio  #RoadToRio http…
+date = Fri May 27 01:07:56 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Tabela do Pré-Olímpico Mundial Masculino que classificará quatro seleções de vôlei para os Jogos #Rio2016 #RumoAoRio http…
+date = Fri May 27 01:07:17 +0000 2016| user = tamybertozzine| text = Chegou minha carta convite, vou trabalhar como assistente de imprensa nas olimpíadas, aí sim, hein?! 😍 #Rio2016
+date = Fri May 27 01:06:05 +0000 2016| user = ismaeljesus10| text = Revezamento da Tocha Olímpica - Rota Rio 2016 e Condutores da Tocha https://t.co/qSrmEv0178
+date = Fri May 27 01:03:18 +0000 2016| user = Lucas1Mart| text = #Rio2016
+Denúncias de estupro, vários latrocínios, cidade extremamente suja e nojenta. E tem gente que acha que não vai ser uma vergonha.
+date = Fri May 27 01:01:28 +0000 2016| user = mroliveira1980| text = Curry, Thompson, Westbrook e Durant devem integrar os EUA na #Rio2016 #GoldenStateWarriors #OKCity #eastfinals #NBAPlayoffs #NBAnoSporTV
+date = Fri May 27 01:00:24 +0000 2016| user = GamerDoni| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 00:54:06 +0000 2016| user = McPombo4i20| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 00:53:24 +0000 2016| user = SeuEsporteBR| text = Tabela do Pré-Olímpico Mundial Masculino que classificará quatro seleções de vôlei para os Jogos #Rio2016 #RumoAoRio https://t.co/JDPSd4jQDU
+date = Fri May 27 00:39:44 +0000 2016| user = GKellyGBernardo| text = Rio 2016 terá distribuição recorde de preservativos para evitar DSTs e zika  #G1 https://t.co/umhQbek0ui
+date = Fri May 27 00:36:34 +0000 2016| user = sabrinato6| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 00:31:49 +0000 2016| user = RSPARADESPORTO| text = Torceremos muito pelas meninas do futebol nos Jogos @Rio2016 
+
+#SomosTodosBrasil @Brasil2016 https://t.co/nh21PoTDwf
+date = Fri May 27 00:31:40 +0000 2016| user = UATGRIER| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Fri May 27 00:27:54 +0000 2016| user = giselaBoezio| text = RT @Rio2016: 😃😃😃Olha o sorriso dos condutores da @ChamaOlimpica em Petrolina! 😃😃😃 https://t.co/6H7rxNbYfF
+date = Fri May 27 00:26:02 +0000 2016| user = DepLeopicciani| text = RT @minesporte: Mas quem vocês acham que são as maiores esperanças de medalha do país na competição? #Rio2016 https://t.co/vISZ6zluVb
+date = Fri May 27 00:21:23 +0000 2016| user = rodriguesrgui| text = queria me inscrever na modalidade olímpica salto no tempo como procede? @Rio2016
+date = Fri May 27 00:20:42 +0000 2016| user = juliancheyne| text = RT @gamesmonitor: Erasing the Favela from Vila Autódromo #Rio2016
+https://t.co/P0GW5byjeN https://t.co/zdtM3SycCu
+date = Fri May 27 00:18:12 +0000 2016| user = Kitri1| text = RT @ebcnarede: #Rio2016: Policiais franceses treinam cães cariocas para segurança olímpica https://t.co/xaupwvzvcJ
+date = Fri May 27 00:17:50 +0000 2016| user = kayanborges| text = RT @deSaJorge: Por falar em basquete, a quadra da lagoa ta ridicula!!! Meu deus... #RIO2016
+date = Fri May 27 00:17:46 +0000 2016| user = kayanborges| text = RT @deSaJorge: Eh impressionante como em 20min de chuva os cariocas ganham piscinas naturais espalhadas pela cidade. #vergonha #RIO2016
+date = Fri May 27 00:15:26 +0000 2016| user = ludmylaaa| text = Teve um caso de estupro coletivo na India anos atrás que rodou o mundo, já o da menina no Rio nem saiu na tv. #OPaisDasOlimpiadas #Rio2016
+date = Fri May 27 00:07:24 +0000 2016| user = nisebianco| text = RT @ebcnarede: #Rio2016: Policiais franceses treinam cães cariocas para segurança olímpica https://t.co/xaupwvzvcJ
+date = Fri May 27 00:07:22 +0000 2016| user = FeedNatacao| text = Lourival Quirino: o sertanejo que nadou contra a corrente para dominar águas abertas https://t.co/u5tW7aZEn5
+date = Fri May 27 00:05:08 +0000 2016| user = SeuEsporteBR| text = #AntesDeMorrerEuAindaIrei ver essas rainhas com uma medalha de ouro olímpica! Chega #Rio2016! #RumoAoRio  #RoadToRio https://t.co/DDhHOFNpmw
+date = Fri May 27 00:03:16 +0000 2016| user = MarianadDeus| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Fri May 27 00:02:24 +0000 2016| user = gamesmonitor| text = Erasing the Favela from Vila Autódromo #Rio2016
+https://t.co/P0GW5byjeN https://t.co/zdtM3SycCu
+date = Fri May 27 00:02:05 +0000 2016| user = profbatata| text = Boa noite @Rio2016 conduzi a tocha olímpica em São Mateus, dia 18.Porem não tenho o vídeo  desse momento mágico . Será possível conseguir?Ob
+date = Fri May 27 00:00:22 +0000 2016| user = ebcnarede| text = #Rio2016: Policiais franceses treinam cães cariocas para segurança olímpica https://t.co/xaupwvzvcJ
+date = Thu May 26 23:57:17 +0000 2016| user = ThiagoXurek| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Thu May 26 23:51:40 +0000 2016| user = freddonier| text = O mundo tem agenda c/o Brasil na Rio2016 e constatará se o Pais optou por se expor como ruína em chamas ou como edifício em reconstrução.
+date = Thu May 26 23:51:19 +0000 2016| user = jhuwnior| text = Dia 4 primeiro dia de ensaio para a cerimônia do #Rio2016 
+Participa desse evento vai se top de mais 
+#Rio2016... https://t.co/V9YtsS5xNE
+date = Thu May 26 23:46:01 +0000 2016| user = AlbertoSanttos| text = RT @brenobarros: Felipe Nascimento será o representante brasileiro na prova masculina do pentatlo moderno no #Rio2016
+date = Thu May 26 23:43:05 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 suporta crescimento da Maratona na cidade
+Valor Economico (Assinatura)
+O número de ins… https://t.co/uIW1XCEsEY
+date = Thu May 26 23:42:35 +0000 2016| user = Juju_ios| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Thu May 26 23:42:06 +0000 2016| user = DahanLeonard| text = RT @SamsungMobileBR: Surpreenda no Dia dos Namorados. &lt;3 https://t.co/mKmZl13S5E #BrasilDesafieBarreiras https://t.co/cSGJ40fUhv
+date = Thu May 26 23:40:46 +0000 2016| user = machado_mil| text = Crise econômica afeta venda de produtos da Rio 2016, diz comitê https://t.co/jhxuxLwO9p
+date = Thu May 26 23:40:08 +0000 2016| user = machado_mil| text = Atletas terão 450 mil preservativos e 175 mil lubrificantes na Olimpíada https://t.co/k74s5d23Li
+date = Thu May 26 23:33:47 +0000 2016| user = zezim158| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Thu May 26 23:32:02 +0000 2016| user = Rio2016| text = A condutora Denise Cavalcanti acende a pira olímpica! Amanhã voltamos com a @ChamaOlimpica.
+https://t.co/UMVxbYLHSF
+date = Thu May 26 23:31:40 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: MIGA SUA LOUCA cuidado com a 🔥 😂😂😂 #ChamaOlimpica #ChamaEmPE https://t.co/xH5MbP5VAW
+date = Thu May 26 23:27:35 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 suporta crescimento da Maratona na cidade
+UOL
+O número de inscritos este ano na marato… https://t.co/l4WsbR3OVx
+date = Thu May 26 23:27:33 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 A Tribuna
+Rio 2016 lança álbum de figurinhas dos Jogos Olímpicos
+Portal Brasil
+Com 60 páginas e… https://t.co/rjj1kphyOa
+date = Thu May 26 23:27:33 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016
+Comitê Rio 2016 libera ingressos para tênis e handebol
+EBC
+Foi liberado hoje (26), a p… https://t.co/eM7p8qrazw
+date = Thu May 26 23:22:35 +0000 2016| user = maupili| text = @julihaitayan Se palpita RIO2016
+date = Thu May 26 23:16:33 +0000 2016| user = mgracinha23| text = RT @Rio2016: Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.…
+date = Thu May 26 23:14:54 +0000 2016| user = Ferdinandelmar| text = RT @Rio2016: Os palhaços Malagueta e Pimentinha vivem em Petrolina e ficaram maravilhados com a passagem da @ChamaOlimpica. https://t.co/8f…
+date = Thu May 26 23:13:53 +0000 2016| user = YesbananasSport| text = Vôlei: Bernardinho corta três nomes da Seleção que irá para a Rio-2016:  https://t.co/xQa85949nH #sports #esportes
+date = Thu May 26 23:13:46 +0000 2016| user = FutebolEspiao| text = Vôlei: Bernardinho corta três nomes da Seleção que irá para a Rio-2016 https://t.co/gtHVfjGjuh
+date = Thu May 26 23:13:43 +0000 2016| user = PortalEsporte10| text = Vôlei: Bernardinho corta três nomes da Seleção que irá para a Rio-2016 https://t.co/s99lIPfkBl
+date = Thu May 26 23:13:40 +0000 2016| user = irafaelbarros| text = Vôlei: Bernardinho corta três nomes da Seleção que irá para a Rio-2016:  https://t.co/dEyk65cNRE
+date = Thu May 26 23:13:38 +0000 2016| user = BrunoJaquet03| text = Vôlei: Bernardinho corta três nomes da Seleção que irá para a Rio-2016:  https://t.co/3o8DHT0RTS
+date = Thu May 26 23:11:35 +0000 2016| user = EsporteEmTweets| text = A lista preliminar da Argentina para Rio 2016, com Lucas Romero e Jonathan Calleri. #Rio2016 https://t.co/r7p5aiSCMi
+date = Thu May 26 23:08:55 +0000 2016| user = ih_Cristiana| text = @Rio2016 tem vaga de trabalho para quem tem um nível razoável de inglês? Ñ aguento mais ficar em casa sem trabalhar #ajudaaê #querotrabalhar
+date = Thu May 26 23:08:14 +0000 2016| user = fora_pt| text = @BolsonaroP @VEJA @Rio2016 isso se não deparar com um arrastão,uma bala perdida ...
+date = Thu May 26 23:07:42 +0000 2016| user = VieiMichele| text = RT @accardoso: @ReginaSalomo @bobjackk Aliás, faltam 73 dias para o mundo inteiro ouvir #Maracanã chamar @MichelTemer de #Golpista na abert…
+date = Thu May 26 23:06:36 +0000 2016| user = martinchab1997| text = RT @Rio2016: Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.…
+date = Thu May 26 23:00:02 +0000 2016| user = SamsungMobileBR| text = Surpreenda no Dia dos Namorados. &lt;3 https://t.co/mKmZl13S5E #BrasilDesafieBarreiras https://t.co/cSGJ40fUhv
+date = Thu May 26 22:58:50 +0000 2016| user = Kitri1| text = RT @Rio2016: Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.…
+date = Thu May 26 22:55:10 +0000 2016| user = Rio2016| text = RT @Brasil2016: Espalhando amor, Denise é um exemplo. Olha ela aí acendendo a pira Olímpica. #TourDaTocha #ChamaOlimpica https://t.co/s7Hq6…
+date = Thu May 26 22:51:31 +0000 2016| user = ademersondias| text = 22/12/2010 CORCOVADO, RIO DE JANEIRO #corcovado #corcovadorj #rio2010 #riodejaneiro #Rio2016… https://t.co/v9enAyfBFG
+date = Thu May 26 22:50:41 +0000 2016| user = ericochiesa| text = DEFENSORES #Rio2016 #Musacchio #Maidana #Mammana #Silva #Vega #FunesMori
+date = Thu May 26 22:49:47 +0000 2016| user = aarrio2016| text = RT @brenobarros: Felipe Nascimento será o representante brasileiro na prova masculina do pentatlo moderno no #Rio2016
+date = Thu May 26 22:48:25 +0000 2016| user = marceloraposo| text = RT @DaniPiedade05: SIMPLESMENTE DEMAIS!!! 😉👍😍🖼❤️ Chegando nas bancas no dia 03 de junho: álbum #Rio2016! Também com… https://t.co/a6qdljEAWd
+date = Thu May 26 22:47:10 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Diversão é andar com Daniel Dias, palhaçoterapeuta que alegra pacientes internados em Petrolina 😃 #HistóriaDeOuro https:…
+date = Thu May 26 22:40:38 +0000 2016| user = na_Caroline3| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Thu May 26 22:39:07 +0000 2016| user = agenciabrasil| text = Comitê @Rio2016 libera ingressos para tênis e handebol https://t.co/APBuSjAHxv https://t.co/acE3EDfik7
+date = Thu May 26 22:36:34 +0000 2016| user = Rio2016HQ| text = Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da ChamaOlimpica em Petrolina.👏👏👏 https://t.co/PTXxGVDpx7
+date = Thu May 26 22:35:43 +0000 2016| user = Brasil2016| text = Olha quem manda um pedido de torcida reforçada nos Jogos @Rio2016! É a seleção de #FutebolFeminino ☺😊☺ https://t.co/MzgO8yAE7H
+date = Thu May 26 22:34:31 +0000 2016| user = Thunderind| text = RT @Rio2016: Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.…
+date = Thu May 26 22:32:17 +0000 2016| user = DavidWillamess| text = RT @Rio2016: Manoel dos Santos conduziu a @ChamaOlimpica por Petrolina. "Foi uma vida no esporte como atleta e como professor". https://t.c…
+date = Thu May 26 22:31:44 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.…
+date = Thu May 26 22:31:25 +0000 2016| user = adailton_farf| text = RT @Rio2016: Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.…
+date = Thu May 26 22:31:14 +0000 2016| user = luhvibarcelos| text = RT @Rio2016: Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.…
+date = Thu May 26 22:28:31 +0000 2016| user = fabiojuliobh| text = @Rio2016 gente me ajuda ai com minha vaquinha onl compra a minha calha de bocha paraolímpica do atleta Fabio https://t.co/owvFLZWEdS .
+date = Thu May 26 22:27:42 +0000 2016| user = Brasil2016| text = RT @Rio2016: Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.…
+date = Thu May 26 22:27:15 +0000 2016| user = Rio2016| text = Cerca de 200 pessoas deixaram de aproveitar o feriado para ajudar no revezamento da @ChamaOlimpica em Petrolina.👏👏👏 https://t.co/1bjX89HLXt
+date = Thu May 26 22:25:19 +0000 2016| user = TransitoUrbano| text = @OsorioRJ Boa noite! Como contribuinte solicito q confira o Tweet de @TransitoUrbano p/ @vizinhoolimpico / #Rio2016
+https://t.co/mnV3nXKCt6
+date = Thu May 26 22:24:48 +0000 2016| user = SITABrasil| text = .@RIOgaleão: aeroporto de braços abertos para os Jogos #Rio2016 https://t.co/QZqMLbrOcX via @RevistaEpoca https://t.co/j5oqFBrhLp
+date = Thu May 26 22:22:57 +0000 2016| user = Lucas_ff| text = Revezamento da tocha olímpica.
+#rio2016 #rio2016olympics
+#Issoéouro @ Petrolina https://t.co/L4hMuq16Pi
+date = Thu May 26 22:22:36 +0000 2016| user = DaniPiedade05| text = SIMPLESMENTE DEMAIS!!! 😉👍😍🖼❤️ Chegando nas bancas no dia 03 de junho: álbum #Rio2016! Também com… https://t.co/a6qdljEAWd
+date = Thu May 26 22:14:40 +0000 2016| user = TransitoUrbano| text = @vizinhoolimpico 
+Como sairemos do cond. Village Sol e Mar,na #Rio2016?
+Conseguiremos sair de casa p/ trabalhar?
+⬇ https://t.co/8n5eDLmbl3
+date = Thu May 26 22:12:12 +0000 2016| user = CristianeDart| text = .@RIOgaleão: aeroporto de braços abertos para os Jogos #Rio2016 via @RevistaEpoca https://t.co/A1hJxldjl2 https://t.co/HvzCSaKHla
+date = Thu May 26 22:05:06 +0000 2016| user = romanoolimpico| text = RT @brenobarros: Felipe Nascimento será o representante brasileiro na prova masculina do pentatlo moderno no #Rio2016
+date = Thu May 26 22:02:23 +0000 2016| user = MeloGongoni| text = RT @RSPARADESPORTO: Atletas paralímpicos viram figurinhas do álbum oficial dos Jogos @Rio2016  https://t.co/slSXLAOBgh https://t.co/E6zp8oR…
+date = Thu May 26 21:54:46 +0000 2016| user = allysonn07| text = RT @andeilsonn: Atletas terão 450 mil preservativos e 175 mil lubrificantes na Olimpíada https://t.co/YihjIg2TV0
+date = Thu May 26 21:44:33 +0000 2016| user = martinchab1997| text = RT @Rio2016: 😃😃😃Olha o sorriso dos condutores da @ChamaOlimpica em Petrolina! 😃😃😃 https://t.co/6H7rxNbYfF
+date = Thu May 26 21:41:46 +0000 2016| user = Cris_Barbosa1| text = Arena Carioca,palco de competições olímpicas da #Rio2016. Cesta de basquete sendo remendada com fita adesiva!! Ok né...
+date = Thu May 26 21:41:35 +0000 2016| user = liviammr| text = .@ChamaOlimpica vem que eu vou lhe usar! #chamaolimpica #Rio2016 https://t.co/1xZicfQZ7E
+date = Thu May 26 21:41:24 +0000 2016| user = martinchab1997| text = RT @Rio2016: Os palhaços Malagueta e Pimentinha vivem em Petrolina e ficaram maravilhados com a passagem da @ChamaOlimpica. https://t.co/8f…
+date = Thu May 26 21:40:41 +0000 2016| user = AdonisDomingues| text = @RIO2016 é assim Brasil! https://t.co/cVLC1sTkOc
+date = Thu May 26 21:40:14 +0000 2016| user = Brasil2016| text = RT @Rio2016: Manoel dos Santos conduziu a @ChamaOlimpica por Petrolina. "Foi uma vida no esporte como atleta e como professor". https://t.c…
+date = Thu May 26 21:40:03 +0000 2016| user = Brasil2016| text = RT @Rio2016: 😃😃😃Olha o sorriso dos condutores da @ChamaOlimpica em Petrolina! 😃😃😃 https://t.co/6H7rxNbYfF
+date = Thu May 26 21:39:57 +0000 2016| user = ralphrox| text = Ainda tentando entender o fato de ter um evento-teste de basquete em uma arena que não terá basquete nas Olimpíadas #NBB #Rio2016
+date = Thu May 26 21:33:30 +0000 2016| user = kalinetania| text = RT @andeilsonn: Atletas terão 450 mil preservativos e 175 mil lubrificantes na Olimpíada https://t.co/YihjIg2TV0
+date = Thu May 26 21:31:27 +0000 2016| user = danielyhwh| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Thu May 26 21:29:25 +0000 2016| user = 52816b0638cf457| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Thu May 26 21:29:15 +0000 2016| user = Seba_Pereira| text = RT @alem_do_futebol: Vôlei Masculino, amanhã a noite inicia o Pré-Olímpico Mundial (e asiático) no Japão. 8 seleções disputando 4 vagas p/…
+date = Thu May 26 21:28:07 +0000 2016| user = MeloGongoni| text = RT @portalfab: #Rio2016 Sargento da FAB quer defender basquete brasileiro nos Jogos Olímpicos! Saiba mais: https://t.co/WAJV6qCrcN https://…
+date = Thu May 26 21:27:47 +0000 2016| user = Rio2016| text = RT @Brasil2016: Muito Maracatu em Petrolina, às margens do Rio São Francisco. #TourDaTocha https://t.co/a0gW2NbpDQ
+date = Thu May 26 21:27:13 +0000 2016| user = Nano_Cahete| text = @Rio2016 O email certo p reportar possíveis problemas (tal como o download da tipografia) é o imprensa@rio2016.com? Só achei ele no site...
+date = Thu May 26 21:26:58 +0000 2016| user = esquivafalcao| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Thu May 26 21:26:35 +0000 2016| user = joaopaulolima| text = @ChamaOlimpica @Rio2016 "não tem preço" é da MasterCard e vcs são patrocinados por Visa.. #fail heheh
+date = Thu May 26 21:20:49 +0000 2016| user = Rio2016| text = RT @Brasil2016: Orla de Petrolina já tá agitada para celebrar a #ChamaOlimpica https://t.co/5TW0vvRfo6
+date = Thu May 26 21:20:07 +0000 2016| user = Thunderind| text = RT @Rio2016: 😃😃😃Olha o sorriso dos condutores da @ChamaOlimpica em Petrolina! 😃😃😃 https://t.co/6H7rxNbYfF
+date = Thu May 26 21:19:49 +0000 2016| user = Angelviro| text = RT @LaraMendezLopez: Parabéns @TORO_CT7 e moita sorte e éxitos nos vindeiros X/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ogos Olímpicos @rio2016_es https://t.co/BN99xhfqpq
+date = Thu May 26 21:19:41 +0000 2016| user = Thunderind| text = RT @Rio2016: Os palhaços Malagueta e Pimentinha vivem em Petrolina e ficaram maravilhados com a passagem da @ChamaOlimpica. https://t.co/8f…
+date = Thu May 26 21:19:39 +0000 2016| user = jornalistavitor| text = Tradição mantém o fogo olímpico acedo. Leia a reportagem especial sobre os Jogos @Rio2016 - https://t.co/hY7aHEu6ZL  https://t.co/fruZV80C1B
+date = Thu May 26 21:19:21 +0000 2016| user = milezmj| text = RT @erikasouza14: Sem palavras! Estou no álbum de figurinhas do #Rio2016. 😍🏀 // Lost for words! I'm in the sticker album of Rio 2016! https…
+date = Thu May 26 21:18:13 +0000 2016| user = CBB_basquete| text = RT @erikasouza14: Sem palavras! Estou no álbum de figurinhas do #Rio2016. 😍🏀 // Lost for words! I'm in the sticker album of Rio 2016! https…
+date = Thu May 26 21:14:59 +0000 2016| user = jornalistavitor| text = RT @EstadaoEsporte: Medo do vírus Zika faz delegação dos EUA ser vigiada para os Jogos @Rio2016 - https://t.co/HgxDBXHkWk https://t.co/pdng…
+date = Thu May 26 21:13:55 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: AO VIVO no #Periscope: Conhecendo o som de uma banda típica de Pernambuco! Só no rastapé 😉 #ChamaOlimpica #save https://…
+date = Thu May 26 21:12:18 +0000 2016| user = Deivid_dvd93| text = RT @SantosFCEterno: Pelé é um dos favoritos a acender a pira olímpica nos Jogos @Rio2016 https://t.co/iaoOBeoqwb https://t.co/LzthZ1r6PG
+date = Thu May 26 21:12:07 +0000 2016| user = jair83462397| text = @Rio2016 @ChamaOlimpica Vamos Brasil junto
+date = Thu May 26 21:10:16 +0000 2016| user = Rio2016HQ| text = 😃😃😃Olha o sorriso dos condutores da ChamaOlimpica em Petrolina! 😃😃😃 https://t.co/dpOHZv4vCv
+date = Thu May 26 21:06:21 +0000 2016| user = sheilasilveira4| text = RT @homofobiaNAO: Até a #tocha passeou com @danielamercury e a gente não consegue! Tsc!! Hahah 😤😤😍😍😍😍 https://t.co/VQlG6r2mAK
+date = Thu May 26 20:59:55 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Cheguei e dei uma paradinha de leve para curtir o visual 😎 #ChamaOlimpica #ChamaEmPE https://t.co/UuPK854dWC
+date = Thu May 26 20:59:37 +0000 2016| user = Rio2016| text = 😃😃😃Olha o sorriso dos condutores da @ChamaOlimpica em Petrolina! 😃😃😃 https://t.co/6H7rxNbYfF
+date = Thu May 26 20:56:56 +0000 2016| user = MatheusDVG| text = RT @MuriloFBorges: Eu compraria o álbum de figurinhas da @Rio2016 , mas desisti depois de saber que cometeram gafe de deixar Isaquias e Ana…

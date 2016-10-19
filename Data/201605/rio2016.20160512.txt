@@ -1,0 +1,212 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Thu May 12 03:07:13 +0000 2016| user = FilAirton| text = RT @paulo_manso: #Rio2016 #Rio2016Olympic #Olympics2016 
+
+Quem virá???
+
+Onde estão os safados que ganharam as eleições??? https://t.co/UOHB…
+date = Thu May 12 03:03:21 +0000 2016| user = depleomonteiro| text = Com Adenízia, nossa campeã olímpica, que encerrou o revezamento da Tocha em Governador Valadares. #Rio2016 https://t.co/Vyz1pLKsRG
+date = Thu May 12 03:00:58 +0000 2016| user = RaafaaelAugusto| text = #RIO2016 #TOCHAOLIMPICA #OLIMPIADAS  #OLIMPIADAS2016 — se sentindo encantado em Açucareira https://t.co/oNfG495ebf
+date = Thu May 12 02:55:22 +0000 2016| user = MinaMaxi_| text = RT @Rio2016: A garotada de Datas (MG) fez a festa com o carro de mídia do revezamento da @ChamaOlimpica. "Filma nós!" https://t.co/fZzNCCjO…
+date = Thu May 12 02:53:57 +0000 2016| user = ranidaecinza| text = RT @g1: Dilma autoriza Aeronáutica a abater aviões hostis durante a Rio 2016 https://t.co/viqyiQZ2zk #G1 https://t.co/xXk10o57LD
+date = Thu May 12 02:39:08 +0000 2016| user = fCaputo| text = Com as minhas Carioquetes! #Rio2016 #CA1 #FAB @ Vassouras Eco Resort https://t.co/qp9al6RNb3
+date = Thu May 12 02:39:01 +0000 2016| user = excluicaro| text = será que apareço no snap do Rio2016 amanhã?
+date = Thu May 12 02:36:19 +0000 2016| user = _EllemMello| text = RT @Rio2016: Unilson de Almeida é apaixonado pelo @FluminenseFC e vive em Datas (MG). "Rapaz, tem mais gente aqui que no Fla-Flu" https://t…
+date = Thu May 12 02:32:53 +0000 2016| user = LocrtaTapia| text = RT @RicardoAlemanMx: #Rio2016 Difícilmente veremos un Brasil festivo https://t.co/YIjaH3Yc2u
+date = Thu May 12 02:30:58 +0000 2016| user = rorislamejor| text = RT @RicardoAlemanMx: #Rio2016 Difícilmente veremos un Brasil festivo https://t.co/YIjaH3Yc2u
+date = Thu May 12 02:30:16 +0000 2016| user = RicardoAlemanMx| text = #Rio2016 Difícilmente veremos un Brasil festivo https://t.co/YIjaH3Yc2u
+date = Thu May 12 02:25:32 +0000 2016| user = And_Marcelle| text = Dia de treinamento e de fotinho com a tocha. 
+#rio2016 #olimpiadas #comitê #tochaolimpica @… https://t.co/TOnJYDtf1n
+date = Thu May 12 02:21:53 +0000 2016| user = badgaldudu| text = Gente vcs terminem o impechmeant antes do #Rio2016 pq eu quero minha olim(piadas) olímpicas na TL
+date = Thu May 12 02:13:47 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Definidas as vagas das Américas para o Tiro com Arco no @Rio2016 https://t.co/DaLg9Tf8gT https://t.co/KSR6UvKZPg
+date = Thu May 12 02:13:43 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A Tunísia vence a Continental Cup de Vôlei de Praia Masculino e está no @Rio2016 https://t.co/ERoUe2AMky https://t.co/sw…
+date = Thu May 12 02:13:40 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Relembrando que o Brasil tem a equipe de esgrima para o @Rio2016 https://t.co/m3QY5xFttV https://t.co/BC8QvK6k7H
+date = Thu May 12 02:13:28 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: .@tiagosplitter vai comentar o @Rio2016 https://t.co/TynEKq9yi7 https://t.co/5gJ4prpcc9
+date = Thu May 12 02:13:21 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Jornal diz que Caetano Veloso vai cantar o hino no @Rio2016 https://t.co/Dr8SB15Wgv https://t.co/wwhaegbfhr
+date = Thu May 12 02:11:16 +0000 2016| user = iRaphaeu| text = A prova do enem liga muito para as redação  @Rio2016
+date = Thu May 12 02:10:12 +0000 2016| user = SurtoOlimpico| text = Definidas as vagas das Américas para o Tiro com Arco no @Rio2016 https://t.co/DaLg9Tf8gT https://t.co/KSR6UvKZPg
+date = Thu May 12 02:09:49 +0000 2016| user = crisalmeidaca| text = RT @paulo_manso: #Rio2016 #Rio2016Olympic #Olympics2016 
+
+Quem virá???
+
+Onde estão os safados que ganharam as eleições??? https://t.co/UOHB…
+date = Thu May 12 02:09:37 +0000 2016| user = SurtoOlimpico| text = A Tunísia vence a Continental Cup de Vôlei de Praia Masculino e está no @Rio2016 https://t.co/ERoUe2AMky https://t.co/swiieN8TDc
+date = Thu May 12 02:08:58 +0000 2016| user = SurtoOlimpico| text = Relembrando que o Brasil tem a equipe de esgrima para o @Rio2016 https://t.co/m3QY5xFttV https://t.co/BC8QvK6k7H
+date = Thu May 12 02:08:24 +0000 2016| user = malfeitos| text = RT @paulo_manso: #Rio2016 #Rio2016Olympic #Olympics2016 
+
+Quem virá???
+
+Onde estão os safados que ganharam as eleições??? https://t.co/UOHB…
+date = Thu May 12 02:07:00 +0000 2016| user = AnacVentilari| text = @nandoafonso @Rio2016 @Brasil2016 @Cruzeiro nossa, deixarão de vir a Nigéria, Angola, Venezuela....será q é por causa da Dilma ou do Zika?
+date = Thu May 12 02:06:21 +0000 2016| user = luisadiebold| text = @Rio2016 meus ingressos ainda não chegaram. como faço pra saber quando chega? ou se está tudo certo?
+date = Thu May 12 02:05:19 +0000 2016| user = SurtoOlimpico| text = .@tiagosplitter vai comentar o @Rio2016 https://t.co/TynEKq9yi7 https://t.co/5gJ4prpcc9
+date = Thu May 12 02:03:48 +0000 2016| user = SurtoOlimpico| text = Jornal diz que Caetano Veloso vai cantar o hino no @Rio2016 https://t.co/Dr8SB15Wgv https://t.co/wwhaegbfhr
+date = Thu May 12 01:59:58 +0000 2016| user = RafaelLisbboa| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 01:58:31 +0000 2016| user = roomaanaa_| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 01:54:01 +0000 2016| user = paulo_manso| text = #Rio2016 #Rio2016Olympic #Olympics2016 
+
+Quem virá???
+
+Onde estão os safados que ganharam as eleições??? https://t.co/UOHBTI8fsz
+date = Thu May 12 01:53:19 +0000 2016| user = Seba_Pereira| text = RT @osolimpicos: CBAt convoca os 9 primeiros nomes pro #Rio2016
+date = Thu May 12 01:52:11 +0000 2016| user = arghlemonster| text = Ensaio da #quadrilhaneolatina #fnm #rio2016 #paraolympics #nofilter https://t.co/CJPmbgfALc
+date = Thu May 12 01:48:34 +0000 2016| user = JaimeLuizjr| text = RT @depleomonteiro: Com a prefeita @ElisaCosta_GV, na Estação Olímpica de Governador Valadares, para receber a tocha. #Rio2016 https://t.co…
+date = Thu May 12 01:47:11 +0000 2016| user = depleomonteiro| text = Com a prefeita @ElisaCosta_GV, na Estação Olímpica de Governador Valadares, para receber a tocha. #Rio2016 https://t.co/daDaNhgcd3
+date = Thu May 12 01:41:58 +0000 2016| user = JaimeLuizjr| text = RT @depleomonteiro: Bela a cerimônia de revezamento da #TochaOlímpica em Governador Valadares #Rio2016 https://t.co/AoKyeGlLkZ
+date = Thu May 12 01:40:05 +0000 2016| user = depleomonteiro| text = Bela a cerimônia de revezamento da #TochaOlímpica em Governador Valadares #Rio2016 https://t.co/AoKyeGlLkZ
+date = Thu May 12 01:37:33 +0000 2016| user = Yaeba1909| text = RT @Rio2016: Alunos da escola Otávio Soares,de Governador Valadares,com uniformes de modalidades olímpicas para a @ChamaOlimpica! https://t…
+date = Thu May 12 01:34:05 +0000 2016| user = romanoolimpico| text = Guia Rio2016- Esgrima: Competições por equipes. Brasil em 3 das 4 disputas https://t.co/NlMgYlUNqD via @yahooesportes
+date = Thu May 12 01:26:01 +0000 2016| user = pulpedicoes| text = Quer curtir o que há de mais novo e mais legal no #Rio?
+#rio2016 #riogames #riodejaneiro #riotravel... https://t.co/6LrQFwIeRW
+date = Thu May 12 01:25:28 +0000 2016| user = GKellyGBernardo| text = Em cinco dias, Rio tem sete vítimas de balas perdidas; duas morreram #G1 https://t.co/chlTNn9Z9S #RIO2016 #JO2016
+date = Thu May 12 01:22:04 +0000 2016| user = NeyBlastingnews| text = RIO 2016 VERDE/AMARELO PRETO/BRANCO
+https://t.co/ncpN7tKDJc #fina #cob #aquatics #swimming @Rio2016 @Rio2016_en @rio2016_es @Rio2016_QuemFaz
+date = Thu May 12 01:18:18 +0000 2016| user = NeyBlastingnews| text = RIO 2016 VERDE/AMARELO PRETO/BRANCO
+https://t.co/ncpN7tKDJc  #Rio2016 #Rio2016Olympic #riodejaneiro #jogosolimpicos #olimpiadas #Brasil
+date = Thu May 12 01:17:32 +0000 2016| user = Ihamma_1| text = RT @GKellyGBernardo: Ministério da Saúde confirma 1.326 casos de microcefalia no país https://t.co/rmatYIWTMe #RIO2016
+date = Thu May 12 01:15:50 +0000 2016| user = GKellyGBernardo| text = Beltrame: Rio vai receber menos policiais para os Jogos Olímpicos https://t.co/3aW1yE02C8 #RIO2016 #JO2016
+date = Thu May 12 01:15:20 +0000 2016| user = GKellyGBernardo| text = Ministério da Saúde confirma 1.326 casos de microcefalia no país https://t.co/rmatYIWTMe #RIO2016
+date = Thu May 12 01:13:49 +0000 2016| user = NaTransversal| text = RT @Cecillia: Pagamento de adicional para polícia durante Jogos ainda está indefinido https://t.co/W0IMghwl76
+date = Thu May 12 01:12:55 +0000 2016| user = brunodanielTv| text = RT @InformeRJO: Dilma autoriza Aeronáutica a abater aviões hostis durante a Rio 2016: Decreto estará em vigor entre os dias 5... https://t.…
+date = Thu May 12 01:12:53 +0000 2016| user = brunodanielTv| text = RT @InformeRJO: Beltrame diz ainda não saber efetivo da Força Nacional para a Rio 2016: Secretário creditou a falta de inform... https://t.…
+date = Thu May 12 01:04:54 +0000 2016| user = fofa_siqueira| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 00:56:36 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 00:54:50 +0000 2016| user = cadupaper| text = RAINHADÊ 😍😍😍😍 https://t.co/uDlC4XX4kQ
+date = Thu May 12 00:54:42 +0000 2016| user = _worldLuMel| text = RT @fegaray16: Alguém advinha qual foi meu pedido????? #rio2016 #deusnocomando #força #foco #fé #mybday @ CDV -… https://t.co/7qbHnbPAC4
+date = Thu May 12 00:51:54 +0000 2016| user = siriuslypads| text = RT @Rio2016: Multidão em Guanhães levantou os celulares para tirar uma foto de Alexandre Nunes, o Xuxa, com a @ChamaOlimpica! https://t.co/…
+date = Thu May 12 00:51:48 +0000 2016| user = siriuslypads| text = n sai na foto pq nem gravei nem nada só fiquei de longe observando https://t.co/2dLsGbt9Wu
+date = Thu May 12 00:51:14 +0000 2016| user = daniele17121972| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 00:50:30 +0000 2016| user = martinchab1997| text = RT @Rio2016: Chegou! @ChamaOlimpica pousou com perfeição por aqui! 👏👏👏👏 https://t.co/deLhSMBZul
+date = Thu May 12 00:50:26 +0000 2016| user = Rio2016HQ| text = Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpi… https://t.co/O5ZlilV3xg
+date = Thu May 12 00:48:40 +0000 2016| user = euriodeamor| text = Quando Drummond fica d saco cheio de ter seus óculos roubados, então recorre à ajuda dos droids do StarWars #Rio2016 https://t.co/XS3rtXsocP
+date = Thu May 12 00:48:20 +0000 2016| user = ChamaOlimpica| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 00:47:18 +0000 2016| user = aravisalencar| text = RT @jotapeah: #jpalencarbeta Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de b... https://t.co…
+date = Thu May 12 00:46:42 +0000 2016| user = fatimaalencar58| text = RT @jotapeah: #jpalencarbeta Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de b... https://t.co…
+date = Thu May 12 00:46:09 +0000 2016| user = tabininha| text = Depois do TF 🏋🏾tem Bike🚵🏽... 💃🏾Uhu #RIO2016 #ETE2016☀️ @ Academia… https://t.co/2awOVQn3Cy
+date = Thu May 12 00:43:42 +0000 2016| user = AmigoDoBode| text = RT @BodeOfWar: #B0DERULEZ Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe ... https://t.c…
+date = Thu May 12 00:43:03 +0000 2016| user = JoeltomPadilha| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 00:43:00 +0000 2016| user = EvandroNovaess| text = Beijing 2008, Mackba 1980. Quem não foi perdeu. 😆
+#sepreparabrasil #rio2016 #lentedeumcristão @… https://t.co/fnysU6nZsi
+date = Thu May 12 00:41:54 +0000 2016| user = soubhuai| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 00:41:33 +0000 2016| user = DarkCrackShadow| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 00:41:17 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t…
+date = Thu May 12 00:41:02 +0000 2016| user = Rio2016| text = Adenízia Ferreira, ouro em #Londres2012 pelo 🇧🇷 no #voleibol, acendeu a pira em Governador Valadares. #ChamaOlimpica https://t.co/ZrNUsNtzok
+date = Thu May 12 00:34:56 +0000 2016| user = MixmasterCass| text = Beltrame diz ainda não saber efetivo da Força Nacional para a Rio 2016 #G1 https://t.co/yLgpfEb9h4
+date = Thu May 12 00:31:48 +0000 2016| user = viviane9655| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/10rBQofPGR
+date = Thu May 12 00:31:46 +0000 2016| user = juliamarine9| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/h7nXkpuZWm
+date = Thu May 12 00:31:44 +0000 2016| user = Ferrei17Matilde| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/Z0JdYCXNUh
+date = Thu May 12 00:31:43 +0000 2016| user = marcia_f3rreira| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/Doq9tvns3g
+date = Thu May 12 00:31:41 +0000 2016| user = jonatarn19| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/Rw1BKip8We
+date = Thu May 12 00:31:39 +0000 2016| user = CarlaLouysse| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/pzzvIjMlQA
+date = Thu May 12 00:31:38 +0000 2016| user = dani3lly| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/6wkgV1YtCw
+date = Thu May 12 00:31:36 +0000 2016| user = DURANDU85065556| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/ETX9SCpUYP
+date = Thu May 12 00:31:33 +0000 2016| user = marl3nemarta| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/DrIzWmruhZ
+date = Thu May 12 00:31:31 +0000 2016| user = lorenadrumont| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/cQkJq2V5fE
+date = Thu May 12 00:31:29 +0000 2016| user = jaoaoliveira| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/z4UUHGoIg5
+date = Thu May 12 00:31:26 +0000 2016| user = lauradiniz9655| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/x7hlPOGwDH
+date = Thu May 12 00:31:24 +0000 2016| user = joaquimpint0| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/86TuSGN3hH
+date = Thu May 12 00:31:22 +0000 2016| user = juli0pereira| text = Jogos 2016: prefeitura do Rio entrega pavilhã/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+o esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/8IOzirwIfY
+date = Thu May 12 00:31:21 +0000 2016| user = HeybetaXis| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/uQdFUtgn1q
+date = Thu May 12 00:31:19 +0000 2016| user = mariajoaq9655| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/r7jQbXlvYA
+date = Thu May 12 00:31:17 +0000 2016| user = alicekiara1| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/4W1EYHdT4r
+date = Thu May 12 00:31:15 +0000 2016| user = leonadublyer| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/6dxe7s6TQd
+date = Thu May 12 00:31:09 +0000 2016| user = guuHFeliciano| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/G0LPFHlFve
+date = Thu May 12 00:31:04 +0000 2016| user = cladineiacarv| text = RT @Rio2016: As panelas de barro de Serro (MG). "A comida fica mais gostosa" diz Tatiana Cristina Nascimento, da Rancho Serrano. https://t.…
+date = Thu May 12 00:30:57 +0000 2016| user = Divulgary| text = Rio: Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/iObSWMQfjS
+date = Thu May 12 00:25:11 +0000 2016| user = PR_Enterate| text = RT @ComiteOlimpico: 🎥 @jeyviercintron está listo para @rio2016_es - https://t.co/P8JsMJ10cs https://t.co/ki5zMzcb0L
+date = Thu May 12 00:24:44 +0000 2016| user = MariRemor| text = RT @carlosreboucasj: Ainda virá o lamaçal da @Rio2016 @Rio2016_en @rio2016_es 
+Obras superfaturadas e US$ Bilhões para pagarmos. https://t.…
+date = Thu May 12 00:23:28 +0000 2016| user = JanioJanioseven| text = @VEJA @ChamaOlimpica @Rio2016  Pensa numa lesera.
+date = Thu May 12 00:21:09 +0000 2016| user = euclidesilveira| text = RT @carlosreboucasj: Ainda virá o lamaçal da @Rio2016 @Rio2016_en @rio2016_es 
+Obras superfaturadas e US$ Bilhões para pagarmos. https://t.…
+date = Thu May 12 00:19:01 +0000 2016| user = carlosreboucasj| text = Ainda virá o lamaçal da @Rio2016 @Rio2016_en @rio2016_es 
+Obras superfaturadas e US$ Bilhões para pagarmos. https://t.co/XxPv4eBIVB
+date = Thu May 12 00:16:04 +0000 2016| user = ArmaBranca| text = Pagamento de adicional para polícia durante Jogos ainda está indefinido https://t.co/RkMao4JcHK
+date = Thu May 12 00:16:04 +0000 2016| user = Cecillia| text = Pagamento de adicional para polícia durante Jogos ainda está indefinido https://t.co/W0IMghwl76
+date = Thu May 12 00:10:31 +0000 2016| user = EricBlake12| text = RT @ToddKimberlain: From #COPACABANA to #ipanema to #Leblon from #Pao de Acuçar #Rio2016 https://t.co/lHO0bdHiod
+date = Thu May 12 00:07:32 +0000 2016| user = Rio2016| text = @Juj_Paixao @Olimpiadas Ih...desculpa Ju! Vamos corrigir. Obrigado!
+date = Thu May 12 00:07:22 +0000 2016| user = ChimaDanilo| text = @kaliforn1a_ @Mih_ArmstrongL @UOL Já 'tá bem adiantada: https://t.co/TxB655NAnZ
+date = Thu May 12 00:05:43 +0000 2016| user = TeuSantana1999| text = Não sei quem é, mas o cara é gente boa.#Rio2016 #IssoEOuro #CocaCola #RioOlympics2016 https://t.co/MpOHTLKoyd
+date = Thu May 12 00:02:56 +0000 2016| user = AldoComunica| text = Oficial assegura corte de orçamento da segurança nos Jogos Olímpicos compromete a logística do evento Rio2016_en 
+https://t.co/2Ta1SXtoPQ
+date = Thu May 12 00:02:36 +0000 2016| user = Juj_Paixao| text = A população "CURVELANA" e é Basílica de São Geraldo! Consertem por favor. Obrigada, de nada! @Olimpiadas @Rio2016 https://t.co/m6JhlUmdn8
+date = Thu May 12 00:00:10 +0000 2016| user = ManagersUnited| text = Oficial assegura corte de orçamento da segurança nos Jogos Olímpicos compromete a logística do evento @Rio2016_en 
+https://t.co/4GzB5Hj6tQ
+date = Wed May 11 23:58:45 +0000 2016| user = EdunegimH| text = A tocha olímpica vai passa num fim de mundo mas nao passa na minha cidade😓😴 #Rio2016
+date = Wed May 11 23:58:21 +0000 2016| user = CorpAmericaARG| text = RT @AviacaoGovBr: Roadshow de planejamento do setor aéreo para #Rio2016 chega ao @AeroportoBSB. https://t.co/BJiOWYGAXB https://t.co/ofaRPA…
+date = Wed May 11 23:58:04 +0000 2016| user = Johaguiars| text = A tão esperada passagem #rio2016 #tochaolimpica @ Governador Valadares, Minas Gerais https://t.co/vDJDnaWC39
+date = Wed May 11 23:57:56 +0000 2016| user = SampaioRules| text = RT @g1: Dilma autoriza Aeronáutica a abater aviões hostis durante a Rio 2016 https://t.co/viqyiRgDqS #G1 https://t.co/xXk10o57LD
+date = Wed May 11 23:57:17 +0000 2016| user = rcostauzai| text = A #TochaOlímpica das #Olimpíadas #Rio2016. @ Açucareira https://t.co/oLFNuTDjha
+date = Wed May 11 23:53:26 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Fiz Darcy Menezes, ex-@cruzeiro, reviver a emoção de um clássico 😃: "Parece @Cruzeiro x @Atletico" ⚽ #ChamaEmMG https://…
+date = Wed May 11 23:52:34 +0000 2016| user = BarbosaVasco197| text = RT @g1rio: Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/SggOYZovFw
+date = Wed May 11 23:51:35 +0000 2016| user = LLSousa_| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/NvMQvUiXbJ
+date = Wed May 11 23:51:16 +0000 2016| user = anbbeta6| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/x7bdqZI2Ui
+date = Wed May 11 23:48:07 +0000 2016| user = marciomtc| text = Rio 2016 contrata Jovens Aprendizes para trabalhar nos Jogos com carteira assinada https://t.co/C92cFWQlJX
+date = Wed May 11 23:45:52 +0000 2016| user = fimdejogo| text = @KarollCRF @brunonigro :)))) no fundo a entrada da rio2016 vai socorrer o maracanã. não podiam ter largado o estádio como fizeram
+date = Wed May 11 23:42:23 +0000 2016| user = antoniodudu4321| text = @VEJA @ChamaOlimpica @Rio2016 e a saúde pública ó
+date = Wed May 11 23:41:43 +0000 2016| user = tianokrazy| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/Tu74KUlzCy
+date = Wed May 11 23:41:39 +0000 2016| user = izaiasbeta| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/bpnXwH4HOR
+date = Wed May 11 23:41:37 +0000 2016| user = alencarrafa| text = #timbeta Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de box... https://t.co/dRiPuvtiA2 #rt
+date = Wed May 11 23:41:34 +0000 2016| user = whslonely| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/dWStK26mxi
+date = Wed May 11 23:41:29 +0000 2016| user = felipe_deck1| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/vaRKTD7BV6
+date = Wed May 11 23:41:26 +0000 2016| user = usynlig_myrmeco| text = , com quantos quilos de medo se faz uma olimpíada? com quanto sangue nas mãos?
+ #Rio2016 #RioOlympics2016  https://t.co/UkXbowMbcs
+date = Wed May 11 23:41:23 +0000 2016| user = Elisabete_beta9| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/6a2pigmIIS
+date = Wed May 11 23:41:21 +0000 2016| user = BodeOfWar| text = #B0DERULEZ Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe ... https://t.co/UE5k8tQBIc
+date = Wed May 11 23:41:18 +0000 2016| user = Market_JJ| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/aN85Bv7ac7
+date = Wed May 11 23:41:15 +0000 2016| user = holandatimbeta| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/wHxooH1KfS
+date = Wed May 11 23:41:09 +0000 2016| user = jotapeah| text = #jpalencarbeta Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de b... https://t.co/gGlk7P9yVG
+date = Wed May 11 23:41:07 +0000 2016| user = redlahremos_| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/ueC8ZY5t1X
+date = Wed May 11 23:41:03 +0000 2016| user = lislee3| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/tUVaxtDCSj
+date = Wed May 11 23:41:00 +0000 2016| user = WesleyRoccha| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disput... https://t.co/Oc4mg0twef QueenGabyBoterkooper
+date = Wed May 11 23:40:55 +0000 2016| user = mhelenah57| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/ZdbBrandBt
+date = Wed May 11 23:40:51 +0000 2016| user = palomahfeitosa| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/VPjLdhPzRu
+date = Wed May 11 23:40:50 +0000 2016| user = depaula5252| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Wed May 11 23:40:45 +0000 2016| user = thiago_nscmnt| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/99CJQXn2OU
+date = Wed May 11 23:40:40 +0000 2016| user = glauberbeta1| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/wcXJ40N13Y
+date = Wed May 11 23:40:34 +0000 2016| user = jr140797| text = #betacaralhudosan Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Lo... https://t.co/X7aRWS8OOl #betacaralhudosan
+date = Wed May 11 23:40:31 +0000 2016| user = LucasBeta2014| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/gmEhsR4G8f
+date = Wed May 11 23:39:49 +0000 2016| user = overdianna| text = prontos pro ataque do estado islâmico 
+Dilma autoriza Aeronáutica a abater aviões hostis durante a Rio 2016 #G1 https://t.co/29ntFbzqB7
+date = Wed May 11 23:39:27 +0000 2016| user = ToddKimberlain| text = From #COPACABANA to #ipanema to #Leblon from #Pao de Acuçar #Rio2016 https://t.co/lHO0bdHiod
+date = Wed May 11 23:38:12 +0000 2016| user = fimdejogo| text = @brunonigro @KarollCRF sobrou para a rio2016 arrumar o que deixaram. algumas coisas que devem ser feitas e já começaram (+)
+date = Wed May 11 23:37:39 +0000 2016| user = fimdejogo| text = @brunonigro @KarollCRF entretanto a rio2016 teve que entrar. a concessionária abandonou o estádio, não havia mais manutenção
+date = Wed May 11 23:37:19 +0000 2016| user = PeedroGuilherme| text = tirei foto com a #TochaOlímpica #Rio2016 @Bradesco @CocaCola_Br 😀😱 https://t.co/4xQHMNMyMw
+date = Wed May 11 23:37:06 +0000 2016| user = fimdejogo| text = @brunonigro @KarollCRF está fechado para jogos o ano todo. a partir de 1 de maio só da rio2016. até abril compartilhado
+date = Wed May 11 23:34:27 +0000 2016| user = danbr_2| text = RT @SuperSpecialis: Quer mais #paradesporto? Siga https://t.co/JRowbI990U, criado por @Laurafwx e @luciafwx, do @doeumlivro!https://t.co/v…
+date = Wed May 11 23:33:26 +0000 2016| user = brunodanielTv| text = RT @InformeRJO: Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.…
+date = Wed May 11 23:33:16 +0000 2016| user = andradadaniel| text = RT @Rio2016: Multidão em Guanhães levantou os celulares para tirar uma foto de Alexandre Nunes, o Xuxa, com a @ChamaOlimpica! https://t.co/…
+date = Wed May 11 23:32:47 +0000 2016| user = HudsonMartins11| text = Então é isso msm produção?? #IssoEOuro #TochaOlimpica #Rio2016 
+E ainda tem mais cinco haha https://t.co/kM6lrWWM9O
+date = Wed May 11 23:26:42 +0000 2016| user = PistacchiOoo| text = RT @g1rio: Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/SggOYZovFw
+date = Wed May 11 23:26:25 +0000 2016| user = usynlig_myrmeco| text = , rarara, ó como cutucam onça com vara curta. aqui no #Rio2016 não teve desvio de verba talecoisa. aham. https://t.co/aipq1eg4ub
+date = Wed May 11 23:26:02 +0000 2016| user = gstbeta3| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/2sbpqtsFtj
+date = Wed May 11 23:25:57 +0000 2016| user = gstbeta1| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/CmGLyR2nNm
+date = Wed May 11 23:25:50 +0000 2016| user = Binhojc21| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/mgI4Eog1ES
+date = Wed May 11 23:25:42 +0000 2016| user = henriqueleite55| text = Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro: Local terá disputa de boxe olímpico e ... https://t.co/c9Lc9snue4
+date = Wed May 11 23:25:40 +0000 2016| user = Micro_Onibus| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/WRAh05c5rX tv online #tvonline
+date = Wed May 11 23:25:37 +0000 2016| user = MicroOnibusBH| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/T6K8hfZ101 tv online #tvonline
+date = Wed May 11 23:25:35 +0000 2016| user = MicroOnibus| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/AF0tHhnsBh tv online #tvonline
+date = Wed May 11 23:25:33 +0000 2016| user = Mega_Tour| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/poAJdfFUXQ tv online #tvonline
+date = Wed May 11 23:25:31 +0000 2016| user = Localiza_Brasil| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/SLsyf7ukUy tv online #tvonline
+date = Wed May 11 23:25:27 +0000 2016| user = LocadoraTelevan| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/PveptFW3SP tv online #tvonline
+date = Wed May 11 23:25:25 +0000 2016| user = LigueVans| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/RkKGSK3NXc tv online #tvonline
+date = Wed May 11 23:25:22 +0000 2016| user = Fretamentos| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/9hh4iR5o7K tv online #tvonline
+date = Wed May 11 23:25:20 +0000 2016| user = Formula_Turismo| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/H0Vj2Amc1G tv online #tvonline
+date = Wed May 11 23:25:18 +0000 2016| user = FormulaTurismo| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/NfchLYSRDl tv online #tvonline
+date = Wed May 11 23:25:16 +0000 2016| user = Aluguel_Van_BH| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/QOC0EuWUrz tv online #tvonline
+date = Wed May 11 23:25:14 +0000 2016| user = Traslado| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/aSsCLMBXWG tv online #tvonline
+date = Wed May 11 23:25:12 +0000 2016| user = Folia_Oficial| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/lDYjen9UKa tv online #tvonline
+date = Wed May 11 23:25:10 +0000 2016| user = Facebook_Brasil| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/MxbXSE5qkl tv online #tvonline
+date = Wed May 11 23:25:08 +0000 2016| user = Eventos_BH| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/mPjh0VSZsp tv online #tvonline
+date = Wed May 11 23:25:06 +0000 2016| user = EuAmoBH| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/mXr33uwCZz tv online #tvonline
+date = Wed May 11 23:25:04 +0000 2016| user = Etevaldo_Gandra| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/7j2nSpYjUO tv online #tvonline
+date = Wed May 11 23:25:02 +0000 2016| user = EtevaldoGandra| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/1M6QzNG5uB tv online #tvonline
+date = Wed May 11 23:24:59 +0000 2016| user = Dieta_Mais| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/6kGzmATqPP tv online #tvonline
+date = Wed May 11 23:24:57 +0000 2016| user = DietaMais| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/tsPvPcMKCF tv online #tvonline
+date = Wed May 11 23:24:55 +0000 2016| user = CityTourBH| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/nVLJNVxugZ tv online #tvonline
+date = Wed May 11 23:24:53 +0000 2016| user = Cerveja_Skol| text = Siga @CanaisTvOnline Jogos 2016: prefeitura do Rio entrega pavilhão esportivo no Riocentro https://t.co/roku57la5V tv online #tvonline

@@ -1,0 +1,345 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sun Jul 10 03:10:18 +0000 2016| user = fecarvalho007| text = RT @CocaCola_Br: .@WhoIsCarlos com a #TochaOlímpica #Rio2016 em Caxias do Sul. #IssoÉOuro #DeCaronaComATocha https://t.co/e8ayG5OOCJ https:…
+date = Sun Jul 10 03:10:06 +0000 2016| user = JohnnySette| text = #BomDia faltam 23 dias para o #TransNações #GodBless #Rio2016 #OnlyJesusSaves #SóJesusSalva #MissõesNaPrática #JUBAN #Betelinos #RoadToRio
+date = Sun Jul 10 03:08:41 +0000 2016| user = AdrianoPeartt| text = RT @fioreze2004: Camisetas oficiais das Olimpíadas #Rio2016 ! FOOOOORA TEMER! https://t.co/4ZW6GYqw3S
+date = Sun Jul 10 03:08:28 +0000 2016| user = RamomFil| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 03:05:47 +0000 2016| user = professorcirino| text = RT @fioreze2004: Camisetas oficiais das Olimpíadas #Rio2016 ! FOOOOORA TEMER! https://t.co/4ZW6GYqw3S
+date = Sun Jul 10 03:04:49 +0000 2016| user = medeiros182| text = RT @fioreze2004: Camisetas oficiais das Olimpíadas #Rio2016 ! FOOOOORA TEMER! https://t.co/4ZW6GYqw3S
+date = Sun Jul 10 03:03:46 +0000 2016| user = Max_Laguna| text = Centro Ecumênico #rio2016 https://t.co/RlTHnYsNah
+date = Sun Jul 10 03:03:33 +0000 2016| user = ahnadlas| text = RT @OperacoesRio: #Rio2016 | Restrições à circulação de caminhões ampliadas durante os jogos. Saiba mais: https://t.co/XYI6MoLFQt https://t…
+date = Sun Jul 10 03:03:26 +0000 2016| user = leitora_lecteur| text = RT @fioreze2004: Camisetas oficiais das Olimpíadas #Rio2016 ! FOOOOORA TEMER! https://t.co/4ZW6GYqw3S
+date = Sun Jul 10 03:02:39 +0000 2016| user = opedroblanc| text = @Rio2016 engraçado que pra isso o Rio arruma o dinheiro
+date = Sun Jul 10 03:01:16 +0000 2016| user = tadeu_alves| text = RT @fioreze2004: Camisetas oficiais das Olimpíadas #Rio2016 ! FOOOOORA TEMER! https://t.co/4ZW6GYqw3S
+date = Sun Jul 10 03:00:14 +0000 2016| user = wyllison| text = RT @fioreze2004: Camisetas oficiais das Olimpíadas #Rio2016 ! FOOOOORA TEMER! https://t.co/4ZW6GYqw3S
+date = Sun Jul 10 02:55:45 +0000 2016| user = florcammarata| text = Salimos garotos? #Rio2016🇧🇷 @ Rio de Janeiro - Copacabana https://t.co/uAO6m1j5VU
+date = Sun Jul 10 02:54:35 +0000 2016| user = JorgeGomes17_| text = @mantosdofutebol @Rio2016 @vascodagama @UmbroBrasil essa listra lateral da camisa ao calção está muito Nike dms já.
+date = Sun Jul 10 02:53:43 +0000 2016| user = cida0_0| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Sun Jul 10 02:50:50 +0000 2016| user = fabriciogds| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 02:48:52 +0000 2016| user = Kaah_Um_Amorzin| text = RT @CocaCola_Br: .@WhoIsCarlos com a #TochaOlímpica #Rio2016 em Caxias do Sul. #IssoÉOuro #DeCaronaComATocha https://t.co/e8ayG5OOCJ https:…
+date = Sun Jul 10 02:47:45 +0000 2016| user = MariaCa55233829| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 02:44:08 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Surto Olímpico Sorteio define os grupos da primeira fase do vôlei de praia do Rio ... Rio 2016… https://t.co/XoI9OL5AM9
+date = Sun Jul 10 02:42:22 +0000 2016| user = BRmobilidade| text = RT @OperacoesRio: #Rio2016 | Restrições à circulação de caminhões ampliadas durante os jogos. Saiba mais: https://t.co/XYI6MoLFQt https://t…
+date = Sun Jul 10 02:42:06 +0000 2016| user = arcanjocesar| text = CADE ARCANJO CESAR NO GRUPO? PROCURE ENCONTRE&gt; UMA DICA,JA AJUDOU A POLICIA ESPECIALIZADA EM 1995, CANTEMOS https://t.co/9BZFhjAx6G #RIO2016
+date = Sun Jul 10 02:41:56 +0000 2016| user = ManuelGSMachado| text = RT @EstadaoEsporte: Soldado é visto empunhando nada menos que uma bazuca no Maracanã durante teste do @Rio2016. https://t.co/chOv06mj7p htt…
+date = Sun Jul 10 02:41:43 +0000 2016| user = ManuelGSMachado| text = @EstadaoEsporte @jornalistavitor @Rio2016 não é uma bazuca, mas um míssil antiaéreo.
+date = Sun Jul 10 02:39:08 +0000 2016| user = canassao| text = @TheBlurBarbosa @KSSrbije @Rio2016 leandrinho eh foda!! 👍🏻👏🏻
+date = Sun Jul 10 02:36:43 +0000 2016| user = vhpirolla| text = RT @Rio2016: Mais um monumento à tocha olimpica, agora em Criciúma. #RumoAoRio #ChamaOlimpica https://t.co/o1vJ0tIS4k
+date = Sun Jul 10 02:36:29 +0000 2016| user = flymeupresente| text = RT @CocaCola_Br: .@WhoIsCarlos com a #TochaOlímpica #Rio2016 em Caxias do Sul. #IssoÉOuro #DeCaronaComATocha https://t.co/e8ayG5OOCJ https:…
+date = Sun Jul 10 02:35:45 +0000 2016| user = vhpirolla| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 02:34:22 +0000 2016| user = eluisfutbol| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Sun Jul 10 02:31:10 +0000 2016| user = RubensRosemann| text = Chegada da Tocha Olímpica na Prefeitura de Caxias do Sul 
+#RIO2016 https://t.co/6ilnD1FIr6
+date = Sun Jul 10 02:29:23 +0000 2016| user = rogeriobuters1| text = RT @EdGaarcia: @AndersonCrocamo @OportoTito 
+
+Quem ganhará bilhões com a #Rio2016?
+Não são os Brasileiros, e nem os Cariocas.
+date = Sun Jul 10 02:28:51 +0000 2016| user = rafapaixao1| text = @Rio2016 @radioeldorado @ChamaOlimpica Sombrio não fica no Rio Grande do Sul e sim em Santa Catarina.
+date = Sun Jul 10 02:27:09 +0000 2016| user = Jottaele| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 02:26:01 +0000 2016| user = rafapaixao1| text = RT @Rio2016: Mais um monumento à tocha olimpica, agora em Criciúma. #RumoAoRio #ChamaOlimpica https://t.co/o1vJ0tIS4k
+date = Sun Jul 10 02:24:09 +0000 2016| user = juanromerotv| text = RT @konther: categorias do snapchat:
+
+revistaabsurda: emojis em movimento
+konther: deus abençoe o meu rio de janeiro
+rio2016: a tocha
+date = Sun Jul 10 02:23:16 +0000 2016| user = ademirregis| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 02:23:09 +0000 2016| user = konther| text = categorias do snapchat:
+
+revistaabsurda: emojis em movimento
+konther: deus abençoe o meu rio de janeiro
+rio2016: a tocha
+date = Sun Jul 10 02:21:50 +0000 2016| user = isadora_1903| text = RT @KemillyDaros: A melhor foto que tirei nos últimos dias! Lindo lindo lindo. 👏🏻👏🏻 #Rio2016 #TochaOlimpica #SombrioSC https://t.co/c7aIjIZ…
+date = Sun Jul 10 02:21:07 +0000 2016| user = erivaldoalfredo| text = RT @Rio2016: Martinho Eduardo Orige é o rei das embaixadinhas em Araranguá. Em 2012, marcou 25 horas de embaixadinhas na cidade. https://t.…
+date = Sun Jul 10 02:19:35 +0000 2016| user = hightenfor| text = RT @Brasil2016: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. O @garcialuan93, do @vascodagama, te chama pra torcer junto!🏅⚽ https:…
+date = Sun Jul 10 02:16:53 +0000 2016| user = RafaelDeivson| text = Sem Palavras... 😂😂😂😂😂😂
+. 
+#rio2016olympics #rio2016 #mico #vergonhanacara #tochaolimpica… https://t.co/5pTjLfrq7S
+date = Sun Jul 10 02:16:36 +0000 2016| user = ana_vitoriah| text = hhahaaha bem assim #olimpiadas2016 #Rio2016 https://t.co/ozMLTSDu5y
+date = Sun Jul 10 02:13:02 +0000 2016| user = peboletto| text = @diegokvelho @Rio2016 @ChamaOlimpica não vejo a hora que o domínio chegue até Garopaba/RS heheh
+date = Sun Jul 10 02:11:56 +0000 2016| user = diegokvelho| text = @peboletto @Rio2016 @ChamaOlimpica sombrio/RS? Começamos a incorporação de Santa Catarina à República Riograndense?
+date = Sun Jul 10 02:06:59 +0000 2016| user = 1Laconico| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 02:06:37 +0000 2016| user = arcanjocesar| text = SOMOS TERRA E MAR, O DESERTO E AR&gt; DIFERENTE DEMAIS, DEIXE TUDO PRA TRAS E VAMOS NAS OLIMPÍADAS RIO 2016&gt; https://t.co/epbiGcKI2i #RIO2016
+date = Sun Jul 10 02:06:00 +0000 2016| user = macheriemie| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 02:00:30 +0000 2016| user = OperacoesRio| text = #Rio2016 | Restrições à circulação de caminhões ampliadas durante os jogos. Saiba mais: https://t.co/XYI6MoLFQt https://t.co/66OWsQLHSi
+date = Sun Jul 10 01:59:23 +0000 2016| user = peboletto| text = A olimpíada é motivo de orgulho etc https://t.co/LtPnLtmZXn
+date = Sun Jul 10 01:57:11 +0000 2016| user = maisolimpico| text = +maisolímpico Rio 2016 - Golfe
+
+https://t.co/nUBujessiG
+
+#golfe #maisesporte #maisolímpico #Rio2016 https://t.co/DE3YjhGeN0
+date = Sun Jul 10 01:57:11 +0000 2016| user = Mais_Esporte| text = +maisolímpico Rio 2016 - Golfe
+
+https://t.co/W6JcDJdZJb
+
+#golfe #maisesporte #maisolímpico #Rio2016 https://t.co/oZCz67W5KO
+date = Sun Jul 10 01:57:11 +0000 2016| user = luiscaventura| text = +maisolímpico Rio 2016 - Golfe
+
+https://t.co/Ex41tkhIZb
+
+#golfe #maisesporte #maisolímpico #Rio2016 https://t.co/watwHPGzkg
+date = Sun Jul 10 01:56:24 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Definida a equipe britânica do hipismo para o @Rio2016 https://t.co/EJXtROknyL https://t.co/DjBEiubAIp
+date = Sun Jul 10 01:56:23 +0000 2016| user = Fabiano_1914| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 01:56:19 +0000 2016| user = arcanjocesar| text = ESTOU NA CREDENCIAL DAS RIO2016 NA CIDADE DO SAMBA&gt;E SEM MEU CARIMBO NÃO VAI A LUGAR NENHUM&gt;FISCALIZANDO&gt;CARIMBADOR  https://t.co/jYASVcacQG
+date = Sun Jul 10 01:56:12 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A convocação da ginástica artística para o @Rio2016 https://t.co/Z2ByDYzbCI https://t.co/jVirJeKaUU
+date = Sun Jul 10 01:55:51 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Croácia e Sérvia garantem vaga no basquete masculino do @Rio2016 https://t.co/viGe2sVcfM https://t.co/rliO2s8ZTQ
+date = Sun Jul 10 01:55:49 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Jornal diz que @usainbolt será convocada para o @Rio2016 na segunda-feira https://t.co/NJpyMEybF0 https://t.co/8LBF9S9as7
+date = Sun Jul 10 01:55:43 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A @USAWP anuncia a equipe masculina para o @Rio2016 https://t.co/ejEUqrywCW https://t.co/BsZmMLEi7K
+date = Sun Jul 10 01:55:33 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...Definidos os grupos do Vôlei de Praia para o @Rio2016 https://t.co/sbzYxvpckk https://t.co/K8BPAcM7…
+date = Sun Jul 10 01:55:27 +0000 2016| user = Andrecrwz| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 01:54:05 +0000 2016| user = GuiIhorme| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 01:53:33 +0000 2016| user = arcanjocesar| text = UMA DAS MÚSICAS QUE ESCUTO CAMINHADO Á OLIMPIADAS COM MEU FONE DE OUVIDO? CANTEMOS E PUSH IT TO THE LIMIT! VIVA A RIO 2016 #RIO2016
+date = Sun Jul 10 01:52:17 +0000 2016| user = SurtoOlimpico| text = Definida a equipe britânica do hipismo para o @Rio2016 https://t.co/EJXtROknyL https://t.co/DjBEiubAIp
+date = Sun Jul 10 01:50:30 +0000 2016| user = Janianecastro13| text = RT @SurtoOlimpico: A convocação da ginástica artística para o @Rio2016 https://t.co/Z2ByDYzbCI https://t.co/jVirJeKaUU
+date = Sun Jul 10 01:49:31 +0000 2016| user = SurtoOlimpico| text = A convocação da ginástica artística para o @Rio2016 https://t.co/Z2ByDYzbCI https://t.co/jVirJeKaUU
+date = Sun Jul 10 01:46:29 +0000 2016| user = arcanjocesar| text = CANTEMOS COM AS VITÓRIAS E ALEGRIAS QUE DEUS NOS FEZ&gt; https://t.co/zY1l8qwe9S ABRAÇOS E FIQUEMOS FELIZES TODOS OS DIAS&gt; #RIO2016
+date = Sun Jul 10 01:45:17 +0000 2016| user = IuryRochaa| text = Sombrio no Rio Grande do Sul??? É Santa Catarina, pô!!! https://t.co/HhQEqYpEqB
+date = Sun Jul 10 01:44:25 +0000 2016| user = IuryRochaa| text = @Rio2016 @ChamaOlimpica Sombrio é em Santa Catarina
+date = Sun Jul 10 01:43:47 +0000 2016| user = SurtoOlimpico| text = Croácia e Sérvia garantem vaga no basquete masculino do @Rio2016 https://t.co/viGe2sVcfM https://t.co/rliO2s8ZTQ
+date = Sun Jul 10 01:43:13 +0000 2016| user = SurtoOlimpico| text = Jornal diz que @usainbolt será convocada para o @Rio2016 na segunda-feira https://t.co/NJpyMEybF0 https://t.co/8LBF9S9as7
+date = Sun Jul 10 01:41:36 +0000 2016| user = SurtoOlimpico| text = A @USAWP anuncia a equipe masculina para o @Rio2016 https://t.co/ejEUqrywCW https://t.co/BsZmMLEi7K
+date = Sun Jul 10 01:41:08 +0000 2016| user = RADIOCIDADEJUN| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio https://t.co/RbBciKLG46
+date = Sun Jul 10 01:41:07 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Brazilian Voice Com Jogos Rio 2016, busca por hotéis no Brasil aumenta Brazilian Voice Os jogos… https://t.co/PCxYj7bF8o
+date = Sun Jul 10 01:39:59 +0000 2016| user = Tipalopoli| text = O homem mais rápido do mundo... Amanhã no Esporte Espetacular... #Bolt #Rio2016… https://t.co/PLeY090hP1
+date = Sun Jul 10 01:39:58 +0000 2016| user = wdinoue| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 01:37:47 +0000 2016| user = lfcohen| text = RT @EBCEsporte: Comitê @Rio2016 divulga lista de itens proibidos nos locais da competição https://t.co/vg0hGvuTp9 https://t.co/mOSjDqeIl9
+date = Sun Jul 10 01:36:29 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...Definidos os grupos do Vôlei de Praia para o @Rio2016 https://t.co/sbzYxvpckk https://t.co/K8BPAcM7Qo
+date = Sun Jul 10 01:36:07 +0000 2016| user = cabraldudu| text = O Rio de Janeiro é a síntese do dito "Por fora bela viola, por dentro pão bolorento"! #Rio2016
+date = Sun Jul 10 01:34:51 +0000 2016| user = Alfredosborba| text = RT @Rio2016: Escoltado pela equipe Ninho da Águia, Fábio Roese conduziu a @chamaOlimpica de paraglider, até Nova Petrópolis. https://t.co/X…
+date = Sun Jul 10 01:30:40 +0000 2016| user = mayaeduardaa| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 01:28:44 +0000 2016| user = oficialtresrios| text = Cidade de Três Rios já saiu! https://t.co/5zIneF9bqv Graças a @jeffersonns3 @OperacoesRio #rio2016 #tresrios
+date = Sun Jul 10 01:27:42 +0000 2016| user = djluizmello| text = Lagoa Bier Fest. A foto diz tudo :) #LMProEventos #EnergyTruck #musicaboa #rio2016 https://t.co/DeOGXytBD3
+date = Sun Jul 10 01:27:23 +0000 2016| user = sylmargel| text = RT @EstadaoEsporte: "Podemos vencer", diz @neymarjr sobre futebol brasileiro no @Rio2016. Confira em  https://t.co/GHXXvavfdv https://t.co/…
+date = Sun Jul 10 01:26:42 +0000 2016| user = flaviofrajola| text = Hoje que fui reparar na tocha olímpica Rio2016.
+Na esquerda o morro… https://t.co/Psm172pBbJ
+date = Sun Jul 10 01:25:35 +0000 2016| user = henrypster| text = 1 milhao de reais https://t.co/CdfkvqE215
+date = Sun Jul 10 01:24:08 +0000 2016| user = laupiinho| text = RT @Rio2016: Vinicius aproveitando a vista da Praia da Guarita, em Torres. https://t.co/4O3KiQXJQK
+date = Sun Jul 10 01:24:05 +0000 2016| user = dlarruscain| text = @LucianaDariva @Rio2016 @ChamaOlimpica depois do Paraná tudo é RS 😂😂😂😂
+date = Sun Jul 10 01:23:38 +0000 2016| user = KemillyDaros| text = A melhor foto que tirei nos últimos dias! Lindo lindo lindo. 👏🏻👏🏻 #Rio2016 #TochaOlimpica #SombrioSC https://t.co/c7aIjIZXCU
+date = Sun Jul 10 01:22:46 +0000 2016| user = PhilmaA| text = RT @OficialJLPinto: ¡Nos vamos para Rio de Janeiro! #Rio2016 #Honduras http://t.co/FyamMZr98B
+date = Sun Jul 10 01:21:55 +0000 2016| user = Berinjelo| text = @LucianaDariva @Rio2016 @ChamaOlimpica hehehe que fiasco na geografia
+date = Sun Jul 10 01:20:56 +0000 2016| user = skynettTest| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/UR/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+LngB0hzM
+date = Sun Jul 10 01:20:52 +0000 2016| user = lenhagui| text = RT @LucianaDariva: ~Sombrio, no Rio Grande do Sul~ 🤔 https://t.co/z3z2coLW4f
+date = Sun Jul 10 01:19:48 +0000 2016| user = Alfredosborba| text = RT @Rio2016: Rosângela Dalcin é atleta paralimpica de tênis de mesa desde 1996 e já participou da seleção competindo no exterior. https://t…
+date = Sun Jul 10 01:19:29 +0000 2016| user = DjalmaBeraldo| text = RT @SeuEsporteBR: Grupos do Naipe Masculino do Vôlei de Praia dos Jogos Olímpicos Rio 2016! #RoadToRio #Rio2016 https://t.co/IFI0AUDfom
+date = Sun Jul 10 01:19:24 +0000 2016| user = Alfredosborba| text = RT @cpboficial: Bom dia, sabadão! Faltam 60 dias para os #JogosParalímpicos @Rio2016! 😬 https://t.co/zb3BMfV4uN
+date = Sun Jul 10 01:19:03 +0000 2016| user = djluizmello| text = Lagoa Bier Fest. A foto doz tudo :) #LMProEventos #EnergyTruck #musicaboa #rio2016 @ Parque da… https://t.co/FakHZAgEdu
+date = Sun Jul 10 01:18:50 +0000 2016| user = critico_lost| text = RT @EdGaarcia: @AndersonCrocamo @OportoTito 
+
+Quem ganhará bilhões com a #Rio2016?
+Não são os Brasileiros, e nem os Cariocas.
+date = Sun Jul 10 01:18:12 +0000 2016| user = caneer91| text = RT @CocaCola_Br: .@WhoIsCarlos com a #TochaOlímpica #Rio2016 em Caxias do Sul. #IssoÉOuro #DeCaronaComATocha https://t.co/e8ayG5OOCJ https:…
+date = Sun Jul 10 01:17:36 +0000 2016| user = SeuEsporteBR| text = Grupos do Naipe Masculino do Vôlei de Praia dos Jogos Olímpicos Rio 2016! #RoadToRio #Rio2016 https://t.co/IFI0AUDfom
+date = Sun Jul 10 01:17:25 +0000 2016| user = LucianaDariva| text = ~Sombrio, no Rio Grande do Sul~ 🤔 https://t.co/z3z2coLW4f
+date = Sun Jul 10 01:17:24 +0000 2016| user = Julianna2509| text = RT @Brasil2016: Pra ser justo com o grande ídolo: o Estádio Nilton Santos com os aros olímpicos! 👍 📷 Gabriel Nascimento/ @Rio2016 https://t…
+date = Sun Jul 10 01:15:25 +0000 2016| user = juniorlangdon| text = Finalmente #Rio2016 @TomRio2016 https://t.co/twObG3ol3C
+date = Sun Jul 10 01:15:03 +0000 2016| user = SeuEsporteBR| text = Grupos do Naipe Feminino do Vôlei de Praia dos Jogos Olímpicos Rio 2016! #RoadToRio #Rio2016 https://t.co/gMv2Kszq7T
+date = Sun Jul 10 01:14:00 +0000 2016| user = QUELVAS| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 01:13:55 +0000 2016| user = GoncalvesCR| text = Onde mesmo? https://t.co/w2tKEzx8vU
+date = Sun Jul 10 01:13:02 +0000 2016| user = Music_maestro| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 01:12:49 +0000 2016| user = sylmargel| text = RT @EstadaoEsporte: Soldado é visto empunhando nada menos que uma bazuca no Maracanã durante teste do @Rio2016. https://t.co/chOv06mj7p htt…
+date = Sun Jul 10 01:11:56 +0000 2016| user = mariajo66360450| text = RT @tramoya71: Americano Fala Sobre Olimpíadas #Rio2016 https://t.co/0ewJWqvcKQ a pala de @dilmabr @LulapeloBrasil #bRASIL é chacota no #mu…
+date = Sun Jul 10 01:10:42 +0000 2016| user = annazion| text = Eu só quero saber uma coisa. O @OUrsoOficial  estará em Floripa amanhã acompanhando a tocha da @Rio2016  ??
+date = Sun Jul 10 01:09:11 +0000 2016| user = EdGaarcia| text = @AndersonCrocamo @OportoTito 
+
+Quem ganhará bilhões com a #Rio2016?
+Não são os Brasileiros, e nem os Cariocas.
+date = Sun Jul 10 01:07:42 +0000 2016| user = glauco_st_andre| text = Depois da Grécia, a Croacia vence a favorita Itália no OT, segue a tradição e fica com uma das 3 vagas do 🏀 # olimpiadas #Rio2016
+date = Sun Jul 10 01:07:22 +0000 2016| user = And_Marcelle| text = Hoje foi dia de treinamento no galeão. 
+
+#energiacontagiante #volunteers #rio2016 #treinamento… https://t.co/4glab9rGNG
+date = Sun Jul 10 01:07:14 +0000 2016| user = blueskyvibes| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 01:07:02 +0000 2016| user = sylmargel| text = RT @EstadaoEsporte: MATÉRIA ESPECIAL! As estrelas, os ausentes e as dúvidas para o @Rio2016. Confira em https://t.co/VTHWmjc52H https://t.c…
+date = Sun Jul 10 01:06:49 +0000 2016| user = RbenMrquez| text = RT @formadoresCOV: #EdgarMuñoz se anota para #Rio2016 https://t.co/q1zigek8Dn #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://…
+date = Sun Jul 10 01:06:35 +0000 2016| user = andandrea| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 01:06:28 +0000 2016| user = Amarchioretto_| text = RT @Rio2016: Enquanto isso... O @ViniciusRio2016 curte a cascata do Caracol. #RumoAoRio https://t.co/Mw82jCbqkO
+date = Sun Jul 10 01:05:03 +0000 2016| user = EstadaoEsporte| text = ZEBRA? Conheça brasileiros que prometem surpreender no @Rio2016 na matéria especial: https://t.co/Zam6ER1C2K https://t.co/X4bg9xLqol
+date = Sun Jul 10 01:04:17 +0000 2016| user = OlympicsReTweet| text = RT @skyrosnoticias: #EdgarMuñoz se anota para #Rio2016 https://t.co/m8NMA7L6EQ #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https:/…
+date = Sun Jul 10 01:04:16 +0000 2016| user = OlympicsReTweet| text = RT @formadoresCOV: #EdgarMuñoz se anota para #Rio2016 https://t.co/q1zigek8Dn #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://…
+date = Sun Jul 10 01:03:04 +0000 2016| user = _ecoponte| text = RT @OperacoesRio: #Rio2016 Linha Amarela terá mudanças a partir do dia 25/07. https://t.co/TohnkIqvZx https://t.co/rTnGolvWr5
+date = Sun Jul 10 01:02:55 +0000 2016| user = LukazTG| text = The latest Aviação de hoje! https://t.co/CoGcKWWwIb Thanks to @MeloGongoni @WhyDouglasReis @Marcotuliofranc #rio2016 #fotosfab
+date = Sun Jul 10 01:02:53 +0000 2016| user = dwaismark| text = Conheça os atletas do #TimeIsrael @Rio2016 https://t.co/kkkwmTsAlb #RumoAoRio
+date = Sun Jul 10 01:02:31 +0000 2016| user = alephar| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 01:00:55 +0000 2016| user = animal_globe| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 01:00:18 +0000 2016| user = COV_TV| text = #EdgarMuñoz se anota para #Rio2016 https://t.co/QM7uecBQPA #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://t.co/pP8vedcE8k
+date = Sun Jul 10 01:00:15 +0000 2016| user = skyrosnoticias| text = #EdgarMuñoz se anota para #Rio2016 https://t.co/m8NMA7L6EQ #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://t.co/dUftlTiGIm
+date = Sun Jul 10 01:00:15 +0000 2016| user = NelsonCanache| text = #EdgarMuñoz se anota para #Rio2016 https://t.co/kQZBk759xQ #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016... https://t.co/Z8Ya1aEyMv
+date = Sun Jul 10 01:00:14 +0000 2016| user = fotoskyros| text = #EdgarMuñoz se anota para #Rio2016 https://t.co/8o92H9BNdc #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://t.co/G5gTiW5L8F
+date = Sun Jul 10 01:00:14 +0000 2016| user = rodriguesave| text = #EdgarMuñoz se anota para #Rio2016 https://t.co/iE0CTzPW3B #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://t.co/Dvi9o884T8
+date = Sun Jul 10 01:00:11 +0000 2016| user = formadoresCOV| text = #EdgarMuñoz se anota para #Rio2016 https://t.co/q1zigek8Dn #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://t.co/Ith2k1I6LL
+date = Sun Jul 10 01:00:10 +0000 2016| user = juan21azuaje| text = #EdgarMuñoz se anota para #Rio2016 https://t.co/suhzEk1Vp5 #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://t.co/olNtzfuZa6
+date = Sun Jul 10 01:00:10 +0000 2016| user = NelsonCanache| text = #EdgarMuñoz se anota para #Rio2016 https://t.co/kQZBk759xQ #Skyros #PreOlimpicoDeBoxeoVARGAS2016 #SkyrosRio2016 https://t.co/lpUWN7Q5eT
+date = Sun Jul 10 01:00:00 +0000 2016| user = KarinaTravassos| text = RT @Rio2016: Abriu! Venha conhecer a Megastore Rio 2016. Fica na Praia de Copacabana, em frente à rua Figueiredo Magalhães. https://t.co/Dv…
+date = Sun Jul 10 00:58:44 +0000 2016| user = Carlosan_lopes| text = RT @Rio2016: Mais um monumento à tocha olimpica, agora em Criciúma. #RumoAoRio #ChamaOlimpica https://t.co/o1vJ0tIS4k
+date = Sun Jul 10 00:58:23 +0000 2016| user = tramoya71| text = Americano Fala Sobre Olimpíadas #Rio2016 https://t.co/0ewJWqvcKQ a pala de @dilmabr @LulapeloBrasil #bRASIL é chacota no #mundo #FDS
+date = Sun Jul 10 00:57:58 +0000 2016| user = Gabriel_Irene16| text = RT @g1rio: MPF apura se 'tapete de lixo' é indício de má gestão pública para Olimpíada https://t.co/4VGPoO7o3t
+date = Sun Jul 10 00:57:57 +0000 2016| user = BrunoArruda93| text = RT @bbr_oliveira: Classificado para os Jogos Olímpicos #Rio2016!! Que honra e que responsabilidade será… https://t.co/7KS4JOZyP5
+date = Sun Jul 10 00:57:25 +0000 2016| user = Carlosan_lopes| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 00:54:45 +0000 2016| user = motivation_monk| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 00:54:31 +0000 2016| user = Davicunhaaa| text = @Rio2016 @ChamaOlimpica  Rio Grande do Sul ? Kkkkk acabaram com a minha cidade né
+date = Sun Jul 10 00:54:06 +0000 2016| user = Davicunhaaa| text = RT @Rio2016: A cidade de Sombrio, no Rio Grande do Sul, inaugurou um monumento para a @ChamaOlimpica. Ficou bonito! #RumoAoRio https://t.co…
+date = Sun Jul 10 00:53:52 +0000 2016| user = mestre_samuel| text = RT @Brasil2016: O Estádio Olímpico @Rio2016, famoso Engenhão, já "carimbado" com os aros na pista. 📷 Rio 2016/Gabriel Nascimento https://t.…
+date = Sun Jul 10 00:53:06 +0000 2016| user = EmersonDaviB| text = RT @OperacoesRio: #Rio2016 | Restrições à circulação de caminhões ampliadas durante os jogos. Veja mais: https://t.co/XYI6MoLFQt https://t.…
+date = Sun Jul 10 00:52:59 +0000 2016| user = artedabola| text = RT @EstadaoEsporte: "Podemos vencer", diz @neymarjr sobre futebol brasileiro no @Rio2016. Confira em  https://t.co/GHXXvavfdv https://t.co/…
+date = Sun Jul 10 00:50:40 +0000 2016| user = martinhagatosa| text = "Podemos vencer", diz #Neymar sobre futebol brasileiro no @Rio2016 @EstadaoEsporte https://t.co/9SgA6iKnjV
+date = Sun Jul 10 00:50:31 +0000 2016| user = JooPedro17| text = Grupo do Brasil no basquete #Rio2016 - Brasil, Argentina, Espanha, Lituânia, Croácia e Nigéria.
+date = Sun Jul 10 00:49:42 +0000 2016| user = Alfredosborba| text = RT @Brasil2016: #Faltam60Dias Conheça as medalhas olímpicas e paralímpicas dos Jogos #Rio2016. https://t.co/A4Tk66ugLw https://t.co/IeQ4Egi…
+date = Sun Jul 10 00:49:17 +0000 2016| user = CARMENNOBREGA| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:48:48 +0000 2016| user = hiellima| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 00:48:45 +0000 2016| user = viral_avenger| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 00:47:40 +0000 2016| user = musfan4| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Sun Jul 10 00:46:08 +0000 2016| user = ramon_magnus| text = RT @Rio2016: Vinicius aproveitando a vista da Praia da Guarita, em Torres. https://t.co/4O3KiQXJQK
+date = Sun Jul 10 00:45:32 +0000 2016| user = leorodriguesflu| text = RT @alexpussieldi: 7 dos 20 melhores golfistas mundo anunciaram que não vem para o #Rio2016. Motivo é o Zika, mas a verdade é o $$$$$.
+date = Sun Jul 10 00:45:03 +0000 2016| user = EstadaoEsporte| text = "Podemos vencer", diz @neymarjr sobre futebol brasileiro no @Rio2016. Confira em  https://t.co/GHXXvavfdv https://t.co/PjSd0rgTwb
+date = Sun Jul 10 00:42:11 +0000 2016| user = BradThomas004| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 00:41:19 +0000 2016| user = BrunoMithel| text = RT @transamericapop: .@Projota e Thiaguinho [@thiaguinhocomth] interpretam música-tema oficial da @Rio2016  https://t.co/dO6wmyvFBh https:/…
+date = Sun Jul 10 00:41:18 +0000 2016| user = teopmarques| text = RT @InformeRJO: 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos: Sindicato dos Médicos e Cremerj deram e... https://t.…
+date = Sun Jul 10 00:40:19 +0000 2016| user = crvgester| text = RT @garcialuan93: Estou muito feliz, realizando um sonho de moleque hoje e devo tudo ao Vasco. Que Deus nos abençoe. #Rio2016 https://t.co/…
+date = Sun Jul 10 00:37:54 +0000 2016| user = dudu_olvra| text = RT @Brasil2016: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. O @garcialuan93, do @vascodagama, te chama pra torcer junto!🏅⚽ https:…
+date = Sun Jul 10 00:37:54 +0000 2016| user = rafacezaar| text = RT @EstadaoEsporte: Soldado é visto empunhando nada menos que uma bazuca no Maracanã durante teste do @Rio2016. https://t.co/chOv06mj7p htt…
+date = Sun Jul 10 00:37:53 +0000 2016| user = chris_gar| text = Chris Gar Notícias da Timeline já saiu! https://t.co/xwrLWj1wey Graças a @Abelheira #maracanã #rio2016
+date = Sun Jul 10 00:36:18 +0000 2016| user = thevideopage| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 00:35:36 +0000 2016| user = kaarenhazza| text = RT @EstadaoEsporte: Soldado é visto empunhando nada menos que uma bazuca no Maracanã durante teste do @Rio2016. https://t.co/chOv06mj7p htt…
+date = Sun Jul 10 00:34:53 +0000 2016| user = FCGLOBORIO| text = RT @Rio2016: As atletas da Fundação Municipal de Esportes de Criciúma vieram prestigiar a condutora Emmanuelly de Oliveira. https://t.co/Yh…
+date = Sun Jul 10 00:33:19 +0000 2016| user = crispassinato| text = RT @g1rio: MPF apura se 'tapete de lixo' é indício de má gestão pública para Olimpíada https://t.co/4VGPoO7o3t
+date = Sun Jul 10 00:33:15 +0000 2016| user = crispassinato| text = RT @g1rio: Integrantes do COI fazem última visita às instalações da Olimpíada do Rio https://t.co/rVp7auPXy8
+date = Sun Jul 10 00:30:02 +0000 2016| user = vindl_vids| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 00:29:51 +0000 2016| user = cadu_donato| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:28:34 +0000 2016| user = guilhermecorbym| text = RT @EstadaoEsporte: Soldado é visto empunhando nada menos que uma bazuca no Maracanã durante teste do @Rio2016. https://t.co/chOv06mj7p htt…
+date = Sun Jul 10 00:28:29 +0000 2016| user = pedroamondega| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:26:41 +0000 2016| user = BrunoCoelho_| text = 🏆🏅 #OlympicGames #Rio2016 @ Arena Corinthians https://t.co/OzwBTtP1ZM
+date = Sun Jul 10 00:25:09 +0000 2016| user = EstadaoEsporte| text = Soldado é visto empunhando nada menos que uma bazuca no Maracanã durante teste do @Rio2016. https://t.co/chOv06mj7p https://t.co/awraO8ARCp
+date = Sun Jul 10 00:24:20 +0000 2016| user = TALiSmachado| text = RT @Rio2016: A cidade de Sombrio, no Rio Grande do Sul, inaugurou um monumento para a @ChamaOlimpica. Ficou bonito! #RumoAoRio https://t.co…
+date = Sun Jul 10 00:24:01 +0000 2016| user = ricardoscampos| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:23:22 +0000 2016| user = nikitabia| text = RT @OperacoesRio: #RIO2016 | FAIXA OLÍMPICA - Implantação das faixas a partir do dia 25 de julho. https://t.co/X8gYjBxRJk https://t.co/VP1z…
+date = Sun Jul 10 00:21:44 +0000 2016| user = 2ParkCity| text = RT @renatapereiraTV: 🇧🇷 Teste seus conhecimentos sobre o Rio #Rio2016 #Falta1Mês https://t.co/9E5XKD5czR https://t.co/URLngB0hzM
+date = Sun Jul 10 00:19:50 +0000 2016| user = juliamichelow| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 00:19:50 +0000 2016| user = L_Dornelles| text = Toalha de praia com símbolo olímpico 200. Bonequinho pequeno 115. Boné 75. Camelô vai fazer festa. Traz $, gente. Preços absurdos. #Rio2016
+date = Sun Jul 10 00:18:59 +0000 2016| user = pandachapada| text = @SelauLuana @Rio2016 @ChamaOlimpica não acredito q perdi isso
+date = Sun Jul 10 00:18:29 +0000 2016| user = pandachapada| text = RT @Rio2016: Olha o estilo do grupo Born Street de dança de rua na festa da @ChamaOlimpica, em Torres. https://t.co/5UaVlBDSfY
+date = Sun Jul 10 00:17:49 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Ídolo do @SCInternacional, Tinga conduziu a @chamaolimpica na frente do Beira Rio #ChamaOlimpica https://t.co/z4PzLZKnT4
+date = Sun Jul 10 00:17:08 +0000 2016| user = Cristiano_1966| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:17:08 +0000 2016| user = AlbertoSanttos| text = RT @Brasil2016: #RumoAoRio No @Rio2016, 19 atletas baianos já têm presença confirmada, 12 Olímpicos e 7 Paralímpicos. https://t.co/17v9vYpC…
+date = Sun Jul 10 00:16:31 +0000 2016| user = Brasil2016| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 00:15:06 +0000 2016| user = arevengerstale| text = RT @cpboficial: Bom dia, sabadão! Faltam 60 dias para os #JogosParalímpicos @Rio2016! 😬 https://t.co/zb3BMfV4uN
+date = Sun Jul 10 00:14:43 +0000 2016| user = mateussanntana| text = RT @CBF_Futebol: #SeleçãoFeminina recebe Daniela Alves, medalhista olímpica em 2004 e 2008 #Rio2016 https://t.co/r0yjIuPIAG https://t.co/iY…
+date = Sun Jul 10 00:14:41 +0000 2016| user = DigoRezende| text = Para que tá feio, Sombrio é em SC. https://t.co/sy9cyrFFpk
+date = Sun Jul 10 00:14:10 +0000 2016| user = Gabycrvg31| text = RT @Brasil2016: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. O @garcialuan93, do @vascodagama, te chama pra torcer junto!🏅⚽ https:…
+date = Sun Jul 10 00:12:48 +0000 2016| user = welldohnal| text = Amanhã mais um programa com babação de ovo da Globo pelo Usain Bolt. Aguarde que tem muito mais até a #Rio2016
+date = Sun Jul 10 00:11:28 +0000 2016| user = rayadictotx| text = @axelsolisrmz @rio2016_es @Rayados brujo,brujo
+date = Sun Jul 10 00:11:05 +0000 2016| user = riodejaneiro_hj| text = MPF apura se 'tapete de lixo' é indício de má gestão pública para Olimpíada https://t.co/Cz5kpsGGNe
+date = Sun Jul 10 00:09:20 +0000 2016| user = Kitri1| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sun Jul 10 00:09:11 +0000 2016| user = FabianaBentes| text = "RIO2016: SEM TEMPO PARA MAIS CRÍTICAS entrevista com Lamartine DaCosta" no @LinkedIn https://t.co/bLKwIppuDF
+date = Sun Jul 10 00:08:17 +0000 2016| user = barroso80_| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:07:09 +0000 2016| user = rafaol1089| text = @josefortunati @Rio2016 @ChamaOlimpica @patriciapoetap agora vão acabar os latrocínios e a falta de vagas nos hospitais e escolas. ..
+date = Sun Jul 10 00:07:02 +0000 2016| user = evejoart| text = A cartoon a day until the games Rio! 1 ilustra por dia até início dos jogos! @Rio2016 #illustration #tennis #cartoon https://t.co/uznh2sWyBf
+date = Sun Jul 10 00:06:56 +0000 2016| user = menezes_edilson| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:06:52 +0000 2016| user = Betramela| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:06:46 +0000 2016| user = otaviokrauss| text = Tráfego de veículos de carga na Rio-Niterói s/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+erá restrito na Olimpíada https://t.co/dpL46S5HsM
+date = Sun Jul 10 00:05:16 +0000 2016| user = KarolSaeko| text = RT @voleisuperliga: Brasil x EUA amanhã no @SporTV. Seria um prévia da final olímpica? Quem vai sair com o título?  #FIVBGrandPrix #Rio2016…
+date = Sun Jul 10 00:02:43 +0000 2016| user = PiadoDjanho_| text = @Rio2016 @ChamaOlimpica uma vergonha atrás da outra nessas olimpíadas. Até na geografia tem problema
+date = Sun Jul 10 00:02:26 +0000 2016| user = thefinalgirl_| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:01:55 +0000 2016| user = voleisuperliga| text = Brasil x EUA amanhã no @SporTV. Seria um prévia da final olímpica? Quem vai sair com o título?  #FIVBGrandPrix #Rio2016 #VaiBrasil
+date = Sun Jul 10 00:01:51 +0000 2016| user = MakoHubner| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sun Jul 10 00:01:40 +0000 2016| user = BrenchVg| text = #Río2016 #vamosMéxico Foto de conadeoficial https://t.co/aec5FfjPVI
+date = Sun Jul 10 00:00:34 +0000 2016| user = respiroaventura| text = @Rio2016: 'Luciano Caetano pratica o balonismo e contou para a gente um pouco a… https://t.co/FMUjK8XEL3, see more https://t.co/tN0RiG3JOk
+date = Sat Jul 09 23:59:00 +0000 2016| user = otaviokrauss| text = Integrantes do COI fazem última visita às instalações da Olimpíada https://t.co/mx7uDloap1
+date = Sat Jul 09 23:58:05 +0000 2016| user = carvalhohugo62| text = RT @edmilsonpapo10: #Rio2016
+Brasil terá dezenas de medalhas de ouro, prata e bronze, mas terá milhares de medalhas de chumbo
+date = Sat Jul 09 23:58:00 +0000 2016| user = AutodromoRio| text = #Rio2016, Cidade Olímpica!  https://t.co/rQJvKp6O65
+date = Sat Jul 09 23:57:20 +0000 2016| user = crvgnana| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:57:09 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 O Tempo Vaga garantida O Tempo Quem vencer carimba o passaporte para a Rio-2016. Depois que este… https://t.co/4RNMYcuIAD
+date = Sat Jul 09 23:56:28 +0000 2016| user = lmsposito| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:55:15 +0000 2016| user = ricanani| text = RT @edmilsonpapo10: #Rio2016
+Brasil terá dezenas de medalhas de ouro, prata e bronze, mas terá milhares de medalhas de chumbo
+date = Sat Jul 09 23:52:36 +0000 2016| user = JanailsonLima_| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:52:32 +0000 2016| user = alexfrechette| text = Série legados olímpicos: remoções. https://t.co/51kQYIlyy5
+date = Sat Jul 09 23:51:52 +0000 2016| user = BatistaMarcia7| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sat Jul 09 23:51:50 +0000 2016| user = GuiIhorme| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:51:30 +0000 2016| user = SolangeRSantos2| text = RT @Rio2016: Rosângela Dalcin é atleta paralimpica de tênis de mesa desde 1996 e já participou da seleção competindo no exterior. https://t…
+date = Sat Jul 09 23:51:28 +0000 2016| user = jca121277| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sat Jul 09 23:51:02 +0000 2016| user = SolangeRSantos2| text = RT @cpboficial: Bom dia, sabadão! Faltam 60 dias para os #JogosParalímpicos @Rio2016! 😬 https://t.co/zb3BMfV4uN
+date = Sat Jul 09 23:50:28 +0000 2016| user = CarlosA90413127| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sat Jul 09 23:50:18 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sat Jul 09 23:50:14 +0000 2016| user = JuniorVC| text = @jotaolga @EstadaoEsporte @Rio2016 temos um espião nesse Arquibancada, só pode ser. Haha!
+date = Sat Jul 09 23:49:58 +0000 2016| user = faromerooficial| text = @Rio2016 @ChamaOlimpica pqp cancelar essa merda logo.
+date = Sat Jul 09 23:49:28 +0000 2016| user = thiserrewaylove| text = alguem avisa pros burro que sombrio é em santa catarina https://t.co/MqDFNip9dU
+date = Sat Jul 09 23:49:25 +0000 2016| user = leticiaamartinz| text = RT @Rio2016: Que tal jogar 'pingue-pongue'? Jean Padilha, vice Mundial por equipes e Leticia Araújo, promessa do tênis de mesa. https://t.c…
+date = Sat Jul 09 23:48:27 +0000 2016| user = BrunoBrahim79| text = Morre, de tristeza, mãe de menino assassinado em Costa Barros https://t.co/CRAjDZKA3h Parabéns, governador Pezão! #vergonha #rj #rio2016
+date = Sat Jul 09 23:48:25 +0000 2016| user = edmilsonpapo10| text = #Rio2016
+Brasil terá dezenas de medalhas de ouro, prata e bronze, mas terá milhares de medalhas de chumbo
+date = Sat Jul 09 23:48:22 +0000 2016| user = EmersonPaula_7| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:48:19 +0000 2016| user = _Williams_Jr| text = RT @Canelada_FC: @Rio2016 @ChamaOlimpica Sombrio fica em Santa Catarina...
+date = Sat Jul 09 23:48:18 +0000 2016| user = AndreaAlRos| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sat Jul 09 23:48:16 +0000 2016| user = spfczz| text = O estagiário tá pior em geografia do que eu https://t.co/2DpHhM68r3
+date = Sat Jul 09 23:48:05 +0000 2016| user = DANIELMENTALES| text = RT @Rio2016: A cidade de Sombrio, no Rio Grande do Sul, inaugurou um monumento para a @ChamaOlimpica. Ficou bonito! #RumoAoRio https://t.co…
+date = Sat Jul 09 23:47:52 +0000 2016| user = Rquel31| text = RT @Canelada_FC: @Rio2016 @ChamaOlimpica Sombrio fica em Santa Catarina...
+date = Sat Jul 09 23:47:39 +0000 2016| user = severo_v| text = RT @josefortunati: Mais de 120 mil porto-alegrenses viveram este sentimento de respeito e união dos povos num momento histórico. https://t.…
+date = Sat Jul 09 23:47:37 +0000 2016| user = RAPWILL_98| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:47:31 +0000 2016| user = rll_22| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:47:11 +0000 2016| user = juanromerotv| text = sombrio virou RS? eita https://t.co/KX0CziOk8q
+date = Sat Jul 09 23:47:10 +0000 2016| user = cbt182_sk8| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:47:06 +0000 2016| user = Rquel31| text = RT @Rio2016: A cidade de Sombrio, no Rio Grande do Sul, inaugurou um monumento para a @ChamaOlimpica. Ficou bonito! #RumoAoRio https://t.co…
+date = Sat Jul 09 23:46:34 +0000 2016| user = Juliacaetanos| text = É rio grande do Sul é https://t.co/N9TQivIJoJ
+date = Sat Jul 09 23:46:22 +0000 2016| user = diogoluizcr7| text = RT @Canelada_FC: Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https…
+date = Sat Jul 09 23:46:05 +0000 2016| user = Canelada_FC| text = Esse revezamento da tocha tá conseguindo passar vergonha até no quesito informação. Sombrio fica em SC, não no RS... https://t.co/bwJWd1k5PW
+date = Sat Jul 09 23:45:07 +0000 2016| user = RosangelaBoigu2| text = RT @OperacoesRio: #Rio2016 Linha Amarela terá mudanças a partir do dia 25/07. https://t.co/TohnkIqvZx https://t.co/rTnGolvWr5
+date = Sat Jul 09 23:44:55 +0000 2016| user = youlacrou| text = RT @CocaCola_Br: .@WhoIsCarlos com a #TochaOlímpica #Rio2016 em Caxias do Sul. #IssoÉOuro #DeCaronaComATocha https://t.co/e8ayG5OOCJ https:…
+date = Sat Jul 09 23:43:56 +0000 2016| user = librariansrok| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sat Jul 09 23:43:46 +0000 2016| user = rafaelocremix| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sat Jul 09 23:43:09 +0000 2016| user = Souchaalexandre| text = RT @jose_simao: Rio2016! Faixa da polícia no aeroporto! https://t.co/5DeWw5pzW9
+date = Sat Jul 09 23:42:47 +0000 2016| user = Souchaalexandre| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sat Jul 09 23:42:11 +0000 2016| user = DANIELMENTALES| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sat Jul 09 23:42:10 +0000 2016| user = BabiSantos25| text = @eduardopaes_ é mais falso que nota de 3 reais, semana passada estava esculachando o estado e hoje apareceu babando ovo. #falso #Rio2016
+date = Sat Jul 09 23:41:56 +0000 2016| user = LMLTG| text = RT @OperacoesRio: #Rio2016 Linha Amarela terá mudanças a partir do dia 25/07. https://t.co/TohnkIqvZx https://t.co/rTnGolvWr5
+date = Sat Jul 09 23:41:19 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sat Jul 09 23:41:10 +0000 2016| user = Rio2016| text = Pira acesa em Criciúma! Amanhã tem mais @ChamaOlimpica! https://t.co/ElkvgsnxDi
+date = Sat Jul 09 23:41:03 +0000 2016| user = BarbosaVasco197| text = RT @g1rio: Integrantes do COI fazem última visita às instalações da Olimpíada do Rio https://t.co/rVp7auPXy8
+date = Sat Jul 09 23:40:34 +0000 2016| user = karinewaldrich| text = O @eduardopaes_ me causa vergonha alheia #Rio2016
+date = Sat Jul 09 23:40:10 +0000 2016| user = PYL31| text = RT @eym8_e: Nos fuimos a la praiaaaa 🌴☀️👙💛 Ipanema #Rio2016
+date = Sat Jul 09 23:39:47 +0000 2016| user = umtaldecarlos| text = O que mais impressiona nesse complexo olímpico do Rio é a falta de árvores, de verde. #rio2016
+date = Sat Jul 09 23:39:17 +0000 2016| user = clebersantospe1| text = @Rio2016 DEPOIS DA PASSAGEM EM MARACAJU MS TOCHA OLIMPICA  CONTINUA DISTRIBUINDO  ESPIRITO OLÍMPICO https://t.co/cvb8lTh5Z4
+date = Sat Jul 09 23:39:02 +0000 2016| user = EdhuZen| text = Sei que o Rio vai ser o lugar mais seguro do mundo nas olimpíadas, aham 😂😂 #Rio2016
+date = Sat Jul 09 23:38:42 +0000 2016| user = radioeldorado| text = RT @Rio2016: As atletas da Fundação Municipal de Esportes de Criciúma vieram prestigiar a condutora Emmanuelly de Oliveira. https://t.co/Yh…
+date = Sat Jul 09 23:38:38 +0000 2016| user = ToffolettoCatia| text = RT @joymurasaki: Neste domingo o 'ABC das Olimpíadas' fala sobre a natação! Ouça no CBN Esportes e no Revista CBN #CBN #Rio2016 https://t.c…
+date = Sat Jul 09 23:36:59 +0000 2016| user = LilianaNormi| text = RT @Rio2016: As atletas da Fundação Municipal de Esportes de Criciúma vieram prestigiar a condutora Emmanuelly de Oliveira. https://t.co/Yh…
+date = Sat Jul 09 23:36:28 +0000 2016| user = augustocdacosta| text = RT @jose_simao: Rio2016! Faixa da polícia no aeroporto! https://t.co/5DeWw5pzW9
+date = Sat Jul 09 23:35:18 +0000 2016| user = MeloGongoni| text = RT @exercitooficial: 1º Batalhão de Guardas realiza exercício de tiro embarcado em motocicletas #Rio2016 https://t.co/E4yF1NzJV0 https://t.…
+date = Sat Jul 09 23:35:04 +0000 2016| user = MeloGongoni| text = RT @exercitooficial: Militares da Aviação do Exército partem para missão nos Jogos Olímpicos #Rio2016 https://t.co/Z0oNhtdmL6
+date = Sat Jul 09 23:34:49 +0000 2016| user = SGO24hrs| text = MPF apura se 'tapete de lixo' é indício de má gestão pública para Olimpíada https://t.co/IOtReYWAlr
+date = Sat Jul 09 23:33:59 +0000 2016| user = rzminotto| text = RT @Rio2016: Mais um monumento à tocha olimpica, agora em Criciúma. #RumoAoRio #ChamaOlimpica https://t.co/o1vJ0tIS4k
+date = Sat Jul 09 23:33:47 +0000 2016| user = MeloGongoni| text = RT @DefesaNet: Militares da Aviação do Exército partiram para missão nos Jogos Olímpicos #Rio2016 https://t.co/vsEPdut9WE #fotosEB https://…
+date = Sat Jul 09 23:31:30 +0000 2016| user = CarlosA90413127| text = RT @Rio2016: As atletas da Fundação Municipal de Esportes de Criciúma vieram prestigiar a condutora Emmanuelly de Oliveira. https://t.co/Yh…
+date = Sat Jul 09 23:31:16 +0000 2016| user = Mariaamaliamas| text = RT @OperacoesRio: #Rio2016 Linha Amarela terá mudanças a partir do dia 25/07. https://t.co/TohnkIqvZx https://t.co/rTnGolvWr5
+date = Sat Jul 09 23:30:39 +0000 2016| user = Andre5meloMelo| text = RT @farias_eliabe: Tráfego de veículos de carga na Rio-Niterói será restrito na Olimpíada https://t.co/KQs3IAJ5wf
+date = Sat Jul 09 23:30:29 +0000 2016| user = donzeladocs| text = RT @CocaCola_Br: .@WhoIsCarlos com a #TochaOlímpica #Rio2016 em Caxias do Sul. #IssoÉOuro #DeCaronaComATocha https://t.co/e8ayG5OOCJ https:…
+date = Sat Jul 09 23:30:21 +0000 2016| user = OperacoesRio| text = #Rio2016 Linha Amarela terá mudanças a partir do dia 25/07. https://t.co/TohnkIqvZx https://t.co/rTnGolvWr5
+date = Sat Jul 09 23:29:56 +0000 2016| user = RobertoNonato5| text = RT @joymurasaki: Neste domingo o 'ABC das Olimpíadas' fala sobre a natação! Ouça no CBN Esportes e no Revista CBN #CBN #Rio2016 https://t.c…
+date = Sat Jul 09 23:28:04 +0000 2016| user = Midia_AM| text = Os ingressos do #Rio2016 estão sendo vendidos no Centro de Convenções Vasco Vasques. #JAM https://t.co/wqxX8aPZ4P
+date = Sat Jul 09 23:26:07 +0000 2016| user = Brasil2016| text = RT @Rio2016: As atletas da Fundação Municipal de Esportes de Criciúma vieram prestigiar a condutora Emmanuelly de Oliveira. https://t.co/Yh…
+date = Sat Jul 09 23:26:02 +0000 2016| user = Caesar_ViaosNus| text = RT @nytimesBrasil: Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https:/…
+date = Sat Jul 09 23:25:40 +0000 2016| user = marcus_carmo| text = Vejam o panorama do sábado. Work hard, but with friends #Rio2016 #OperacoesRio #Olympics2016 https://t.co/ykuxuv5wza
+date = Sat Jul 09 23:25:39 +0000 2016| user = kakarodrigues26| text = RT @garcialuan93: Estou muito feliz, realizando um sonho de moleque hoje e devo tudo ao Vasco. Que Deus nos abençoe. #Rio2016 https://t.co/…
+date = Sat Jul 09 23:25:28 +0000 2016| user = mmario11291| text = RT @Rio2016: As atletas da Fundação Municipal de Esportes de Criciúma vieram prestigiar a condutora Emmanuelly de Oliveira. https://t.co/Yh…
+date = Sat Jul 09 23:25:04 +0000 2016| user = EstadaoEsporte| text = MATÉRIA ESPECIAL! As estrelas, os ausentes e as dúvidas para o @Rio2016. Confira em https://t.co/VTHWmjc52H https://t.co/mX7gn6cgnW
+date = Sat Jul 09 23:24:57 +0000 2016| user = Onde_Esteves| text = RT @jose_simao: Rio2016! Atletas do sexo dāo descontos olímpicos! https://t.co/NtQYnw8gKH
+date = Sat Jul 09 23:24:23 +0000 2016| user = Reporter24Horas| text = RIO: Integrantes do COI fazem última visita às instalações da Olimpíada do Rio https://t.co/0XCi4nzCBq #Repórter24Horas
+date = Sat Jul 09 23:24:21 +0000 2016| user = InformeRJO| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/hG1Wmj21va
+date = Sat Jul 09 23:24:21 +0000 2016| user = Reporter24Horas| text = RIO: Integrantes do COI fazem última visita às instalações da Olimpíada do Rio https://t.co/wJbvbmyzVi #Repórter24Horas
+date = Sat Jul 09 23:24:20 +0000 2016| user = Geands| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/sYK7FdjYrn
+date = Sat Jul 09 23:24:19 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Integrantes do COI fazem última visita às instalações da Olimpíada do Rio https://t.co/p4GoMrhtnU
+date = Sat Jul 09 23:24:19 +0000 2016| user = DesertEagleRJ| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/Moi3kvAzH9
+date = Sat Jul 09 23:24:18 +0000 2016| user = SindicoDoRio| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/zhuKA6w5HX
+date = Sat Jul 09 23:24:17 +0000 2016| user = yagog| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/WTwI5gyjP2
+date = Sat Jul 09 23:24:17 +0000 2016| user = Bruno_Vida| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/UZN50CvwjR
+date = Sat Jul 09 23:24:16 +0000 2016| user = Noticiasdopovo_| text = #RJ Integrantes do COI fazem última visita às instalações da Olimpíada do Rio https://t.co/FiH8IVVaXb
+date = Sat Jul 09 23:24:14 +0000 2016| user = Rio_Acontece| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/CeSbSyWTWF
+date = Sat Jul 09 23:24:12 +0000 2016| user = JornalUniversal| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/HPJH2FnG73
+date = Sat Jul 09 23:24:07 +0000 2016| user = marl3nemarta| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/3pzxBwqeB0
+date = Sat Jul 09 23:24:06 +0000 2016| user = renatavencato| text = Omg! @Simone_Biles simplesmente arrasou. Podia até me dar umas aulinhas de #samba https://t.co/VZ2surUzCW #Rio2016 #Olympics
+date = Sat Jul 09 23:24:03 +0000 2016| user = mariajoaq9655| text = Integrantes do COI fazem última visita às instalações da Olimpíada do Rio: Na visita, ficou constatado que to... https://t.co/Or1AT7jRja

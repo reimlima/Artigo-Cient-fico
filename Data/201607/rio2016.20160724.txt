@@ -1,0 +1,586 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sun Jul 24 03:08:44 +0000 2016| user = Cristrollvao| text = RT @braz_fabi: @CorreiosBR @Rio2016 q bosta hein? Será q eles vão perder as olimpíadas no centro de distribuição de Benfica igual quase tod…
+date = Sun Jul 24 03:08:44 +0000 2016| user = anneagpp| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 03:08:13 +0000 2016| user = Val_Ce1| text = RT @portalfab: Conhecida como balizamento de emergência, servirá de backup para os voos de defesa aérea durante a #Rio2016 https://t.co/FqE…
+date = Sun Jul 24 03:08:00 +0000 2016| user = dancemilitant| text = Current mood. #openingceremony2016 #brasillife #olympicgames #rio2016 @ Rio de Janeiro, Brazil https://t.co/eSeoOxHH3R
+date = Sun Jul 24 03:07:38 +0000 2016| user = tiaomoreira| text = RT @prosapolitica: Passeio no Calçadão
+#Rio2016
+#PokemonGOVemProBR https://t.co/uNQsznM7Ov
+date = Sun Jul 24 03:07:01 +0000 2016| user = WMassonClaire| text = RT @teddyriner: Obrigado @neymarjr ! 👍🏾 #RoadToRio #Rio2016 https://t.co/zsmOPlPFf2
+date = Sun Jul 24 03:06:11 +0000 2016| user = anawanessa4| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 03:06:06 +0000 2016| user = carlosmaltz| text = RT @prosapolitica: Balas perdidas podem te encontrar a qualquer momento na
+#Rio2016
+#PokemonGOVemProBR https://t.co/JpwZlXd2up
+date = Sun Jul 24 03:05:48 +0000 2016| user = carlosmaltz| text = RT @prosapolitica: Se alguém morre o esporte não para. A bola continua rolando e o show tem que continuar! 
+#Rio2016
+#PokemonGOVemProBR htt…
+date = Sun Jul 24 03:05:41 +0000 2016| user = tedediconjr| text = RT @CBF_Futebol: É exclusivo, é diferente, é bate-papo com Neymar! Confira a edição do Papo Olímpico com o craque https://t.co/CJOhhbdFw8 #…
+date = Sun Jul 24 03:05:36 +0000 2016| user = karynelira| text = RT @prosapolitica: Rio, sol, praia e arrastão
+#Rio2016
+#PokemonGOVemProBR https://t.co/OPhoSY6zgX
+date = Sun Jul 24 03:05:28 +0000 2016| user = carlosmaltz| text = RT @prosapolitica: Rio, sol, praia e arrastão
+#Rio2016
+#PokemonGOVemProBR https://t.co/OPhoSY6zgX
+date = Sun Jul 24 03:05:23 +0000 2016| user = carlosmaltz| text = RT @prosapolitica: Transporte Público Carioca
+#Rio2016
+#PokemonGOVemProBR https://t.co/FTRQ6XuqLK
+date = Sun Jul 24 03:05:06 +0000 2016| user = prosapolitica| text = Passeio no Calçadão
+#Rio2016
+#PokemonGOVemProBR https://t.co/uNQsznM7Ov
+date = Sun Jul 24 03:05:05 +0000 2016| user = OperacoesRio| text = #RIO2016| PARQUE OLÍMPICO: Fechamento da Av. Olof Palm (ao lado do Riocentro) neste domingo https://t.co/56ewBPFfHm https://t.co/CEYpdE2j1X
+date = Sun Jul 24 03:04:31 +0000 2016| user = jhones01| text = Vamos pra Olimpíada #Rio2016 🇧🇷 https://t.co/F7l03G1tz4
+date = Sun Jul 24 03:04:23 +0000 2016| user = acevenntura| text = RT @EstadaoEsporte: Basquete masculino do Brasil derrota a Romênia no 1º teste para o @Rio2016. https://t.co/TzPoMLwSkF https://t.co/arVM3Z…
+date = Sun Jul 24 03:04:12 +0000 2016| user = madrixalque| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+@gabigol e Gabriel Jesus em momento de descontração no meio de muito trabalho! #Rio2016 https://t…
+date = Sun Jul 24 03:03:52 +0000 2016| user = madrixalque| text = RT @CBF_Futebol: Gabriel Jesus, do @SEPalmeiras, e o carinho do torcedor brasileiro! ⚽️😍❤️
+
+#Rio2016 #SeleçãoOlímpica https://t.co/q6aBai8g…
+date = Sun Jul 24 03:03:43 +0000 2016| user = oppsbieber| text = RT @CBF_Futebol: FIM DE JOGO! Com boa atuação no 2º tempo, #SeleçãoFeminina vence por 3 a 1. Agora foco total na Olimpíada! #Rio2016 https:…
+date = Sun Jul 24 03:03:15 +0000 2016| user = madrixalque| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Time recebeu apoio da torcida e retribuiu carinho depois da atividade. #Rio2016 https://t.co/uVL0…
+date = Sun Jul 24 03:03:05 +0000 2016| user = Nairoquinha| text = #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 As 5 melhores trilhas no Rio e arredores | https://t.co/lRuUeD0QS6
+date = Sun Jul 24 03:02:54 +0000 2016| user = sonyroo| text = @CorreiosBR @Rio2016 será? https://t.co/o3foYlOc0Q
+date = Sun Jul 24 03:02:52 +0000 2016| user = oppsbieber| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 03:02:51 +0000 2016| user = Trouxalizando__| text = RT @anapaularenault: ✨Vitória na Guerra 🇧🇷!!! 👊🏻 @Rio2016 @Brasil2016 @TwitterBrasil #TweetCampeão  https://t.co/dwH9YWd7UW
+date = Sun Jul 24 03:02:51 +0000 2016| user = madrixalque| text = RT @CBF_Futebol: Veja fotos do treino desta sexta-feira! #Rio2016 #SeleçãoOlímpica https://t.co/kM1rhYPKpb
+date = Sun Jul 24 03:02:39 +0000 2016| user = madrixalque| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+@marquinhos_m5 e Gabriel Jesus observam habilidade de @neymarjr. #Rio2016 #SeleçãoOlímpica https:…
+date = Sun Jul 24 03:02:23 +0000 2016| user = RBORLINA| text = RT @obrasilonline: #OperaçãoTabajara Temer usa “terrorismo” do EI na #Rio2016 para manipular opinião pública? https://t.co/ZxwcFT4QHG https…
+date = Sun Jul 24 03:02:21 +0000 2016| user = madrixalque| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 03:02:12 +0000 2016| user = madrixalque| text = RT @CBF_Futebol: É exclusivo, é diferente, é bate-papo com Neymar! Confira a edição do Papo Olímpico com o craque https://t.co/CJOhhbdFw8 #…
+date = Sun Jul 24 03:02:12 +0000 2016| user = Mathias_Felipe| text = Daquelas fotos espontâneas...... #gamestime #riodejaneiro #rio2016 @… https://t.co/qSfwZdPfHt
+date = Sun Jul 24 03:02:06 +0000 2016| user = DayseBarela| text = RT @prosapolitica: Rio, sol, praia e arrastão
+#Rio2016
+#PokemonGOVemProBR https://t.co/OPhoSY6zgX
+date = Sun Jul 24 03:01:38 +0000 2016| user = madrixalque| text = RT @CBF_Futebol: FIM DE JOGO! Com boa atuação no 2º tempo, #SeleçãoFeminina vence por 3 a 1. Agora foco total na Olimpíada! #Rio2016 https:…
+date = Sun Jul 24 03:01:15 +0000 2016| user = foruneymarjr| text = RT @CBF_Futebol: Veja fotos do treino desta sexta-feira! #Rio2016 #SeleçãoOlímpica https://t.co/kM1rhYPKpb
+date = Sun Jul 24 03:00:57 +0000 2016| user = foruneymarjr| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+@marquinhos_m5 e Gabriel Jesus observam habilidade de @neymarjr. #Rio2016 #SeleçãoOlímpica https:…
+date = Sun Jul 24 03:00:57 +0000 2016| user = foruneymarjr| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 03:00:26 +0000 2016| user = dynaoseias| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:59:41 +0000 2016| user = El_Produ| text = Importante que @OribePeralta anoté de cara a #Rio2016
+date = Sun Jul 24 02:59:25 +0000 2016| user = CarlitoMoraes| text = RT @prosapolitica: Transporte Público Carioca
+#Rio2016
+#PokemonGOVemProBR https://t.co/FTRQ6XuqLK
+date = Sun Jul 24 02:59:20 +0000 2016| user = ednasferreira| text = RT @prosapolitica: Rio, sol, praia e arrastão
+#Rio2016
+#PokemonGOVemProBR https://t.co/OPhoSY6zgX
+date = Sun Jul 24 02:58:58 +0000 2016| user = vivamandela| text = RT @obrasilonline: #OperaçãoTabajara Temer usa “terrorismo” do EI na #Rio2016 para manipular opinião pública? https://t.co/ZxwcFT4QHG https…
+date = Sun Jul 24 02:58:39 +0000 2016| user = prosapolitica| text = 🎶🎶 Oshinkindo, oshinkindo, 🎶🎶 
+#Rio2016
+
+https://t.co/fctS7jOjcc
+date = Sun Jul 24 02:58:23 +0000 2016| user = Embarque| text = #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 As 5 melhores trilhas no Rio e arredores | https://t.co/gjqomzUvb3
+date = Sun Jul 24 02:58:09 +0000 2016| user = prosapolitica| text = Transporte Público Carioca
+#Rio2016
+#PokemonGOVemProBR https://t.co/FTRQ6XuqLK
+date = Sun Jul 24 02:57:50 +0000 2016| user = soobservo2409| text = RT @Rio2016: Faltam só 13 dias! https://t.co/hoWGlGKfi0
+date = Sun Jul 24 02:57:02 +0000 2016| user = lecialabas| text = RT @UKRinBRA: A despedida dos atletas ucranianos que viajam para o #Rio2016 https://t.co/xv0AMvhaH0
+date = Sun Jul 24 02:56:26 +0000 2016| user = opinheirense| text = RT @AugustoLima7: Primero jogo amistoso com vitoria 👌🏻 agora é pensar nos proximos desafios e seguir crescendo 🔝 #brasil #rio2016 https://t…
+date = Sun Jul 24 02:56:08 +0000 2016| user = LifeStyleENV| text = Cultura na bagagem durante os Jogos Olímpicos e Paralímpicos #Rio2016 #CidadeOlímpica #EmbarqueNaViagem https://t.co/frv0zSuD8G
+date = Sun Jul 24 02:56:04 +0000 2016| user = Nairoquinha| text = 48 horas pelas belezas imperdíveis do #RiodeJaneiro Dicas para curtir as #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem https://t.co/JOElpWbMMU
+date = Sun Jul 24 02:55:59 +0000 2016| user = prosapolitica| text = Rio, sol, praia e arrastão
+#Rio2016
+#PokemonGOVemProBR https://t.co/OPhoSY6zgX
+date = Sun Jul 24 02:55:21 +0000 2016| user = JUBA_GALO| text = RT @prosapolitica: Se alguém morre o esporte não para. A bola continua rolando e o show tem que continuar! 
+#Rio2016
+#PokemonGOVemProBR htt…
+date = Sun Jul 24 02:54:18 +0000 2016| user = prosapolitica| text = Balas perdidas podem te encontrar a qualquer momento na
+#Rio2016
+#PokemonGOVemProBR https://t.co/JpwZlXd2up
+date = Sun Jul 24 02:53:42 +0000 2016| user = BrunettoMMau| text = RT @prosapolitica: Se alguém morre o esporte não para. A bola continua rolando e o show tem que continuar! 
+#Rio2016
+#PokemonGOVemProBR htt…
+date = Sun Jul 24 02:53:06 +0000 2016| user = anneagpp| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:52:55 +0000 2016| user = prosapolitica| text = Se alguém morre o esporte não para. A bola continua rolando e o show tem que continuar! 
+#Rio2016
+#PokemonGOVemProBR https://t.co/XbdYvQL2dU
+date = Sun Jul 24 02:52:08 +0000 2016| user = SIMundial| text = Rio2016 Comité Olímpico Internacional confiante em plano de segurança "robusto" https://t.co/o438coLtQ7 https://t.co/OSIwppSRVg
+date = Sun Jul 24 02:52:04 +0000 2016| user = Pablo_Ricceli| text = RT @CBF_Futebol: É exclusivo, é diferente, é bate-papo com Neymar! Confira a edição do Papo Olímpico com o craque https://t.co/CJOhhbdFw8 #…
+date = Sun Jul 24 02:52:01 +0000 2016| user = gangueneymar| text = RT @CBF_Futebol: É exclusivo, é diferente, é bate-papo com Neymar! Confira a edição do Papo Olímpico com o craque https://t.co/CJOhhbdFw8 #…
+date = Sun Jul 24 02:51:53 +0000 2016| user = madridtos| text = RT @CBF_Futebol: É exclusivo, é diferente, é bate-papo com Neymar! Confira a edição do Papo Olímpico com o craque https://t.co/CJOhhbdFw8 #…
+date = Sun Jul 24 02:51:14 +0000 2016| user = Embarque| text = 48 horas pelas belezas imperdíveis do #RiodeJaneiro Dicas para curtir as #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem https://t.co/quyEQhDpjb
+date = Sun Jul 24 02:50:21 +0000 2016| user = abdafutbol| text = #Rio2016 | O'REI ON FIRE! #LeyendaFutbol Pele portó la antorcha olímpica #YoRioxESPN https://t.co/HXzlhCN8bq
+date = Sun Jul 24 02:50:16 +0000 2016| user = neymarzjr| text = RT @CBF_Futebol: É exclusivo, é diferente, é bate-papo com Neymar! Confira a edição do Papo Olímpico com o craque https://t.co/CJOhhbdFw8 #…
+date = Sun Jul 24 02:49:23 +0000 2016| user = gaaby_x| text = Só me faz feliz! 
+ #Rio2016 #issoéouro #olimpiadas2016 #tochaemsp https://t.co/YgHUkdbWrd
+date = Sun Jul 24 02:48:18 +0000 2016| user = Embarque| text = #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 As 5 melhores trilhas no Rio e arredores |... https://t.co/oZlWJhGaMT
+date = Sun Jul 24 02:47:48 +0000 2016| user = OrlandoBragaJr| text = Tô que não me guento aqui. Venham Olimpíadas, venham!!! #Rio2016 #RioOlympics #Brasil2016
+date = Sun Jul 24 02:46:21 +0000 2016| user = Angelica_gsf| text = RT @wander_olive: Há 64 anos, Adhemar Ferreira da Silva conquistava a primeira medalha de ouro no atletismo 📸 @cacafernando #Rio2016 https:…
+date = Sun Jul 24 02:46:19 +0000 2016| user = Nairoquinha| text = Cultura na bagagem durante os Jogos Olímpicos e Paralímpicos #Rio2016 #CidadeOlímpica #EmbarqueNaViagem https://t.co/ZQ7Bogb9S1
+date = Sun Jul 24 02:46:19 +0000 2016| user = lucastwitta| text = Ia tentar apagar mas não to afim de ir parar na delegacia à toa. #Rio2016
+date = Sun Jul 24 02:44:44 +0000 2016| user = janetcruz4| text = RT @portaljovempan: Nos @Rio2016, @usainbolt revela que quer conhecer @neymarjr: https://t.co/CS1zCG5Z28 https://t.co/szceCU1hus
+date = Sun Jul 24 02:44:22 +0000 2016| user = favselegend| text = RT @CBF_Futebol: #SeleçãoOlímpica: Se liga na habilidade que o @neymarjr mostrou durante o treino da tarde de ontem! #Rio2016 https://t.co/…
+date = Sun Jul 24 02:44:10 +0000 2016| user = MauricioTrivio| text = RT @kochtenis: Listísima para🔜 #Río2016 @canal_CDO @KarimNur @MauricioTrivio @victoralexf @estefamelus 📷🎥📟✔️ https://t.co/VnfzCWjv3e
+date = Sun Jul 24 02:44:00 +0000 2016| user = Igui_inhoo| text = RT @CorreiosBR: Algumas cargas, mesmo que grandes, são extremamente delicadas e pedem cuidados extremos. #ISSOÉENTREGA @Rio2016 https://t.c…
+date = Sun Jul 24 02:43:42 +0000 2016| user = kochtenis| text = Listísima para🔜 #Río2016 @canal_CDO @KarimNur @MauricioTrivio @victoralexf @estefamelus 📷🎥📟✔️ https://t.co/VnfzCWjv3e
+date = Sun Jul 24 02:43:00 +0000 2016| user = aninhaseurabo3| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 02:42:50 +0000 2016| user = chandrasantos| text = Últimas do dia já saiu! https://t.co/7X012gIJ5c Graças a @srzd @jornalextra #jn #rio2016
+date = Sun Jul 24 02:42:47 +0000 2016| user = rodrigojfmg1| text = "Teremos @Rio2016 c segurança" @joseserra_  https://t.co/9kiPXDrZqv
+date = Sun Jul 24 02:42:34 +0000 2016| user = LuarSolMar| text = @VEJA @Rio2016 TEM Q HAVER RESPEITO ACIMA DE TUDO.não concordo c/as Olimpíadas no Brasil, é um afronte, mas tem q respeitar quem participa
+date = Sun Jul 24 02:42:30 +0000 2016| user = marysaints| text = #philosophies #rio2016 @ Cabaret Lounge Botafogo https://t.co/R5gf77i4N8
+date = Sun Jul 24 02:42:25 +0000 2016| user = laisyone| text = @Rio2016 Meu pai comprou 2 ingressos p/ futebol.Os 2 ingressos estão no nome dele.Terei problema na entrada devido à nomeação no ingresso???
+date = Sun Jul 24 02:42:03 +0000 2016| user = luluizinha4| text = RT @portaljovempan: Nos @Rio2016, @usainbolt revela que quer conhecer @neymarjr: https://t.co/CS1zCG5Z28 https://t.co/szceCU1hus
+date = Sun Jul 24 02:41:32 +0000 2016| user = DayyaneMelo102| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:41:28 +0000 2016| user = gangueneymar| text = RT @portaljovempan: Nos @Rio2016, @usainbolt revela que quer conhecer @neymarjr: https://t.co/CS1zCG5Z28 https://t.co/szceCU1hus
+date = Sun Jul 24 02:41:03 +0000 2016| user = Embarque| text = Cultura na bagagem durante os Jogos Olímpicos e Paralímpicos #Rio2016 #CidadeOlímpica #EmbarqueNaViagem https://t.co/pvo4plIzNz
+date = Sun Jul 24 02:40:28 +0000 2016| user = patriciatorque1| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 02:39:56 +0000 2016| user = marysaints| text = #cruzamentoperigoso #perigo #rio2016 #olympicsteam @ Cabaret Lounge Botafogo https://t.co/RHfMKd4pKL
+date = Sun Jul 24 02:39:35 +0000 2016| user = dora_serejo| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:38:59 +/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+0000 2016| user = oxenteclaudinha| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:38:52 +0000 2016| user = PortalRenault| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:38:08 +0000 2016| user = welljornalismo| text = RT @wander_olive: Há 64 anos, Adhemar Ferreira da Silva conquistava a primeira medalha de ouro no atletismo 📸 @cacafernando #Rio2016 https:…
+date = Sun Jul 24 02:36:03 +0000 2016| user = altinocorreia| text = Uma antevisão das Olimpíadas Rio2016! Jornal A CRÍTICA: RJ será a cidade mais segura do mundo durante as Olimpíadas. https://t.co/lpZE28d8om
+date = Sun Jul 24 02:35:43 +0000 2016| user = IVALDOMORAES| text = RT @obrasilonline: #OperaçãoTabajara Temer usa “terrorismo” do EI na #Rio2016 para manipular opinião pública? https://t.co/ZxwcFT4QHG https…
+date = Sun Jul 24 02:35:36 +0000 2016| user = AntonioFla1978| text = RT @lancenet: Vila Olímpica é aberta para as delegações neste domingo https://t.co/fnNABLaqHQ https://t.co/YGprJyh8f9
+date = Sun Jul 24 02:35:08 +0000 2016| user = vaniatf0506| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:35:07 +0000 2016| user = EsportesOnIine| text = Vila Olímpica é aberta para as delegações neste domingo https://t.co/QofAXKDUvi https://t.co/iYPXqUEykg
+date = Sun Jul 24 02:34:38 +0000 2016| user = feeeerz| text = @CorreiosBR @Rio2016 A não vem com essa Correios, vcs não tem vergonha na cara?
+date = Sun Jul 24 02:34:18 +0000 2016| user = brunopatette| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 02:34:05 +0000 2016| user = DavidCecilio_| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 02:33:54 +0000 2016| user = thamirislimadc| text = O jogo começou! #Rio2016
+date = Sun Jul 24 02:33:44 +0000 2016| user = luciano0951| text = RT @obrasilonline: #OperaçãoTabajara Temer usa “terrorismo” do EI na #Rio2016 para manipular opinião pública? https://t.co/ZxwcFT4QHG https…
+date = Sun Jul 24 02:33:20 +0000 2016| user = jandiramarcia1| text = RT @LArtDesigner: Rio 2016 - Um mundo novo! @TwitterBrasil @TwitterMediaBR @rio2016 @anapaularenault #TweetCampeão https://t.co/w3J8eUXUrM
+date = Sun Jul 24 02:33:08 +0000 2016| user = tuliobellard| text = RT @RioOpenOficial: Duas semanas para o início do torneio olímpico de tênis!
+Two weeks to go! #Rio2016 🎾 #tennis https://t.co/qbQs8aH2ht
+date = Sun Jul 24 02:32:55 +0000 2016| user = Tatanandre| text = RT @rebecabene: Boa noite, @AndreMOficial Divirta-se na cidade maravilhosa e curta muito o domingo 👌 Reserva um tempo p/ visitar a loja ofi…
+date = Sun Jul 24 02:32:51 +0000 2016| user = infernizandovc| text = @CorreiosBR @Rio2016 manda #PokemonGO
+date = Sun Jul 24 02:32:35 +0000 2016| user = _MeChamamDeVan| text = @CorreiosBR @Rio2016 Pensei que fossem os mísseis.
+date = Sun Jul 24 02:32:10 +0000 2016| user = HelennaMoreira| text = RT @OperacoesRio: #RIO2016 | Estacionamento do Parque dos Patins foi fechado no dia 11. Veja: https://t.co/GUkODt2FwB https://t.co/CWfAl30B…
+date = Sun Jul 24 02:31:52 +0000 2016| user = karinematiasm_| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 02:30:49 +0000 2016| user = madrynha2012| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 02:30:26 +0000 2016| user = OperacoesRio| text = #RIO2016 | Estacionamento do Parque dos Patins foi fechado no dia 11. Veja: https://t.co/GUkODt2FwB https://t.co/CWfAl30BdL
+date = Sun Jul 24 02:30:10 +0000 2016| user = lancenet| text = Vila Olímpica é aberta para as delegações neste domingo https://t.co/fnNABLaqHQ https://t.co/YGprJyh8f9
+date = Sun Jul 24 02:29:27 +0000 2016| user = AlmeidaAdilson7| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 02:29:15 +0000 2016| user = Mteresacarvalho| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 02:29:11 +0000 2016| user = Lauraap30609071| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:28:25 +0000 2016| user = AntonioFla1978| text = #Ironia mesmo é o chamado 'Jogos Olímpicos de Verão' ser disputado no #Inverno aqui do Brasil em 2016! #Rio2016
+date = Sun Jul 24 02:26:58 +0000 2016| user = AlexandreBudaye| text = Escultura de areia Rio de Janeiro #riodejaneiro #cristoredentor #rio2016 #japan #tottori #budaye https://t.co/SDtd4ZqQ9t
+date = Sun Jul 24 02:26:12 +0000 2016| user = regianacost| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:24:22 +0000 2016| user = C19060001| text = @Esp_Interativo @Rio2016 Essas meninas que orgulho!
+date = Sun Jul 24 02:23:41 +0000 2016| user = larissaealmeida| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 02:22:45 +0000 2016| user = geostadia| text = RT @AutodromoRio: #Rio2016 Paz para quê? COI recusa pedido para 1 minuto de silêncio pela paz na abertura das Olimpíadas: https://t.co/54io…
+date = Sun Jul 24 02:22:22 +0000 2016| user = RafhaGoularth| text = RT @LArtDesigner: @TwitterBrasil  @Rio2016   @anapaularenault @JogosOlimpicos  @Brasil2016 "A persistência é o maior aliado da superação."…
+date = Sun Jul 24 02:22:03 +0000 2016| user = seujoca| text = RT @empiricus: Faltam 14 dias para as "Olimpíadas da Sujeira". @washingtonpost #Rio2016 https://t.co/rP0KntiGWM
+date = Sun Jul 24 02:21:26 +0000 2016| user = news_portugal| text = #rtp Rio2016: EUA levam delegação de 555 atletas para competir em 244 das 306 disciplinas… https://t.co/C5mxBKl1EX
+date = Sun Jul 24 02:20:08 +0000 2016| user = SIMundial| text = Rio2016: Comité Olímpico Internacional confiante em plano de segurança "robusto" https://t.co/92kX3lsnLK
+date = Sun Jul 24 02:19:24 +0000 2016| user = ibfrancini| text = RT @obrasilonline: #Rio2016 
+
+Alvo de terrorismo estará na abertura da Rio 2016 - https://t.co/enPZf2W13J https://t.co/Xg2JyhnQd7
+date = Sun Jul 24 02:19:13 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: A Cerimônia do Pódio do @Rio2016 terá três trilhas diferentes https://t.co/Mz3p7u6JFp https://t.co/psnDw65qaX
+date = Sun Jul 24 02:17:03 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: O Vôlei não terá tempo técnico no @Rio2016  https://t.co/wQJ03cycMb https://t.co/Qfskx2pNv0
+date = Sun Jul 24 02:16:33 +0000 2016| user = LolliGoreti| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 02:16:17 +0000 2016| user = todosemueve12| text = RT @ReysolBR: Kosuke Nakamura, o goleiro da seleção de olimpíadas. Defendendo o sol!
+“@SoccerKingJP: https://t.co/wFv7n9bxZh https://t.co/W…
+date = Sun Jul 24 02:15:01 +0000 2016| user = riffdan| text = RT @SurtoOlimpico: Amanhã o dia pode ser histórico e o Surto ficará de plantão para saber o destino da Rússia: Dentro ou fora do @Rio2016?
+date = Sun Jul 24 02:14:54 +0000 2016| user = RafhaGoularth| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 02:14:01 +0000 2016| user = ReysolBR| text = Kosuke Nakamura, o goleiro da seleção de olimpíadas. Defendendo o sol!
+“@SoccerKingJP: https://t.co/wFv7n9bxZh https://t.co/WCj5UViEXk”
+date = Sun Jul 24 02:13:28 +0000 2016| user = Tereza47| text = RT @obrasilonline: #Rio2016 
+
+Alvo de terrorismo estará na abertura da Rio 2016 - https://t.co/enPZf2W13J https://t.co/Xg2JyhnQd7
+date = Sun Jul 24 02:13:17 +0000 2016| user = MarceloACoelho1| text = RT @JenSoares73: ESSE É RARO! #foratemer #ForaTemerGolpista #foraolimpiadasFocopokemongoBr #cunhanacadeia #pokemongo #golpe #Rio2016 https:…
+date = Sun Jul 24 02:13:01 +0000 2016| user = JNR2392| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 02:12:37 +0000 2016| user = hugo_do_brasil| text = RT @hugohoyama: Equipe de Tênis de Mesa das Olimpíadas Rio 2016! Contamos com a torcida de vocês!!! #soutimebrasil  #rio2016 https://t.co/w…
+date = Sun Jul 24 02:12:33 +0000 2016| user = amandasthefeny| text = Treinando para as olimpíadas!!!! #sóquenão #rio2016 https://t.co/Hbsp4EqMWR
+date = Sun Jul 24 02:12:25 +0000 2016| user = JNR2392| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 02:10:52 +0000 2016| user = rebecabene| text = Boa noite, @AndreMOficial Divirta-se na cidade maravilhosa e curta muito o domingo 👌 Reserva um tempo p/ visitar a loja oficial do #Rio2016✌
+date = Sun Jul 24 02:10:47 +0000 2016| user = Lusa_noticias| text = Rio2016: Comité Olímpico Internacional confiante em plano de segurança "robusto"
+date = Sun Jul 24 02:10:09 +0000 2016| user = lucas_rabbelo| text = Tenho motivos pra acompanhar a #Rio2016 hahaha  #AltasHoras
+date = Sun Jul 24 02:10:06 +0000 2016| user = obrasilonline| text = #Rio2016 
+
+Alvo de terrorismo estará na abertura da Rio 2016 - https://t.co/enPZf2W13J https://t.co/Xg2JyhnQd7
+date = Sun Jul 24 02:09:39 +0000 2016| user = Heri_vitor| text = RT @alexandre_sousa: DA SÉRIE: "O QUE O ESPORTE ACRESCENTA NA SUA VIDA? Dia 5 tem #Rio2016 #Record2016 Promo by noix! Gracias @marcosmion h…
+date = Sun Jul 24 02:09:04 +0000 2016| user = lcmoura| text = RT @JenSoares73: ESSE É RARO! #foratemer #ForaTemerGolpista #foraolimpiadasFocopokemongoBr #cunhanacadeia #pokemongo #golpe #Rio2016 https:…
+date = Sun Jul 24 02:09:00 +0000 2016| user = snowrenault| text = RT @LArtDesigner: @TwitterBrasil  @Rio2016   @anapaularenault @JogosOlimpicos  @Brasil2016 "A persistência é o maior aliado da superação."…
+date = Sun Jul 24 02:08:50 +0000 2016| user = APautentica| text = RT @LArtDesigner: @TwitterBrasil  @Rio2016   @anapaularenault @JogosOlimpicos  @Brasil2016 "A persistência é o maior aliado da superação."…
+date = Sun Jul 24 02:08:36 +0000 2016| user = aurelianopoeta| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 02:08:06 +0000 2016| user = EdmilsonOlivei8| text = RT @JenSoares73: ESSE É RARO! #foratemer #ForaTemerGolpista #foraolimpiadasFocopokemongoBr #cunhanacadeia #pokemongo #golpe #Rio2016 https:…
+date = Sun Jul 24 02:07:14 +0000 2016| user = iuriprola13| text = @JogosOlimpicos @usainbolt @Rio2016 Essa foi boa
+date = Sun Jul 24 02:06:43 +0000 2016| user = danilo_taveira| text = RT @wellingcampos: Demorou. RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/Xc39bkH7it https://…
+date = Sun Jul 24 02:05:25 +0000 2016| user = salseira| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 02:05:08 +0000 2016| user = snowrenault| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:04:36 +0000 2016| user = JornalDestak| text = Rio2016: Comité Olímpico Internacional confiante em plano de segurança &amp;#34;robusto&amp;#34; https://t.co/6LHgqetDAA
+date = Sun Jul 24 02:04:27 +0000 2016| user = mexingadireito| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:04:19 +0000 2016| user = marcosvmonteiro| text = @SurtoOlimpico @Rio2016 tem horário aproximado do anúncio?
+date = Sun Jul 24 02:04:01 +0000 2016| user = eni_alexo| text = RT @Brasil2016: Procon lança guia tira-dúvidas para facilitar a vida de turistas nos Jogos #Rio2016. https://t.co/PxojZcWLNI https://t.co/U…
+date = Sun Jul 24 02:03:07 +0000 2016| user = ProLuizFernando| text = RT @IrenioChaves: Para ministro da justiça do traidor Temer, deportação e prisões afastam terrorismo. Deus nos livre dessa ingenuidade
+http…
+date = Sun Jul 24 02:02:56 +0000 2016| user = cristinatais2| text = RT @sossoap: O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.c…
+date = Sun Jul 24 02:02:31 +0000 2016| user = OrlaneSantos| text = #Repost @rio2016 with @repostapp
+・・・
+Encantando corações e multidões, a #TochaOlímpica chega a São Paulo neste... https://t.co/edZOp0tJN3
+date = Sun Jul 24 02:01:45 +0000 2016| user = pitanga_mila| text = Hospitais reservam leitos para Olimpíada e desmarcam cirurgias https://t.co/akXn0IgIlY
+date = Sun Jul 24 02:00:32 +0000 2016| user = OperacoesRio| text = #RIO2016 | FALTAM 2 DIAS - FAIXAS OLÍMPICAS - Implantação nas principais vias da cidade. https://t.co/Z3ryKau2DH https://t.co/sLXHoP6njH
+date = Sun Jul 24 02:00:19 +0000 2016| user = A_C_Nascimento| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 01:59:50 +0000 2016| user = JenSoares73| text = ESSE É RARO! #foratemer #ForaTemerGolpista #foraolimpiadasFocopokemongoBr #cunhanacadeia #pokemongo #golpe #Rio2016 https://t.co/rolD7omFtt
+date = Sun Jul 24 01:59:40 +0000 2016| user = sossoap| text = O mundo dentro do Brasil e todos em olho nos seus atletas ! #Rio2016 #TweetCampeao @RenaultFaccao @anapaularenault https://t.co/6afMjiLrBV
+date = Sun Jul 24 01:58:39 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Amanhã o dia pode ser histórico e o Surto ficará de plantão para saber o destino da Rússia: Dentro ou fora do @Rio2016?
+date = Sun Jul 24 01:58:12 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Nadadora grega convidada por engano é confirmada no @Rio2016 https://t.co/MrEtqQNBhx https://t.co/Qih54DWwi2
+date = Sun Jul 24 01:57:49 +0000 2016| user = Rj_Barbosa| text = RT @obrasilonline: #OperaçãoTabajara Temer usa “terrorismo” do EI na #Rio2016 para manipular opinião pública? https://t.co/ZxwcFT4QHG https…
+date = Sun Jul 24 01:57:40 +0000 2016| user = andregalhardo| text = Xô baixo astral. Que venha a #rio2016 #rio2016🇧🇷 #rio2016olympics #rio #rio365 #021 #rioetc Watch #Instavideo:http:… https://t.co/x2ZDpGqev5
+date = Sun Jul 24 01:57:38 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A Cerimônia do Pódio do @Rio2016 terá três trilhas diferentes https://t.co/Mz3p7u6JFp https://t.co/psnDw65qaX
+date = Sun Jul 24 01:57:32 +0000 2016| user = andregalhardo| text = Xô baixo astral. Que venha a #rio2016 #rio2016🇧🇷 #rio2016olympics #rio #rio365 #021 #rioetc https://t.co/PNrV9KqPy9
+date = Sun Jul 24 01:57:22 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Carrasco do vôlei do Brasil em 2012, Muserskiy está fora do @Rio2016 https://t.co/NVufw3njRR https://t.co/4IGDHLAKuH
+date = Sun Jul 24 01:57:19 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: O Vôlei não terá tempo técnico no @Rio2016  https://t.co/wQJ03cycMb https://t.co/Qfskx2pNv0
+date = Sun Jul 24 01:57:15 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto....o COI analisa no domingo a exclusão da Rússia do @Rio2016 https://t.co/jaSzPnwDg1 https://t.co/dKR…
+date = Sun Jul 24 01:56:17 +0000 2016| user = deusarippi| text = ° olhaaa quem vai segurar a tochaaaa,nunca imaginei que seria a Gabi 💚💚💚💚 @rio2016_es { Gabi e… https://t.co/oX8QSex8S0
+date = Sun Jul 24 01:56:04 +0000 2016| user = SurtoOlimpico| text = Amanhã o dia pode ser histórico e o Surto ficará de plantão para saber o destino da Rússia: Dentro ou fora do @Rio2016?
+date = Sun Jul 24 01:55:59 +0000 2016| user = deusarippi| text = ° @rio2016_es 💛💛💛💛💛💛 {Gabi curtiu} https://t.co/n1eNMmh5o6
+date = Sun Jul 24 01:55:45 +0000 2016| user = jornalistavitor| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:53:42 +0000 2016| user = guirocha82| text = @Gui_Toldo q dia vc compete na #Rio2016? Vou assistir esgrima dia 11 à tarde! Vai q é, né.. Rs boa sorte! 🍀
+date = Sun Jul 24 01:52:54 +0000 2016| user = mexingadireito| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:52:32 +0000 2016| user = SurtoOlimpico| text = Nadadora grega convidada por engano é confirmada no @Rio2016 https://t.co/MrEtqQNBhx https://t.co/Qih54DWwi2
+date = Sun Jul 24 01:51:03 +0000 2016| user = XcomodoroX| text = Se Rússia ficar fora dos jogos. @Rio2016 perderá muito o nível da competição que será o mais baixo das últimas olimpíadas.Devolvo o ingresso
+date = Sun Jul 24 01:50:45 +0000 2016| user = walyson52| text = RT @portaljovempan: Nos @Rio2016, @usainbolt revela que quer conhecer @neymarjr: https://t.co/CS1zCG5Z28 https://t.co/szceCU1hus
+date = Sun Jul 24 01:50:08 +0000 2016| user = dora_serejo| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:49:51 +0000 2016| user = Gfrock| text = Fera braba do SK8...! #pitbull #atleta #rio2016 #embuscadonome https://t.co/MbdPcIOnmI
+date = Sun Jul 24 01:49:35 +0000 2016| user = SamilaSantos155| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:49:22 +0000 2016| user = kaakauukarvalho| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:48:35 +0000 2016| user = Tereza47| text = RT @obrasilonline: #OperaçãoTabajara Temer usa “terrorismo” do EI na #Rio2016 para manipular opinião pública? https://t.co/ZxwcFT4QHG https…
+date = Sun Jul 24 01:48:25 +0000 2016| user = DayyaneMelo102| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:47:44 +0000 2016| user = iiIhcaralho| text = RT @DHinchadas: Que tal esse trio ? #Rio2016 https://t.co/NCnuNpNBvI
+date = Sun Jul 24 01:47:44 +0000 2016| user = hmmmantipatia| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:47:08 +0000 2016| user = RGoodrem| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:46:35 +0000 2016| user = andrepsf1| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:46:26 +0000 2016| user = anaju0304| text = RT @OperacoesRio: #RIO2016 | Alça da Rua Frei Caneca foi fechada no dia 17. Saiba mais: https://t.co/EY6Y9e8yGB https://t.co/xoW6FirhNt
+date = Sun Jul 24 01:45:39 +0000 2016| user = Pastor7Fernando| text = A prisão de terroristas brasileiros, os conselhos do EI para atacar a #Rio2016, a campanha de Pokémon GO na Síria e…h/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ttps://t.co/EFfJ39BT83
+date = Sun Jul 24 01:45:29 +0000 2016| user = sansicarvalho| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:45:28 +0000 2016| user = FenomenoRenault| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:44:58 +0000 2016| user = ana05cristina| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:44:46 +0000 2016| user = _viciado__| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:44:45 +0000 2016| user = Anb_Li| text = RT @SurtoOlimpico: A Cerimônia do Pódio do @Rio2016 terá três trilhas diferentes https://t.co/Mz3p7u6JFp https://t.co/psnDw65qaX
+date = Sun Jul 24 01:44:42 +0000 2016| user = mariahmagalhes1| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:44:29 +0000 2016| user = Armando_v_5| text = #DiamondLeague, próxima parada #Rio2016 @usainbolt https://t.co/xGGhq5lJ0C
+date = Sun Jul 24 01:44:12 +0000 2016| user = tamicelia| text = RT @liceformiga: Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:43:53 +0000 2016| user = biancaba15| text = RT @JornalOGlobo: Atleta americana @hopesolo monta arsenal anti-zika para vir ao Rio. https://t.co/ssRny0PrBc #Rio2016 https://t.co/jLGVliT…
+date = Sun Jul 24 01:43:42 +0000 2016| user = liceformiga| text = Trailer das Olimpíadas Rio2016 feito pela BBC Sport. Amei ❤️
+@anapaularenault #TweetCampeão https://t.co/IKqtPXZgxe
+date = Sun Jul 24 01:43:29 +0000 2016| user = HigorCerqueira| text = REVELAÇÕES #rio2016 estou bem ansioso
+date = Sun Jul 24 01:43:26 +0000 2016| user = miquelina_LS| text = RT @VEJA: Amanhã #OTrajetoDaTocha chega à São Paulo. Será a última capital antes da cidade-sede dos Jogos Olímpicos @Rio2016.
+date = Sun Jul 24 01:43:25 +0000 2016| user = SurtoOlimpico| text = A Cerimônia do Pódio do @Rio2016 terá três trilhas diferentes https://t.co/Mz3p7u6JFp https://t.co/psnDw65qaX
+date = Sun Jul 24 01:42:40 +0000 2016| user = marysaints| text = #felizinverno #rio2016🇧🇷 @ Cabaret Lounge Botafogo https://t.co/WNLPe4tIFU
+date = Sun Jul 24 01:41:59 +0000 2016| user = juuh4563| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:41:53 +0000 2016| user = VonCosmic| text = RT @CBF_Futebol: FIM DE JOGO! Com boa atuação no 2º tempo, #SeleçãoFeminina vence por 3 a 1. Agora foco total na Olimpíada! #Rio2016 https:…
+date = Sun Jul 24 01:41:12 +0000 2016| user = mrfjvl| text = RT @folha: Agentes deixaram repórter da Folha passar estilete de 9 cm em raio X de Congonhas https://t.co/xq74DgETE6 #Rio2016 https://t.co/…
+date = Sun Jul 24 01:41:10 +0000 2016| user = Anb_Li| text = RT @SurtoOlimpico: Destaques do Surto....o COI analisa no domingo a exclusão da Rússia do @Rio2016 https://t.co/jaSzPnwDg1 https://t.co/dKR…
+date = Sun Jul 24 01:40:52 +0000 2016| user = SurtoOlimpico| text = Carrasco do vôlei do Brasil em 2012, Muserskiy está fora do @Rio2016 https://t.co/NVufw3njRR https://t.co/4IGDHLAKuH
+date = Sun Jul 24 01:40:09 +0000 2016| user = SurtoOlimpico| text = O Vôlei não terá tempo técnico no @Rio2016  https://t.co/wQJ03cycMb https://t.co/Qfskx2pNv0
+date = Sun Jul 24 01:39:38 +0000 2016| user = umbelinolucas| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:39:30 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto....o COI analisa no domingo a exclusão da Rússia do @Rio2016 https://t.co/jaSzPnwDg1 https://t.co/dKR2pdPhMH
+date = Sun Jul 24 01:38:00 +0000 2016| user = lauradeand| text = RT @EstadaoEsporte: Basquete masculino do Brasil derrota a Romênia no 1º teste para o @Rio2016. https://t.co/TzPoMLwSkF https://t.co/arVM3Z…
+date = Sun Jul 24 01:37:38 +0000 2016| user = nara_juca| text = RT @MestresAscensio: Falha treinamento da Rio2016 do Ministro Interino da Justiça do Governo Interino Temer/Globo https://t.co/oxfjAoqlDq h…
+date = Sun Jul 24 01:37:21 +0000 2016| user = FalamansaFas| text = @bandafalamansa Meus principes vcs poderiam ser atraçao da cerimonia @Rio2016 ia ser perfeito as olimpiadas ta chegando
+date = Sun Jul 24 01:37:13 +0000 2016| user = wellingcampos| text = Demorou. RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/Xc39bkH7it https://t.co/wBUhjCvITH
+date = Sun Jul 24 01:37:12 +0000 2016| user = gomeswalisu| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:36:48 +0000 2016| user = abra_hanito| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:35:49 +0000 2016| user = cassioluis7| text = RT @CBF_Futebol: FIM DE JOGO! Com boa atuação no 2º tempo, #SeleçãoFeminina vence por 3 a 1. Agora foco total na Olimpíada! #Rio2016 https:…
+date = Sun Jul 24 01:35:31 +0000 2016| user = LifeStyleENV| text = Boulevard Olímpico terá transmissões esportivas além de atrações culturais gratuitas |  #Rio2016 #CidadeOlímpica  https://t.co/2dvUA49H6l
+date = Sun Jul 24 01:35:20 +0000 2016| user = abra_hanito| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 01:34:32 +0000 2016| user = jrmarchett| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:34:24 +0000 2016| user = ulissesportela| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:33:53 +0000 2016| user = ikmkoji| text = RT g1 "Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/vdonvpl4zy https://t.co/a1i0aVfw4z"#TimBeta
+date = Sun Jul 24 01:33:50 +0000 2016| user = limaalef| text = RT @CastroGabryel: ENQUETE: Qual música das Olimpíadas você acha a mais bonita? #Rio2016
+date = Sun Jul 24 01:33:02 +0000 2016| user = oficialtresrios| text = Cidade de Três Rios já saiu! https://t.co/1zFPHFDRFU Graças a @OperacoesRio @soumaisniteroi @pierrerf #rio2016 #tresrios
+date = Sun Jul 24 01:33:00 +0000 2016| user = abra_hanito| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:32:15 +0000 2016| user = jsmithklimber| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:31:44 +0000 2016| user = tavares_40| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:31:32 +0000 2016| user = ornelaspaloma| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:31:32 +0000 2016| user = Loiraa_Tognetti| text = RT @EstadaoEsporte: Basquete masculino do Brasil derrota a Romênia no 1º teste para o @Rio2016. https://t.co/TzPoMLwSkF https://t.co/arVM3Z…
+date = Sun Jul 24 01:31:30 +0000 2016| user = FlachellMichel| text = @rodrigofelismi2 @FlachellMichel O time de Amarelo Joga Muito.... Viva a CBF
+Vão disputar o Ouro no Carater...
+#Rio2016
+date = Sun Jul 24 01:31:19 +0000 2016| user = B_RFer| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:31:14 +0000 2016| user = Rods1099| text = @CorreiosBR @Rio2016 do jeito que vcs tratam as cargas e as perdem misteriosamente, a olimpíada dará super certo!!!!!
+date = Sun Jul 24 01:30:41 +0000 2016| user = sonia_divinaa| text = RT @MestresAscensio: Falha treinamento da Rio2016 do Ministro Interino da Justiça do Governo Interino Temer/Globo https://t.co/oxfjAoqlDq h…
+date = Sun Jul 24 01:30:29 +0000 2016| user = RioBusOficial| text = RT @OperacoesRio: #RIO2016 | Alça da Rua Frei Caneca foi fechada no dia 17. Saiba mais: https://t.co/EY6Y9e8yGB https://t.co/xoW6FirhNt
+date = Sun Jul 24 01:30:28 +0000 2016| user = OperacoesRio| text = #RIO2016 | Alça da Rua Frei Caneca foi fechada no dia 17. Saiba mais: https://t.co/EY6Y9e8yGB https://t.co/xoW6FirhNt
+date = Sun Jul 24 01:30:11 +0000 2016| user = g1| text = Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 01:30:00 +0000 2016| user = CiscoDoBrasil| text = #Rio2016 - Um orgulho ainda maior #Cisco #TeamCisco2016
+https://t.co/omcjjBMBK4
+date = Sun Jul 24 01:29:58 +0000 2016| user = tulio| text = RT @CastroGabryel: ENQUETE: Qual música das Olimpíadas você acha a mais bonita? #Rio2016
+date = Sun Jul 24 01:29:42 +0000 2016| user = FPetralha| text = RT @FPetralha: @VEJA @ChamaOlimpica @Rio2016 - Tocha Olímpica lembra Lula, Dilma e Corrupção.Tocha lembra 11 milhões de trabalhadores desem…
+date = Sun Jul 24 01:29:39 +0000 2016| user = MestresAscensio| text = Falha treinamento da Rio2016 do Ministro Interino da Justiça do Governo Interino Temer/Globo https://t.co/oxfjAoqlDq https://t.co/ZPLZyI8FUd
+date = Sun Jul 24 01:29:09 +0000 2016| user = cinema_brasil| text = RT @exercitooficial: Ministro da Defesa visita o CDS Barra #Rio2016 https://t.co/3XMjSFjGBe https://t.co/WQnWiKkZKa
+date = Sun Jul 24 01:29:01 +0000 2016| user = FalamansaFas| text = @minesporte @rio2016 Tudo pronto pra,olimpiadas,no rio,poderia ter @BandaFalamansa pra abertura,cerimonia
+date = Sun Jul 24 01:28:15 +0000 2016| user = ulissesportela| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 01:28:07 +0000 2016| user = troyetrust| text = RT @EstadaoEsporte: Basquete masculino do Brasil derrota a Romênia no 1º teste para o @Rio2016. https://t.co/TzPoMLwSkF https://t.co/arVM3Z…
+date = Sun Jul 24 01:27:41 +0000 2016| user = JetLindo| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 01:27:30 +0000 2016| user = protestaSP| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 01:27:26 +0000 2016| user = araujo_lenice| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:27:07 +0000 2016| user = SilviaRosselini| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 01:27:05 +0000 2016| user = ggomes_29| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:26:35 +0000 2016| user = klaysonlevi| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 01:26:13 +0000 2016| user = machado_mil| text = Operação apreende 1,3 mil produtos falsos da Olimpíada https://t.co/dsusMgiNJT
+date = Sun Jul 24 01:26:03 +0000 2016| user = Brasil2016| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:26:00 +0000 2016| user = Marciamf13| text = RT @CorreiosBR: A equipe dos Correios está escalada para entregar os Jogos Olímpicos @Rio2016. #ISSOÉENTREGA https://t.co/CX96YlLknl
+date = Sun Jul 24 01:25:18 +0000 2016| user = AnaZambelli| text = #vaiterolimpiadas #rio2016 #errejota @ Ilha Pura - Vila Olímpica https://t.co/ZYSnRpWcEW
+date = Sun Jul 24 01:25:08 +0000 2016| user = Nairoquinha| text = Boulevard Olímpico terá transmissões esportivas além de atrações culturais gratuitas |  #Rio2016 #CidadeOlímpica  https://t.co/OYC62gj2ss
+date = Sun Jul 24 01:24:49 +0000 2016| user = lorenaxavierfe1| text = RT @jornal_opopular: Neymar promete nova tatuagem se vencer Jogos do Rio https://t.co/pWMo3ZRzhV #Neymar #Rio2016 #Futebol #Esporte https:/…
+date = Sun Jul 24 01:24:48 +0000 2016| user = AlvepiresAndre| text = RT @EstadaoEsporte: VAI ENCARAR? @TeamUSA anuncia que virá com 555 atletas para o @Rio2016. Confira em https://t.co/tBpug7qa1b https://t.co…
+date = Sun Jul 24 01:24:48 +0000 2016| user = JeffSantos98| text = Foto de moradora de rua dormindo perto de cartaz da Olimpíada viraliza | Olimpíada Rio 2016 | G1
+@JGuiilherme99  https://t.co/nF80xbT4sg
+date = Sun Jul 24 01:24:45 +0000 2016| user = fifthgrounders| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:24:30 +0000 2016| user = VerdanLuan| text = RT @jornal_opopular: Neymar promete nova tatuagem se vencer Jogos do Rio https://t.co/pWMo3ZRzhV #Neymar #Rio2016 #Futebol #Esporte https:/…
+date = Sun Jul 24 01:23:43 +0000 2016| user = __JoaoVitor| text = RT @g1: Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 01:22:58 +0000 2016| user = SEPalestrina| text = RT @jornal_opopular: Neymar promete nova tatuagem se vencer Jogos do Rio https://t.co/pWMo3ZRzhV #Neymar #Rio2016 #Futebol #Esporte https:/…
+date = Sun Jul 24 01:22:29 +0000 2016| user = SEPalestrina| text = RT @EstadaoEsporte: Basquete masculino do Brasil derrota a Romênia no 1º teste para o @Rio2016. https://t.co/TzPoMLwSkF https://t.co/arVM3Z…
+date = Sun Jul 24 01:22:07 +0000 2016| user = jimindesire| text = RT @jornal_opopular: Neymar promete nova tatuagem se vencer Jogos do Rio https://t.co/pWMo3ZRzhV #Neymar #Rio2016 #Futebol #Esporte https:/…
+date = Sun Jul 24 01:22:06 +0000 2016| user = clebs| text = Matheus lendo Lia. Lia lidando com Lia. Lida. 😘❤️ 🇧🇷 #riodejaneiro #brasil #winter #Rio2016 https://t.co/0zEnzotihA https://t.co/ANH6OKBO1B
+date = Sun Jul 24 01:21:49 +0000 2016| user = SandraMirandaTO| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 01:21:48 +0000 2016| user = jimindesire| text = RT @EstadaoEsporte: Basquete masculino do Brasil derrota a Romênia no 1º teste para o @Rio2016. https://t.co/TzPoMLwSkF https://t.co/arVM3Z…
+date = Sun Jul 24 01:20:50 +0000 2016| user = CamiilaPires| text = RT @rodrigorochadel: A Globo anunciou que @glendakozlowski será a primeira narradora mulher da história da emissora. Que demais. Arrebenta,…
+date = Sun Jul 24 01:20:21 +0000 2016| user = Embarque| text = Boulevard Olímpico terá transmissões esportivas além de atrações culturais gratuitas |  #Rio2016 #CidadeOlímpica  https://t.co/z3H9WyGAFa
+date = Sun Jul 24 01:20:08 +0000 2016| user = EstadaoEsporte| text = VAI ENCARAR? @TeamUSA anuncia que virá com 555 atletas para o @Rio2016. Confira em https://t.co/tBpug7qa1b https://t.co/91ysapelzS
+date = Sun Jul 24 01:20:04 +0000 2016| user = g1| text = Serra diz que 45 chefes de estado vão ao Rio para Olimpíada https://t.co/7ffAHvApcb https://t.co/rZtiXj9f70
+date = Sun Jul 24 01:19:53 +0000 2016| user = LuarhNight| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:19:50 +0000 2016| user = alexehbrecht| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 01:19:07 +0000 2016| user = Nairoquinha| text = RIO DE JANEIRO EM TRÊS DIAS #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem 
+ https://t.co/xI7YeSFejv
+date = Sun Jul 24 01:18:42 +0000 2016| user = celiataquehara| text = https://t.co/8nbmDXWOCI
+A tocha olímpica passou pela minha cidade
+date = Sun Jul 24 01:18:27 +0000 2016| user = viccsr| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:18:26 +0000 2016| user = anacleto_isa| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:18:05 +0000 2016| user = _AmandaSiilva| text = RT @CBF_Futebol: FIM DE JOGO! Com boa atuação no 2º tempo, #SeleçãoFeminina vence por 3 a 1. Agora foco total na Olimpíada! #Rio2016 https:…
+date = Sun Jul 24 01:17:59 +0000 2016| user = tarcisioeonio| text = RT @CBF_Futebol: Formiga vai para sua sexta Olimpíada e carrega no olhar o orgulho de vestir a Amarelinha! #SeleçãoFeminina #Rio2016 https:…
+date = Sun Jul 24 01:16:35 +0000 2016| user = andreialuoliver| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:16:35 +0000 2016| user = ulissesportela| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:16:17 +0000 2016| user = casttrogabs| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:15:59 +0000 2016| user = santaastica| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:15:31 +0000 2016| user = nay_velani| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:15:13 +0000 2016| user = 1santrista| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:14:56 +0000 2016| user = AlvarenMarilia| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 01:14:13 +0000 2016| user = Embarque| text = RIO DE JANEIRO EM TRÊS DIAS #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem 
+ https://t.co/qPMVN6hJeZ
+date = Sun Jul 24 01:14:05 +0000 2016| user = alvarezconnor93| text = RT @PauloRaymond_: @CorreiosBR @Rio2016 igual as caixas de encomenda que chegam amassadas
+date = Sun Jul 24 01:13:56 +0000 2016| user = Bryan10Douglas| text = @Esp_Interativo @BauDoCECTT @Rio2016 com esse time vai sair na fase de grupo
+date = Sun Jul 24 01:13:53 +0000 2016| user = juuh4563| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:13:39 +0000 2016| user = lekotjs| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sun Jul 24 01:13:33 +0000 2016| user = lekotjs| text = RT @CBF_Futebol: É exclusivo, é diferente, é bate-papo com Neymar! Confira a edição do Papo Olímpico com o craque https:///usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+t.co/CJOhhbdFw8 #…
+date = Sun Jul 24 01:13:04 +0000 2016| user = bielrenaultg| text = RT @EstadaoEsporte: Basquete masculino do Brasil derrota a Romênia no 1º teste para o @Rio2016. https://t.co/TzPoMLwSkF https://t.co/arVM3Z…
+date = Sun Jul 24 01:12:15 +0000 2016| user = PauloRaymond_| text = @CorreiosBR @Rio2016 igual as caixas de encomenda que chegam amassadas
+date = Sun Jul 24 01:11:50 +0000 2016| user = CleuzaBapti| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:11:45 +0000 2016| user = mariacl39524924| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:11:22 +0000 2016| user = carlarangel1| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:11:21 +0000 2016| user = ivocaoe| text = Será que ė apenas eu que está cagando pra essa merda de olimpíada? #Rio2016
+date = Sun Jul 24 01:10:01 +0000 2016| user = jsmithklimber| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:09:44 +0000 2016| user = norivalncfrj| text = Mudanças do trânsito no entorno do Engenhão começam neste sábado  #G1 https://t.co/2Sib8K0FBX
+date = Sun Jul 24 01:09:24 +0000 2016| user = biapaier| text = Nado sincronizado #rio2016 Hahahaa 🏊🏼💙 @ Salinópolis https://t.co/CV4PBi0JIK
+date = Sun Jul 24 01:09:13 +0000 2016| user = taycaviquiolli| text = RT @Esp_Interativo: Avisa lá que as meninas vão buscar o ouro na @Rio2016! https://t.co/rbJ05RfnF6
+date = Sun Jul 24 01:09:06 +0000 2016| user = LINSDIVULGANDO| text = RT @BancoCentralBR: A #moedadodia traz a vela, em homenagem ao aniversariante Torben Grael, maior medalhista olímpico do Brasil #Rio2016 ht…
+date = Sun Jul 24 01:08:13 +0000 2016| user = LifeStyleENV| text = Pernambuco marca presença nas Olimpíadas do Rio de Janeiro |  #OlimpíadasdoRio #Rio2016 #CidadeOlímpica  https://t.co/uzjwCUsP54
+date = Sun Jul 24 01:08:00 +0000 2016| user = KARAMELOO| text = RT @g1: Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:07:28 +0000 2016| user = edvaldoscouto| text = RT @CricriEsculacho: Vai ter #feriascoletivas nas #Universidades durante #Rio2016 @edvaldoscouto ?
+date = Sun Jul 24 01:07:03 +0000 2016| user = LukazTG| text = The latest Aviação de hoje! https://t.co/sRKe4ijYn4 Thanks to @todoentuiter @portalfab @marianavechiato #rio2016 #mtvhottest
+date = Sun Jul 24 01:07:02 +0000 2016| user = SilvaViliene| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:06:54 +0000 2016| user = priskka| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:06:32 +0000 2016| user = memegera| text = Luís Horta defende Rússia fora do Rio
+https://t.co/sj2HfyeZ1I https://t.co/fHGnfRX3R9
+date = Sun Jul 24 01:06:22 +0000 2016| user = camilanfreitas| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:06:14 +0000 2016| user = lorenasep_| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:05:50 +0000 2016| user = PaahElpidio_| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:05:45 +0000 2016| user = A_Cleber| text = RT @usina_itaipu: Os cinco atletas das canoagem slalom desceram o Canal Itaipu, nesta quinta-feira, antes de partirem para @Rio2016 https:/…
+date = Sun Jul 24 01:05:36 +0000 2016| user = antoniocsds77| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:05:20 +0000 2016| user = fotoclanovaes| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 01:05:06 +0000 2016| user = FlaviaGalindo| text = RT @EstadaoEsporte: COMO CHEGAMOS AQUI? Relembre os passos do @Rio2016, desde a escolha como sede. https://t.co/mS0J6dnbiu https://t.co/6Cd…
+date = Sun Jul 24 01:05:05 +0000 2016| user = g1| text = Motoristas ficam confusos no 1º dia de mudanças em área do Engenhão, no Rio https://t.co/c9ejdnLKHa https://t.co/A7HpEmFNWe
+date = Sun Jul 24 01:05:05 +0000 2016| user = FPetralha| text = @VEJA @ChamaOlimpica @Rio2016 - Tocha Olímpica lembra Lula, Dilma e Corrupção.Tocha lembra 11 milhões de trabalhadores desempregados. Fora!
+date = Sun Jul 24 01:05:04 +0000 2016| user = oCaioDeSantos| text = Petralhada enlouquece no @g1 "Serra diz que chefes..." https://t.co/tcDWUIx7O1 https://t.co/OHMsj5RjM2 https://t.co/g3Vra4I8Vl
+date = Sun Jul 24 01:05:03 +0000 2016| user = marcuspoliver| text = Inspiração...
+Aguardem! 
+#olimpiadas #rio2016 #olimpiadas2016 #olympics #olympics2016… https://t.co/B8sDDTQz5G
+date = Sun Jul 24 01:04:23 +0000 2016| user = _amarimari| text = RT @Esp_Interativo: GOLAAAAAAAAAAAAAAÇO DO BRASIL! Darlene bagunçou a zaga e fechou o placar: 🇧🇷 3x1 🇦🇺!!!
+
+VAMOS COM TUDO PRO @Rio2016! ht…
+date = Sun Jul 24 01:03:56 +0000 2016| user = shotsdobiebs| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:03:24 +0000 2016| user = FelippePedroso| text = RT @exercitooficial: 4º BAvEx faz reconhecimento aéreo para a segurança dos Jogos em Manaus #Rio2016 https://t.co/5C5LxEUH2C https://t.co/J…
+date = Sun Jul 24 01:03:24 +0000 2016| user = Fabio_hSousaa| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:03:06 +0000 2016| user = _mcarolina9| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:02:50 +0000 2016| user = anathaismatos| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:02:35 +0000 2016| user = Iuriigandos| text = RT @CorreiosBR: Algumas cargas, mesmo que grandes, são extremamente delicadas e pedem cuidados extremos. #ISSOÉENTREGA @Rio2016 https://t.c…
+date = Sun Jul 24 01:02:30 +0000 2016| user = MariaViitoria5H| text = RT @momentsbrasil: Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+htt…
+date = Sun Jul 24 01:02:13 +0000 2016| user = madudott| text = Neymar e Rafinha combinam tatuagem caso Seleção ganhe o ouro | O POVO ONLINE https://t.co/m5Fgdta2l2 || NeyFinha mais real q BruMar
+date = Sun Jul 24 01:02:10 +0000 2016| user = momentsbrasil| text = Futebol feminino do Brasil vence Austrália no último jogo antes da @Rio2016!
+
+Veja as notícias do esporte. #Moments⚡
+https://t.co/2JxLzvHECP
+date = Sun Jul 24 01:02:05 +0000 2016| user = a1b21bf210fe4a5| text = RT @OperacoesRio: #RIO2016 |NOVIDADE NO TRÁFEGO FAIXAS OLÍMPICAS - Nas principais vias da cidade dia 25. https://t.co/Z3ryKau2DH https://t.…
+date = Sun Jul 24 01:01:35 +0000 2016| user = Marcelo_LJF_CD| text = @VEJA @ChamaOlimpica @Rio2016 Mais um capítulo da novela: "A Maldição da Tocha". Vai superar Os 10 Mandamentos, da Record.
+date = Sun Jul 24 01:01:15 +0000 2016| user = norivalncfrj| text = Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos #G1 https://t.co/qcjGUwyKhe
+date = Sun Jul 24 01:01:05 +0000 2016| user = Nairoquinha| text = O Rio de Janeiro e sua história #RiodeJaneiro #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem https://t.co/JOElpWtobu
+
+https://t.co/DGLV3YHK5s
+date = Sun Jul 24 01:00:52 +0000 2016| user = cristin13238480| text = RT @SandraARomano: Ataque em Munique é "prévia" da Rio2016, dizem grupos pró-EI https://t.co/9203N3ul4h
+date = Sun Jul 24 01:00:40 +0000 2016| user = ZabukIgor| text = @pokemongobraz @PinhoFellipe se liga : https://t.co/GuLTvtAxxE
+date = Sun Jul 24 01:00:39 +0000 2016| user = OperacoesRio| text = #RIO2016 | FAIXAS OLÍMPICAS em 25/07 - Implantação nas principais vias da cidade. https://t.co/Z3ryKau2DH https://t.co/sLXHoP6njH
+date = Sun Jul 24 01:00:37 +0000 2016| user = norivalncfrj| text = Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/qcjGUwyKhe
+date = Sun Jul 24 01:00:35 +0000 2016| user = ricardinho837| text = RT @JogosOlimpicos: Ele está de volta! ⚡️ @usainbolt venceu os 200m na Diamond League e provou que está em forma para o @Rio2016! 💪👏 https:…
+date = Sun Jul 24 00:59:44 +0000 2016| user = paragnrhonda| text = RT @Rio2016: Eduardo Barghirolli é torcedor do Santo André e vive de cabelo azul. Ao conduzir, foi recebido com festa! https://t.co/q9bLPnO…
+date = Sun Jul 24 00:59:19 +0000 2016| user = paragnrhonda| text = RT @Rio2016: Pira acesa em São Bernardo pelo ginasta  @hypolitoginasta . Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/nPPT3G7bqs
+date = Sun Jul 24 00:59:03 +0000 2016| user = euuedy| text = Eu lambi a tocha 👅 #olimpiadas2016 #rio2016 #tochaolimpica #claro #caixa @ Ginásio Poliesportivo… https://t.co/btMvgCzb6q
+date = Sun Jul 24 00:58:47 +0000 2016| user = norivalncfrj| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros #G1 https://t.co/mNCUBRSztf
+date = Sun Jul 24 00:58:21 +0000 2016| user = Nairoquinha| text = Pernambuco marca presença nas Olimpíadas do Rio de Janeiro |  #OlimpíadasdoRio #Rio2016 #CidadeOlímpica  https://t.co/nfXo3azx42
+date = Sun Jul 24 00:58:21 +0000 2016| user = norivalncfrj| text = Restrição para Olimpíada gera multa a mais de mil caminhoneiros https://t.co/mNCUBRSztf
+date = Sun Jul 24 00:57:09 +0000 2016| user = NenaRenault| text = RT @anapaularenault: ✨Vitória na Guerra 🇧🇷!!! 👊🏻 @Rio2016 @Brasil2016 @TwitterBrasil #TweetCampeão  https://t.co/dwH9YWd7UW
+date = Sun Jul 24 00:57:07 +0000 2016| user = arilson_silva| text = RT @alexpussieldi: E a palestra terminou com um ARACAJU DUCARALHO por Andrii Govorov #rio2016
+date = Sun Jul 24 00:57:02 +0000 2016| user = marciaserrou| text = RT @g1: Operação policial apreende 1,3 mil produtos falsos da Olimpíada no Rio https://t.co/6wo3dEme8k https://t.co/Rzo3pHdA8k
+date = Sun Jul 24 00:56:43 +0000 2016| user = norivalncfrj| text = 'Olimpíada é o maior desafio que a cidade já teve', diz diretor da CET-Rio #G1 https://t.co/G0De0ruKXk
+date = Sun Jul 24 00:56:23 +0000 2016| user = grfavoritos| text = RT @CorreiosBR: Algumas cargas, mesmo que grandes, são extremamente delicadas e pedem cuidados extremos. #ISSOÉENTREGA @Rio2016 https://t.c…
+date = Sun Jul 24 00:56:23 +0000 2016| user = Embarque| text = O Rio de Janeiro e sua história #RiodeJaneiro #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem https://t.co/quyEQhDpjb
+
+https://t.co/RBN72pzkfp
+date = Sun Jul 24 00:55:53 +0000 2016| user = skynettTest| text = RT @renatapereiraTV: 🇧🇷 13 dias para as #Olimpiadas2016!
+#Rio2016 #visitbrasil #roadtorio  https://t.co/Vbhe61Zgaz https://t.co/CTbCLD6bgv
+date = Sun Jul 24 00:55:45 +0000 2016| user = norivalncfrj| text = 'Olimpíada é o maior desafio que a cidade já teve', diz diretor da CET-Rio https://t.co/G0De0ruKXk
+date = Sun Jul 24 00:55:43 +0000 2016| user = ricardinho837| text = RT @CorreiosBR: Algumas cargas, mesmo que grandes, são extremamente delicadas e pedem cuidados extremos. #ISSOÉENTREGA @Rio2016 https://t.c…
+date = Sun Jul 24 00:55:41 +0000 2016| user = renatopbarata| text = As preciosas podem ser vistas no museu que abriu no Engenhão. Entrada free. @Rio2016 https://t.co/WzOZHYss32
+date = Sun Jul 24 00:55:21 +0000 2016| user = ADAPTSURF| text = Confirmadas as atividades da ADAPTSURF neste domingo (24/7) na Praia Acessível do Leblon, Posto 11, das 10 às 15 horas. #adaptsurf #rio2016
+date = Sun Jul 24 00:55:01 +0000 2016| user = belle_ckbbio| text = RT @razzendres: Institute FHC articulates Right-wing Politics in Latin America
+https://t.co/5qsaStaqH2 #Rio2016 Temer PSDB = Golpe https://…
+date = Sun Jul 24 00:54:25 +0000 2016| user = bfc_esportes| text = Triste aquela final contra a Rússia!
+Águas passadas!
+No #Rio2016, o Ouro é nosso!
+#vaibrasil #bfcesportes #natorcida https://t.co/jZzjPdlX51
+date = Sun Jul 24 00:54:09 +0000 2016| user = Bola_Amarela| text = Recorde quem são os oito jogadores de ténis que poderão falhar a competição. https://t.co/EtfRUAj1sb
+date = Sun Jul 24 00:53:48 +0000 2016| user = norivalncfrj| text = Feriados e férias na Olimpíada abrem espaço nas ruas do Rio #G1 https://t.co/pZEtBhIZGv
+date = Sun Jul 24 00:53:48 +0000 2016| user = ricardinho837| text = RT @GEdoBrasil: Acompanhamos de perto a preparação dos atletas para os Jogos @Rio2016! https://t.co/tYTLegDcwO #OsJogosJáComeçaram https://…
+date = Sun Jul 24 00:53:33 +0000 2016| user = norivalncfrj| text = Feriados e férias escolares abrem
+espaço nas ruas para Olimpíada 2016 https://t.co/pZEtBhIZGv
+date = Sun Jul 24 00:53:15 +0000 2016| user = Embarque| text = Pernambuco marca presença nas Olimpíadas do Rio de Janeiro |  #OlimpíadasdoRio #Rio2016 #CidadeOlímpica  https://t.co/okwAVbvLhv
+date = Sun Jul 24 00:53:03 +0000 2016| user = Camilagsilva| text = RT @VEJA: Amanhã #OTrajetoDaTocha chega à São Paulo. Será a última capital antes da cidade-sede dos Jogos Olímpicos @Rio2016.
+date = Sun Jul 24 00:52:59 +0000 2016| user = marcia27g| text = RT @Rio2016: Faltam só 13 dias! https://t.co/hoWGlGKfi0
+date = Sun Jul 24 00:52:44 +0000 2016| user = norivalncfrj| text = Motorista que trafegar por faixas olímpicas será multado em R$ 1,5 mil #G1 https://t.co/NL3iokVdhH
+date = Sun Jul 24 00:52:41 +0000 2016| user = FlavioM32255797| text = RT @CBF_Futebol: FIM DE JOGO! Com boa atuação no 2º tempo, #SeleçãoFeminina vence por 3 a 1. Agora foco total na Olimpíada! #Rio2016 https:…
+date = Sun Jul 24 00:52:26 +0000 2016| user = MayMnhttn| text = @VEJA @ChamaOlimpica @Rio2016 Que se foda a tocha
+date = Sun Jul 24 00:52:18 +0000 2016| user = Music_maestro| text = RT @renatapereiraTV: 🇧🇷 13 dias para as #Olimpiadas2016!
+#Rio2016 #visitbrasil #roadtorio  https://t.co/Vbhe61Zgaz https://t.co/CTbCLD6bgv
+date = Sun Jul 24 00:51:33 +0000 2016| user = PlanetaUniversi| text = RT @VEJA: Amanhã #OTrajetoDaTocha chega à São Paulo. Será a última capital antes da cidade-sede dos Jogos Olímpicos @Rio2016.
+date = Sun Jul 24 00:51:28 +0000 2016| user = norivalncfrj| text = Motorista que trafegar por faixas olímpicas será multado em R$ 1,5 mil https://t.co/NL3iokVdhH
+date = Sun Jul 24 00:50:51 +0000 2016| user = leumaS_amiL| text = @CorreiosBR @Rio2016 um dos maiores símbolos de corrupção desse país vai entregar o que meu deus?
+date = Sun Jul 24 00:50:39 +0000 2016| user = mariliamiporte| text = RT @EstadaoEsporte: Seleção feminina vira sobre a Austrália em amistoso e fecha preparação para o @Rio2016. https://t.co/RcxgraxwZP https:/…
+date = Sun Jul 24 00:50:39 +0000 2016| user = norivalncfrj| text = Ruas são interditadas na Barra e no Pontal para a Olimpíada 2016 #G1 https://t.co/AsCTxWblvT
+date = Sun Jul 24 00:50:35 +0000 2016| user = PeedroHenriqque| text = RT @OAntagoniza: Rock in Rio2016 no Japão: https://t.co/lZrGtyEjzZ
+date = Sun Jul 24 00:50:21 +0000 2016| user = Mo_Americanoid| text = RT @Ricamconsult: Quais as lições da #Rio2016? 1ª: fortalecer combate à corrupção antes de assumir compromissos com custos elevados. https:…
+date = Sun Jul 24 00:50:14 +0000 2016| user = SgtMajorDan| text = RT @renatapereiraTV: 🇧🇷 13 dias para as #Olimpiadas2016!
+#Rio2016 #visitbrasil #roadtorio  https://t.co/Vbhe61Zgaz https://t.co/CTbCLD6bgv
+date = Sun Jul 24 00:49:43 +0000 2016| user = norivalncfrj| text = Veja interdições da Barra e do Pontal para a Olimpíada https://t.co/AsCTxWblvT
+date = Sun Jul 24 00:49:39 +0000 2016| user = viakenny| text = RT @Rio2016: Pira acesa em São Bernardo pelo ginasta  @hypolitoginasta . Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/nPPT3G7bqs
+date = Sun Jul 24 00:49:31 +0000 2016| user = Jucometi| text = RT @EstadaoEsporte: COMO CHEGAMOS AQUI? Relembre os passos do @Rio2016, desde a escolha como sede. https://t.co/mS0J6dnbiu https://t.co/6Cd…
+date = Sun Jul 24 00:49:28 +0000 2016| user = viakenny| text = RT @Rio2016: É a vez da craque Janeth conduzir a @ChamaOlimpica. Olha a festa! https://t.co/O7iSVVUjdp
+date = Sun Jul 24 00:49:26 +0000 2016| user = Goldenmars| text = RT @Rio2016: Pira acesa em São Bernardo pelo ginasta  @hypolitoginasta . Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/nPPT3G7bqs
+date = Sun Jul 24 00:49:21 +0000 2016| user = viakenny| text = RT @Rio2016: Arthur Zanetti fechou o revezamento em São Caetano do Sul. Olha o amor pela @ChamaOlimpica! https://t.co/7qD3Ji6cvh
+date = Sun Jul 24 00:48:30 +0000 2016| user = norivalncfrj| text = Ruas são interditadas em Deodoro para a Olimpíada 2016
+ #G1 https://t.co/cOgWxMVtnh
+date = Sun Jul 24 00:47:52 +0000 2016| user = m_aaandy| text = Uma emoção que só eu sei que senti! 
+#tourdatocha #olimpiadas #rio2016 #hugohoyama https://t.co/VYMK3bzm2s
+date = Sun Jul 24 00:47:48 +0000 2016| user = natasoares| text = RT @OperacoesRio: #RIO2016 |NOVIDADE NO TRÁFEGO FAIXAS OLÍMPICAS - Nas principais vias da cidade dia 25. https://t.co/Z3ryKau2DH https://t.…

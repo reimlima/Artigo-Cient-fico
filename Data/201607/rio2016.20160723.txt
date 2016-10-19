@@ -1,0 +1,223 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sat Jul 23 03:09:23 +0000 2016| user = Melissadepaul15| text = @MichelTemer @Rio2016 @portalbrasil o povo tem nojo de ti velho golpista e brocha e corno tbm
+date = Sat Jul 23 03:09:03 +0000 2016| user = kakycandian| text = RT @g1rio: Aeroporto faz campanha de doação de sangue visando à Olimpíada do Rio https://t.co/LSNPGua24a #G1 https://t.co/UkyUFZyY0b
+date = Sat Jul 23 03:08:57 +0000 2016| user = RubianoAndy| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Rodrigo Dourado carrega a bola no trabalho tático comandado por Rogério Micale. #Rio2016 https://…
+date = Sat Jul 23 03:08:52 +0000 2016| user = RubianoAndy| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sat Jul 23 03:08:51 +0000 2016| user = lucaxac| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:08:47 +0000 2016| user = RubianoAndy| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+@marquinhos_m5 e Gabriel Jesus observam habilidade de @neymarjr. #Rio2016 #SeleçãoOlímpica https:…
+date = Sat Jul 23 03:08:37 +0000 2016| user = RubianoAndy| text = RT @CBF_Futebol: As meninas da #SeleçãoFeminina conheceram hoje a tocha olímpica. Muito bom para entrar no clima dos Jogos! #Rio2016 https:…
+date = Sat Jul 23 03:08:32 +0000 2016| user = RubianoAndy| text = RT @CBF_Futebol: Pontaria em dia na #SeleçãoFeminina! Se liga no chutaço da Camila. #Rio2016 #FutebolFeminino https://t.co/E10ZF8D9Kh
+date = Sat Jul 23 03:08:08 +0000 2016| user = DicasdoEmbarque| text = #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 As 5 melhores trilhas no Rio e arredores | https://t.co/8evfPJ9Srh
+date = Sat Jul 23 03:07:15 +0000 2016| user = carolinastary| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:07:09 +0000 2016| user = RubianoAndy| text = RT @CBF_Futebol: Veja fotos do treino desta sexta-feira! #Rio2016 #SeleçãoOlímpica https://t.co/kM1rhYPKpb
+date = Sat Jul 23 03:07:04 +0000 2016| user = RubianoAndy| text = RT @CBF_Futebol: Entrevista coletiva AO VIVO com @DouglasSantos_6 e Luan &gt;&gt; https://t.co/73eXxPxQve
+
+#Rio2016 #SeleçãoOlímpica https://t.co…
+date = Sat Jul 23 03:06:53 +0000 2016| user = RubianoAndy| text = RT @CBF_Futebol: Gabriel Jesus, do @SEPalmeiras, e o carinho do torcedor brasileiro! ⚽️😍❤️
+
+#Rio2016 #SeleçãoOlímpica https://t.co/q6aBai8g…
+date = Sat Jul 23 03:06:36 +0000 2016| user = 3jckfiniteHv| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:06:15 +0000 2016| user = hugofonseca74| text = RT @Spanish_NBA: 🇺🇸111-74🇦🇷, final. Durant 23p-4r-3a, Cousins 14p-15r, George 18p, Melo 17p-7r, Nocioni 15p-7r, Ginobili 11p, Scola 10p-5r.…
+date = Sat Jul 23 03:05:53 +0000 2016| user = Wudson_| text = [G1 Maranhão] Veja quem são os presos suspeitos de planejar ataque na Olimpíada https://t.co/41FZugNPKN - https://t.co/kHbhZ2wbwM
+date = Sat Jul 23 03:04:02 +0000 2016| user = jsmithklimber| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:03:54 +0000 2016| user = karolinwtavares| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:03:38 +0000 2016| user = Gangster75015| text = RT @ParisNoLimit: Marquinhos et Neymar #Rio2016 #PSG 🇧🇷 https://t.co/gejBrMBZi8
+date = Sat Jul 23 03:03:20 +0000 2016| user = ffran__| text = RT @gazetadopovo: Convidado, @Alex10 disse não à tocha olímpica da @Rio2016 . Entenda o motivo do craque https://t.co/RTcawqKRHa https://t.…
+date = Sat Jul 23 03:03:19 +0000 2016| user = slayedd| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:03:05 +0000 2016| user = Nairoquinha| text = #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 As 5 melhores trilhas no Rio e arredores | https://t.co/lRuUeD0QS6
+date = Sat Jul 23 03:02:31 +0000 2016| user = itstefg| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:02:29 +0000 2016| user = timbetaramos28| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:02:06 +0000 2016| user = ludentrodaldeia| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 03:01:53 +0000 2016| user = Melissadepaul15| text = @MichelTemer @Rio2016 @portalbrasil sim sua equipe do PCC ja fez o cancelamento de 20 mil pessoas aos jogos incompetente
+date = Sat Jul 23 03:01:22 +0000 2016| user = RaianePalteka| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:01:04 +0000 2016| user = DicasdoEmbarque| text = 48 horas pelas belezas imperdíveis do #RiodeJaneiro Dicas para curtir as #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem https://t.co/jSiepqR9Uv
+date = Sat Jul 23 03:00:58 +0000 2016| user = niilistababaca| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:00:56 +0000 2016| user = rsruiz| text = Gente que frio é esse em SP...espero que domingo esteja melhor senão nem vou ver a tocha no museu @Bradesco #MafiaSegueGeral #Rio2016
+date = Sat Jul 23 03:00:51 +0000 2016| user = kaicocavalcante| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:00:49 +0000 2016| user = MariaLCAb| text = RT @ebcnarede: Justiça Federal exige apresentação de legado da Olimpíada https://t.co/LriQlyMQyD #Rio2016 https://t.co/mmLwmDirS3
+date = Sat Jul 23 03:00:42 +0000 2016| user = _hudsonQ| text = 00:00h 13 dias #Rio2016
+date = Sat Jul 23 03:00:20 +0000 2016| user = ulissesportela| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:00:18 +0000 2016| user = PergunteiNdMlk| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 03:00:00 +0000 2016| user = moncler_coelho| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 02:59:58 +0000 2016| user = brkarina| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 02:59:54 +0000 2016| user = cwbxavier| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 02:59:32 +0000 2016| user = arregacada| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 02:59:06 +0000 2016| user = g1| text = Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 02:59:00 +0000 2016| user = CleuzaBapti| text = RT @ebcnarede: Justiça Federal exige apresentação de legado da Olimpíada https://t.co/LriQlyMQyD #Rio2016 https://t.co/mmLwmDirS3
+date = Sat Jul 23 02:58:23 +0000 2016| user = jornalistavitor| text = RT @ebcnarede: Justiça Federal exige apresentação de legado da Olimpíada https://t.co/LriQlyMQyD #Rio2016 https://t.co/mmLwmDirS3
+date = Sat Jul 23 02:58:04 +0000 2016| user = Embarque| text = #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 As 5 melhores trilhas no Rio e arredores | https://t.co/gjqomzUvb3
+date = Sat Jul 23 02:57:22 +0000 2016| user = RicardoSStudio| text = RIO2016 - Time Petrobras 2016 é formado por 25 atletas
+date = Sat Jul 23 02:56:26 +0000 2016| user = Darwin888| text = RT @Spanish_NBA: 🇺🇸111-74🇦🇷, final. Durant 23p-4r-3a, Cousins 14p-15r, George 18p, Melo 17p-7r, Nocioni 15p-7r, Ginobili 11p, Scola 10p-5r.…
+date = Sat Jul 23 02:56:08 +0000 2016| user = LifeStyleENV| text = Cultura na bagagem durante os Jogos Olímpicos e Paralímpicos #Rio2016 #CidadeOlímpica #EmbarqueNaViagem https://t.co/frv0zSuD8G
+date = Sat Jul 23 02:56:05 +0000 2016| user = Nairoquinha| text = 48 horas pelas belezas imperdíveis do #RiodeJaneiro Dicas para curtir as #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem https://t.co/JOElpWtobu
+date = Sat Jul 23 02:56:04 +0000 2016| user = profmarciocosta| text = "São 135 vagas que não podem ser ocupadas por outros pacientes. Alguns deles, que tinham cirurgias já agendadas,... https://t.co/8zGliaWSrw
+date = Sat Jul 23 02:55:34 +0000 2016| user = elisabarcellos| text = #Rio2016. Sim, estou triste, e como achava que iria estar bem para ser voluntária, não comprei os ingressos... https://t.co/MNWVn309IJ
+date = Sat Jul 23 02:55:22 +0000 2016| user = AskTheHorse| text = RT @zh_esportes: Empresário, poliglota e "imune à dor": quem é o representante gaúcho do hipismo no #Rio2016 https://t.co/MVEkJURMLU https:…
+date = Sat Jul 23 02:55:12 +0000 2016| user = coroamcz| text = Hospitais reservam leitos para Olimpíada e desmarcam cirurgias no Rio https://t.co/5NsW9bSGoo
+date = Sat Jul 23 02:54:18 +0000 2016| user = anitasaza1| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:54:07 +0000 2016| user = TralhaGVjr| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:54:05 +0000 2016| user = Spanish_NBA| text = 🇺🇸111-74🇦🇷, final. Durant 23p-4r-3a, Cousins 14p-15r, George 18p, Melo 17p-7r, Nocioni 15p-7r, Ginobili 11p, Scola 10p-5r. #Rio2016
+date = Sat Jul 23 02:54:04 +0000 2016| user = mallrox| text = Hospitais reservam leitos para Olimpíada e desmarcam cirurgias https://t.co/ERysC3ORn0
+date = Sat Jul 23 02:53:16 +0000 2016| user = ProfessorJosina| text = Hospitais reservam leitos para Olimpíada e desmarcam cirurgias https://t.co/TDNSX4mdRO
+date = Sat Jul 23 02:52:52 +0000 2016| user = robertoadvogado| text = The latest  Diário roberto silveira ! https://t.co/s1PrvP7Tls Thanks to @MoreiraFranco @AdvocaciaGarcez @RadioCamara #rio2016 #smm
+date = Sat Jul 23 02:51:15 +0000 2016| user = DicasdoEmbarque| text = Cultura na bagagem durante os Jogos Olímpicos e Paralímpicos #Rio2016 #CidadeOlímpica #EmbarqueNaViagem https://t.co/92hPPNNzUx
+date = Sat Jul 23 02:51:15 +0000 2016| user = Embarque| text = 48 horas pelas belezas imperdíveis do #RiodeJaneiro Dicas para curtir as #OlimpíadasnoRio #Rio2016 #EmbarqueNaViagem https://t.co/quyEQhDpjb
+date = Sat Jul 23 02:49:28 +0000 2016| user = chicab6lls| text = RT @Corinthians: Amanhã os 7 representantes da #Natação do #Timão encerram o trabalho no clube para o @Rio2016! Boa sorte! https://t.co/bm6…
+date = Sat Jul 23 02:49:12 +0000 2016| user = bryaniav| text = Esse é o aquecimento para o #Rio2016  https://t.co/LWCTPLjIcY
+date = Sat Jul 23 02:48:37 +0000 2016| user = rodrigopadula| text = Saindo do Rio p/ viajar e já vi dois mortos, 1 motociclista baleado numa tentativa de assalto e outro motociclista devido a colisão #rio2016
+date = Sat Jul 23 02:48:35 +0000 2016| user = Embarque| text = #Dicas para curtir o #RiodeJaneiro nas #OlimpíadasnoRio #Rio2016 As 5 melhores trilhas no Rio e arredores |... https://t.co/uAqx9ZaMcb
+date = Sat Jul 23 02:48:29 +0000 2016| user = _thaizoca| text = RT @Embarque: Cultura na bagagem durante os Jogos Olímpicos e Paralímpicos #Rio2016 #CidadeOlímpica #EmbarqueNaViagem https://t.co/pvo4plIz…
+date = Sat Jul 23 02:48:27 +0000 2016| user = Alvez_true| text = RT @CocaCola_Br: .@JulioCocielo conduziu a #TochaOlímpica #Rio2016 em Osasco! #IssoÉOuro #DeCaronaComATocha: https://t.co/3ZZ2G7G8Zn https:…
+date = Sat Jul 23 02:46:20 +0000 2016| user = Nairoquinha| text = Cultura na bagagem durante os Jogos Olímpicos e Paralímpicos #Rio2016 #CidadeOlímpica #EmbarqueNaViagem https://t.co/ZQ7BogsLgB
+date = Sat Jul 23 02:44:48 +0000 2016| user = BrenoSa99338045| text = RT @CorreiosBR: A equipe dos Correios está escalada para entregar os Jogos Olímpicos @Rio2016. #ISSOÉENTREGA https://t.co/CX96YlLknl
+date = Sat Jul 23 02:43:22 +0000 2016| user = crvgisaac| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:42:51 +0000 2016| user = zayniessquad| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:42:35 +0000 2016| user = lucianacsoares| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:42:25 +0000 2016| user = DeixaArde1| text = RT @anapaularenault: ✨Vitória na Guerra 🇧🇷!!! 👊🏻 @Rio2016 @Brasil2016 @TwitterBrasil #TweetCampeão  https://t.co/dwH9YWd7UW
+date = Sat Jul 23 02:42:18 +0000 2016| user = zayniessquad| text = RT @TiagoIlori4: Rio de Janeiro ✈️ #JogosOlimpicos #Rio2016 https://t.co/N2GyC8h2Q7
+date = Sat Jul 23 02:42:14 +0000 2016| user = RuanF_Fontana69| text = RT @JogosOlimpicos: Ele está de volta! ⚡️ @usainbolt venceu os 200m na Diamond League e provou que está em forma para o @Rio2016! 💪👏 https:…
+date = Sat Jul 23 02:42:08 +0000 2016| user = Pft18| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:41:51 +0000 2016| user = melcupertino| text = Turistando pela cidade olímpica #Rio2016 #M @ Museu do Amanhã https://t.co/LsnSwm3ji4
+date = Sat Jul 23 02:41:09 +0000 2016| user = Embarque| text = Cultura na bagagem durante os Jogos Olímpicos e Paralímpicos #Rio2016 #CidadeOlímpica #EmbarqueNaViagem https://t.co/pvo4plIzNz
+date = Sat Jul 23 02:39:46 +0000 2016| user = pholiveirarocha| text = RT @jose_simao: Datafolha: "51% nāo tem interesse no Rio2016". https://t.co/oQeqxhVrFo
+date = Sat Jul 23 02:39:41 +0000 2016| user = jrmutti| text = RT @obrasilonline: #Rio2016
+
+Com Alexandre Moraes, Brasil procura sarna pra se coçar na Rio 2016 - https://t.co/nIdv4dTzqw https://t.co/QU1…
+date = Sat Jul 23 02:39:33 +0000 2016| user = MrLawful| text = RT @MoniqueCheker: Hospitais reservam leitos para Olimpíada e desmarcam cirurgias https://t.co/17ocBQjvsS Nova classe? Doentes olímpicos e…
+date = Sat Jul 23 02:39:33 +0000 2016| user = williamfda| text = @Rio2016 @ChamaOlimpica @Pele Achei q ele fosse conduzi no Maracanã e acender a Pira Olímpica
+date = Sat Jul 23 02:38:17 +0000 2016| user = cesinhacvc| text = Revezamento Tocha Olímpica Rio 2016 - Bradesco 
+#bradesco #nissan #cocacola #rio2016 https://t.co/lRbQedhoEw
+date = Sat Jul 23 02:38:03 +0000 2016| user = LFC_Herbert| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 02:37:56 +0000 2016| user = edinardocds| text = RT @CorreiosBR: A equipe dos Correios está escalada para entregar os Jogos Olímpicos @Rio2016. #ISSOÉENTREGA https://t.co/CX96YlLknl
+date = Sat Jul 23 02:37:40 +0000 2016| user = SLBenficaSLB| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:37:37 +0000 2016| user = marciamussa2| text = RT @obrasilonline: #Rio2016
+
+Com Alexandre Moraes, Brasil procura sarna pra se coçar na Rio 2016 - https://t.co/nIdv4dTzqw https://t.co/QU1…
+date = Sat Jul 23 02:36:54 +0000 2016| user = martinlenon| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+@gabi/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+gol e Gabriel Jesus em momento de descontração no meio de muito trabalho! #Rio2016 https://t…
+date = Sat Jul 23 02:36:49 +0000 2016| user = nad_pimentel| text = RT @obrasilonline: #Rio2016
+
+Com Alexandre Moraes, Brasil procura sarna pra se coçar na Rio 2016 - https://t.co/nIdv4dTzqw https://t.co/QU1…
+date = Sat Jul 23 02:36:44 +0000 2016| user = laymorais_| text = RT @g1: Fila por selfie nos arcos olímpicos em Copacabana chega a 15 minutos https://t.co/ZL9U0Wxt9W https://t.co/91iAByLmwH
+date = Sat Jul 23 02:36:25 +0000 2016| user = xsugardaddy| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:34:34 +0000 2016| user = RenatoBacon| text = Ansioso? UM POUQUINHO. SÓ UM POUQUINHO MESMO. 
+#rio2016 https://t.co/dboqs4JLXh
+date = Sat Jul 23 02:34:21 +0000 2016| user = felip3medeiros| text = Essa chamada da @RedeGlobo para o @Rio2016 foi altamente excitante. Será uma super cobertura. Lembro das nossas conversas @gisa_teixeira.
+date = Sat Jul 23 02:34:11 +0000 2016| user = marceluscs| text = RT @portalfab: Responsáveis pela manutenção de NVG durante a #Rio2016 passam por curso. Saiba mais: https://t.co/ttl5le0r93 https://t.co/rw…
+date = Sat Jul 23 02:33:55 +0000 2016| user = MarianniA7| text = @CorreiosBR @Rio2016 Pra contrariar todo mundo meu secador chegou pelos correios....
+date = Sat Jul 23 02:33:07 +0000 2016| user = dobrevivendo| text = RT @SantosFC: #TourDaTocha Baleinha também já está no clima olímpico! #RumoAoRio #Rio2016 https://t.co/k8CvprM4Hb
+date = Sat Jul 23 02:33:06 +0000 2016| user = biaevinni| text = Apesar de tudo,tudo mesmo, de todos os erros, todo sofrimento do povo etc.. Ainda assim eu peço desculpas, mas o Rio tá lindo. #Rio2016
+date = Sat Jul 23 02:32:47 +0000 2016| user = felip3medeiros| text = Olimpíadas no Brasil, que emoção.
+
+#Olimpíadas2016 
+
+@Rio2016
+date = Sat Jul 23 02:32:39 +0000 2016| user = ricardocamposs| text = O Eco já saiu! https://t.co/zjpjcaxUuV Graças a @marlivettoretti @musicaemercado @AndreaRamalho_ #rio2016 #spnosportv
+date = Sat Jul 23 02:32:37 +0000 2016| user = jornalistavitor| text = RT @ebcnarede: Diretor do COI alerta sobre terrorismo, mas confia na segurança da Olimpíada https://t.co/Coa6FbNkjs #Rio2016 https://t.co/1…
+date = Sat Jul 23 02:32:32 +0000 2016| user = sacizinhu| text = Espirito olimpico meu ovo... não vejo a hora dessa porra acabar logo. 
+#Rio2016 #Olimpiadas2016 #Olimpiada
+date = Sat Jul 23 02:30:55 +0000 2016| user = ElzaSoares| text = @RSPARADESPORTO @Rio2016 @geledes @BlogNegras Lindos. Obrigada... 👑
+date = Sat Jul 23 02:30:12 +0000 2016| user = ultimasrio| text = Restrição para Olimpíada gera multa a mais de mil caminhoneiros https://t.co/NSDO1LXu7d …
+date = Sat Jul 23 02:30:10 +0000 2016| user = ebcnarede| text = Diretor do COI alerta sobre terrorismo, mas confia na segurança da Olimpíada https://t.co/Coa6FbNkjs #Rio2016 https://t.co/1geVBwDdji
+date = Sat Jul 23 02:30:10 +0000 2016| user = EBCEsporte| text = Diretor do COI alerta sobre terrorismo, mas confia na segurança da Olimpíada https://t.co/mVaexQLUV3 #Rio2016 https://t.co/DIFAqmsiZq
+date = Sat Jul 23 02:29:59 +0000 2016| user = Lily80436884| text = RT @10gonzaga: Hospitais reservam leitos para Olimpíada e desmarcam cirurgias https://t.co/BRrqL5BmLq
+date = Sat Jul 23 02:29:49 +0000 2016| user = Noticias24H7d4s| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/kcEz5tP7XT
+date = Sat Jul 23 02:29:49 +0000 2016| user = Noticias24H7d4s| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/kcEz5u6IPr
+date = Sat Jul 23 02:29:48 +0000 2016| user = Wudson_| text = [G1 Paraíba] Veja quem são os presos suspeitos de planejar ataque na Olimpíada https://t.co/41FZugNPKN - https://t.co/kHbhZ2wbwM
+date = Sat Jul 23 02:29:46 +0000 2016| user = AntonioFla1978| text = #BasqueteNaESPN 🏀
+Se em Atenas deu uma 'zica' danada, no #Rio2016 eles estão correndo do 'Zika'! Abraço @everaldomarques e @eduagraespn! 🇺🇸
+date = Sat Jul 23 02:29:43 +0000 2016| user = 10gonzaga| text = Restrição para Olimpíada gera multa a mais de mil caminhoneiros https://t.co/0mGy6E5o9F
+date = Sat Jul 23 02:28:47 +0000 2016| user = ToinoMartins| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:28:41 +0000 2016| user = 10gonzaga| text = Hospitais reservam leitos para Olimpíada e desmarcam cirurgias https://t.co/BRrqL5BmLq
+date = Sat Jul 23 02:28:00 +0000 2016| user = Fernandonefro| text = RT @JogosOlimpicos: Em apenas 14 dias, a @ChamaOlimpica vai inflamar os sonhos de todos os atletas nos Jogos @Rio2016! #RumoAoRio https://t…
+date = Sat Jul 23 02:27:54 +0000 2016| user = brunoboiteux| text = Esse time dos EUA de basquete é muito favorito no #Rio2016 mas vai ter que jogar muito serio para não acontecer uma zebra.
+date = Sat Jul 23 02:27:29 +0000 2016| user = martins_izaac| text = Hotéis do Rio já registram 92,5% de ocupação para a Olimpíada https://t.co/AVIXT8nNLX
+date = Sat Jul 23 02:26:41 +0000 2016| user = luizimbastos| text = RT @folha: Diretor da Rio-2016 diz que prisões de suspeitos melhoram imagem dos Jogos https://t.co/MqDxXff6Sh #Rio2016 https://t.co/gUk9OsY…
+date = Sat Jul 23 02:25:25 +0000 2016| user = EddyArajo| text = RT @exercitooficial: Brigada Montese intensifica atividades de preparo e emprego #Rio2016 https://t.co/p7AGkJPcQX https://t.co/ORYuvGwshi
+date = Sat Jul 23 02:25:05 +0000 2016| user = AlexGoncalves17| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:24:51 +0000 2016| user = neymarzetees1| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sat Jul 23 02:24:44 +0000 2016| user = gmtaveira| text = Esse uniforme da Argentina tá qualquer coisa pra lá de ridículo. Pijama? #Rio2016 #basquetenaESPN
+date = Sat Jul 23 02:24:23 +0000 2016| user = marcuslellis| text = Um gostinho de Olimpíadas para os 013 de Santos. #Rio2016 https://t.co/6SFVkTeTou
+date = Sat Jul 23 02:23:56 +0000 2016| user = gmtaveira| text = Amistoso de gigantes na preparação para os Jogos Olímpicos Rio 2016: EUA x Argentina. #basquetenaESPN #Rio2016
+date = Sat Jul 23 02:23:41 +0000 2016| user = martins_izaac| text = Hospitais reservam leitos para Olimpíada e desmarcam cirurgias https://t.co/tNkYynqsIN
+date = Sat Jul 23 02:23:36 +0000 2016| user = NatlCardoso| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:23:31 +0000 2016| user = martins_izaac| text = Fila por selfie nos arcos olímpicos chega a 15 minutos no Rio https://t.co/Pww3nmxa2g
+date = Sat Jul 23 02:23:09 +0000 2016| user = Fernanda133fg| text = RT @CorreiosBR: A equipe dos Correios está escalada para entregar os Jogos Olímpicos @Rio2016. #ISSOÉENTREGA https://t.co/CX96YlLknl
+date = Sat Jul 23 02:22:10 +0000 2016| user = FTS44| text = RT @portalfab: Responsáveis pela manutenção de NVG durante a #Rio2016 passam por curso. Saiba mais: https://t.co/ttl5le0r93 https://t.co/rw…
+date = Sat Jul 23 02:20:32 +0000 2016| user = Galdino_15| text = RT @SeeljeRJ: Na onda do #Rio2016 a boa de lazer continua #NoPercursoDaTocha! Esta semana a boa é em Três Rios e Paraíba do Sul. https://t.…
+date = Sat Jul 23 02:18:17 +0000 2016| user = ManuelGSMachado| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:18:01 +0000 2016| user = dzelekuljancic7| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:17:20 +0000 2016| user = welljornalismo| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:16:54 +0000 2016| user = ThatEDISSIkid| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:16:34 +0000 2016| user = Gabii_Prr| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:15:48 +0000 2016| user = jornalistavitor| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:14:37 +0000 2016| user = theJuds_| text = Plaza Team #Rio2016 @ Rio de Janeiro, Brazil https://t.co/tDumGzq4Wq
+date = Sat Jul 23 02:14:14 +0000 2016| user = BrazilPesquisas| text = Você é contra ou a favor da realização das Olimpíadas no Brasil ?
+#Olimpiadas2016 #Rio2016
+date = Sat Jul 23 02:13:51 +0000 2016| user = sakajunkai| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+@marquinhos_m5 e Gabriel Jesus observam habilidade de @neymarjr. #Rio2016 #SeleçãoOlímpica https:…
+date = Sat Jul 23 02:13:28 +0000 2016| user = diegomaravalhas| text = RT @sdubocage: Seis jogos dos cariocas durante a #Rio2016 terão de sair do Rio. Isso se chama organização #sqn
+date = Sat Jul 23 02:13:23 +0000 2016| user = delcueto| text = instagram image: Bem vindo pra quem vê a sutileza da nossa beleza! #valeRio2016 #flower #rio2016 #olympics #justbefo…https://t.co/EqwZcrRATL
+date = Sat Jul 23 02:12:43 +0000 2016| user = InformeRJO| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/YUvfZv8x8h
+date = Sat Jul 23 02:12:42 +0000 2016| user = InformeRJO| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/yM299AThMl
+date = Sat Jul 23 02:12:40 +0000 2016| user = Geands| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/h3cxWuLqX4
+date = Sat Jul 23 02:12:40 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Veja quem são os presos suspeitos de planejar ataque na Olimpíada https://t.co/lLjLRFFk8S
+date = Sat Jul 23 02:12:39 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Restrição para Olimpíada rende multa a mais de mil caminhoneiros https://t.co/I1lTrEwFSt
+date = Sat Jul 23 02:12:38 +0000 2016| user = DesertEagleRJ| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/FFt3vhWPOo
+date = Sat Jul 23 02:12:37 +0000 2016| user = DesertEagleRJ| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/WuVSOQgcVD
+date = Sat Jul 23 02:12:37 +0000 2016| user = SindicoDoRio| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/8RHJgsgW1n
+date = Sat Jul 23 02:12:36 +0000 2016| user = SindicoDoRio| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/qJWxwrcLXE
+date = Sat Jul 23 02:12:34 +0000 2016| user = Bruno_Vida| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/eyLvZBEqzD
+date = Sat Jul 23 02:12:34 +0000 2016| user = yagog| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/SJz6ozLp8l
+date = Sat Jul 23 02:12:34 +0000 2016| user = Bruno_Vida| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/wov7MqCqs3
+date = Sat Jul 23 02:12:32 +0000 2016| user = Noticiasdopovo_| text = #RJ Veja quem são os presos suspeitos de planejar ataque na Olimpíada https://t.co/SqPfvzdiKc
+date = Sat Jul 23 02:12:31 +0000 2016| user = Rio_Acontece| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/pNBVY4EISQ
+date = Sat Jul 23 02:12:31 +0000 2016| user = Rio_Acontece| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/pH6wXU1Ogl
+date = Sat Jul 23 02:12:11 +0000 2016| user = marl3nemarta| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/20EQ41uoTj
+date = Sat Jul 23 02:11:59 +0000 2016| user = noticias| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada https://t.co/uUNM8jr2yE #notícias
+date = Sat Jul 23 02:11:55 +0000 2016| user = mariajoaq9655| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/SX1I7IRbDL
+date = Sat Jul 23 02:11:50 +0000 2016| user = zitameireles| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/6Prwif5zoM
+date = Sat Jul 23 02:11:48 +0000 2016| user = Wudson_| text = [G1 Rio de Janeiro] Veja quem são os presos suspeitos de planejar ataque na Olimpíada https://t.co/41FZugNPKN - #ForaRenan
+date = Sat Jul 23 02:11:47 +0000 2016| user = guuHFeliciano| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/UmYRCdQ4at
+date = Sat Jul 23 02:11:47 +0000 2016| user = guuHFeliciano| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/HMZ5wv0sgQ
+date = Sat Jul 23 02:11:44 +0000 2016| user = nytimesBrasil| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/jcyCdwbhdW
+date = Sat Jul 23 02:11:44 +0000 2016| user = rj_noticia| text = #G1 - Veja quem são os presos suspeitos de planejar ataque na Olimpíada https://t.co/Tc5rn8GrJi
+date = Sat Jul 23 02:11:43 +0000 2016| user = nytimesBrasil| text = Restrição para Olimpíada rende multa a mais de mil caminhoneiros: Restrições a veículos de carga vão até o fi... https://t.co/6FHngAZJej
+date = Sat Jul 23 02:11:37 +0000 2016| user = LemosTatsch| text = RT @MoniqueCheker: Hospitais reservam leitos para Olimpíada e desmarcam cirurgias https://t.co/17ocBQjvsS Nova classe? Doentes olímpicos e…
+date = Sat Jul 23 02:11:37 +0000 2016| user = camillamcoelho| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:11:35 +0000 2016| user = SPCRio| text = #Rio: Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a no... https://t.co/gQEBCKIJf6
+date = Sat Jul 23 02:10:56 +0000 2016| user = NegraLenne1| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:10:46 +0000 2016| user = Nah_Higuchi| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sat Jul 23 02:10:34 +0000 2016| user = oficialreinoso| text = Veja quem são os presos suspeitos de planejar ataque na Olimpíada: Onze suspeitos foram presos até a noite de... https://t.co/1fD4NCniHh
+date = Sat Jul 23 02:10:16 +0000 2016| user = qwbrokenfibnf| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:10:01 +0000 2016| user = GehniaAn| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:09:58 +0000 2016| user = timbetaramos28| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:09:58 +0000 2016| user = paulina_lemos| text = RT @selecaoportugal: Já estamos no Rio de Janeiro! @Rio2016_en #Rio2016 https://t.co/r7sTQtdv0B
+date = Sat Jul 23 02:09:50 +0000 2016| user = ELOISAGARCIA15| text = RT @g1: Hemorio precisa dobrar número doações de sangue para Olimpíada https://t.co/XY0U33rHM0 #G1 https://t.co/x8gPHFTVSk
+date = Sat Jul 23 02:09:20 +0000 2016| user = neymaarmylife| text = RT @CBF_Futebol: NO TREINO DA SELEÇÃO...
+
+Duas gerações do @SantosFC na #SeleçãoOlímpica! @neymarjr @gabigol #Rio2016 https://t.co/c9U0oCWj…
+date = Sat Jul 23 02:09:16 +0000 2016| user = Ivan_AlmeidaD| text = Ver a tocha tão de perto, não tem preço! #Rio2016 #RioOlympics #Rio2016noSporTV https://t.co/rJJ8uq69g3
+date = Sat Jul 23 02:09:11 +0000 2016| user = Maud_jr| text = RT @Corinthians: Além de 7 representantes na natação, o #Timão terá duas atletas de basquete no @Rio2016! Parabéns, Joice e Damiris! https:…
+date = Sat Jul 23 02:08:45 +0000 2016| user = luis_gus| text = @neywilson @Rio2016 revendo aqui o ouro da Sarah na narração do Sergio Mauricio! Sonho em ver esse ouro aqui!!
+date = Sat Jul 23 02:08:20 +0000 2016| user = CasoCurioso| text = FALTAM 13 DIAS! #rio2016 #olympicsgames #que #venha #os #jogos #openingceremony https://t.co/Lj01DYwDrp
+date = Sat Jul 23 02:08:01 +0000 2016| user = Maud_jr| text = RT @Corinthians: Amanhã os 7 representantes da #Natação do #Timão encerram o trabalho no clube para o @Rio2016! Boa sorte! https://t.co/bm6…
+date = Sat Jul 23 02:07:34 +0000 2016| user = denisestarblue| text = RT @Rio2016: Nesse dia também será discutida a descarbonização do #Rio2016! Participem! https://t.co/Kd5KxLYYzC
+date = Sat Jul 23 02:07:32 +0000 2016| user = VeronicaHxoxoxo| text = @rio2016_es 😍Lindas!😍

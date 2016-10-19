@@ -1,0 +1,774 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Mon Apr 11 02:47:04 +0000 2016| user = SIGLIAABRAHAO| text = RT @Rio2016: . @ziconarede esteve aqui no comitê e deixou um recado para apoiar os atletas que virão ao #Rio2016!
+https://t.co/Wg0PiFskDS
+date = Mon Apr 11 02:45:21 +0000 2016| user = ap_angel| text = Gente vai ter competição de games no rio 2016#esport #rio2016
+date = Mon Apr 11 02:44:34 +0000 2016| user = cidade_maravilh| text = RT @SlimPapi25: #copacabana #sandsculptures #rio2016 #CachaçaDiaries #🇧🇷 @ Praia de Copacabana https://t.co/hlrxgER46q
+date = Mon Apr 11 02:38:05 +0000 2016| user = SeuEsporteBR| text = VOCÊS já são OURO! (Futebol Feminino)! #Rio2016 https://t.co/s6TGrKjYCw via @YouTube
+date = Mon Apr 11 02:35:49 +0000 2016| user = ANDERSONGURGEL| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Mon Apr 11 02:34:12 +0000 2016| user = SlimPapi25| text = #copacabana #sandsculptures #rio2016 #CachaçaDiaries #🇧🇷 @ Praia de Copacabana https://t.co/hlrxgER46q
+date = Mon Apr 11 02:32:46 +0000 2016| user = dois_min| text = Tu sabes quais seleções no masculino e no feminino q jogarão a #Rio2016? Ñ! Passa lá no blog q nós te contamos ;) https://t.co/3x3a88VWaP
+date = Mon Apr 11 02:26:42 +0000 2016| user = Wilcke| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 02:22:24 +0000 2016| user = _TalitaCRF| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Mon Apr 11 02:12:51 +0000 2016| user = andres_knoll| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Mon Apr 11 02:02:45 +0000 2016| user = maur0p| text = Ativista cria loja de lembranças críticas da Rio-2016 e recebe ameaças https://t.co/eeGRGtn62s via @UOLEsporte #Rio2016
+date = Mon Apr 11 02:02:20 +0000 2016| user = fernandoseller| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 02:01:36 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A @nikebrasil apresenta os uniformes de pódio do @timebrasil para o @Rio2016 https://t.co/TSwXbxYG2p https://t.co/qlWpIg…
+date = Mon Apr 11 02:01:17 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Nadador sul-coreano campeão Olímpico suspenso por doping é barrado do @Rio2016 https://t.co/SafsmaHV8z https://t.co/m7qB…
+date = Mon Apr 11 02:00:55 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...Brasil conhece os adversários no torneio de Polo Aquático no @Rio2016 https://t.co/0gEyHDi4nk https…
+date = Mon Apr 11 01:57:14 +0000 2016| user = SurtoOlimpico| text = A @nikebrasil apresenta os uniformes de pódio do @timebrasil para o @Rio2016 https://t.co/TSwXbxYG2p https://t.co/qlWpIgw4WT
+date = Mon Apr 11 01:54:07 +0000 2016| user = SurtoOlimpico| text = Nadador sul-coreano campeão Olímpico suspenso por doping é barrado do @Rio2016 https://t.co/SafsmaHV8z https://t.co/m7qBuusgoT
+date = Mon Apr 11 01:52:02 +0000 2016| user = ritabuhrer| text = RT @Brasil2016: Voos internacionais registram aumento de 289% durante as Olimpíadas: https://t.co/SU4rwZylAa #Rio2016 https://t.co/W3IWm7cp…
+date = Mon Apr 11 01:50:28 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...Brasil conhece os adversários no torneio de Polo Aquático no @Rio2016 https://t.co/0gEyHDi4nk https://t.co/Rj5s56dt4k
+date = Mon Apr 11 01:47:21 +0000 2016| user = dois_min| text = Definidas as seleções masculinas que participarão do handebol na #Rio2016 https://t.co/1a6EWYjn6O https://t.co/9XhvnnmuBl
+date = Mon Apr 11 01:41:42 +0000 2016| user = iagoagomes_| text = RT @W_Assis7: @iagoagomes_ Sim! não sei pq a Rio2016 tem que fica com o estádio tanto tempo
+date = Mon Apr 11 01:40:04 +0000 2016| user = W_Assis7| text = @iagoagomes_ Sim! não sei pq a Rio2016 tem que fica com o estádio tanto tempo
+date = Mon Apr 11 01:36:01 +0000 2016| user = josemilton_jmr| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 01:35:43 +0000 2016| user = mary_joy_morais| text = RT @Brasil2016: Voos internacionais registram aumento de 289% durante as Olimpíadas: https://t.co/SU4rwZylAa #Rio2016 https://t.co/W3IWm7cp…
+date = Mon Apr 11 01:23:08 +0000 2016| user = SaraAguuiar| text = RT @Brasil2016: Voos internacionais registram aumento de 289% durante as Olimpíadas: https://t.co/SU4rwZylAa #Rio2016 https://t.co/W3IWm7cp…
+date = Mon Apr 11 01:03:15 +0000 2016| user = Alebenite| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 01:01:29 +0000 2016| user = Vcppassos| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 01:00:51 +0000 2016| user = mjandrade| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 01:00:10 +0000 2016| user = Brasil2016| text = Voos internacionais registram aumento de 289% durante as Olimpíadas: https://t.co/SU4rwZylAa #Rio2016 https://t.co/W3IWm7cp5N
+date = Mon Apr 11 00:46:38 +0000 2016| user = LeniseP| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Mon Apr 11 00:45:16 +0000 2016| user = LeniseP| text = RT @JogosOlimpicos: Faltam #4meses para 🎯🏀⚽⚾🎾🏉⛳🏇🚵🏊👯🏆! @Rio2016, queremos lhe encontrar, seu lindo! #VemAgosto https://t.co/PXCxW40SET
+date = Mon Apr 11 00:44:14 +0000 2016| user = AdaByronKing| text = RT @arydasilvajr: Me arrepiei com o comercial da @TAMAirlines pros @JogosOlimpicos @Rio2016. #SomosTodosBrasil
+date = Mon Apr 11 00:38:17 +0000 2016| user = cidade_maravilh| text = RT @Estantes_RJ: ESTANTE DE AÇO C 6 PRATELEIRAS
+99,90 (DINHEIRO)
+PRODUTO NOVO
+#promoção #taquara #jacarepaguá #barradatijuca #riodejaneiro…
+date = Mon Apr 11 00:38:14 +0000 2016| user = cidade_maravilh| text = RT @Silicone_Molde: BORRACHA DE SILICONE
+29,90 KG C CATALISADOR 
+(21)2445-1929/98558-3595
+EST. BANDEIRANTES, 829, JPA
+#riodejaneiro #rio #r…
+date = Mon Apr 11 00:38:14 +0000 2016| user = riquefreire| text = RT @Brasil2016: Palco das provas de vela no #Rio2016, nova Marina da Glória será apresentada daqui a pouco. #SomosTodosBrasil https://t.co/…
+date = Mon Apr 11 00:38:05 +0000 2016| user = Lulala2018| text = RT @Brasil2016: Palco das provas de vela no #Rio2016, nova Marina da Glória será apresentada daqui a pouco. #SomosTodosBrasil https://t.co/…
+date = Mon Apr 11 00:36:59 +0000 2016| user = FlaRobSal| text = RT @Brasil2016: Palco das provas de vela no #Rio2016, nova Marina da Glória será apresentada daqui a pouco. #SomosTodosBrasil https://t.co/…
+date = Mon Apr 11 00:34:35 +0000 2016| user = Silicone_Molde| text = BORRACHA DE SILICONE
+29,90 KG C CATALISADOR 
+(21)2445-1929/98558-3595
+EST. BANDEIRANTES, 829, JPA
+#riodejaneiro #rio #rj #rio2016 #errejota
+date = Mon Apr 11 00:33:00 +0000 2016| user = AdaByronKing| text = RT @Brasil2016: Palco das provas de vela no #Rio2016, nova Marina da Glória será apresentada daqui a pouco. #SomosTodosBrasil https://t.co/…
+date = Mon Apr 11 00:31:10 +0000 2016| user = patyangel| text = #cidadeolimpica #rio2016 #nocaptionneeded @ Museu do Amanhã https://t.co/lAduPlqKUU
+date = Mon Apr 11 00:29:57 +0000 2016| user = Estantes_RJ| text = ESTANTE DE AÇO C 6 PRATELEIRAS
+99,90 (DINHEIRO)
+PRODUTO NOVO
+#promoção #taquara #jacarepaguá #barradatijuca #riodejaneiro #errejota #rio2016
+date = Mon Apr 11 00:25:02 +0000 2016| user = bernkasttel| text = @rafucko : Ativista cria loja de lembranças críticas da Rio-2016 e recebe ameaças via @UOLEsporte #Rio2016   https://t.co/7zOw6LWrlp
+date = Mon Apr 11 00:21:30 +0000 2016| user = LuanSantosP| text = Ohhh acabou😰 #errejota #rio2016 @ Rio de Janeiro–Galeão… https://t.co/iBMpMuTuhe
+date = Mon Apr 11 00:21:08 +0000 2016| user = alem_do_futebol| text = Marcha Atlética, José Bagio da @FMDBlumenau conquistou o índice p/ @Rio2016 na prova dos 20km. Ele foi 5º (1:22:15) no GP de Rio Maior/POR
+date = Mon Apr 11 00:19:44 +0000 2016| user = wevertonjorges2| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 00:19:05 +0000 2016| user = ribeiroivanir| text = RT @Brasil2016: Palco da vela no #Rio2016, nova Marina da Glória é apresentada: https://t.co/iilfyrKmhj #SomosTodosBrasil https://t.co/zqg0…
+date = Mon Apr 11 00:17:17 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Yahoo Esportes
+Guia Rio 2016- Handebol masculino: Brasil com condições de ser ...
+Yahoo Esporte… https://t.co/fmyiAJ0LKF
+date = Mon Apr 11 00:15:36 +0000 2016| user = umpassarimazul| text = Ativista cria loja de lembranças críticas da Rio-2016 e recebe ameaças https://t.co/M1htKrFfXJ via @UOLEsporte #Rio2016
+date = Mon Apr 11 00:14:46 +0000 2016| user = sbarros1961| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 00:13:40 +0000 2016| user = PLemCuritiba| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 00:12:23 +0000 2016| user = elieteprb| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Mon Apr 11 00:04:23 +0000 2016| user = luciansaar| text = Indo pra casa ! #Rio2016 https://t.co/lDhadJxg2K
+date = Sun Apr 10 23:52:45 +0000 2016| user = cidade_maravilh| text = RT @DEBOLAY: O Dudu quer quer que os podres se fodam, imaginem os bichinhos!!! #vergonha #Rio2016 #riodejaneiro  @EduardoPaes15 https://t.c…
+date = Sun Apr 10 23:50:41 +0000 2016| user = DEBOLAY| text = O Dudu quer quer que os podres se fodam, imaginem os bichinhos!!! #vergonha #Rio2016 #riodejaneiro  @EduardoPaes15 https://t.co/609nLPrCJQ
+date = Sun Apr 10 23:47:03 +0000 2016| user = danvimar| text = Filhos da Esperança
+https://t.co/IxxgfpFl3D 👌👏🎬🎥 @ClaroVideoBr #Rio2016 #ISIS #FaustusLondon #MovieStarPlanet
+date = Sun Apr 10 23:43:56 +0000 2016| user = fwallina| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 23:40:10 +0000 2016| user = AtilaAtilajp00| text = Ativista cria loja de lembranças críticas da Rio-2016 e recebe ameaças via @UOLEsporte #Rio2016   https://t.co/JP1soouTe9
+date = Sun Apr 10 23:37:25 +0000 2016| user = serbretas| text = Meninas da seleção de futebol dos EUA ameaçam boicotar #Rio2016 se seus salários não tiverem paridade com os homens. https://t.co/lIz7QFLqRf
+date = Sun Apr 10 23:35:14 +0000 2016| user = naldobarros690| text = RT @cpboficial: Veja o recado dos craques Júnior, Jefinho e Ricardinho!  #JogosParalímpicos @Rio2016 #Faltam150Dias #TEMQUEIR
+https://t.co/…
+date = Sun Apr 10 23:30:45 +0000 2016| user = mulheresemfoco| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 23:22:48 +0000 2016| user = meliguedes| text = Faltam 117 dias. Quero acompanhar várias competições . #Rio2016
+date = Sun Apr 10 23:09:58 +0000 2016| user = fabinovello| text = RT @joymurasaki: Mais uma matéria do 'ABC das Olimpíadas'! O assunto agora é o Levantamento de Peso #CBN #Rio2016 https://t.co/ZSwlCpvE5S
+date = Sun Apr 10 23:07:40 +0000 2016| user = _whereinrio| text = Como não ser feliz com esta vista maravilhosa? 
+#2016 #rio2016 #olympics #rentalproperty #imoveisrj #whereinrio... https://t.co/uoFq5KiUEE
+date = Sun Apr 10 23:03:12 +0000 2016| user = cd_helen| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Sun Apr 10 23:02:43 +0000 2016| user = oscarvalporto| text = Coluna no @correio24horas, as duas seleções da @CBF_Futebol e seu técnico, as meninas do Zé (@vôlei) para @Rio2016: https://t.co/7TXb4CxaNn
+date = Sun Apr 10 23:01:14 +0000 2016| user = joymurasaki| text = Mais uma matéria do 'ABC das Olimpíadas'! O assunto agora é o Levantamento de Peso #CBN #Rio2016 https://t.co/ZSwlCpvE5S
+date = Sun Apr 10 22:59:44 +0000 2016| user = aunidos56| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 22:57:04 +0000 2016| user = drimarchesani| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 22:56:38 +0000 2016| user = MagriYoga| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 22:50:53 +0000 2016| user = PSvozil| text = Onde posso compra roupas com @TomRio2016 e @ViniciusRio2016? #Rio2016 https://t.co/lZsWrQc1hr
+date = Sun Apr 10 22:49:13 +0000 2016| user = AdaByronKing| text = RT @Brasil2016: Palco da vela no #Rio2016, nova Marina da Glória é apresentada: https://t.co/iilfyrKmhj #SomosTodosBrasil https://t.co/zqg0…
+date = Sun Apr 10 22:49:05 +0000 2016| user = Brasil2016| text = Palco da vela no #Rio2016, nova Marina da Glória é apresentada: https://t.co/iilfyrKmhj #SomosTodosBrasil https://t.co/zqg07n2Kyx
+date = Sun Apr 10 22:39:10 +0000 2016| user = Moglysama| text = RT @Rio2016: O Celebra Gastronomia de Rua continua até 20h no #MAMRio! Olha os momentos de ontem: https://t.co/O8Q2xbh5ip https://t.co/3pzM…
+date = Sun Apr 10 22:38:10 +0000 2016| user = luizhgviana| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 22:31:37 +0000 2016| user = EDRIBEIRO14| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 22:24:50 +0000 2016| user = jonasdotcom| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 22:23:27 +0000 2016| user = FerrazMonte| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 22:21:01 +0000 2016| user = AcvasconcelosC| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 22:17:53 +0000 2016| user = azvdo| text = Globo alivia pmdbrj:obra atrasada p/ 2018 na seção #Rio2016 do jornal
+"Tatuzão conclui escavação do túnel que [...]"
+https://t.co/zEpndDlPDX
+date = Sun Apr 10 22:17:24 +0000 2016| user = fla_plantao| text = @opedrocaruso @wellingcampos @FFERJ @Rio2016 Não fez vídeo da partida pro Canal?
+date = Sun Apr 10 22:12:26 +0000 2016| user = JoseeMadeira| text = RT @agenciabrasil: Correios vão transportar mais de 30 milhões de itens esportivos na @Rio2016  https://t.co/Qetyfw4Xlo https://t.co/W7aBYi…
+date = Sun Apr 10 22:08:28 +0000 2016| user = bk_contador| text = @EdugmRJ @cadurm0ura @wellingcampos @FFERJ @Rio2016 fico pensando como deve estar o gramado
+date = Sun Apr 10 22:02:00 +0000 2016| user /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+= felipe_tapioca| text = @opedrocaruso @wellingcampos @FFERJ @Rio2016 Show pode,futebol não.....é uma piada isso
+date = Sun Apr 10 22:01:38 +0000 2016| user = dariodigennaro| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 22:01:19 +0000 2016| user = felipe_tapioca| text = @caiorn_ @wellingcampos @FFERJ @Rio2016 pode fazer Show mas futebol não pode, 7x1 foi muito POUCO!
+date = Sun Apr 10 22:01:12 +0000 2016| user = LeiteCelio| text = @EdugmRJ @bk_contador @cadurm0ura @wellingcampos @FFERJ @Rio2016 com certeza Roubinho espera ter o Vasquim  na final e não o Flu
+date = Sun Apr 10 22:01:01 +0000 2016| user = _Flaviorealize| text = @dilmabr @Rio2016 com a atual situação do Brasil e o sistema de saúde sucateado não devia ter olimpíadas,  reverte para saúde e educação! !!
+date = Sun Apr 10 21:59:40 +0000 2016| user = EdneaBassi| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:58:57 +0000 2016| user = JairzinhoUfra13| text = A competição de handebol no @Rio2016_en não será a mesma sem os #Hispanos  https://t.co/SBXKySUWHg
+date = Sun Apr 10 21:58:47 +0000 2016| user = ricardo201611| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:58:35 +0000 2016| user = caiorn_| text = @Macena_FLA @Rio2016 @rvvveloso foda-se ele. #paz
+date = Sun Apr 10 21:57:36 +0000 2016| user = Macena_FLA| text = @caiorn_ @Rio2016 o @rvvveloso já vetou.
+date = Sun Apr 10 21:56:39 +0000 2016| user = Akioumezu| text = RT @BorgesHand18: Esta chegando a hora ... trabalhar muito para estar com os #guerreiros neste evento único e histórico !
+
+#Rio2016... http…
+date = Sun Apr 10 21:55:06 +0000 2016| user = Renato__Beta| text = RT @Passenger6A_BR: Contagem regressiva...https://t.co/3N06TwhYGO @Rio2016 https://t.co/Gh2HdxPSrc
+date = Sun Apr 10 21:53:30 +0000 2016| user = GuigaMendees| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:53:15 +0000 2016| user = AndradeSamuel7| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:53:07 +0000 2016| user = Crvgui_| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:52:30 +0000 2016| user = gabrielpSRN| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:51:52 +0000 2016| user = vinicius_sj10| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:51:44 +0000 2016| user = Leonardovcg| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:50:41 +0000 2016| user = caiorn_| text = Eu tô com uma saudade fudida de pegar o trem e ir pro Maracanã ver jogos do Flamengo. Que consigam negociar com o @Rio2016 mesmo.
+date = Sun Apr 10 21:50:17 +0000 2016| user = Passenger6A_BR| text = Contagem regressiva...https://t.co/3N06TwhYGO @Rio2016 https://t.co/Gh2HdxPSrc
+date = Sun Apr 10 21:50:13 +0000 2016| user = BorgesHand18| text = Esta chegando a hora ... trabalhar muito para estar com os #guerreiros neste evento único e histórico !
+
+#Rio2016... https://t.co/LUVo13ynDo
+date = Sun Apr 10 21:49:20 +0000 2016| user = rosavala| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 21:49:04 +0000 2016| user = solazizasports| text = O esporte e União paz treino adrenalina 😀😀Rio2016💚💛💚💛💚💛
+date = Sun Apr 10 21:48:22 +0000 2016| user = igormagella| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:47:51 +0000 2016| user = CyroDelgado| text = #golfnaespn qual a classificação do campo Olímpico #Rio2016 entre os melhores campos públicos no mundo? Quero aprender no Rio
+date = Sun Apr 10 21:45:38 +0000 2016| user = UalaciAlmeida| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:43:35 +0000 2016| user = EliseDuque| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:43:09 +0000 2016| user = gabrielbxd13| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:42:53 +0000 2016| user = Dr_Jose_Luis| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:41:50 +0000 2016| user = bfr_marcos| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:41:11 +0000 2016| user = rafaameirelles| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:41:10 +0000 2016| user = paollaffc| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:40:58 +0000 2016| user = lucia_brazil| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:40:37 +0000 2016| user = Philipespier| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:40:15 +0000 2016| user = SabrinaVianna| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:39:31 +0000 2016| user = IVYJUNEAU| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:39:30 +0000 2016| user = celoalc| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:39:22 +0000 2016| user = ABBMaues| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:37:49 +0000 2016| user = felipebritofb| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:36:37 +0000 2016| user = Luiz_C_Carvalho| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:35:40 +0000 2016| user = emersonbraz| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:35:25 +0000 2016| user = Macena_FLA| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:34:27 +0000 2016| user = UMAGAHEXA| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:34:20 +0000 2016| user = FelippeCardosoN| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:34:09 +0000 2016| user = CristhianReis1| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:34:05 +0000 2016| user = carlstonlavor| text = RT @wellingcampos: Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evo…
+date = Sun Apr 10 21:33:41 +0000 2016| user = wellingcampos| text = Rubens Lopes presidente @FFERJ negocia com @Rio2016 p/ fazer 2 jogos das finais do Carioca no Maracanã. Assunto está evoluindo.
+date = Sun Apr 10 21:33:23 +0000 2016| user = quecoisaprimo| text = @dilmabr @Rio2016 fora Dilma!
+date = Sun Apr 10 21:32:19 +0000 2016| user = OMMEADGuayama| text = RT @ComiteOlimpico: Torneo Los Brujos de Taekwondo en Guayama es dedicado a la clasificada a @rio2016, la taekwondoísta Crystal Weekes. htt…
+date = Sun Apr 10 21:29:17 +0000 2016| user = luminoto| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 21:29:16 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 https://t.co/BRXZILW0Yj
+Tenista Caroline Wozniacki corre risco de não participar da Rio 2016
+Tor… https://t.co/wwxdCKYbtV
+date = Sun Apr 10 21:26:14 +0000 2016| user = antonioklemer| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:24:05 +0000 2016| user = dppabloescobar| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:23:35 +0000 2016| user = inter_blumenau| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:21:20 +0000 2016| user = mfigueiredo777| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:12:02 +0000 2016| user = liamabat| text = RT @casa_dos_pobres: Imagem esplêndida!
+#Rio2016  https://t.co/d9p1JjVTsL
+date = Sun Apr 10 21:08:13 +0000 2016| user = sbaraujo| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 21:08:08 +0000 2016| user = Radio_Bagual| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:06:59 +0000 2016| user = amaralalexandro| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 21:04:46 +0000 2016| user = ianinamdp173| text = Treinamento pros jogos @Rio2016, mesmo ainda não tenha a carta convite 😢@rio2016_es @volunta_Rio2016 #Proud #EuVou https://t.co/XjDq7V9fLe
+date = Sun Apr 10 21:01:04 +0000 2016| user = martinchab1997| text = RT @Rio2016: O Celebra Gastronomia de Rua continua até 20h no #MAMRio! Olha os momentos de ontem: https://t.co/O8Q2xbh5ip https://t.co/3pzM…
+date = Sun Apr 10 20:59:16 +0000 2016| user = MauraBaduy| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:55:37 +0000 2016| user = CoziniGabi| text = @dilmabr @Rio2016 Q otimo nossa reputacao ja esta afogada msm!!!😉
+date = Sun Apr 10 20:54:46 +0000 2016| user = martinchab1997| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 20:53:43 +0000 2016| user = nicaciamartin| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:49:19 +0000 2016| user = BEBRUDER| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:48:29 +0000 2016| user = pyhud| text = RT @Brasil2016: Na quinta tem sorteio dos grupos do futebol #Rio2016. O Brasil é cabeça de chave. Entenda: https://t.co/geAInBIyZH https://…
+date = Sun Apr 10 20:48:29 +0000 2016| user = ScuttiSueli| text = RT @Brasil2016: Na quinta tem sorteio dos grupos do futebol #Rio2016. O Brasil é cabeça de chave. Entenda: https://t.co/geAInBIyZH https://…
+date = Sun Apr 10 20:47:18 +0000 2016| user = guiafacilsc| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:45:48 +0000 2016| user = YanRodrigues22| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:44:04 +0000 2016| user = dieegorod| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:42:48 +0000 2016| user = giselaBoezio| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:41:38 +0000 2016| user = carlosed_18| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:39:05 +0000 2016| user = prigosling| text = eu ia andar de bike agora e.... 😳 #Rio2016 https://t.co/Q1WpodKeIQ
+date = Sun Apr 10 20:38:07 +0000 2016| user = analopes257| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:37:48 +0000 2016| user = Clemins_junior| text = RT @Rio2016: Hoje é o último dia do Celebra Gastronomia de Rua. Venha e dê sua opinião com a hashtag #CulturaRio2016 😃😃 https://t.co/TxnV3B…
+date = Sun Apr 10 20:37:24 +0000 2016| user = adersoncaldas| text = Duvido que fique pronto pra #Rio2016  https://t.co/V9GH24mCkX
+date = Sun Apr 10 20:37:15 +0000 2016| user = aarrio2016| text = RT @Brasil2016: Na quinta tem sorteio dos grupos do futebol #Rio2016. O Brasil é cabeça de chave. Entenda: https://t.co/geAInBIyZH https://…
+date = Sun Apr 10 20:36:53 +0000 2016| user = hhurbano| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:36:46 +0000 2016| user = Marcelo22DRC| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:36:02 +0000 2016| user = CoeSoft| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:35:44 +0000 2016| user = joserleite| text = RT @casa_dos_pobres: Imagem esplêndida!
+#Rio2016  https://t.co/d9p1JjVTsL
+date = Sun Apr 10 20:35:38 +0000 2016| user = Clemins_junior| text = RT @timebrasil: Comemore coma Júlia Vasconcelos a conquista da vaga no #taekwondo para @Rio2016! https://t.co/tC6Oq4AshF
+date = Sun Apr 10 20:35:31 +0000 2016| user = casa_dos_pobres| text = Imagem esplêndida!
+#Rio2016  https://t.co/d9p1JjVTsL
+date = Sun Apr 10 20:35:22 +0000 2016| user = neidesilva219| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:34:45 +0000 2016| user = Ronoc_| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 20:31:02 +0000 2016| user = agoes_manaos| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:29:43 +0000 2016| user = Arcamargo70| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:28:37 +0000 2016| user = Lord_RafaHell| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:28:30 +0000 2016| user = hilci49| text = RT @aarrio2016: O sorteio dos grupos para a Handebol Olímpico será no dia 29/04. #Rio2016 #gorio2016
+date = Sun Apr 10 20:28:24 +0000 2016| user = lacaldani| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 20:28:22 +0000 2016| user = isasan53| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:28:12 +0000 2016| user = hilci49| text = RT @aarrio2016: Sorteio dos Grupos do Polo Aquático #rio2016. @romanoolimpico @Rio2016 https://t.co/Wwc0v9kXu7
+date = Sun Apr 10 20:27:08 +0000 2016| user = hclaudia5| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:26:45 +0000 2016| user = MC13RAP| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:26:26 +0000 2016| user = EdilsonSantos7| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:26:10 +0000 2016| user = pela_democracia| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:24:58 +0000 2016| user = jovanka_carmo| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:24:54 +0000 2016| user = ClaudioSandegi| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:24:35 +0000 2016| user = DrRobertoSalles| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:24:19 +0000 2016| user = webtraderx| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:24:08 +0000 2016| user = VIRGINIASALERNO| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:22:50 +0000 2016| user = VivianeDinizl| text = RT @a/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+genciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:22:28 +0000 2016| user = Mo_Americanoid| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:22:15 +0000 2016| user = DiegoLuzardiGua| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:21:27 +0000 2016| user = AdvJulioCesar| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:21:25 +0000 2016| user = ozirismg| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:20:59 +0000 2016| user = neto_go| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:20:41 +0000 2016| user = Correia_Willian| text = RT @agenciapf: Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/…
+date = Sun Apr 10 20:20:22 +0000 2016| user = agenciapf| text = Todo o controle migratório em portos e aeroportos do país nas Olimpíadas será nossa responsabilidade. #Rio2016 https://t.co/2Idbf9Uw42
+date = Sun Apr 10 20:18:53 +0000 2016| user = Marc_OD| text = #arenascarioca #weightlifting #olimpiadas2016 #rio2016 #testeevents #levantamentodepeso Valeu… https://t.co/EMah30P11k
+date = Sun Apr 10 20:18:43 +0000 2016| user = PetitSabino| text = RT @ForaPTJa: Alô Bené de #Lula #Carioca. #RJ @blogdabenedita o #RiodeJaneiro precisa da grana!!!! #Rio2016 #Copacabana #Rio  https://t.co/…
+date = Sun Apr 10 20:18:08 +0000 2016| user = melryrizzo| text = RT @rizzoan: @Rio2016 @JogosOlimpicos @CBDAoficial @fina1908 enquanto isso Hemorio fecha, IML agoniza, policiais e bombeiros sem condições…
+date = Sun Apr 10 20:14:20 +0000 2016| user = pgamafilho| text = RT @Brasil2016: Do alto dá pra ver melhor as instalações do #Rio2016! Olha só q maravilha: https://t.co/J8x0eCycLT https://t.co/bgdlsRxlSt
+date = Sun Apr 10 20:12:24 +0000 2016| user = caiosenra| text = hahahaha Yoko dentro da area do Sao bento e o juizao nada...apito rosa nao falha! #Judo #Penalti #Rio2016
+date = Sun Apr 10 20:11:59 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 oferece mais de 8 mil vagas temporárias de trabalho
+Notícias ao Minuto Brasil (liberaç… https://t.co/iVMDMKe6o4
+date = Sun Apr 10 20:08:56 +0000 2016| user = lucasdantas| text = 180kg. Essa deu. #roadtorio #aquecerio #olympics #olimpiadas @aquecerio #rio2016 @olympics https://t.co/ipd98dtRkX
+date = Sun Apr 10 20:08:17 +0000 2016| user = alissonvalerio| text = O sorteio dos grupos do handebol será no dia 29 de abril. Última sexta do mês. #Rio2016
+date = Sun Apr 10 20:03:03 +0000 2016| user = minesporte| text = Com novos guias, Terezinha Guilhermina acerta o passo para o @Rio2016. https://t.co/hNBJuJofKE
+date = Sun Apr 10 20:01:35 +0000 2016| user = jeurgiles| text = RT @CEAR_EP: Felicidades Mónica Cajamarca clasificada a #Rio2016 #altorendimiento #maraton https://t.co/6zgJBPZAwr
+date = Sun Apr 10 20:00:28 +0000 2016| user = martinchab1997| text = RT @Rio2016: Um resumo do que rolou ontem no Celebra Gastronomia de Rua no #MAMRio! Hoje vai até 20h! https://t.co/0aQra8eIHk https://t.co/…
+date = Sun Apr 10 19:59:36 +0000 2016| user = hudsondesouza11| text = RT @ForaPTJa: Alô Bené de #Lula #Carioca. #RJ @blogdabenedita o #RiodeJaneiro precisa da grana!!!! #Rio2016 #Copacabana #Rio  https://t.co/…
+date = Sun Apr 10 19:58:31 +0000 2016| user = torrentsquentes| text = RT @ForaPTJa: Alô Bené de #Lula #Carioca. #RJ @blogdabenedita o #RiodeJaneiro precisa da grana!!!! #Rio2016 #Copacabana #Rio  https://t.co/…
+date = Sun Apr 10 19:57:18 +0000 2016| user = alissonvalerio| text = Handebol masculino: Brasil, França, Argentina, Catar, Alemanha, Egito, Polônia, Tunísia, Eslovênia, Suécia, Dinamarca e Croácia. #Rio2016
+date = Sun Apr 10 19:57:02 +0000 2016| user = alissonvalerio| text = Não temos mais vagas no handebol masculino. Acabou. Quem vem já garantiu a sua vaga.  #Rio2016
+date = Sun Apr 10 19:56:54 +0000 2016| user = adelcio_sousa| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 19:52:52 +0000 2016| user = finaldeserie| text = RT @Rio2016: O Celebra Gastronomia de Rua continua até 20h no #MAMRio! Olha os momentos de ontem: https://t.co/O8Q2xbh5ip https://t.co/3pzM…
+date = Sun Apr 10 19:50:38 +0000 2016| user = martinchab1997| text = RT @Rio2016: Hoje é o último dia do Celebra Gastronomia de Rua. Venha e dê sua opinião com a hashtag #CulturaRio2016 😃😃 https://t.co/TxnV3B…
+date = Sun Apr 10 19:49:15 +0000 2016| user = Bruno_FlaClones| text = RT @aarrio2016: Sorteio dos Grupos do Polo Aquático #rio2016. @romanoolimpico @Rio2016 https://t.co/Wwc0v9kXu7
+date = Sun Apr 10 19:48:22 +0000 2016| user = will86| text = RT @Brasil2016: Na quinta tem sorteio dos grupos do futebol #Rio2016. O Brasil é cabeça de chave. Entenda: https://t.co/geAInBIyZH https://…
+date = Sun Apr 10 19:48:21 +0000 2016| user = nrj68| text = RT @ForaPTJa: Alô Bené de #Lula #Carioca. #RJ @blogdabenedita o #RiodeJaneiro precisa da grana!!!! #Rio2016 #Copacabana #Rio  https://t.co/…
+date = Sun Apr 10 19:47:56 +0000 2016| user = Daviddep| text = RT @Brasil2016: Na quinta tem sorteio dos grupos do futebol #Rio2016. O Brasil é cabeça de chave. Entenda: https://t.co/geAInBIyZH https://…
+date = Sun Apr 10 19:47:18 +0000 2016| user = Calamani88| text = RT @Brasil2016: Na quinta tem sorteio dos grupos do futebol #Rio2016. O Brasil é cabeça de chave. Entenda: https://t.co/geAInBIyZH https://…
+date = Sun Apr 10 19:46:06 +0000 2016| user = Delsonfontany| text = RT @ForaPTJa: Alô Bené de #Lula #Carioca. #RJ @blogdabenedita o #RiodeJaneiro precisa da grana!!!! #Rio2016 #Copacabana #Rio  https://t.co/…
+date = Sun Apr 10 19:45:25 +0000 2016| user = cidade_maravilh| text = RT @ForaPTJa: Alô Bené de #Lula #Carioca. #RJ @blogdabenedita o #RiodeJaneiro precisa da grana!!!! #Rio2016 #Copacabana #Rio  https://t.co/…
+date = Sun Apr 10 19:43:24 +0000 2016| user = simidea| text = RT @Brasil2016: Na quinta tem sorteio dos grupos do futebol #Rio2016. O Brasil é cabeça de chave. Entenda: https://t.co/geAInBIyZH https://…
+date = Sun Apr 10 19:43:02 +0000 2016| user = Brasil2016| text = Na quinta tem sorteio dos grupos do futebol #Rio2016. O Brasil é cabeça de chave. Entenda: https://t.co/geAInBIyZH https://t.co/cOXwYi54Hn
+date = Sun Apr 10 19:42:40 +0000 2016| user = Ellem_y| text = RT @turpaulista: #RIO2016 #Mtur lança mapa interativo para acompanhar a viagem de 3 meses por 355 localidades da tocha olímpica. https://t.…
+date = Sun Apr 10 19:39:43 +0000 2016| user = drgetulio| text = RT @MariCanettiWP4: Grupos dos Jogos Olímpicos!!! #waterpolo #Rio2016 https://t.co/oLjNT7viX1
+date = Sun Apr 10 19:39:32 +0000 2016| user = MariCanettiWP4| text = Grupos dos Jogos Olímpicos!!! #waterpolo #Rio2016 https://t.co/oLjNT7viX1
+date = Sun Apr 10 19:36:53 +0000 2016| user = ForaPTJa| text = Alô Bené de #Lula #Carioca. #RJ @blogdabenedita o #RiodeJaneiro precisa da grana!!!! #Rio2016 #Copacabana #Rio  https://t.co/k14z9taApf
+date = Sun Apr 10 19:36:49 +0000 2016| user = bigirwenkyaj| text = RT @gabriel_startup: #Booking https://t.co/1YrfEr8BS9 .daily_star prepara guia para quem for curtir os Jogos Olímpicos Rio2016
+https://t.co…
+date = Sun Apr 10 19:36:27 +0000 2016| user = turpaulista| text = #RIO2016 #Mtur lança mapa interativo para acompanhar a viagem de 3 meses por 355 localidades da tocha olímpica. https://t.co/ZO62OXXC3j
+date = Sun Apr 10 19:35:22 +0000 2016| user = matesao| text = Vini deu uma passada na Paulista hoje! #Mascote #Rio2016 https://t.co/GtBKIqLYql
+date = Sun Apr 10 19:24:26 +0000 2016| user = vitortorres| text = Boa. Mas faltou um mapa, @ESPNagora. #Rio2016 https://t.co/08YD3W0FO5
+date = Sun Apr 10 19:24:22 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Mercosul discute oportunidades turísticas geradas pela Rio 2016
+Notícias ao Minuto Brasil (libe… https://t.co/wecbycl0wC
+date = Sun Apr 10 19:21:26 +0000 2016| user = cidade_maravilh| text = RT @trilhosdorio: Sinalização na estação Piedade @supervia_trens 
+#riodejaneiro #rio2016 #supervia #trem #railroad… https://t.co/o705RXawpo
+date = Sun Apr 10 19:17:13 +0000 2016| user = gabriel_startup| text = #Booking https://t.co/1YrfEr8BS9 .daily_star prepara guia para quem for curtir os Jogos Olímpicos Rio2016
+https://t.co/ev3FqraqUO
+date = Sun Apr 10 19:14:30 +0000 2016| user = trilhosdorio| text = Sinalização na estação Piedade @supervia_trens 
+#riodejaneiro #rio2016 #supervia #trem #railroad… https://t.co/o705RXawpo
+date = Sun Apr 10 19:10:18 +0000 2016| user = maianim13| text = RT @EmbraturNews: .@daily_star prepara guia para quem for curtir os Jogos Olímpicos @Rio2016
+https://t.co/62vn7vmosQ
+date = Sun Apr 10 19:10:16 +0000 2016| user = cidade_maravilh| text = RT @trilhosdorio: Acesso à estação Cardeal Arcoverde, Copacabana Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016… https://t.co/FBnOvVAS5b
+date = Sun Apr 10 19:10:11 +0000 2016| user = cidade_maravilh| text = RT @trilhosdorio: Estação Cardeal Arcoverde, Copacabana, Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016 #copacabana https://t.co/0ngb2BR0…
+date = Sun Apr 10 19:10:10 +0000 2016| user = cidade_maravilh| text = RT @trilhosdorio: Estação Cardeal Arcoverde, Copacabana, Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016 #copacabana https://t.co/5xYKCwnT…
+date = Sun Apr 10 19:10:09 +0000 2016| user = cidade_maravilh| text = RT @trilhosdorio: Estação Cardeal Arcoverde, Copacabana, Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016 #copacabana https://t.co/9DbUq5p8…
+date = Sun Apr 10 19:10:06 +0000 2016| user = EmbraturNews| text = .@daily_star prepara guia para quem for curtir os Jogos Olímpicos @Rio2016
+https://t.co/62vn7vmosQ
+date = Sun Apr 10 19:10:01 +0000 2016| user = trilhosdorio| text = Estação Cardeal Arcoverde, Copacabana, Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016 #copacabana https://t.co/MTbSxGsXNf
+date = Sun Apr 10 19:08:32 +0000 2016| user = trilhosdorio| text = Estação Cardeal Arcoverde, Copacabana, Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016 #copacabana https://t.co/9DbUq5p82i
+date = Sun Apr 10 19:07:20 +0000 2016| user = trilhosdorio| text = Estação Cardeal Arcoverde, Copacabana, Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016 #copacabana https://t.co/5xYKCwnTOe
+date = Sun Apr 10 19:06:13 +0000 2016| user = trilhosdorio| text = Estação Cardeal Arcoverde, Copacabana, Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016 #copacabana https://t.co/0ngb2BR0Tv
+date = Sun Apr 10 19:00:24 +0000 2016| user = trilhosdorio| text = Acesso à estação Cardeal Arcoverde, Copacabana Linha 1 metro_rio 
+#metrô #riodejaneiro #rio2016… https://t.co/FBnOvVAS5b
+date = Sun Apr 10 19:00:22 +0000 2016| user = Rio2016| text = O Celebra Gastronomia de Rua continua até 20h no #MAMRio! Olha os momentos de ontem: https://t.co/O8Q2xbh5ip https://t.co/3pzMrPoka4
+date = Sun Apr 10 18:58:58 +0000 2016| user = cidade_maravilh| text = RT @trilhosdorio: Obras da Linha 4 do Metrô
+#riodejaneiro #rio2016 #metrô #linha4 #leblon https://t.co/3reowTBjpm
+date = Sun Apr 10 18:54:10 +0000 2016| user = AARFLAMENGO| text = RT @aarrio2016: Sorteio dos Grupos do Polo Aquático #rio2016. @romanoolimpico @Rio2016 https://t.co/Wwc0v9kXu7
+date = Sun Apr 10 18:53:51 +0000 2016| user = romanoolimpico| text = RT @aarrio2016: Sorteio dos Grupos do Polo Aquático #rio2016. @romanoolimpico @Rio2016 https://t.co/Wwc0v9kXu7
+date = Sun Apr 10 18:53:23 +0000 2016| user = Taekwondo_HQ| text = #taekwondo Taekwondo Pan American Qualification Tournament rio2016 Qtos ... - https://t.co/9MNo1hxfx7 #RT #Retweet https://t.co/80fvE8ZFvk
+date = Sun Apr 10 18:52:56 +0000 2016| user = aarrio2016| text = Sorteio dos Grupos do Polo Aquático #rio2016. @romanoolimpico @Rio2016 https://t.co/Wwc0v9kXu7
+date = Sun Apr 10 18:50:07 +0000 2016| user = basiliorn| text = RT @Rio2016: Um resumo do que rolou ontem no Celebra Gastronomia de Rua no #MAMRio! Hoje vai até 20h! https://t.co/0aQra8eIHk https://t.co/…
+date = Sun Apr 10 18:49:21 +0000 2016| user = trilhosdorio| text = Obras da Linha 4 do Metrô
+#riodejaneiro #rio2016 #metrô #linha4 #leblon https://t.co/3reowTBjpm
+date = Sun Apr 10 18:48:25 +0000 2016| user = basiliorn| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 18:45:58 +0000 2016| user = CLEONICETENORI1| text = @agenciabrasil @Rio2016 @CorreiosBR ESTES SÃO ELOS QUE UNE TODOS OS POVOS EM UM SÓ LUGAR DO MUNDO.
+date = Sun Apr 10 18:45:08 +0000 2016| user = josevanetomaz| text = RT @timebrasil: Comemore coma Júlia Vasconcelos a conquista da vaga no #taekwondo para @Rio2016! https://t.co/tC6Oq4AshF
+date = Sun Apr 10 18:43:00 +0000 2016| user = DenysSipauba| text = RT @agenciabrasil: Correios vão transportar mais de 30 milhões de itens esportivos na @Rio2016  https://t.co/Qetyfw4Xlo https://t.co/W7aBYi…
+date = Sun Apr 10 18:42:59 +0000 2016| user = darbio_rubem| text = RT @agenciabrasil: Correios vão transportar mais de 30 milhões de itens esportivos na @Rio2016  https://t.co/Qetyfw4Xlo https://t.co/W7aBYi…
+date = Sun Apr 10 18:42:33 +0000 2016| user = PLemCuritiba| text = RT @PLinPortugal: Andebolistas #Polónia @ZPRP_official venceram a equipe do #Chile e qualificaram-se para #RIO2016! Parabéns! https://t.co/…
+date = Sun Apr 10 18:39:49 +0000 2016| user = neylopesmachado| text = RT @agenciabrasil: Correios vão transportar mais de 30 milhões de itens esportivos na @Rio2016  https://t.co/Qetyfw4Xlo https://t.co/W7aBYi…
+date = Sun Apr 10 18:38:26 +0000 2016| user = famadas| text = @agenciabrasil @Rio2016 @CorreiosBR Está há 3 meses pra entregar uma encomenda pra mim.
+date = Sun Apr 10 18:37:59 +0000 2016| user = vanessacabralsp| text = Festival Celebra de Gastronomia de Rua 'pega' cariocas pelo estômago e pela animação https://t.co/fH3yaVCrsC
+date = Sun Apr 10 18:37:20 +0000 2016| user = midiacrucis| text = RT @agenciabrasil: Correios vão transportar mais de 30 milhões de itens esportivos na @Rio2016  https://t.co/Qetyfw4Xlo https://t.co/W7aBYi…
+date = Sun Apr 10 18:37:05 +0000 2016| user = agenciabrasil| text = Correios vão transportar mais de 30 milhões de itens esportivos na @Rio2016  https://t.co/Qetyfw4Xlo https://t.co/W7aBYiveLf   @CorreiosBR
+date = Sun Apr 10 18:30:10 +0000 2016| user = Brasil2016| text = .@Bebe92 torce por convocação e estreia em casa pela seleção de basquete no #Rio2016: https://t.co/Cjaks4Uwq5 https://t.co/hca6Dg1pEx
+date = Sun Apr 10 18:26:26 +0000 2016| user = Filonescio| text = Jogos Olímpicos Rio 2016 Próximo ao Parque Olímpico da Barra da Tijuca https://t.co/5a2aGDOsSP #Rio2016 #rio2016volunteer @airbnb_mx
+date = Sun Apr 10 18:21:12 +0000 2016| user = riccoduarte1| text = A nova Marina da Gloria está um espetáculo #Rio2016 https://t.co/t5iSO1wmwf
+date = Sun Apr 10 18:18:46 +0000 2016| user = rizzoan| text = @Rio2016 @JogosOlimpicos @CBDAoficial @fina1908 enquanto isso Hemorio fecha, IML agoniza, policiais e bombeiros sem condições de trabalho.
+date = Sun Apr 10 18:14:58 +0000 2016| user = Neilaaa_| text = RT @timebrasil: Comemore coma Júlia Vasconcelos a conquista da vaga no #taekwondo para @Rio2016! https://t.co/tC6Oq4AshF
+date = Sun Apr 10 18:14:20 +0000 2016| user = alem_do_futebol| text = Handebol Masculino, Pré-Olímpico em Malmo, na Suécia, última rodada: Espanha 25x23 Suécia, Irã 17x33 Eslovênia. SWE e SLO vão p/ @Rio2016
+date = Sun Apr 10 18:12:45 +0000 2016| user = cocapraro| text = RT @timebrasil: Novos uniformes do @timebrasil para @Rio2016! Gostaram? #Eusoutimebrasil https://t.co/loYFMBqVEo
+date = Sun Apr 10 18:10:22 +0000 2016| user = LuanaPucca| text = PARABÉNS @Lauren5Gibby , belíssimo jogo! Abraços brasileiros pra VC! Te esperamos no RIO2016!!!! Huhuhu.... felicidades!
+date = Sun Apr 10 18:10:00 +0000 2016| user = THospedagem| text = RT @Rio2016: Um resumo do que rolou ontem no Celebra Gastronomia de Rua no #MAMRio! Hoje vai até 20h! https://t.co/0aQra8eIHk https://t.co/…
+date = Sun Apr 10 18:09:48 +0000 2016| user = THospedagem| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 18:09:32 +0000 2016| user = janbuc8| text = Ole @Rio2016 @rzs_si bravo! ;)
+date = Sun Apr 10 18:04:32 +0000 2016| user = isabel_photo| text = RT @ComiteOlimpico: Torneo Los Brujos de Taekwondo en Guayama es dedicado a la clasificada a @rio2016, la taekwondoísta Crystal Weekes. htt…
+date = Sun Apr 10 18:04:26 +0000 2016| user = leoosantoos_| text = RT @sergiobrother1: Esta é a camisa que a seleção vai usar nas olimpíadas, sem o logo da CBF #Rio2016 
+Foto André Durão https://t.co/TkVQ4n…
+date = Sun Apr 10 18:02:06 +0000 2016| user = timebrasil| text = Comemore coma Júlia Vasconcelos a conquista da vaga no #taekwondo para @Rio2016! https://t.co/tC6Oq4AshF
+date = Sun Apr 10 18:00:21 +0000 2016| user = _Bruns_| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 17:59:56 +0000 2016| user = LEANDRO_BUENO_| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 17:56:51 +0000 2016| user = gascarvalho| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 17:55:56 +0000 2016| user = saogoncalo_RJ| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 17:55:10 +0000 2016| user = adailton_farf| text = Dai você vê cada esporte bonito, e com ingressos baratos no @Rio2016 , mas ai se lembra que fica difícil de você ir, pois fica longe :(
+date = Sun Apr 10 17:49:14 +0000 2016| user = Marcelo0spfc| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 17:48:35 +0000 2016| user = eufenix| text = Rio2016 @ Museu do Amanhã https://t.co/tuXTIUypq9
+date = Sun Apr 10 17:46:32 +0000 2016| user = thikos| text = Piccinini eleita MVP da Champions League quero ver Picci nas Olimpíadas #Rio2016  #CEVChampionsLeagueW #CLF4Montichiari #CLF4 🇮🇹🇮🇹🇮🇹
+date = Sun Apr 10 17:46:04 +0000 2016| user = MATIASMAXX| text = Loja oficial de anti-souvenirs da cidade olimPICA. #CidadeOlimpica #Rio2016 https://t.co/i3BEIsVbXB
+date = Sun Apr 10 17:44:08 +0000 2016| user = xCiipri| text = Inovador tbm por ter criado os exclusivos pontos cegos https://t.co/S2QTDoTdKn
+date = Sun Apr 10 17:41:08 +0000 2016| user = leormedeiros| text = RT @sergiobrother1: Esta é a camisa que a seleção vai usar nas olimpíadas, sem o logo da CBF #Rio2016 
+Foto André Durão https://t.co/TkVQ4n…
+date = Sun Apr 10 17:40:33 +0000 2016| user = DeusaMartha| text = RT @Rio2016: O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co…
+date = Sun Apr 10 17:40:03 +0000 2016| user = Rio2016| text = O inovador Estádio Aquático Olímpico, casa da #Natação e do #PoloAquático foi inaugurado: https://t.co/Ab6h0ARM3v https://t.co/HxsL26Tm4U
+date = Sun Apr 10 17:36:11 +0000 2016| user = DavidSousaSilv4| text = RT @Brasil2016: Do alto dá pra ver melhor as instalações do #Rio2016! Olha só q maravilha: htt/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ps://t.co/J8x0eCycLT https://t.co/bgdlsRxlSt
+date = Sun Apr 10 17:34:42 +0000 2016| user = PitiCanella| text = Celebra Gastronomia de rua @rio2016_es #rio2016 #gringocardia @ MAM - Museu de Arte Moderna https://t.co/9yg4HJgQrA
+date = Sun Apr 10 17:34:33 +0000 2016| user = alem_do_futebol| text = Handebol Masculino, Pré-Olímpico em Malmo, na Suécia, última rodada: Espanha 25x23 Suécia. SWE classificada p/ @Rio2016 #RoadToRio
+date = Sun Apr 10 17:34:23 +0000 2016| user = karoljackie| text = RT @sergiobrother1: Esta é a camisa que a seleção vai usar nas olimpíadas, sem o logo da CBF #Rio2016 
+Foto André Durão https://t.co/TkVQ4n…
+date = Sun Apr 10 17:33:35 +0000 2016| user = Edgard2014| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 17:32:43 +0000 2016| user = alem_do_futebol| text = Handebol Masculino, Pré-Olímpico em Herning, na Dinamarca, última rodada: Noruega 21x27 Croácia. CRO classificada p/ @Rio2016 #RoadToRio
+date = Sun Apr 10 17:32:02 +0000 2016| user = Brasil2016| text = Do alto dá pra ver melhor as instalações do #Rio2016! Olha só q maravilha: https://t.co/J8x0eCycLT https://t.co/bgdlsRxlSt
+date = Sun Apr 10 17:30:16 +0000 2016| user = MareanaFonseca| text = RT @sergiobrother1: Esta é a camisa que a seleção vai usar nas olimpíadas, sem o logo da CBF #Rio2016 
+Foto André Durão https://t.co/TkVQ4n…
+date = Sun Apr 10 17:29:53 +0000 2016| user = FlaDoBrasil| text = RT @sergiobrother1: Esta é a camisa que a seleção vai usar nas olimpíadas, sem o logo da CBF #Rio2016 
+Foto André Durão https://t.co/TkVQ4n…
+date = Sun Apr 10 17:29:37 +0000 2016| user = AndrepXavier| text = RT @sergiobrother1: Esta é a camisa que a seleção vai usar nas olimpíadas, sem o logo da CBF #Rio2016 
+Foto André Durão https://t.co/TkVQ4n…
+date = Sun Apr 10 17:28:45 +0000 2016| user = Reimillan| text = RT @ComiteOlimpico: Torneo Los Brujos de Taekwondo en Guayama es dedicado a la clasificada a @rio2016, la taekwondoísta Crystal Weekes. htt…
+date = Sun Apr 10 17:27:53 +0000 2016| user = VictorEmanuel02| text = @RaicesPeronista @dilmabr @Rio2016 demoro pivete, chamo o meu bonde é vc tá fudido borel
+date = Sun Apr 10 17:27:25 +0000 2016| user = ComiteOlimpico| text = Torneo Los Brujos de Taekwondo en Guayama es dedicado a la clasificada a @rio2016, la taekwondoísta Crystal Weekes. https://t.co/P2n67pa2La
+date = Sun Apr 10 17:26:51 +0000 2016| user = GerardoCebrian| text = RT @SoyCobarde2: Parciales @azucenadiaz42 en Rotterdam
+17:52
+17:56
+17:56
+17:43
+17:57
+18:01
+17:59
+18:25
+
+1h15:24 + 1h16:21 -&gt; 2h31:45 (Mínim…
+date = Sun Apr 10 17:26:35 +0000 2016| user = thikos| text = Sheilla entrou passou vexame e saiu no Vakifbank #oremos por ela no Brasil nas Olimpíadas #Rio2016
+date = Sun Apr 10 17:23:36 +0000 2016| user = andersonrlobo| text = @dilmabr @Rio2016 @dilmabr Quem vota contra o impeachment ganha 1 milhão e atestado leva 400mil. Tudo dinheiro nosso na farra do PT.
+date = Sun Apr 10 17:23:32 +0000 2016| user = bgtatlantic| text = @dilmabr @Rio2016 ENQUANTO ISSO A EDUCAÇÃO NO ERJ SANGRA
+date = Sun Apr 10 17:18:31 +0000 2016| user = rubenlasantapt| text = RT @SoyCobarde2: Parciales @azucenadiaz42 en Rotterdam
+17:52
+17:56
+17:56
+17:43
+17:57
+18:01
+17:59
+18:25
+
+1h15:24 + 1h16:21 -&gt; 2h31:45 (Mínim…
+date = Sun Apr 10 17:17:15 +0000 2016| user = svml1508| text = RT @CEAR_EP: Felicidades Mónica Cajamarca clasificada a #Rio2016 #altorendimiento #maraton https://t.co/6zgJBPZAwr
+date = Sun Apr 10 17:14:57 +0000 2016| user = calabegane| text = RT @SoyCobarde2: Parciales @azucenadiaz42 en Rotterdam
+17:52
+17:56
+17:56
+17:43
+17:57
+18:01
+17:59
+18:25
+
+1h15:24 + 1h16:21 -&gt; 2h31:45 (Mínim…
+date = Sun Apr 10 17:14:26 +0000 2016| user = SoyCobarde2| text = Parciales @azucenadiaz42 en Rotterdam
+17:52
+17:56
+17:56
+17:43
+17:57
+18:01
+17:59
+18:25
+
+1h15:24 + 1h16:21 -&gt; 2h31:45 (Mínima #Rio2016 + PB)
+date = Sun Apr 10 16:58:54 +0000 2016| user = jaedervieira| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 16:55:19 +0000 2016| user = celesttes64| text = "Brasileiro de Cuba" brilha, e Cruzeiro é tetracampeão da Superliga https://t.co/CSAUZxYsFe via @UOLEsporte #Rio2016
+date = Sun Apr 10 16:54:04 +0000 2016| user = DavidSousaSilv4| text = RT @LaraNadoSincro: Contribua para minha campanha de #Crowdfunding #PowerLara e vamos juntos para #Rio2016 ;) https://t.co/THlVOtfrAY
+date = Sun Apr 10 16:53:00 +0000 2016| user = esilvaesilva| text = Assistindo ao nado sincronizado da @juliabbss! #Rio2016 #Piscina @… https://t.co/iuMu7Ye643
+date = Sun Apr 10 16:52:37 +0000 2016| user = midiacrucis| text = RT @Brasil2016: Aliás, Romário é da categoria até 94kg. Ele briga por uma das cinco vagas da equipe do Brasil pro #Rio2016 https://t.co/7Cv…
+date = Sun Apr 10 16:51:08 +0000 2016| user = Brasil2016| text = Aliás, Romário é da categoria até 94kg. Ele briga por uma das cinco vagas da equipe do Brasil pro #Rio2016 https://t.co/7CvaMBadkp
+date = Sun Apr 10 16:46:51 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Arthur Nory supera acusação de racismo e se credencia ao Rio-2016
+JCNET - Jornal da Cidade de B… https://t.co/Wq2fMBNcGC
+date = Sun Apr 10 16:45:19 +0000 2016| user = arydasilvajr| text = Me arrepiei com o comercial da @TAMAirlines pros @JogosOlimpicos @Rio2016. #SomosTodosBrasil
+date = Sun Apr 10 16:45:15 +0000 2016| user = edeniagarcia| text = Eu amei isso!
+Vamos lá gente, garanta seu ingresso para os #JogosParalímpicos @rio2016 #GuerreirosParalímpicos https://t.co/NVUuLZn4un
+date = Sun Apr 10 16:42:54 +0000 2016| user = WendellBws12| text = RT @cpboficial: Bom dia, domingão!! Faltam 150 dias para os #JogosParalímpicos @Rio2016!
+date = Sun Apr 10 16:34:50 +0000 2016| user = Andreshock2| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 16:34:03 +0000 2016| user = adriano_francaa| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 16:32:38 +0000 2016| user = AdailtonCortez| text = Marcelo Negrão, apesar de ta treinando num grande time, sheila mal ta jogando. qnto isso pode atrapalhar o rendimento p Rio2016? #bandsports
+date = Sun Apr 10 16:29:42 +0000 2016| user = AlmaRugbyLife| text = Hong Kong 7s último dia. Vamos fazer essa festa aqui no #Rio2016 ?
+
+Repost from… https://t.co/99f8bNm2SL
+date = Sun Apr 10 16:29:03 +0000 2016| user = RoseleneDolce| text = RT @Women2Date: RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016  #photo #photooftheday  #RT  @channel100TV @tvfloripa https://t.co/Y…
+date = Sun Apr 10 16:29:02 +0000 2016| user = _Lavoisier| text = Deputado federal é vítima de sequestro no Rio de Janeiro -  https://t.co/4PDD3lHp7M via @estadao #Rio2016 #Rio2016Live #Olimpiadas2016
+date = Sun Apr 10 16:27:15 +0000 2016| user = oyrnni| text = "Brasileiro de Cuba" brilha, e Cruzeiro é tetracampeão da Superliga https://t.co/I2l8hgibBa via @UOLEsporte #Rio2016
+date = Sun Apr 10 16:26:54 +0000 2016| user = recigana13| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 16:26:26 +0000 2016| user = queroaverdadewp| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 16:25:17 +0000 2016| user = rosana_alfaro| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 16:24:27 +0000 2016| user = BlogdoJorjao| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 16:22:09 +0000 2016| user = chino54706536| text = RT @CEAR_EP: Felicidades Mónica Cajamarca clasificada a #Rio2016 #altorendimiento #maraton https://t.co/6zgJBPZAwr
+date = Sun Apr 10 16:20:49 +0000 2016| user = pedrogor1988| text = RT @CEAR_EP: Felicidades Mónica Cajamarca clasificada a #Rio2016 #altorendimiento #maraton https://t.co/6zgJBPZAwr
+date = Sun Apr 10 16:19:44 +0000 2016| user = IsisSantosIsis| text = RT @Rio2016: Um resumo do que rolou ontem no Celebra Gastronomia de Rua no #MAMRio! Hoje vai até 20h! https://t.co/0aQra8eIHk https://t.co/…
+date = Sun Apr 10 16:19:33 +0000 2016| user = RoxanaDavilaE| text = RT @CEAR_EP: Felicidades Mónica Cajamarca clasificada a #Rio2016 #altorendimiento #maraton https://t.co/6zgJBPZAwr
+date = Sun Apr 10 16:17:50 +0000 2016| user = liliacarom| text = RT @CEAR_EP: Felicidades Mónica Cajamarca clasificada a #Rio2016 #altorendimiento #maraton https://t.co/6zgJBPZAwr
+date = Sun Apr 10 16:17:21 +0000 2016| user = CEAR_EP| text = Felicidades Mónica Cajamarca clasificada a #Rio2016 #altorendimiento #maraton https://t.co/6zgJBPZAwr
+date = Sun Apr 10 16:16:09 +0000 2016| user = joaobljr| text = Campeão mundial 2013 de Handebol masculino não vira pro #Rio2016 https://t.co/is2CdQkOj7
+date = Sun Apr 10 16:15:42 +0000 2016| user = leandrowmartins| text = Piccinini tá jogando um bolão! Merece voltar pra seleção. Itália se classificando vai dar trabalho com ela na #Rio2016 #bandsports
+date = Sun Apr 10 16:13:42 +0000 2016| user = IaraPT| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 16:12:31 +0000 2016| user = joaobljr| text = A Espanha a um gol de pênalti de ficar fora do #Rio2016 no handebol masculino
+date = Sun Apr 10 16:05:06 +0000 2016| user = Rio2016| text = Um resumo do que rolou ontem no Celebra Gastronomia de Rua no #MAMRio! Hoje vai até 20h! https://t.co/0aQra8eIHk https://t.co/ldg2nwqiRo
+date = Sun Apr 10 16:04:02 +0000 2016| user = SupeRonaldo_| text = Brasileira vice-campeã olímpica leiloa medalha para pagar cirurgia do filho https://t.co/5QEfbGIs6T via @UOLEsporte #Rio2016
+date = Sun Apr 10 16:01:44 +0000 2016| user = Passenger6A_PT| text = Rio de Janeiro já vibra. https://t.co/i3630MmlFA #rio2016 @JogosOlimpicos https://t.co/y1Bc4zbwpF
+date = Sun Apr 10 15:52:13 +0000 2016| user = milongapitt| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 15:49:28 +0000 2016| user = ficobr| text = RT @minesporte: A Rede é um dos principais legados do #Rio2016 para o esporte brasileiro, interligando instalações esportivas espalhadas po…
+date = Sun Apr 10 15:47:47 +0000 2016| user = ficobr| text = RT @Brasil2016: “É um marco histórico”, diz diretor do #Rio2016 na entrega dos planos de segurança: https://t.co/xbNghjJr0h https://t.co/dQ…
+date = Sun Apr 10 15:47:19 +0000 2016| user = ficobr| text = RT @Brasil2016: Bruno Carra, o engenheiro da computação q sonha com medalha no halterofilismo no #Rio2016: https://t.co/SOoJu9KWta https://…
+date = Sun Apr 10 15:47:15 +0000 2016| user = ficobr| text = RT @Brasil2016: Campanha Brasil Saudável e Sustentável levará empreendimentos aos Jogos #Rio2016: https://t.co/juxjePW9u9 https://t.co/h3sr…
+date = Sun Apr 10 15:44:04 +0000 2016| user = nubia10GTA| text = @carolcanossa Acho que para ele os levantadores do Rio2016 será Bruninho e Rapha.
+date = Sun Apr 10 15:43:12 +0000 2016| user = maranhaorafael| text = Que trio, Ricardinho, Jefinho e Júnior Capaça! @Rio2016 #JogosParalimpicos #TEMQUEIR  https://t.co/d5ftNbcUBT
+date = Sun Apr 10 15:35:34 +0000 2016| user = AYLieQJRqAYwvWI| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Sun Apr 10 15:30:54 +0000 2016| user = TubibaCPB| text = RT @cpboficial: Veja o recado dos craques Júnior, Jefinho e Ricardinho!  #JogosParalímpicos @Rio2016 #Faltam150Dias #TEMQUEIR
+https://t.co/…
+date = Sun Apr 10 15:26:22 +0000 2016| user = Filonescio| text = Jogos Olímpicos Rio 2016 Próximo ao Parque Olímpico da Barra da Tijuca https://t.co/5a2aGDOsSP #Rio2016 #rio2016volunteer
+date = Sun Apr 10 15:18:57 +0000 2016| user = litavittorya| text = RT @cpboficial: Veja o recado dos craques Júnior, Jefinho e Ricardinho!  #JogosParalímpicos @Rio2016 #Faltam150Dias #TEMQUEIR
+https://t.co/…
+date = Sun Apr 10 15:18:46 +0000 2016| user = JottaCastello| text = @dilmabr @Rio2016 será que este estádio aquático será mais um elefante branco, assim como os estádios milionários que foram construídos?
+date = Sun Apr 10 15:18:06 +0000 2016| user = JottaCastello| text = @dilmabr @Rio2016 olha o golpeeeeee hahahah! Vai trabalhar, fia! Não mata a gente de vergonha não.
+date = Sun Apr 10 15:15:02 +0000 2016| user = cpboficial| text = Veja o recado dos craques Júnior, Jefinho e Ricardinho!  #JogosParalímpicos @Rio2016 #Faltam150Dias #TEMQUEIR
+https://t.co/CKCgq6hiFe
+date = Sun Apr 10 15:15:01 +0000 2016| user = no_rumo| text = A festa está boa nos pilotis do MAM, Rio de Janeiro. Hoje tem Celebra de Gastronomia por lá até às 20h.... https://t.co/pAWxQLcrrQ
+date = Sun Apr 10 15:13:36 +0000 2016| user = comTuru1995| text = @gonbonadeo1963 @rio2016_es no será Segura nó? o será Crespi?
+date = Sun Apr 10 15:09:34 +0000 2016| user = jcmachadorj| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 15:09:31 +0000 2016| user = jcmachadorj| text = #Rt @OperacoesRio: EVENTO-TESTE #Rio2016 Interdições na Av Pres Vargas e  Enseada de Botafogo para Maratona. Reabertura prevista 12h. #alert
+date = Sun Apr 10 15:04:47 +0000 2016| user = AssuntoMilitar| text = Estágio capacita militares para abordagem de aeronave após interceptação.https://t.co/KIrXaRZMMk @portalfab #Rio2016 https://t.co/atFniDCZur
+date = Sun Apr 10 15:04:22 +0000 2016| user = elisangelaSCCP| text = RT @tresportes: Transamérica Esportes, com tudo da Olimpíada Rio2016, agora com @ThomazRafael.
+date = Sun Apr 10 15:02:10 +0000 2016| user = tresportes| text = Transamérica Esportes, com tudo da Olimpíada Rio2016, agora com @ThomazRafael.
+date = Sun Apr 10 15:01:39 +0000 2016| user = ativocom| text = Saiba quando e onde vai ser a última tentativa da seleção de garantir vaga para a natação no @Rio2016 https://t.co/E4MryIv2eO
+date = Sun Apr 10 14:57:56 +0000 2016| user = edilbertocdias| text = RT @minsaude: Min. da Saúde, Marcelo Castro, assina termo de cessão p/ disponibilizar ambulâncias 🚑 aos Jogos Olímpicos #Rio2016. https://t…
+date = Sun Apr 10 14:48:43 +0000 2016| user = opstranscarioca| text = #Rio2016, como será o day after?
+date = Sun Apr 10 14:48:07 +0000 2016| user = TenisPortugal| text = Dominic Thiem: "Não sei se irei disputar os Jogos Olímpicos"
+https://t.co/RMab779jfB
+(via @BreakPointBR) #Rio2016 https://t.co/qu4PQa28VF
+date = Sun Apr 10 14:44:08 +0000 2016| user = cfredbastos| text = RT @romanoolimpico: Tênis de mesa- Lily Zhang dos Estados Unidos e Mo Zhang do Canadá faturaram as duas vagas em disputa na América do Nort…
+date = Sun Apr 10 14:43:44 +0000 2016| user = cfredbastos| text = RT @romanoolimpico: Handebol- Hoje no Pré-Olímpico da Polônia, a dona da casa fez 35 a 27 no Chile e a Tunísia 32 a 26 na Macedônia.Ambas g…
+date = Sun Apr 10 14:41:04 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Arthur Nory supera acusação de racismo e se credencia ao Rio-2016
+Paraná-Online (liberação de i… https://t.co/PBAM3rqkq6
+date = Sun Apr 10 14:41:04 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Atletismo: José Bagio consegue índice olímpico na marcha atlética ...
+Futebolinterior
+Campinas,… https://t.co/QmdLcptPs3
+date = Sun Apr 10 14:35:11 +0000 2016| user = MuriloFBorges| text = RT @alvarojosetv: 11 hrs , @MuriloFBorges  e eu estaremos na @radioesportesfm  94.1 e @Bradescofmrio  91.1 pra falar de #Rio2016 .
+VEM http…
+date = Sun Apr 10 14:30:31 +0000 2016| user = minesporte| text = Participam 37 candidatos da área de saúde, além dos técnicos da ABCD. A Jornada é mais um dos legados do #Rio2016. https://t.co/b6XqUBcEra
+date = Sun Apr 10 14:30:04 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: .@giovanegavio vai ser o primeiro brasileiro no Revezamento da Tocha do @Rio2016 https://t.co/3aHeQzH2IZ https://t.co/rU…
+date = Sun Apr 10 14:29:38 +0000 2016| user = BritQueeney| text = @Rio2016 vcs tem conhecimento se alguma emissora irá transmitir o evento teste de ginástica ao vivo?
+date = Sun Apr 10 14:25:31 +0000 2016| user = mmorenario| text = RT @Rio2016: Hoje é o último dia do Celebra Gastronomia de Rua. Venha e dê sua opinião com a hashtag #CulturaRio2016 😃😃 https://t.co/TxnV3B…
+date = Sun Apr 10 14:11:10 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Hoje é o último dia do Celebra Gastronomia de Rua. Venha e dê sua opinião com a hashtag #CulturaRio2016 😃😃 https://t.co/TxnV3B…
+date = Sun Apr 10 14:10:39 +0000 2016| user = marcelofjadv| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 14:09:58 +0000 2016| user = leandrocarneiro| text = Aqui tem as "várias informações" citadas pelo Giba na transmissão da Globo https://t.co/DnD3KAO9CG via @UOLEsporte #Rio2016
+date = Sun Apr 10 14:03:34 +0000 2016| user = cassava274deux1| text = RT @Rio2016: Hoje é o último dia do Celebra Gastronomia de Rua. Venha e dê sua opinião com a hashtag #CulturaRio2016 😃😃 https://t.co/TxnV3B…
+date = Sun Apr 10 14:01:46 +0000 2016| user = Rio2016| text = Hoje é o último dia do Celebra Gastronomia de Rua. Venha e dê sua opinião com a hashtag #CulturaRio2016 😃😃 https://t.co/TxnV3BVIWI
+date = Sun Apr 10 14:01:45 +0000 2016| user = antonels| text = RT by rio2016_es: Atentos atletas... Intrigados por la Villa Olímpica#Rio2016? 😉 
+gonbonadeo1963 
+TyCSports  https://t.co/aj1IpTJkqZ
+date = Sun Apr 10 14:00:44 +0000 2016| user = track41| text = Diga Não ao #Turismo Sexual na #Olimpiada 
+#Rio2016 https://t.co/X5vNJye9IE
+date = Sun Apr 10 13:59:39 +0000 2016| user = Regina_Iorio| text = RT @LucianoHuck: Quer participar das cerimônias olímpicas no Rio como voluntário? https://t.co/cLEYX8ziDo
+date = Sun Apr 10 13:57:58 +0000 2016| user = Renatafelixc| text = RT @AneilsonBeta: Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https:/…
+date = Sun Apr 10 13:57:08 +0000 2016| user = CauNascimento3| text = #Rio2016  Vai da certo @dilmabr
+date = Sun Apr 10 13:54:40 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Arthur Nory supera acusação de racismo e se credencia ao Rio-2016
+R7
+Em entrevista ao jornal O … https://t.co/Mupfl4KoYR
+date = Sun Apr 10 13:53:43 +0000 2016| user = Anderhenry71A| text = @dilmabr @Rio2016 infelizmente isso é irrelevante e não é nem de longe prioridade para o Brasil.
+date = Sun Apr 10 13:38:41 +0000 2016| user = rafaelizarda| text = RT @fimdejogo: volto depois de curtir esse domingo lindo e experimentar alguma coisa no celebrario @Rio2016 #Rio2016 https://t.co/w7Esr9nVru
+date = Sun Apr 10 13:37:57 +0000 2016| user = frarielopez| text = @coparaguay @atleparaguayo @DerlysAyala @Rio2016 excelente noticia vamos amigo Derlis....#CDE
+date = Sun Apr 10 13:35:37 +0000 2016| user = b_saldanha| text = "Le Bleu" editando em pleno domingo de manhã! Aqui é trabalho! #IciCestTravail #Silence #Édition #Rio2016 https://t.co/AIgObmaikV
+date = Sun Apr 10 13:32:19 +0000 2016| user = lubeltrame5| text = RT @minesporte: Bruno Carra sonha com uma medalha no halterofilismo no @Rio2016. https://t.co/cLccRLWz85
+date = Sun Apr 10 13:31:56 +0000 2016| user = TennisXperience| text = @JulenAginagalde @RFEBalonmano @adidas_ES @rio2016_es ganar o morir. Vamos chavales!!!!!/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+
+date = Sun Apr 10 13:30:43 +0000 2016| user = fimdejogo| text = volto depois de curtir esse domingo lindo e experimentar alguma coisa no celebrario @Rio2016 #Rio2016 https://t.co/w7Esr9nVru
+date = Sun Apr 10 13:26:32 +0000 2016| user = ravennamoraes| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 13:20:50 +0000 2016| user = paidosburros| text = RT @minesporte: Bruno Carra sonha com uma medalha no halterofilismo no @Rio2016. https://t.co/cLccRLWz85
+date = Sun Apr 10 13:20:02 +0000 2016| user = minesporte| text = Bruno Carra sonha com uma medalha no halterofilismo no @Rio2016. https://t.co/cLccRLWz85
+date = Sun Apr 10 13:15:15 +0000 2016| user = luciafwx| text = RT @Rio2016: #RugbyEmCR é gol toda hora, contato, emoção! 
+
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/vT1vbzElRl
+date = Sun Apr 10 13:14:23 +0000 2016| user = Laurafwx| text = RT @Rio2016: #RugbyEmCR é gol toda hora, contato, emoção! 
+
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/vT1vbzElRl
+date = Sun Apr 10 13:13:32 +0000 2016| user = martinchab1997| text = RT @Rio2016: #RugbyEmCR é gol toda hora, contato, emoção! 
+
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/vT1vbzElRl
+date = Sun Apr 10 13:13:11 +0000 2016| user = Laurafwx| text = RT @Brasil2016: "Se eu ouvir um 'vai mãe' da arquibancada no #Rio2016 bato o recorde mundial", brinca a nadadora Susana Schnarndorf. https:…
+date = Sun Apr 10 13:11:29 +0000 2016| user = Rio2016| text = Hoje tem Celebra Gastronomia de Rua no #MAMRio de 11h até 20h com entrada franca e estacionamento! #CulturaRio2016
+https://t.co/KWR79cj72D
+date = Sun Apr 10 13:05:26 +0000 2016| user = alem_do_futebol| text = Handebol Masculino, Pré-Olímpicos: Torneio 1: SWE 4pts, SLO e ESP 2; Torneio 3: NOR e DEN 3pts, CRO 2; Torneio 2: TUN e POL vão p/ @Rio2016
+date = Sun Apr 10 12:47:47 +0000 2016| user = alvarojosetv| text = 11 hrs , @MuriloFBorges  e eu estaremos na @radioesportesfm  94.1 e @Bradescofmrio  91.1 pra falar de #Rio2016 .
+VEM https://t.co/BG4ee6kvAh
+date = Sun Apr 10 12:47:10 +0000 2016| user = Karinemaiaribe2| text = Só vendo pra crer!#MKTDigitalFumec https://t.co/SyNfdnIC97
+date = Sun Apr 10 12:46:09 +0000 2016| user = Seba_Pereira| text = RT @romanoolimpico: Handebol- Hoje no Pré-Olímpico da Polônia, a dona da casa fez 35 a 27 no Chile e a Tunísia 32 a 26 na Macedônia.Ambas g…
+date = Sun Apr 10 12:45:33 +0000 2016| user = imileide| text = #AqueceRio Hoje tem final do evento teste #weightlifting na arena carioca1. #Rio2016 🙌
+date = Sun Apr 10 12:33:51 +0000 2016| user = foroatletismo| text = RT @SoyCobarde2: #MR16
+@azucenadiaz42 2h31:43 (PB)
+Mínima JJOO #Rio2016
+date = Sun Apr 10 12:31:04 +0000 2016| user = DaniFuller2| text = Média de idade 30 anos né... Masculina e feminina para #Rio2016
+date = Sun Apr 10 12:23:39 +0000 2016| user = bicharaneto| text = Encontro realizado pela OAB/RJ, CBMA e TAS-CAS p preparação dosadvogados que atuarão em favor dos atletas na Rio2016 https://t.co/hdlKtyjG4a
+date = Sun Apr 10 12:19:47 +0000 2016| user = cpboficial| text = Bom dia, domingão!! Faltam 150 dias para os #JogosParalímpicos @Rio2016!
+date = Sun Apr 10 12:12:04 +0000 2016| user = rosanavilas| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 12:11:35 +0000 2016| user = RenanBarreto16| text = @dilmabr @Rio2016 qto foi desviado? Será q da para financiar mais alguma campanha?
+date = Sun Apr 10 12:08:20 +0000 2016| user = lucaschamati| text = 165 pessoas são assassinadas no Brasil por dia!! Mas ao invés de buscar uma solução pra isso,liberaram mais 1 bilhão pro @Rio2016, ta serto.
+date = Sun Apr 10 12:08:08 +0000 2016| user = luhollander| text = Incrível #NikeWomenVictoryTour #rio2016 #rio #Brasil https://t.co/9Rg0gVeIZb
+date = Sun Apr 10 12:07:52 +0000 2016| user = Mauraofs| text = RT @Rio2016: #RugbyEmCR é gol toda hora, contato, emoção! 
+
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/vT1vbzElRl
+date = Sun Apr 10 12:06:33 +0000 2016| user = luhollander| text = #rio2016 #NikeWomenVictoryTour #rio Uniforme Equipe do Brasil https://t.co/qwqbRLGVId
+date = Sun Apr 10 11:49:14 +0000 2016| user = pires_alex| text = Bom dia galera!!! Mais uma semana de treino chega ao fim, rumo Jogos Paralímpicos do .@Rio2016. #Foco #Paralimpíada https://t.co/HofxiJac9G
+date = Sun Apr 10 11:49:08 +0000 2016| user = camarario| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 11:43:54 +0000 2016| user = ssalada1| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito #G1 https://t.co/2iwNQKJHJn
+date = Sun Apr 10 11:43:49 +0000 2016| user = ssalada1| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito https://t.co/gZbO4MtuUQ
+date = Sun Apr 10 11:31:51 +0000 2016| user = Giovann45689995| text = RT @Rio2016: #RugbyEmCR é gol toda hora, contato, emoção! 
+
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/vT1vbzElRl
+date = Sun Apr 10 11:30:42 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: #RugbyEmCR é gol toda hora, contato, emoção! 
+
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/vT1vbzElRl
+date = Sun Apr 10 11:30:34 +0000 2016| user = Rio2016| text = #RugbyEmCR é gol toda hora, contato, emoção! 
+
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.co/vT1vbzElRl
+date = Sun Apr 10 11:13:51 +0000 2016| user = easr7| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 11:12:57 +0000 2016| user = FlorBel14850556| text = @dilmabr @Rio2016   A senhora tá se esforçando pra mostrar trabalho, hein?
+date = Sun Apr 10 11:07:23 +0000 2016| user = BeaWagner| text = RT @sbsportuguese: #Zika não assusta australianos: 60 mil já tem ingressos para @Rio2016_en
+@ItamaratyGovBr
+https://t.co/76PoI54vtp https:/…
+date = Sun Apr 10 11:01:09 +0000 2016| user = moglimdnp| text = RT @JessicaHelp: Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na m... https://t.co/x5gYNCS7…
+date = Sun Apr 10 11:00:55 +0000 2016| user = moglimdnp| text = RT @gleidsonsk819: #OperacaoBetaLab Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações com... https://t.c…
+date = Sun Apr 10 11:00:53 +0000 2016| user = moglimdnp| text = RT @alencarrafa: #timbeta Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na m... https://t.co…
+date = Sun Apr 10 11:00:46 +0000 2016| user = moglimdnp| text = RT @AneilsonBeta: Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https:/…
+date = Sun Apr 10 11:00:41 +0000 2016| user = moglimdnp| text = RT @netonardes: Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t…
+date = Sun Apr 10 10:57:10 +0000 2016| user = marcosct78| text = @dilmabr @Rio2016 a vida tá difícil um parque desse tamanho para inaugurar é só uns gatos pingados para "aplaudir"
+date = Sun Apr 10 10:54:27 +0000 2016| user = CeciliaValerio2| text = RT @Rio2016: Celebra Gastronomia de Rua começa hoje, às 13h. Também tem amanhã! Não deixe de vir e degustar! #CulturaRio2016 😁😌😎 https://t.…
+date = Sun Apr 10 10:53:31 +0000 2016| user = CeciliaValerio2| text = RT @Rio2016: Muitas delícias para você provar no Celebra Gastronomia de Rua, hoje e amanhã, no MAM #CulturaRio2016 (1/5): https://t.co/wx7l…
+date = Sun Apr 10 10:53:05 +0000 2016| user = CeciliaValerio2| text = RT @Rio2016: Muitas delícias para você provar no Celebra Gastronomia de Rua, hoje e amanhã, no MAM! #CulturaRio2016 (5/5) https://t.co/w2nV…
+date = Sun Apr 10 10:52:37 +0000 2016| user = JWellingtonMelo| text = ABSURDO OS ROUBOS !
+Custo da Olimpíada aumenta R$ 500 mi e chega a R$ 38,2 bilhões https://t.co/zGimI2FN2G via @UOLEsporte #Rio2016
+date = Sun Apr 10 10:51:15 +0000 2016| user = CeciliaValerio2| text = RT @Rio2016: Detalhes sobre o cardápio do Celebra Gastronomia de Rua que começa 13h lá no MAM! (2/5) https://t.co/pcHOCguiHd
+date = Sun Apr 10 10:51:09 +0000 2016| user = CeciliaValerio2| text = RT @Rio2016: Detalhes sobre o cardápio do Celebra Gastronomia de Rua que começa 13h lá no MAM! (3/5) https://t.co/7JPOXjsin6
+date = Sun Apr 10 10:49:11 +0000 2016| user = CeciliaValerio2| text = RT @Rio2016: A boa do fds é vir no @MuseuArteRio aproveitar o Celebra Gastronomia de Rua. Hoje até às 21h e amanhã das 11h às 20h https://t…
+date = Sun Apr 10 10:45:14 +0000 2016| user = MartaEsteban42K| text = RT @SoyCobarde2: #MR16
+@azucenadiaz42 2h31:43 (PB)
+Mínima JJOO #Rio2016
+date = Sun Apr 10 10:37:58 +0000 2016| user = lucienejalves| text = RT @portalbrasil: ✈ Santos Dumont terá voos na madrugada durante a #Olimpíada https://t.co/nytC2ASpwh @AviacaoGovBr #Rio2016
+date = Sun Apr 10 10:34:50 +0000 2016| user = fimdejogo| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 10:33:13 +0000 2016| user = SoyCobarde2| text = #MR16
+@azucenadiaz42 2h31:43 (PB)
+Mínima JJOO #Rio2016
+date = Sun Apr 10 10:11:22 +0000 2016| user = jankovicfvg| text = RT @triesteinbici: #PALLANUOTO #ITALIA @7belloOfficial VOLA A #Rio2016 
+#Trieste2016 #7bello #Trieste #fareSPORTaTS #myTS #arespecorari htt…
+date = Sun Apr 10 10:07:07 +0000 2016| user = chrzaszcz87| text = RT @PLinPortugal: Andebolistas #Polónia @ZPRP_official venceram a equipe do #Chile e qualificaram-se para #RIO2016! Parabéns! https://t.co/…
+date = Sun Apr 10 10:04:13 +0000 2016| user = PLinPortugal| text = Andebolistas #Polónia @ZPRP_official venceram a equipe do #Chile e qualificaram-se para #RIO2016! Parabéns! https://t.co/tdoaDWBvzj
+date = Sun Apr 10 09:50:03 +0000 2016| user = rodrigotolito| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 09:46:41 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Inaugurado, centro de esportes aquáticos da Rio 2016 tem recebido ...
+Diário Catarinense
+Eles f… https://t.co/DptRqYEfiY
+date = Sun Apr 10 09:37:26 +0000 2016| user = miltongferraz| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 09:35:14 +0000 2016| user = CatarinaRosa12| text = Evento-teste de maratona interdita vias do Rio; veja esquema de ... - https://t.co/2kOijEGleC https://t.co/VQaxV7fSyY
+date = Sun Apr 10 09:35:13 +0000 2016| user = CamilaAguiarBR| text = Evento-teste de maratona interdita vias do Rio; veja esquema de ... - https://t.co/cgjxNNkLsR https://t.co/LVRpcnvdO0
+date = Sun Apr 10 09:35:13 +0000 2016| user = RecalAlessandro| text = Evento-teste de maratona interdita vias do Rio; veja esquema de ... - https://t.co/gxD03LU4Se https://t.co/N89jHyTbEL
+date = Sun Apr 10 09:35:10 +0000 2016| user = CariocaAlmeida| text = Evento-teste de maratona interdita vias do Rio; veja esquema de ... - https://t.co/JDCrUrfSsw https://t.co/5ambNUgPHm
+date = Sun Apr 10 09:35:08 +0000 2016| user = BrunaCaya| text = Evento-teste de maratona interdita vias do Rio; veja esquema de ... - https://t.co/nFJZFgZgAl https://t.co/lYpZjQSsbD
+date = Sun Apr 10 09:35:07 +0000 2016| user = AssisClarissa| text = Evento-teste de maratona interdita vias do Rio; veja esquema de ... - https://t.co/lLqUhddhfk https://t.co/xGG6bF1Xzl
+date = Sun Apr 10 09:35:06 +0000 2016| user = Bruno_Alvarez_| text = Evento-teste de maratona interdita vias do Rio; veja esquema de ... - https://t.co/2zoZL453SM https://t.co/FuhaaU8HoZ
+date = Sun Apr 10 09:29:09 +0000 2016| user = formaginiherme| text = RT @exercitooficial: 4ª Brigada de Infantaria Leve (Montanha) prepara-se para atuar nos Jogos Olímpicos #Rio2016 https://t.co/dFmaN142tX
+date = Sun Apr 10 09:12:57 +0000 2016| user = LFragaSantAnna| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 09:10:07 +0000 2016| user = alipiojr| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 08:56:26 +0000 2016| user = Rubensvaz2012| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 08:36:44 +0000 2016| user = arqmonicamendes| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 08:25:40 +0000 2016| user = MESSI_SLASH| text = RT @SurtoOlimpico: o @FCBarcelona só irá liberar Neymar para o @Rio2016 https://t.co/ymRGeMrQOQ https://t.co/Zk6ItBzwGn
+date = Sun Apr 10 08:05:47 +0000 2016| user = sbsportuguese| text = #Zika não assusta australianos: 60 mil já tem ingressos para @Rio2016_en
+@ItamaratyGovBr
+https://t.co/76PoI54vtp https://t.co/3u2lFiX3Lb
+date = Sun Apr 10 08:01:50 +0000 2016| user = Le_Gastronome| text = Festival Celebra de Gastronomia de Rua 'pega' cariocas - Rio 2016 https://t.co/Hy8nOpPzmA
+date = Sun Apr 10 08:00:13 +0000 2016| user = AriValdecir| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 07:47:17 +0000 2016| user = FiglioliPietro| text = RT @triesteinbici: #PALLANUOTO #ITALIA @7belloOfficial VOLA A #Rio2016 
+#Trieste2016 #7bello #Trieste #fareSPORTaTS #myTS #arespecorari htt…
+date = Sun Apr 10 07:44:20 +0000 2016| user = samuelque6| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 07:44:03 +0000 2016| user = PORTALWL| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito https://t.co/kH0xd34DVO #brasil
+date = Sun Apr 10 07:36:57 +0000 2016| user = solon100| text = @dilmabr @Rio2016 
+E mais um elefante branco como legado.
+date = Sun Apr 10 07:33:05 +0000 2016| user = m_vinniicius| text = RT @mkt_esportivo: As roupas do atletismo também foram apresentadas hoje pela Nike. #Rio2016 https://t.co/RjG8F9b4m5
+date = Sun Apr 10 07:26:28 +0000 2016| user = dinosaurantonio| text = RT @triesteinbici: #PALLANUOTO #ITALIA @7belloOfficial VOLA A #Rio2016 
+#Trieste2016 #7bello #Trieste #fareSPORTaTS #myTS #arespecorari htt…
+date = Sun Apr 10 07:11:49 +0000 2016| user = Canarimp| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 07:07:30 +0000 2016| user = r2ajesus| text = @dilmabr @Rio2016 Dilminha. A senhora mãe do povo brasileiro, tá assustada .....
+date = Sun Apr 10 07:02:11 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Tetracampeão olímpico, Kitajima se aposenta após fracassar na luta ...
+Diário Catarinense
+Quatr… https://t.co/HWYy11aTM3
+date = Sun Apr 10 07:02:06 +0000 2016| user = mc026| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 07:00:36 +0000 2016| user = Dyenismendes| text = Deus ajuda quem cedo madruga!
+#rio2016 #jogosolimpicos #olimpicgames2016 #meiamaratona… https://t.co/AtMxXqL4e9
+date = Sun Apr 10 06:52:42 +0000 2016| user = PBhizilsB| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 06:35/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+:34 +0000 2016| user = 6bcorbusierGu| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 06:22:24 +0000 2016| user = patriciapaes67| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 06:10:16 +0000 2016| user = 6oviewaskewl8| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 04:51:36 +0000 2016| user = FerreiragGomes| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 04:48:00 +0000 2016| user = zidruxXx| text = 117 dias pras Olimpíadas
+#Rio2016 #117days
+date = Sun Apr 10 04:42:56 +0000 2016| user = moniquiinhaf| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 04:39:04 +0000 2016| user = aleallbuquerq| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 04:24:55 +0000 2016| user = NSigrid| text = @dilmabr @Rio2016 300 reais por prssoa e um marmitex . Vergonha mundial Dilma
+date = Sun Apr 10 04:23:06 +0000 2016| user = deigmy1| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 04:19:25 +0000 2016| user = elisdejesus25| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 04:13:01 +0000 2016| user = rewsmidgo87311| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 04:06:56 +0000 2016| user = jdnjuveniles| text = RT @DelegacionVzla: #Síguenos - #follow @delegacionvzla #Rio2016 @ Rio de Janeiro, Brazil https://t.co/F0U4IO19Qs
+date = Sun Apr 10 04:03:54 +0000 2016| user = Jandinir| text = @dilmabr @Rio2016 na hora de relatar as besteiras nunca disse em primeira pessoa. Tinha que dizer eu pedalei. Eu menti. Eu usei o Brasil.
+date = Sun Apr 10 03:59:01 +0000 2016| user = AcademiaOlmpica| text = RT @DelegacionVzla: #Síguenos - #follow @delegacionvzla #Rio2016 @ Rio de Janeiro, Brazil https://t.co/F0U4IO19Qs
+date = Sun Apr 10 03:58:01 +0000 2016| user = deunomedia| text = RT @DelegacionVzla: #Síguenos - #follow @delegacionvzla #Rio2016 @ Rio de Janeiro, Brazil https://t.co/F0U4IO19Qs
+date = Sun Apr 10 03:56:22 +0000 2016| user = KacryOficial| text = RT @DelegacionVzla: #Síguenos - #follow @delegacionvzla #Rio2016 @ Rio de Janeiro, Brazil https://t.co/F0U4IO19Qs
+date = Sun Apr 10 03:53:49 +0000 2016| user = Comunklam| text = RT @DelegacionVzla: #Síguenos - #follow @delegacionvzla #Rio2016 @ Rio de Janeiro, Brazil https://t.co/F0U4IO19Qs
+date = Sun Apr 10 03:51:02 +0000 2016| user = Brasil_2016News| text = Festival Celebra de Gastronomia de Rua 'pega' cariocas pelo estômago e pela animação:  https://t.co/mbzGuH5cBG
+date = Sun Apr 10 03:34:47 +0000 2016| user = Estevao1971| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 03:30:19 +0000 2016| user = Lilu_Alves| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 03:30:10 +0000 2016| user = SinterjEscolar| text = RT EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura prevista 12h. #alert
+date = Sun Apr 10 03:19:19 +0000 2016| user = InformeRJO| text = EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura prevista 12h. #alert
+date = Sun Apr 10 03:17:44 +0000 2016| user = OperacoesRio| text = Alô @Rio2016 @AqueceRio @empresaolimpicaAv Pres Vargas fechada sentido Candelária p/Maratona https://t.co/1rcy8RcyTg https://t.co/2sfpIjrUbG
+date = Sun Apr 10 03:17:23 +0000 2016| user = RudsonKitriedge| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 03:17:02 +0000 2016| user = plucena7| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 03:15:26 +0000 2016| user = RafaelaHC| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 03:15:08 +0000 2016| user = suelistuba| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 03:14:59 +0000 2016| user = cariocaonline| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 03:14:16 +0000 2016| user = bbezerra| text = RT @OperacoesRio: EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura previ…
+date = Sun Apr 10 03:13:58 +0000 2016| user = OperacoesRio| text = EVENTO-TESTE #Rio2016 Iniciadas as interdições na Av Pres Vargas e na Enseada de Botafogo para Maratona. Reabertura prevista 12h. #alert
+date = Sun Apr 10 03:02:20 +0000 2016| user = luisflavio2891| text = @dilmabr @Rio2016 Enquanto isso hospitais quebrados, sem macas,  sem aparelhos! E depois vc sai pra pedalar!#vergonha
+date = Sun Apr 10 03:02:05 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Polônia e Tunísia garantem vaga no handebol masculino do Rio 2016
+Terra Brasil
+Mais duas equipe… https://t.co/Pa7HP9ZtT1
+date = Sun Apr 10 02:55:49 +0000 2016| user = RJdenuncias| text = À espera por atendimento a bebê, mulher passa mal em UPA no Rio #G1 https://t.co/0Vsl5t03kc padrão #Rio2016 @nytimes @cnni @washingtonpost
+date = Sun Apr 10 02:54:11 +0000 2016| user = radeobor| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 02:50:58 +0000 2016| user = volunta_Rio2016| text = Festival Celebra de Gastronomia de Rua 'pega' cariocas pelo estômago e pela animação:  https://t.co/jhioVbXmba
+date = Sun Apr 10 02:50:57 +0000 2016| user = volunta_Rio2016| text = Duelo Brasil x Alemanha é atração final do evento-teste de levantamento de peso:  https://t.co/pcAowJoq08
+date = Sun Apr 10 02:46:05 +0000 2016| user = RJdenuncias| text = Vereador entra com pedido de habeas corpus para impedir prisão de bombeiro - Rio - O Dia #ODia https://t.co/XtFOFEy2Jv #help #Rio2016
+date = Sun Apr 10 02:40:40 +0000 2016| user = DelegacionVzla| text = #Síguenos - #follow @delegacionvzla #Rio2016 @ Rio de Janeiro, Brazil https://t.co/F0U4IO19Qs
+date = Sun Apr 10 02:38:31 +0000 2016| user = GMGoAwayLurkin| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 02:31:57 +0000 2016| user = Lenasim| text = RT @ForaPTJa: @Cris_duh_123 @wellingtonmoura #Rio2016 #RJ #Rio como se Grana? Lula PT pagando 400 mil para deputado não comparecer em seção…
+date = Sun Apr 10 02:31:47 +0000 2016| user = raphaella56| text = RT @ForaPTJa: @Cris_duh_123 @wellingtonmoura #Rio2016 #RJ #Rio como se Grana? Lula PT pagando 400 mil para deputado não comparecer em seção…
+date = Sun Apr 10 02:31:03 +0000 2016| user = alice_castrog| text = Rio2016 tinha tudo pra ser perfeito, mas saporra só ta me complicando
+date = Sun Apr 10 02:30:29 +0000 2016| user = seujoca| text = RT @ForaPTJa: @Cris_duh_123 @wellingtonmoura #Rio2016 #RJ #Rio como se Grana? Lula PT pagando 400 mil para deputado não comparecer em seção…
+date = Sun Apr 10 02:29:14 +0000 2016| user = y1FunnyStickFb| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 02:20:57 +0000 2016| user = fwallina| text = RT @exercitooficial: Tropa de Elite do Exército treina para os Jogos Olímpicos #Rio2016 https://t.co/zERSmLdhPO
+date = Sun Apr 10 02:18:29 +0000 2016| user = fwallina| text = RT @portalfab: Militares que atuarão nas Olimpíadas finalizam curso preparatório. https://t.co/t8TYCqmoLk @Rio2016 #Olimpíadas #FAB
+date = Sun Apr 10 02:17:41 +0000 2016| user = flavio39011| text = RT @gleidsonsk819: #OperacaoBetaLab Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações com... https://t.c…
+date = Sun Apr 10 02:16:40 +0000 2016| user = Rosiv48| text = RT @ForaPTJa: @Cris_duh_123 @wellingtonmoura #Rio2016 #RJ #Rio como se Grana? Lula PT pagando 400 mil para deputado não comparecer em seção…
+date = Sun Apr 10 02:07:01 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Local do Iatismo no @Rio2016, a Marina da Glória foi entregue https://t.co/VcN7NbyIe5 https://t.co/PNpQPGgRTf
+date = Sun Apr 10 02:06:57 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: o @FCBarcelona só irá liberar Neymar para o @Rio2016 https://t.co/ymRGeMrQOQ https://t.co/Zk6ItBzwGn
+date = Sun Apr 10 02:06:41 +0000 2016| user = fwallina| text = RT @Rio2016: A boa do fds é vir no @MuseuArteRio aproveitar o Celebra Gastronomia de Rua. Hoje até às 21h e amanhã das 11h às 20h https://t…
+date = Sun Apr 10 02:06:33 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Presidente Dilma Rousseff não irá a cerimônia de acendimento da Chama Olímpica do @Rio2016 https://t.co/0T1cqcHav6 https…
+date = Sun Apr 10 02:06:12 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A @nikebrasil apresenta os uniformes de pódio do @timebrasil para o @Rio2016 https://t.co/TSwXbxYG2p https://t.co/ETO4es…
+date = Sun Apr 10 02:06:09 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...duas equipes já carimbaram a vaga no Handebol masculino do @Rio2016 https://t.co/4Y3gCKHGcp https:/…
+date = Sun Apr 10 02:04:56 +0000 2016| user = SurtoOlimpico| text = Local do Iatismo no @Rio2016, a Marina da Glória foi entregue https://t.co/VcN7NbyIe5 https://t.co/PNpQPGgRTf
+date = Sun Apr 10 02:04:08 +0000 2016| user = SurtoOlimpico| text = o @FCBarcelona só irá liberar Neymar para o @Rio2016 https://t.co/ymRGeMrQOQ https://t.co/Zk6ItBzwGn
+date = Sun Apr 10 02:03:29 +0000 2016| user = carlylebarral| text = RT @mkt_esportivo: As roupas do atletismo também foram apresentadas hoje pela Nike. #Rio2016 https://t.co/RjG8F9b4m5
+date = Sun Apr 10 02:02:15 +0000 2016| user = AlbertoSanttos| text = RT @romanoolimpico: Tênis de mesa- Lily Zhang dos Estados Unidos e Mo Zhang do Canadá faturaram as duas vagas em disputa na América do Nort…
+date = Sun Apr 10 02:01:12 +0000 2016| user = romanoolimpico| text = Tênis de mesa- Lily Zhang dos Estados Unidos e Mo Zhang do Canadá faturaram as duas vagas em disputa na América do Norte para a Rio2016
+date = Sun Apr 10 02:00:40 +0000 2016| user = ITnewsTS| text = RT @triesteinbici: #PALLANUOTO #ITALIA @7belloOfficial VOLA A #Rio2016 
+#Trieste2016 #7bello #Trieste #fareSPORTaTS #myTS #arespecorari htt…
+date = Sun Apr 10 01:58:47 +0000 2016| user = J_Maciel07| text = RT @SurtoOlimpico: Presidente Dilma Rousseff não irá a cerimônia de acendimento da Chama Olímpica do @Rio2016 https://t.co/0T1cqcHav6 https…
+date = Sun Apr 10 01:57:26 +0000 2016| user = SurtoOlimpico| text = Presidente Dilma Rousseff não irá a cerimônia de acendimento da Chama Olímpica do @Rio2016 https://t.co/0T1cqcHav6 https://t.co/REm78MmdQu
+date = Sun Apr 10 01:56:14 +0000 2016| user = Douglasf28| text = Sabadão de trabalho! #rio2016 https://t.co/VD74UpvoRy
+date = Sun Apr 10 01:55:05 +0000 2016| user = cidade_maravilh| text = RT @AmoTenisOficial: .@CaroWozniacki pode não jogar #Rio2016
+#WTA #tenis #riodejaneiro #Amotenis
+https://t.co/QGnnm0biqI https://t.co/80S8m…
+date = Sun Apr 10 01:54:05 +0000 2016| user = AlbertoSanttos| text = RT @SurtoOlimpico: Destaques do Surto...duas equipes já carimbaram a vaga no Handebol masculino do @Rio2016 https://t.co/4Y3gCKHGcp https:/…
+date = Sun Apr 10 01:53:43 +0000 2016| user = AmoTenisOficial| text = .@CaroWozniacki pode não jogar #Rio2016
+#WTA #tenis #riodejaneiro #Amotenis
+https://t.co/QGnnm0biqI https://t.co/80S8mm7S0y
+date = Sun Apr 10 01:52:02 +0000 2016| user = SurtoOlimpico| text = A @nikebrasil apresenta os uniformes de pódio do @timebrasil para o @Rio2016 https://t.co/TSwXbxYG2p https://t.co/ETO4esybJR
+date = Sun Apr 10 01:51:20 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...duas equipes já carimbaram a vaga no Handebol masculino do @Rio2016 https://t.co/4Y3gCKHGcp https://t.co/0Sl9pQH89G
+date = Sun Apr 10 01:48:33 +0000 2016| user = ct_reis| text = Pessoal! Veja o recado que a noss querida Mama Reis deixou no #sejogabeth .
+
+#rio2016 #fernandoreis #lpo... https://t.co/GvngMUGtml
+date = Sun Apr 10 01:47:38 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Diário do Rio de Janeiro (Blogue)
+Festival Celebra de Gastronomia de Rua 'pega' cariocas
+Rio 20… https://t.co/W06VYd10Dn
+date = Sun Apr 10 01:47:38 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Gazeta Esportiva
+Polônia e Tunísia garantem vaga no handebol masculino do Rio 2016
+Gazeta Espor… https://t.co/6yfVyYo0HC
+date = Sun Apr 10 01:41:21 +0000 2016| user = tatyacioli| text = RT @Brasil2016: Campanha Brasil Saudável e Sustentável levará empreendimentos ao #Rio2016. https://t.co/juxjeQdKSJ @MDSComunicacao https://…
+date = Sun Apr 10 01:40:53 +0000 2016| user = flaviodilascio| text = Francisco Mosquera colombiano, campeão sul-americano categoria 62kg #rio2016 #weightlifting… https://t.co/LE599X42f3
+date = Sun Apr 10 01:40:20 +0000 2016| user = Ricardo94435064| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 01:37:17 +0000 2016| user = AmeliaAOliveira| text = RT @NyTimesBrasil: Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https:…
+date = Sun Apr 10 01:33:17 +0000 2016| user = romanoolimpico| text = Handebol- Hoje no Pré-Olímpico da Polônia, a dona da casa fez 35 a 27 no Chile e a Tunísia 32 a 26 na Macedônia.Ambas garantidas na Rio2016
+date = Sun Apr 10 01:32:15 +0000 2016| user = anamarcela92| text = RT @timebrasil: Novos uniformes do @timebrasil para @Rio2016! Gostaram? #Eusoutimebrasil https://t.co/loYFMBqVEo
+date = Sun Apr 10 01:31:45 +0000 2016| user = tatyacioli| text = RT @Rio2016: Detalhes sobre o cardápio do Celebra Gastronomia de Rua que começa 13h lá no MAM! (5/5) https://t.co/0U2Xhcegmr
+date = Sun Apr 10 01:31:34 +0000 2016| user = wallacerjbr2012| text = RT @GEdoBrasil: Energia 100% para os Jogos @Rio2016: check! ✅  https://t.co/7nj8L38bgN @Rio2016 #OsJogosJáComeçaram https://t.co/zY5KyOjgO3
+date = Sun Apr 10 01:29:20 +0000 2016| user = VeronicaRey16| text = RT @Rio2016: A boa do fds é vir no @MuseuArteRio aproveitar o Celebra Gastronomia de Rua. Hoje até às 21h e amanhã das 11h às 20h https://t…
+date = Sun Apr 10 01:28:24 +0000 2016| user = tatyacioli| text = RT @Rio2016: A boa do fds é vir no @MuseuArteRio aproveitar o Celebra Gastronomia de Rua. Hoje até às 21h e amanhã das 11h às 20h https://t…
+date = Sun Apr 10 01:28:19 +0000 2016| user = triesteinbici| text = #PALLANUOTO #ITALIA @7belloOfficial VOLA A #Rio2016 
+#Trieste2016 #7bello #Trieste #fareSPORTaTS #myTS #arespecorari https://t.co/VefGf2JW3D
+date = Sun Apr 10 01:27:33 +0000 2016| user = BlogRecorrido| text = RT @mkt_esportivo: As roupas do atletismo também foram apresentadas hoje pela Nike. #Rio2016 https://t.co/RjG8F9b4m5
+date = Sun Apr 10 01:22:05 +0000 2016| user = JailzaRosa| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 01:13:55 +0000 2016| user = Hugotim1| text = #timbeta #globo Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito https://t.co/iXd3lhzFhF #OperacaoBetaLab #Sigodev…
+date = Sun Apr 10 01:10:30 +0000 2016| user = FuruchoLuiz| text = Destaque da seleção reencontra 1º técnico em final da Superliga de vôlei https://t.co/IWZiN7CgwU via @UOLEsporte #Rio2016
+date = Sun Apr 10 01:09:04 +0000 2016| user = CamilaFaciroli1| text = @dilmabr @Rio2016 e os Hospitais anda visitando também?
+date = Sun Apr 10 01:08:57 +0000 2016| user = sergiolalalahot| text = RT @sltcavalcante: Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https:…
+date = Sun Apr 10 01:08:46 +0000 2016| user = cristianomcruz| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito https://t.co/Mf5GRXXh4N
+date = Sun Apr 10 01:07:32 +0000 2016| user = Bruno_FlaClones| text = RT @aarrio2016: Jogos de hoje no pre olímpico de handebol masculino. Quem vencer de Din x Nor tá na @Rio2016 https://t.co/UYLRNIhBgX
+date = Sun Apr 10 01:07:30 +0000 2016| user = Bruno_FlaClones| text = RT @aarrio2016: Mais jogos de hoje. Se Polônia e Suécia vencerem estão na @Rio2016 https://t.co/hVupIJGmcE
+date = Sun Apr 10 01:07:25 +0000 2016| user = Bruno_FlaClones| text = RT @aarrio2016: Tunísia e Suécia classificadas para a @Rio2016 no Handebol Masculino pelo pré olímpico
+date = Sun Apr 10 01:07:17 +0000 2016| user = Bruno_FlaClones| text = RT @aarrio2016: O sorteio dos grupos para a Handebol Olímpico será no dia 29/04. #Rio2016 #gorio2016
+date = Sun Apr 10 01:06:57 +0000 2016| user = EllenBittenc| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito https://t.co/stAbbOMGoE
+date = Sun Apr 10 01:00:28 +0000 2016| user = AlbertoSanttos| text = RT @SurtoOlimpico: .@giovanegavio vai ser o primeiro brasileiro no Revezamento da Tocha do @Rio2016 https://t.co/3aHeQzH2IZ https://t.co/rU…
+date = Sun Apr 10 00:57:26 +0000 2016| user = lbetamoraes| text = RT @moraesluciano: #BetaLab Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madru... https:…
+date = Sun Apr 10 00:56:13 +0000 2016| user = zezo_mendes| text = Imagina o prazo do superfaturamento. https://t.co/G2sj75DX5O
+date = Sun Apr 10 00:56:07 +0000 2016| user = rumplealencar| text = RT @jotapeah: #jpalencarbeta Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na... https://t.c…
+date = Sun Apr 10 00:55:41 +0000 2016| user = fatimaalencar58| text = RT @jotapeah: #jpalencarbeta Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na... https://t.c…
+date = Sun Apr 10 00:55:29 +0000 2016| user = smay_w| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Sun Apr 10 00:54:22 +0000 2016| user = aravisalencar| text = RT @jotapeah: #jpalencarbeta Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na... https://t.c…
+date = Sun Apr 10 00:50:35 +0000 2016| user = RioBusOficial| text = RT @InformeRJO: Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t…
+date = Sun Apr 10 00:50:35 +0000 2016| user = InformeRJO| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/gl8SoT1VrK
+date = Sun Apr 10 00:50:32 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito https://t.co/nkM5ZnUdjP
+date = Sun Apr 10 00:50:31 +0000 2016| user = DesertEagleRJ| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/djDLs2LKUP
+date = Sun Apr 10 00:50:30 +0000 2016| user = SindicoDoRio| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/JmtkYSWXIR
+date = Sun Apr 10 00:50:29 +0000 2016| user = Bruno_Vida| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/avn5qdfjEj
+date = Sun Apr 10 00:50:26 +0000 2016| user = Rio_Acontece| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/dDQUNsP2PD
+date = Sun Apr 10 00:50:25 +0000 2016| user = Noticias_Rio| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/HuZLKgsJgj
+date = Sun Apr 10 00:50:23 +0000 2016| user = viviane9655| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/sUQW7tjEwu
+date = Sun Apr 10 00:50:22 +0000 2016| user = juliamarine9| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/NoyTJgtmB5
+date = Sun Apr 10 00:50:20 +0000 2016| user = Ferrei17Matilde| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/UfDOGmEO35
+date = Sun Apr 10 00:50:17 +0000 2016| user = marcia_f3rreira| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/XCnnEztr3g
+date = Sun Apr 10 00:50:16 +0000 2016| user = jonatarn19| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/zba1Htp5RZ
+date = Sun Apr 10 00:50:15 +0000 2016| user = CarlaLouysse| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/SmOqF63g2E
+date = Sun Apr 10 00:50:14 +0000 2016| user = dani3lly| text = Evento-teste de maratona interdita vias do Rio; veja esquema de trânsito: Alterações começam na madrugada de s... https://t.co/in4S6AyEK8

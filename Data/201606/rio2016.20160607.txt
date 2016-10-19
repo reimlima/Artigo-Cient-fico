@@ -1,0 +1,238 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Tue Jun 07 03:05:56 +0000 2016| user = levmorfeojd| text = RT @ACC_Castillo: ¡Estamos adentro! ¡histórico! #México clasificado a #JO #Río2016 #SomosMéxico https://t.co/VNZ4Boa1BY
+date = Tue Jun 07 03:04:42 +0000 2016| user = Sergio75Couto| text = RT @Rio2016: Celebração lotada em Mossoró para a chegada da @ChamaOlimpica! https://t.co/qqp8FuTzJ5
+date = Tue Jun 07 03:04:03 +0000 2016| user = vilecca| text = RT @anapaularenault: 🔥🇧🇷O Snap oficial Rio2016 vai divulgar tudo ao vivo! Mais infos na @Brasil2016! 👻Snap Rio2016 E tbm nas minhas redes h…
+date = Tue Jun 07 03:00:01 +0000 2016| user = ediartstattoo| text = A música do #projota na #sportv em homenagem aos atletas que vão participar das #olimPiadas #Rio2016 #3fs #top #ficofoda
+date = Tue Jun 07 02:58:14 +0000 2016| user = marcialoft| text = RT @nicsonolivier12: bateu o recorde da ciclovia!!! 
+VLT saiu dos trilhos no 1° dia de uso próximo ao Aeroporto Santos Dumont
+#Rio2016 http…
+date = Tue Jun 07 02:57:09 +0000 2016| user = GabrielleTwiit| text = RT @SamsungMobileBR: O @pecesiqueira não é nenhum arqueiro, mas ele vai para os Jogos Olímpicos. https://t.co/pX10oL8c8k https://t.co/lGF7t…
+date = Tue Jun 07 02:56:59 +0000 2016| user = Ruuuuuiz| text = RT @SamsungMobileBR: O @pecesiqueira não é nenhum arqueiro, mas ele vai para os Jogos Olímpicos. https://t.co/pX10oL8c8k https://t.co/lGF7t…
+date = Tue Jun 07 02:55:30 +0000 2016| user = proprialis| text = RT @Brasil2016: Esse é o espírito olímpico do #TourDaTocha! Tamo junto também pra torcer pelos nossos atletas nos Jogos @Rio2016 💚💛💙 https:…
+date = Tue Jun 07 02:55:09 +0000 2016| user = NidaLira| text = Da alegria que a música nos proporciona! 🎶🎵🎤
+
+#rio2016 #passagemdatocha #celebration… https://t.co/RGBofGVQCJ
+date = Tue Jun 07 02:52:34 +0000 2016| user = erika_renault| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 02:52:28 +0000 2016| user = erika_renault| text = RT @Brasil2016: Vamos mostrar a nossa força no @Rio2016, e contigo, o sucesso do #TourDaTocha vai ser ainda maior em Fortaleza! 😃😃❤️ https:…
+date = Tue Jun 07 02:52:23 +0000 2016| user = marcobonito| text = Unipampeiros já saiu! https://t.co/xuZDgFMyBO Graças a @vagasvagas @AnasVeiga @Cairo_Antonio24 #papoinformivoro #rio2016
+date = Tue Jun 07 02:52:07 +0000 2016| user = DALLASTAIKER| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:50:51 +0000 2016| user = LuisSpasiuk| text = RT @perez_santiago: #BRASILcorresponsal
+VLT (Veículo Leve Sobre Trilhos) es inaugurado en Rio, forma parte del legado de #JJOO #Rio2016. ht…
+date = Tue Jun 07 02:50:05 +0000 2016| user = erika_renault| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:49:20 +0000 2016| user = lemes_laurinha| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:45:51 +0000 2016| user = proprialis| text = RT @anapaularenault: 🔥🇧🇷O Snap oficial Rio2016 vai divulgar tudo ao vivo! Mais infos na @Brasil2016! 👻Snap Rio2016 E tbm nas minhas redes h…
+date = Tue Jun 07 02:45:30 +0000 2016| user = proprialis| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 02:45:04 +0000 2016| user = proprialis| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:40:33 +0000 2016| user = vmcarneiro| text = RT @radiobandnewsfm: O jogador de basquete americano Stephen #Curry, estrela do @warriors da NBA, confirma que está fora da @Rio2016. https…
+date = Tue Jun 07 02:38:19 +0000 2016| user = Elaine09Santos| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:38:05 +0000 2016| user = OrigenysMartins| text = Momento único. #tochaolimpica #revezamentomossoró #rio2016… https://t.co/QgjmY1AP6Y
+date = Tue Jun 07 02:36:13 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 https://t.co/BRXZILW0Yj
+CBF quer que Rosengard antecipe liberação de Marta para Rio-2016
+Torcedo… https://t.co/b9xQaBG0CS
+date = Tue Jun 07 02:36:11 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Jornal O Globo
+Curry confirma que não participará da Rio-2016 para curar lesões
+Jornal O Globo
+… https://t.co/PTZL2Dx3pW
+date = Tue Jun 07 02:36:09 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Após denúncia de assédio, Rio-2016 DESCONVIDA Biel do ...
+Brasil Post
+O Comitê organizador das … https://t.co/3XKmc9AizZ
+date = Tue Jun 07 02:36:08 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 R7
+Astro da NBA, Stephen Curry está fora da Rio 2016
+R7
+Stephen Curry está fora dos Jogos Olímp… https://t.co/aFWrSJahvX
+date = Tue Jun 07 02:34:19 +0000 2016| user = alexpussieldi| text = Atualizando as instalações olímpicas, faltando 2 meses, quase tudo pronto. https://t.co/0QuNjhwwaB #rio2016
+date = Tue Jun 07 02:32:58 +0000 2016| user = apgoiabada| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:32:12 +0000 2016| user = apgoiabada| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 02:31:24 +0000 2016| user = apgoiabada| text = RT @anapaularenault: 🔥🇧🇷O Snap oficial Rio2016 vai divulgar tudo ao vivo! Mais infos na @Brasil2016! 👻Snap Rio2016 E tbm nas minhas redes h…
+date = Tue Jun 07 02:31:19 +0000 2016| user = bbb16verdades| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:31:03 +0000 2016| user = bbb16verdades| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 02:30:42 +0000 2016| user = martinchab1997| text = RT @Rio2016: Alice Leite é ciclista de velocidade, já ganhou prêmios e é promessa do esporte para Tóquio 2020. #ChamaOlimpica https://t.co/…
+date = Tue Jun 07 02:30:13 +0000 2016| user = bbb16verdades| text = RT @anapaularenault: 🔥🇧🇷O Snap oficial Rio2016 vai divulgar tudo ao vivo! Mais infos na @Brasil2016! 👻Snap Rio2016 E tbm nas minhas redes h…
+date = Tue Jun 07 02:24:13 +0000 2016| user = meuvicionjrr| text = RT @OGlobo_Esportes: Stephen Curry, do Golden State Warriors, confirma que não participará da Olimpíada #Rio2016 https://t.co/pnsWkO3wT9 ht…
+date = Tue Jun 07 02:23:35 +0000 2016| user = fernandafarani| text = Vai ter mulher empoderada sim!! @Rio2016 #Rio2016 @ThinkOlga ❤ https://t.co/kPshotnLWZ
+date = Tue Jun 07 02:21:44 +0000 2016| user = azvdo| text = #VLT
+em 2012, prometido 100% p/ #Rio2016 #mentira 
+ficará p/ 2017
+inaug d araque
+só 3 horas/dia e com BATEDORES!
+https://t.co/f5sEr9AW5h
+date = Tue Jun 07 02:21:08 +0000 2016| user = LilianaSnchez9| text = RT @perez_santiago: #BRASILcorresponsal
+VLT (Veículo Leve Sobre Trilhos) es inaugurado en Rio, forma parte del legado de #JJOO #Rio2016. ht…
+date = Tue Jun 07 02:20:37 +0000 2016| user = anawanessa4| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:20:13 +0000 2016| user = JoseanneBonfim| text = @CamyllaRenault @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica Puro luxo esse shipp kkkkkk
+date = Tue Jun 07 02:19:15 +0000 2016| user = martinchab1997| text = RT @Rio2016_en: The festive mood of São João is contagious 🎉 📍 Assu https://t.co/HxMfuHnHp7 https://t.co/K0qMRXyiwe
+date = Tue Jun 07 02:18:56 +0000 2016| user = gaabimazarin| text = RT @Corinthians: De olho no @Rio2016, @leogdeus conquistou a prata nos 200m borboleta, ontem no Arena Pro Swim Series, nos EUA. https://t.c…
+date = Tue Jun 07 02:18:24 +0000 2016| user = martinchab1997| text = RT @Rio2016: Silvana Silveira é professora de ed. física em Assú e recebeu a @Chamaolimpica ao lado da Igreja Matriz. #RumoAoRio https://t.…
+date = Tue Jun 07 02:17:42 +0000 2016| user = EscVolei| text = México se classifica e fica com a última vaga do Rio2016. Entenda! https://t.co/9nvKrAB14b https://t.co/ePYfoKg2sy
+date = Tue Jun 07 02:16:40 +0000 2016| user = Seba_Pereira| text = RT @SurtoOlimpico: Matsumoto e Takahashi convocados para o Tênis de Mesa do @Rio2016 https://t.co/EbUBCHDSIl https://t.co/QMJbQMhHYm
+date = Tue Jun 07 02:15:53 +0000 2016| user = rosanebn| text = RT @cpboficial: Seleção de #Fut5: competência, muita habilidade e simpatia de sobra! &lt;3 #DesafioFut5 #RJ #RumoAoRio @Rio2016
+https://t.co/z…
+date = Tue Jun 07 02:15:35 +0000 2016| user = Claudia73601743| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:15:23 +0000 2016| user = LuizMaia2009| text = RT @portalfab: O Sgt Darlan foi ouro nesta segunda em competição em Praga, na República Checa, com 20,23! E vem aí p a #Rio2016!! https://t…
+date = Tue Jun 07 02:14:12 +0000 2016| user = CamyllaRenault| text = @JoseanneBonfim @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica KKKKK lindo uai
+date = Tue Jun 07 02:13:12 +0000 2016| user = je123barbosa| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:12:45 +0000 2016| user = Seba_Pereira| text = RT @minesporte: Frustração e volta por cima: caminho árduo de @bbr_oliveira até estreia olímpica. https://t.co/3GQrV9uV9u https://t.co/tnRW…
+date = Tue Jun 07 02:12:41 +0000 2016| user = JoseanneBonfim| text = @CamyllaRenault @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica Quuuuuuuuee kkkkkk
+date = Tue Jun 07 02:12:39 +0000 2016| user = andresenapp| text = RT @fernandesmvm: Brasil consegue primeira medalha de ouro nas olimpíadas, antecipadamente. Parabéns @MichelTemer #Rio2016 https://t.co/lcA…
+date = Tue Jun 07 02:11:36 +0000 2016| user = martinchab1997| text = RT @Rio2016: Este é o grupo de teatro do Centro de Convivência e Fortalecimento de Vínculos de Assú, projeto da prefeitura. https://t.co/Oa…
+date = Tue Jun 07 02:11:19 +0000 2016| user = cristia48367813| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:10:15 +0000 2016| user = fabiana88116507| text = RT @portalbrasil: 🔥🎉 Passagem da tocha olímpica marca festa junina de Mossoró https://t.co/DRtYPgucnS @MTurismo #Rio2016
+date = Tue Jun 07 02:09:57 +0000 2016| user = fabiana88116507| text = RT @portalbrasil: ⚽ Seleção de #Fut5 arrasa! #Rio2016  https://t.co/SiJsO0z3qs
+date = Tue Jun 07 02:09:01 +0000 2016| user = RONSILPRO| text = RT @Corinthians: De olho no @Rio2016, @leogdeus conquistou a prata nos 200m borboleta, ontem no Arena Pro Swim Series, nos EUA. https://t.c…
+date = Tue Jun 07 02:08:49 +0000 2016| user = Elaine09Santos| text = RT @mirelando_: @anapaularenault @Brasil2016 @luizaboal @Rio2016 @RedeGlobo Coloquem a Napaula pra cobrir os vestiários masculinos, obrigad…
+date = Tue Jun 07 02:08:18 +0000 2016| user = Seba_Pereira| text = RT @momentsbrasil: Toda segunda, apresentamos um herói olímpico que participará da #Rio2016 &gt; hoje é a vez da @sarahjudoca #Moments⚡ https:…
+date = Tue Jun 07 02:08:12 +0000 2016| user = TelmoMorais| text = Retweeted Corinthians (@Corinthians):
+
+De olho no @Rio2016, @leogdeus conquistou a prata nos 200m borboleta,... https://t.co/AdFcmpZkCH
+date = Tue Jun 07 02:07:28 +0000 2016| user = TelmoMorais| text = RT @Corinthians: De olho no @Rio2016, @leogdeus conquistou a prata nos 200m borboleta, ontem no Arena Pro Swim Series, nos EUA. https://t.c…
+date = Tue Jun 07 02:07:04 +0000 2016| user = FelipeRibeiroPB| text = RT @OGlobo_Esportes: Stephen Curry, do Golden State Warriors, confirma que não participará da Olimpíada #Rio2016 https://t.co/pnsWkO3wT9 ht…
+date = Tue Jun 07 02:06:37 +0000 2016| user = martinchab1997| text = RT @Rio2016: Olha o @ViniciusRio2016 esperando a @ChamaOlimpica na Igreja Matriz São João de Batista de Assú. #RumoAoRio https://t.co/pCLwT…
+date = Tue Jun 07 02:06:24 +0000 2016| user = KevinsendyK| text = RT @Rio2016_en: The festive mood of São João is contagious 🎉 📍 Assu https://t.co/HxMfuHnHp7 https://t.co/K0qMRXyiwe
+date = Tue Jun 07 02:05:49 +0000 2016| user = csfini| text = RT @Cidade_Junina: Chora coração! Dorgival Dantas comanda a festa na Estação das Artes. #RevezamentoMossoró #Rio2016 https://t.co/KOqGSxEoEc
+date = Tue Jun 07 02:05:07 +0000 2016| user = cfredbastos| text = RT @soudoesporte: Tem pedreira no caminho da seleção! Sorteados os grupos do vôlei masculino:https://t.co/3tAbNIcdpU
+#Rio2016 #Vôlei
+date = Tue Jun 07 02:04:10 +0000 2016| user = speakthaix| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:03:44 +0000 2016| user = merciapereira| text = Compartilho mais uma vez esse vídeo pela emoção que o mesmo me causou. (@ChamaOlimpica)
+#TochaOlimpica 
+#Rio2016  https://t.co/COKpYT3wcw
+date = Tue Jun 07 02:03:12 +0000 2016| user = propriaanaa| text = RT @hmmmantipatia: Para amanhã, 🐙!
+• TAG: #AnaPaulaNoTourDaTocha às 12h.
+• SNAPS: 👻 anapaularenault e 👻 Rio2016
+date = Tue Jun 07 02:02:20 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Matsumoto e Takahashi convocados para o Tênis de Mesa do @Rio2016 https://t.co/EbUBCHDSIl https://t.co/QMJbQMhHYm
+date = Tue Jun 07 02:02:14 +0000 2016| user = cfredbastos| text = RT @minesporte: Definidos os grupos do vôlei masculino na primeira fase do #Rio2016 ! https://t.co/o8bE0ep3xW
+date = Tue Jun 07 02:02:01 +0000 2016| user = almeida_tacia| text = RT @Brasil2016: @anapaularenault @luizaboal Falando nisso hoje foram definidos os grupos do vôlei nos Jogos @Rio2016, olha só! 🇧🇷 https://t…
+date = Tue Jun 07 02:01:37 +0000 2016| user = Elaine09Santos| text = RT @Brasil2016: @anapaularenault @luizaboal Falando nisso hoje foram definidos os grupos do vôlei nos Jogos @Rio2016, olha só! 🇧🇷 https://t…
+date = Tue Jun 07 02:01:25 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...definidos os grupos do vôlei masculino para o @Rio2016 https://t.co/7FfpsIQN6Z https://t.co/FvpL9Hc…
+date = Tue Jun 07 02:00:26 +0000 2016| user = inLoveJuPaiva| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 02:00:09 +0000 2016| user = roomaanaa_| text = RT @JogosOlimpicos: Faltam 60 dias para o sprint final rumo aos Jogos @Rio2016! 🏃⚡ #RumoAoRio https://t.co/gDiv8bMmUp
+date = Tue Jun 07 02:00:08 +0000 2016| user = whorenault| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 02:00:05 +0000 2016| user = walkingonzain| text = @gvbre mas eles chamaram um monte de ex atleta e aparecem direto no snap do rio2016, o problema é que eles têm influência
+date = Tue Jun 07 02:00:02 +0000 2016| user = Hi_Tacia| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:59:57 +0000 2016| user = roomaanaa_| text = RT @Brasil2016: #EuSoQueriaQue 5 de agosto chegasse logo! Faltam 60 dias pros @JogosOlimpicos @Rio2016! #RumoAoRio https://t.co/ylpOCIQlAd
+date = Tue Jun 07 01:59:42 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: Destaques do Surto...definidos os grupos do vôlei masculino para o @Rio2016 https://t.co/7FfpsIQN6Z https://t.co/FvpL9Hc…
+date = Tue Jun 07 01:59:22 +0000 2016| user = gilgamesmelo| text = Mossoró - 🔥🎉 Passagem da tocha olímpica marca festa junina de Mossoró com o forrozeiro @dorgivaldantas1 #Rio2016 https://t.co/VBXpllZIqW
+date = Tue Jun 07 01:58:36 +0000 2016| user = SurtoOlimpico| text = Matsumoto e Takahashi convocados para o Tênis de Mesa do @Rio2016 https://t.co/EbUBCHDSIl https://t.co/QMJbQMhHYm
+date = Tue Jun 07 01:57:29 +0000 2016| user = Ricardo1cr| text = @anapaularenault @Brasil2016 @ChamaOlimpica @Rio2016 @JogosOlimpicos Ana vai tranquila amanhã,vai dar tudo certo tamo junto
+date = Tue Jun 07 01:57:13 +0000 2016| user = ciro_win| text = Gaiola do CT subindo #rio2016 https://t.co/OR405ZZ7Ma
+date = Tue Jun 07 01:56:12 +0000 2016| user = fernandas73| text = RT @CBF_Futebol: Bruna e Érika serão titulares contra o Canadá no amistoso desta terça: https://t.co/37a3CPiO7y #SeleçãoFeminina #Preparaçã…
+date = Tue Jun 07 01:55:55 +0000 2016| user = gilgamesmelo| text = RT @Cidade_Junina: Artistas locais fizeram a festa da galera através do projeto São João da Terra. #RevezamentoMossoró #Rio2016 https://t.c…
+date = Tue Jun 07 01:55:15 +0000 2016| user = Elaine09Santos| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 01:54:58 +0000 2016| user = KikiBrandao| text = E viva a engenharia na #CidadeMaravilhosa #Rio2016  https://t.co/HimZAYGfwu
+date = Tue Jun 07 01:54:23 +0000 2016| user = goiabadanapaula| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 01:52:28 +0000 2016| user = Rodrigo_Justo15| text = RT @alexpussieldi: Austrália confirmada 4x100 livre masc  #Rio2016 convocação de + 3: James Roberts, James Magnussen, Matt Abood. https://t…
+date = Tue Jun 07 01:51:43 +0000 2016| user = goiabadanapaula| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:50:30 +0000 2016| user = LoryyMaravilha| text = RT @anapaularenault: 🔥🇧🇷O Snap oficial Rio2016 vai divulgar tudo ao vivo! Mais infos na @Brasil2016! 👻Snap Rio2016 E tbm nas minhas redes h…
+date = Tue Jun 07 01:49:43 +0000 2016| user = hillsongueria| text = RT @hmmmantipatia: Para amanhã, 🐙!
+• TAG/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+: #AnaPaulaNoTourDaTocha às 12h.
+• SNAPS: 👻 anapaularenault e 👻 Rio2016
+date = Tue Jun 07 01:49:21 +0000 2016| user = scintia5401| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:48:59 +0000 2016| user = LoryyMaravilha| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 01:48:29 +0000 2016| user = CarollinaRosa| text = RT @nicsonolivier12: bateu o recorde da ciclovia!!! 
+VLT saiu dos trilhos no 1° dia de uso próximo ao Aeroporto Santos Dumont
+#Rio2016 http…
+date = Tue Jun 07 01:48:06 +0000 2016| user = alexpussieldi| text = Austrália confirmada 4x100 livre masc  #Rio2016 convocação de + 3: James Roberts, James Magnussen, Matt Abood. https://t.co/dLpqYmgdft
+date = Tue Jun 07 01:47:44 +0000 2016| user = gilgamesmelo| text = RT @Cidade_Junina: Chora coração! Dorgival Dantas comanda a festa na Estação das Artes. #RevezamentoMossoró #Rio2016 https://t.co/KOqGSxEoEc
+date = Tue Jun 07 01:47:28 +0000 2016| user = PbEveline| text = RT @Brasil2016: Vamos mostrar a nossa força no @Rio2016, e contigo, o sucesso do #TourDaTocha vai ser ainda maior em Fortaleza! 😃😃❤️ https:…
+date = Tue Jun 07 01:47:26 +0000 2016| user = CassiniLeandro| text = @Voley631 @Rio2016 Velasco? Pincharrata!!!
+date = Tue Jun 07 01:47:03 +0000 2016| user = celiciasantos2| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos vai Brasil! ! Vai meu Brasil!! 👏👏👏👏
+date = Tue Jun 07 01:46:50 +0000 2016| user = _gellykaleal| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:46:47 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...definidos os grupos do vôlei masculino para o @Rio2016 https://t.co/7FfpsIQN6Z https://t.co/FvpL9Hc3iG
+date = Tue Jun 07 01:46:13 +0000 2016| user = _SaRenault| text = @anneagpp @renaut_popozuda @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica Já estou indo!
+date = Tue Jun 07 01:45:56 +0000 2016| user = SorrisoAnaP| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 01:45:33 +0000 2016| user = Andre_Ayell| text = Ainda sobre #VLT #Rio2016 #Olimpics #Olimpíadas no Rio de Janeiro... https://t.co/7Pf2fmq1y8
+date = Tue Jun 07 01:45:24 +0000 2016| user = _SaRenault| text = @anneagpp @renaut_popozuda @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica MDS estou perdendo! Quero participar
+date = Tue Jun 07 01:45:22 +0000 2016| user = APRENAULT10| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:45:07 +0000 2016| user = parrillacute| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:44:56 +0000 2016| user = Elaine09Santos| text = RT @hmmmantipatia: Para amanhã, 🐙!
+• TAG: #AnaPaulaNoTourDaTocha às 12h.
+• SNAPS: 👻 anapaularenault e 👻 Rio2016
+date = Tue Jun 07 01:44:51 +0000 2016| user = _SaRenault| text = @anneagpp @renaut_popozuda @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica socorro o q vcs estão aprontando? Quero 😁
+date = Tue Jun 07 01:44:15 +0000 2016| user = Elaine09Santos| text = RT @Brasil2016: Vamos mostrar a nossa força no @Rio2016, e contigo, o sucesso do #TourDaTocha vai ser ainda maior em Fortaleza! 😃😃❤️ https:…
+date = Tue Jun 07 01:43:52 +0000 2016| user = APqueen_| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:43:33 +0000 2016| user = hillsongueria| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:43:27 +0000 2016| user = prefmossoro| text = RT @Cidade_Junina: Chora coração! Dorgival Dantas comanda a festa na Estação das Artes. #RevezamentoMossoró #Rio2016 https://t.co/KOqGSxEoEc
+date = Tue Jun 07 01:42:40 +0000 2016| user = Elaine09Santos| text = RT @hmmmantipatia: Todo mundo viu que a Ana Paula divulgou o snap oficial pra acompanhar amanhã, né? Além do dela, é claro. 👻 Rio2016 e 👻 a…
+date = Tue Jun 07 01:42:29 +0000 2016| user = _SaRenault| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:41:27 +0000 2016| user = MaJuliaaaa| text = @anapaularenault @Brasil2016 @luizaboal @Rio2016 só pedreira NaPaula socorroooooooooo
+date = Tue Jun 07 01:41:15 +0000 2016| user = YasminChales| text = #MeuLugarNoRio #Rio2016 #TochaOlimpica #Team @ Comitê Organizador dos Jogos Olímpicos e… https://t.co/LD2rTW3ZCV
+date = Tue Jun 07 01:41:15 +0000 2016| user = Cidade_Junina| text = Chora coração! Dorgival Dantas comanda a festa na Estação das Artes. #RevezamentoMossoró #Rio2016 https://t.co/KOqGSxEoEc
+date = Tue Jun 07 01:41:10 +0000 2016| user = AnaticosR| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:41:07 +0000 2016| user = Mteresacarvalho| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:41:01 +0000 2016| user = RGoodrem| text = RT @hmmmantipatia: Para amanhã, 🐙!
+• TAG: #AnaPaulaNoTourDaTocha às 12h.
+• SNAPS: 👻 anapaularenault e 👻 Rio2016
+date = Tue Jun 07 01:40:56 +0000 2016| user = JuntoJj| text = Snap @Rio2016 já adicionado, agora é ir dormir pra amanhar ver @anapaularenault e @ChamaOlimpica brilhar mais do que nunca. @JogosOlimpicos
+date = Tue Jun 07 01:40:49 +0000 2016| user = horanwingzs| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:40:39 +0000 2016| user = mariahmagalhes1| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @renaut_popozuda @ChamaOlimpica Hahahahahahaha a pessoa está muito empolgada. 😍👏👏👏👏👏👏
+date = Tue Jun 07 01:40:31 +0000 2016| user = marlatuita| text = RT @Brasil2016: Vamos mostrar a nossa força no @Rio2016, e contigo, o sucesso do #TourDaTocha vai ser ainda maior em Fortaleza! 😃😃❤️ https:…
+date = Tue Jun 07 01:40:15 +0000 2016| user = CamyllaRenault| text = @JoseanneBonfim @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica É ChAna gente. Rsrsrs
+date = Tue Jun 07 01:40:03 +0000 2016| user = Ivete_aline| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:39:58 +0000 2016| user = whorenault| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:39:31 +0000 2016| user = OusadiaReal| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos  Lindo de viver!! 👏👏👏
+date = Tue Jun 07 01:39:10 +0000 2016| user = larissaarenault| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:39:07 +0000 2016| user = JoseanneBonfim| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica Como ficaria o shipper Ana Paula+Chama? Ce shippa ? Eu shippo muito 😂❤
+date = Tue Jun 07 01:38:54 +0000 2016| user = bressangabriell| text = Vaaai Brasil @Rio2016 @anapaularenault @ChamaOlimpica hahaha
+date = Tue Jun 07 01:38:44 +0000 2016| user = KaioFer47889239| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:38:39 +0000 2016| user = AladdinSane80| text = @AnnaCelico ,aqui:https://t.co/X21WYHk7Sv
+date = Tue Jun 07 01:38:26 +0000 2016| user = bressangabriell| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:37:36 +0000 2016| user = AnaticosR| text = @anapaularenault @Brasil2016 @ChamaOlimpica @Rio2016 @JogosOlimpicos ansiosa pra ver esse revezamento fã #ChamaOlimpica amanhã!!! 😍😍😍😍😍
+date = Tue Jun 07 01:37:35 +0000 2016| user = ThayLorrana1| text = RT @Brasil2016: Esse é o espírito olímpico do #TourDaTocha! Tamo junto também pra torcer pelos nossos atletas nos Jogos @Rio2016 💚💛💙 https:…
+date = Tue Jun 07 01:37:19 +0000 2016| user = arysccp| text = RT @Corinthians: De olho no @Rio2016, @leogdeus conquistou a prata nos 200m borboleta, ontem no Arena Pro Swim Series, nos EUA. https://t.c…
+date = Tue Jun 07 01:37:10 +0000 2016| user = roseliatms| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:37:06 +0000 2016| user = amoanapaula_| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:36:40 +0000 2016| user = renaut_popozuda| text = @anneagpp @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica Napaula pro mundo ❤️
+date = Tue Jun 07 01:36:16 +0000 2016| user = gaabisccp_| text = RT @Corinthians: De olho no @Rio2016, @leogdeus conquistou a prata nos 200m borboleta, ontem no Arena Pro Swim Series, nos EUA. https://t.c…
+date = Tue Jun 07 01:35:49 +0000 2016| user = amigataz| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:35:35 +0000 2016| user = alinebarrosdel2| text = @Rio2016 @ChamaOlimpica  passare  é perto do catelao
+date = Tue Jun 07 01:35:08 +0000 2016| user = GEROANNIKBBB16| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:35:04 +0000 2016| user = liceformiga| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:35:04 +0000 2016| user = little1talks| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:35:03 +0000 2016| user = renaut_popozuda| text = @anneagpp @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica Grupo LAH bombando! E terá surpresa pras olimpíadas! ❤️
+date = Tue Jun 07 01:34:58 +0000 2016| user = SraFranFerreira| text = @anapaularenault @Giirenault @Brasil2016 @ChamaOlimpica @Rio2016  hahahaha Napaula do céu... olha pra frente por favor, ñ se distraia😂😂
+date = Tue Jun 07 01:34:56 +0000 2016| user = CamyllaRenault| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos Cadê o uniforme pra carregar a tocha? Já recebeu?
+date = Tue Jun 07 01:34:50 +0000 2016| user = rosanamarinho13| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:34:42 +0000 2016| user = PbEveline| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:34:32 +0000 2016| user = erikinhatti| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:34:28 +0000 2016| user = ThayLorrana1| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 01:34:23 +0000 2016| user = QrodriguesAline| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:33:54 +0000 2016| user = _tiamonica| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:33:53 +0000 2016| user = AnaPaulaRenaul1| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 01:33:49 +0000 2016| user = UaiIgor| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:33:49 +0000 2016| user = skyandstarhi| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:33:42 +0000 2016| user = AnaPaulaRenaul1| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:33:36 +0000 2016| user = alinebarrosdel2| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos  @ChamaOlimpica Ana você vai poder tirar foto com a gente depois @anapaularenault
+date = Tue Jun 07 01:33:35 +0000 2016| user = Nataliicee| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:33:33 +0000 2016| user = juliaffp| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:33:29 +0000 2016| user = renaut_popozuda| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:33:23 +0000 2016| user = ThayLorrana1| text = RT @anapaularenault: 🔥🇧🇷O Snap oficial Rio2016 vai divulgar tudo ao vivo! Mais infos na @Brasil2016! 👻Snap Rio2016 E tbm nas minhas redes h…
+date = Tue Jun 07 01:33:21 +0000 2016| user = rio2016b| text = PSG release Marquinhos for Rio 2016 #rio2016 #bee https://t.co/L1IpZIGufp
+date = Tue Jun 07 01:33:03 +0000 2016| user = _yasmimartineli| text = RT @Brasil2016: @anapaularenault @luizaboal Falando nisso hoje foram definidos os grupos do vôlei nos Jogos @Rio2016, olha só! 🇧🇷 https://t…
+date = Tue Jun 07 01:32:59 +0000 2016| user = httplovatz| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:32:45 +0000 2016| user = EnaiarRenault| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:32:42 +0000 2016| user = lari_renault| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @renaut_popozuda @ChamaOlimpica  vai Brasil! ! Vamos meu Brasil!! 👏👏👏👏
+date = Tue Jun 07 01:32:40 +0000 2016| user = prefmossoro| text = RT @Cidade_Junina: Artistas locais fizeram a festa da galera através do projeto São João da Terra. #RevezamentoMossoró #Rio2016 https://t.c…
+date = Tue Jun 07 01:32:39 +0000 2016| user = _geizalima| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:32:33 +0000 2016| user = hmmmantipatia| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:32:26 +0000 2016| user = INConnectedA| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:32:25 +0000 2016| user = DeixaArde1| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:32:18 +0000 2016| user = bia_renault| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @renaut_popozuda @ChamaOlimpica liiiindo, dele Brasil 🙏😍
+date = Tue Jun 07 01:32:10 +0000 2016| user = bbbjoaovitor| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos te amo ana paula
+date = Tue Jun 07 01:32:09 +0000 2016| user = RenaultNaPaula| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:32:07 +0000 2016| user = Ricardo1cr| text = @Regina_DelaCruz @anapaularenault @Brasil2016 @luizaboal @Rio2016 bora 🐙 acompanhar e torcer mto pelo Brasil
+date = Tue Jun 07 01:32:01 +0000 2016| user = Gabi_Renault_02| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:31:59 +0000 2016| user = apegodaAninha| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:31:55 +0000 2016| user = leandrobenett| text = @anapaularenault @Brasil2016 @Rio2016 @JogosOlimpicos @renaut_popozuda @ChamaOlimpica amoooo de mais
+date = Tue Jun 07 01:31:52 +0000 2016| user = TayanneRenault| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:31:49 +0000 2016| user = Is2Novela| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:31:48 +0000 2016| user = meuamorpelanap| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:31:48 +0000 2016| user = ericaLIMAp| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:31:43 +0000 2016| user = kaueemanoel| text = RT @anapaularenault: De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  http…
+date = Tue Jun 07 01:31:37 +0000 2016| user = anapaularenault| text = De tirar o fôlego!!! Bravoooooooo!!! 👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻 🇧🇷Vai Brasil!!!🇧🇷 @Brasil2016 @Rio2016 @JogosOlimpicos  https://t.co/770SU99yYD
+date = Tue Jun 07 01:31:36 +0000 2016| user = hillsongueria| text = RT @anapaularenault: ✨@Brasil2016 @Rio2016 @JogosOlimpicos @ChamaOlimpica @minesporte TámoJunto para fazer desses Jogos um sucesso!🇧🇷👊🏻🙏🏻 h…
+date = Tue Jun 07 01:31:26 +0000 2016| user = apegodaAninha| text = RT @anapaularenault: 🔥🇧🇷O Snap oficial Rio2016 vai divulgar tudo ao vivo! Mais infos na @Brasil2016! 👻Snap Rio2016 E tbm nas minhas redes h…
+date = Tue Jun 07 01:31:12 +0000 2016| user = FrancinaldoRafa| text = RT @Cidade_Junina: Artistas locais fizeram a festa da galera através do projeto São João da Terra. #RevezamentoMossoró #Rio2016 https://t.c…

@@ -1,0 +1,555 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Thu Jul 07 03:09:50 +0000 2016| user = Nandacol| text = RT @jornalodia: Carro da Força Nacional que fará segurança na#Rio2016 é atingido por tiro na Av. Brasil LEIA https://t.co/QuRf301lWQ https:…
+date = Thu Jul 07 03:09:43 +0000 2016| user = cfredbastos| text = RT @timebrasil: Está pronto para torcer? Faltam 30 dias para os Jogos Olímpicos @Rio2016! https://t.co/ZTQE8IWQOM
+date = Thu Jul 07 03:09:40 +0000 2016| user = AlvesPauloP| text = Embora ela ter ficado com Zhu e Zhang em Pequim mostra que ela vai mesmo investir nas duas para ponteiras no #Rio2016 Zhu já era óbvio claro
+date = Thu Jul 07 03:07:48 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Faltam 30 Dias pros Jogos @Rio2016 e pra torcermos todos juntos pela @laiswrestling, da luta olímpica! #RumoAoRio https://t…
+date = Thu Jul 07 03:07:05 +0000 2016| user = rayane_guedes| text = Na Linha Vermelha, dá para sentir o fedor da Baía de Guanabara dentro do ônibus com as janelas fechadas. #Rio2016 #riodejaneiro #Olympics
+date = Thu Jul 07 03:07:02 +0000 2016| user = JohnnySette| text = #BomDia faltam 26 dias para o #TransNações #GodBless #Rio2016 #OnlyJesusSaves #SóJesusSalva #MissõesNaPrática #JUBAN #Betelinos #RoadToRio
+date = Thu Jul 07 03:06:26 +0000 2016| user = cfredbastos| text = RT @Rio2016: Quer saber como chegar às arenas, o que levar e outras informações?Confira o Guia dos Jogos: https://t.co/sBYjSeQJfR https://t…
+date = Thu Jul 07 03:06:13 +0000 2016| user = zidruxXx| text = 29 dias pras Olimpíadas
+#Rio2016 #29days
+date = Thu Jul 07 03:05:53 +0000 2016| user = EduardoLurnel| text = A Saideira e a Conta Herald já saiu! https://t.co/SvSdxklQYw Graças a @lzanin #rio2016 #pt
+date = Thu Jul 07 03:05:50 +0000 2016| user = bagoitas| text = RT @OnceNoticiasTV: Michel Temer asegura que Brasil está listo para #Río2016 https://t.co/4uIJZvmy5W https://t.co/Ivq9tMU8gD
+date = Thu Jul 07 03:04:42 +0000 2016| user = sauloaguiar_s| text = RT @InfoNostalgia: "@fecastanhari e @t3ddyyyy #SeAchandoComA #TochaOlímpica #Rio2016!🔥#IssoÉOuro #DeCaronaComATocha" Urso via IG. https://t…
+date = Thu Jul 07 03:04:25 +0000 2016| user = sauloaguiar_s| text = RT @CocaCola_Br: .@FeCastanhari e @t3ddyyyyy piraram na #TochaOlímpica #Rio2016 #IssoÉOuro #DeCaronaComATocha https://t.co/LppFH63Voz https…
+date = Thu Jul 07 03:04:24 +0000 2016| user = cfredbastos| text = RT @SeuEsporteBR: Olha aí pessoal!!!
+Uniformes dos nossos atletas nas Cerimônias de Abertura e Encerramento na #Rio2016 #RumoAoRio https://…
+date = Thu Jul 07 03:04:19 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: e habemus uniformes da delegação do @timebrasil para a Abertura do @Rio2016. O que acharam? https://t.co/L8tkc8ZzL3
+date = Thu Jul 07 03:04:10 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 Definida a lista de atletas dos saltos ornamentais nos Jogos ... Rio 2016 Estão… https://t.co/rhCmvqynQV
+date = Thu Jul 07 03:02:50 +0000 2016| user = CostaSCI1909| text = Muito show o revezamento da tocha aqui em Pelotas !!
+#ISSOÉOURO #RIO2016 #TochaPeloRS
+date = Thu Jul 07 03:02:37 +0000 2016| user = freire_leo| text = Momentos extremamente marcantes são comemorados assim. #Olympics #Rio2016 #cycling #waytorio… https://t.co/iHrsCn5qIc
+date = Thu Jul 07 03:01:10 +0000 2016| user = _hudsonQ| text = 00:00h 29 dias #Rio2016
+date = Thu Jul 07 03:01:03 +0000 2016| user = thatafjv1| text = RT @Dejesusoficial9: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. Vamos juntos, venham torcer juntos!🏅⚽ @Brasil2016 https://t.co/Y…
+date = Thu Jul 07 03:00:16 +0000 2016| user = isitaymeme| text = #Rio2016 Música-tema dos Jogos Olímpicos Rio 2016: Alma e Coração - Thiaguinho e ... https://t.co/KmN6PwTRbO vía @YouTube
+date = Thu Jul 07 02:58:38 +0000 2016| user = LobeAquino2021| text = RT @BancoCentralBR: A #TochaOlímpica é a estrela da nossa #moedadodia e falta só 1 mês para ela brilhar na abertura do Jogos #Rio2016! http…
+date = Thu Jul 07 02:57:40 +0000 2016| user = La_pequis| text = RT @OnceNoticiasTV: Michel Temer asegura que Brasil está listo para #Río2016 https://t.co/4uIJZvmy5W https://t.co/Ivq9tMU8gD
+date = Thu Jul 07 02:57:22 +0000 2016| user = abraaosays| text = Lanzini convocado pra seleção argentina q virá disputar a #Rio2016 ...provavelmente vai brilhar junto com o Vietto, atacante.
+date = Thu Jul 07 02:56:29 +0000 2016| user = OiMathy| text = Conhecem algum voluntário do #Rio2016 ??? Estou alugando uma vaga no meu apê aqui em Copa! Se souberem de alguém, me gritem! Tnks 👊🏼😉
+date = Thu Jul 07 02:55:14 +0000 2016| user = _chorena| text = Vocês não fazem ideia da importância disso pra mim. DANÇAR É VIDA 💃🏽❤️ #Rio2016 #DeborahColker https://t.co/wxdZVyBLTx
+date = Thu Jul 07 02:49:57 +0000 2016| user = Mottacwb| text = RT @Rio2016: 1 mês para o Rio abrir as suas portas para #UmMundoNovo #Falta1Mês https://t.co/WbGRKWgoDn
+date = Thu Jul 07 02:48:29 +0000 2016| user = crisoliver07| text = RT @LeiSecaRJ: Se não respeitam eles rsrs RT @RadarCostaVerde: Força Nacional tem carro baleado em tiroteio na Av. Brasil, no Rio https://t…
+date = Thu Jul 07 02:46:38 +0000 2016| user = Thiagovascot4| text = RT @Brasil2016: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. O @garcialuan93, do @vascodagama, te chama pra torcer junto!🏅⚽ https:…
+date = Thu Jul 07 02:45:51 +0000 2016| user = homodomodestia| text = @Rio2016 deve ser o olho da cara
+date = Thu Jul 07 02:45:37 +0000 2016| user = vitorinobueno| text = @RickSouza será que esse MasterChef duplo não é pra acabar logo e não intrometer no Rio2016?
+date = Thu Jul 07 02:45:06 +0000 2016| user = OnceNoticiasTV| text = Michel Temer asegura que Brasil está listo para #Río2016 https://t.co/4uIJZvmy5W https://t.co/Ivq9tMU8gD
+date = Thu Jul 07 02:44:41 +0000 2016| user = GB00_| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Thu Jul 07 02:44:28 +0000 2016| user = ThiagoRBrandao| text = RT @Rio2016: Navio funciona como hospedagem no Rio 2016 e tem cruzeiros antes e depois dos Jogos: https://t.co/DwdRPiWzQZ https://t.co/XyYD…
+date = Thu Jul 07 02:44:23 +0000 2016| user = kyrlafogaca| text = Adorei o tema do profissão repórter #Rio2016 #Falta1Mes
+date = Thu Jul 07 02:43:21 +0000 2016| user = RudsonKitriedge| text = A que ponto chegamos!!! #CidadeMaravilhosa #Rio2016 #CidadeOlimpica considerada a cidade mais… https://t.co/Uuz3id7SGh
+date = Thu Jul 07 02:43:12 +0000 2016| user = gsmarrara| text = RT @CiscoDoBrasil: Parceria entre a Cisco e o Museu do Amanhã busca incentivar o ecossistema de inovação de IoT https://t.co/Vkeq39ZhHm htt…
+date = Thu Jul 07 02:41:29 +0000 2016| user = eualanoliveira| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Thu Jul 07 02:40:37 +0000 2016| user = bell_lima40| text = RT @iG: Especialista da ONU acha Brasil um "alvo fácil" para terrorismo na Olimpíada. #Rio2016
+
+→ https://t.co/pNKdRsVo4p https://t.co/mru3…
+date = Thu Jul 07 02:40:03 +0000 2016| user = flaviodilascio| text = Senado aprova MP que regulamenta controle antidoping através da ABCD https://t.co/z9WgjEZrmI #Olympics #Rio2016 https://t.co/XaONNOg9ud
+date = Thu Jul 07 02:39:35 +0000 2016| user = trendcb| text = RT @SPFW: A estilista @LennyNiemeyer assina os uniformes da delegação brasileira para as cerimônias dos Jogos @Rio2016! https://t.co/n5Jrk0…
+date = Thu Jul 07 02:37:09 +0000 2016| user = Emersongborges| text = Acharam esse peixe na Baia da Guanabara #rio2016 https://t.co/7jUBdOywat
+date = Thu Jul 07 02:36:44 +0000 2016| user = Strapasson| text = @Brasil2016 @RicardoLeyser @ChamaOlimpica @Rio2016 este aí sou eu, não o Jacondino
+date = Thu Jul 07 02:34:30 +0000 2016| user = robertocamarajr| text = O vídeo da @NBC é sobre as olimpíadas #Rio2016 mas é Salvador que aparece no início (vídeo via @gugachacra )
+https://t.co/KDaGT1rj8A
+date = Thu Jul 07 02:30:14 +0000 2016| user = ttdopedru| text = RT @Rio2016: Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 02:29:53 +0000 2016| user = RaphKnowles| text = RT @momentsbrasil: #Falta1Mes para a @Rio2016 - e o #Moments⚡ te leva para dentro da Vila Olímpica! Tem fotos, vídeos e curiosidades 👇
+http…
+date = Thu Jul 07 02:29:50 +0000 2016| user = Eduvaleu| text = @JogosOlimpicos @Rio2016 Brilhante escolha do comitê olímpico romeno!!!
+date = Thu Jul 07 02:28:19 +0000 2016| user = evellynnxs| text = SÓ UMA DICA DE UMA CARIOCA: SABE O RIO? NÃO VENHA! CANCELE! STOP!! 
+#Rio2016 #RioOlympics
+date = Thu Jul 07 02:27:19 +0000 2016| user = leioeduardo| text = RT @g1: Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/HD8cpxZEOY
+date = Thu Jul 07 02:26:15 +0000 2016| user = mommyfabi| text = #TochaOlimpica #Rio2016 meu amado marido @andriusdionisio será um dos condutores amanhã
+date = Thu Jul 07 02:25:15 +0000 2016| user = FCBoleirinho| text = Minha reação quando dizem que o usainbolt não vem para os Jogos Rio2016... https://t.co/rUdeBLXW1s #foto
+date = Thu Jul 07 02:24:49 +0000 2016| user = Max_Laguna| text = Poste no meio de uma ciclovia, esse é o retrato do #Rio2016 https://t.co/O21YaKqE1W
+date = Thu Jul 07 02:23:59 +0000 2016| user = Dekooandre| text = Aplicativo bom pra que vai pras olimpíadas #Rio2016 https://t.co/Og6uhj1o2W
+date = Thu Jul 07 02:23:48 +0000 2016| user = ttdoj| text = RT @victor_calazans: Ansioso pelas provas de luta greco-romana nas olimpíadas. #Rio2016 https://t.co/qR2PiTeTOq
+date = Thu Jul 07 02:23:20 +0000 2016| user = leandrolopes| text = já que ela nos fez trabalhar até tarde, vai ficar na redação do DP de castigo. #tochaolimpica #atochaDP #rio2016 https://t.co/QUwj6EUSjl
+date = Thu Jul 07 02:23:19 +0000 2016| user = Eduvaleu| text = @noticiascbj @fekitadai @sarahjudoca  @JogosOlimpicos @neywilson Tá anotado! Serão as duas  primeiras medalhas do @timebrasil no @Rio2016
+date = Thu Jul 07 02:23:04 +0000 2016| user = Maria_Claramfl| text = @t3ddyyyyy @Rio2016 "Vai lá pagar mico seu trouxa" e foi exatamente isso que ele fez
+date = Thu Jul 07 02:22:24 +0000 2016| user = wesleymir| text = #Rio2016
+
+Não é Paris, mas não vai faltar luz! https://t.co/VkbegtX32O
+date = Thu Jul 07 02:21:15 +0000 2016| user = jameshardwn| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:20:15 +0000 2016| user = LukinhasStek| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:20:07 +0000 2016| user = SESGE_MJ| text = Já viram o guia dos Jogos #Rio2016?  https://t.co/5Ydx7R3BnB
+date = Thu Jul 07 02:19:42 +0000 2016| user = alnbastos| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:19:30 +0000 2016| user = GilmarCavatti| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:19:21 +0000 2016| user = EduardooTorres| text = RT @Rio2016: Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 02:19:16 +0000 2016| user = RhuanP14| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:18:46 +0000 2016| user = Futebol620AM| text = RT @Rio2016: Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 02:18:45 +0000 2016| user = doutorvalle| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:18:42 +0000 2016| user = DanBass_| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:17:17 +0000 2016| user = peruccicarolina| text = #timerio2016 Tamo junto! Faltam 30 dias!
+#Rio2016 #olimpiadasrio2016
+Vamo que vamo.
+date = Thu Jul 07 02:17:14 +0000 2016| user = MorcegAne| text = RT @TorcidaBrasil2: Olho nos uniformes da nossa delegação na Cerimônia de Abertura.
+Gostaram?
+#Rio2016 #RumoAoRio https://t.co/XlHqqQvrLS
+date = Thu Jul 07 02:16:39 +0000 2016| user = AlvesPhilip10| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:16:37 +0000 2016| user = Chaaves95| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:16:25 +0000 2016| user = AnttonioElias| text = Esp_Interativo: Minha reação quando dizem que o usainbolt não vem para os Jogos Rio2016... https://t.co/9XV3A90Vjr
+date = Thu Jul 07 02:16:22 +0000 2016| user = bbbmeuvicio| text = @Esp_Interativo @usainbolt @Rio2016 Ja é certeza?
+date = Thu Jul 07 02:15:58 +0000 2016| user = rodmooraes| text = RT @victor_calazans: Ansioso pelas provas de luta greco-romana nas olimpíadas. #Rio2016 https://t.co/qR2PiTeTOq
+date = Thu Jul 07 02:15:58 +0000 2016| user = AdiosCavalheiro| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:15:33 +0000 2016| user = machado_thomaz| text = RT @Esp_Interativo: Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:15:06 +0000 2016| user = Esp_Interativo| text = Minha reação quando dizem que o @usainbolt não vem para os Jogos @Rio2016... https://t.co/hRZl1LDkIw
+date = Thu Jul 07 02:14:47 +0000 2016| user = Icosatium| text = Parabéns pelo trabalho de investigação, mas acho estranho ter demorado. Há alguma relação de proximidade #Rio2016 https://t.co/9Wcn53ocYy
+date = Thu Jul 07 02:13:28 +0000 2016| user = almarin2004| text = RT @Rio2016: Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 02:13:09 +0000 2016| user = AmericoRamalho| text = RT @LeiSecaRJ: Se não respeitam eles rsrs RT @RadarCostaVerde: Força Nacional tem carro baleado em tiroteio na Av. Brasil, no Rio https://t…
+date = Thu Jul 07 02:11:34 +0000 2016| user = victor_calazans| text = Ansioso pelas provas de luta greco-romana nas olimpíadas. #Rio2016 https://t.co/qR2PiTeTOq
+date = Thu Jul 07 02:09:48 +0000 2016| user = KaikeGamer12| text = @AuthenticGames @JogosOlimpicos @Rio2016 Não obrigado eu não quero morrer pelos terroristas
+date = Thu Jul 07 02:09:45 +0000 2016| user = jujumadruga| text = RT @joaaofarias: Tocha rendeu várias risada e a parceria ótima!! #VALEUAPENA #RIO2016
+date = Thu Jul 07 02:09:12 +0000 2016| user = pela_democracia| text = RT @gazetadopovo: Veja o mapa com o percurso da tocha da @Rio2016 em Curitiba, com ruas bloqueadas https://t.co/k9gxEXTNdK https://t.co/I1g…
+date = Thu Jul 07 02:08:19 +0000 2016| user = Eduvaleu| text = RT @timebrasil: Faltam #30Dias para o Time Brasil competir nos Jogos Olímpicos @Rio2016 . #EuSouTimeBrasil #Rumoaorio https://t.co/Nnk1AjmT…
+date = Thu Jul 07 02:07:40 +0000 2016| user = crispassinato| text = RT @jornalodia: #Sindicato dos #servidores critica Paes por se isentar da violência no Rio  #olimpíadas #rio2016 
+
+https://t.co/rly7sSZOO5
+date = Thu Jul 07 02:07:27 +0000 2016| user = Julia_Vergara| text = RT @wesleymir: 50 PMs assassinados neste ano na cidade maravilhosa #Rio2016 https://t.co/xx7RtZEhHA
+date = Thu Jul 07 02:07:25 +0000 2016| user = jossiano| text = RT @SCInternacional: Convide os amigos e venha formar um mar vermelho durante a condução do símbolo olímpico pelo Tinga! Te esperamos! #ÉoI…
+date = Thu Jul 07 02:07:16 +0000 2016| user = jacquecustodio| text = RT @RSPARADESPORTO: "celebridades" e pessoas que nunca tocaram numa ⚽🏀🏊🏃 estarão na #ChamaOlimpica @Rio2016
+
+Nossos atlet/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+as paraolímpicos n…
+date = Thu Jul 07 02:06:37 +0000 2016| user = ahwilsonvaai| text = RT @andrefran: Barcelona estourou 609% o orçamento, Londres 133%, Atlanta 178%. #Rio2016 ficou 30% abaixo. Há o que criticar, mas menos vir…
+date = Thu Jul 07 02:06:14 +0000 2016| user = LeeStoleMyHeart| text = RT @justcallmevip: BIGBANG VAI PARTICIPAR DA "CREATIVE KOREA" QUE É PRA INCENTIVAR A CRIATIVIDADE DOS COREANOS E ISSO VAI SER PROMOVIDO NO…
+date = Thu Jul 07 02:05:26 +0000 2016| user = JuBicca| text = 🇧🇷🇧🇷🇧🇷🇧🇷👏🏻👏🏻👏🏻👏🏻 #jogosolimpicos #Rio2016 #RioTorch #tochaolimpica #pelotas @ Pelotas, Brazil https://t.co/pAN5ookmUD
+date = Thu Jul 07 02:05:11 +0000 2016| user = ac48stoandre| text = RT @VEJA: Brasil apresenta uniformes de gala para a abertura da @Rio2016. Você gostou?
+https://t.co/LrEKHWFebV
+date = Thu Jul 07 02:05:05 +0000 2016| user = jailtonpietro| text = RT @SPFW: A estilista @LennyNiemeyer assina os uniformes da delegação brasileira para as cerimônias dos Jogos @Rio2016! https://t.co/n5Jrk0…
+date = Thu Jul 07 02:04:34 +0000 2016| user = Gaviao_SCCP| text = @VAnhesim @Rio2016 : Obrigado mano ☺
+date = Thu Jul 07 02:04:10 +0000 2016| user = ac48stoandre| text = @VEJA @Rio2016. Eh de um extremo mal gosto !.
+date = Thu Jul 07 02:04:02 +0000 2016| user = Jefferson_Patto| text = RT @LeiSecaRJ: Se não respeitam eles rsrs RT @RadarCostaVerde: Força Nacional tem carro baleado em tiroteio na Av. Brasil, no Rio https://t…
+date = Thu Jul 07 02:03:45 +0000 2016| user = jurirob| text = RT @CeliaNacarato: Beleza, assim o mundo inteiro vai ouvir a voz dos brasileiros
+#Rio2016 #Olimpiadas #rioolimpiadas #olimpiadas2016 https:…
+date = Thu Jul 07 02:02:37 +0000 2016| user = martinchab1997| text = RT @Rio2016: Ana Luiza Angelo Levien é ex-atleta de ginástica artística e hoje passa sua experiência treinando jovens atletas. https://t.co…
+date = Thu Jul 07 02:02:08 +0000 2016| user = martinchab1997| text = RT @Rio2016: Alex Campelo Martins nasceu em Pelotas e como zagueiro defendeu grandes times do Brasil e do exterior. #RumoAoRio https://t.co…
+date = Thu Jul 07 02:02:02 +0000 2016| user = martinchab1997| text = RT @Rio2016: Emilio Strapasson foi atleta de skeleton pelo Brasil e é presidente da Confederação Brasileira de Desportos do Gelo. https://t…
+date = Thu Jul 07 02:01:50 +0000 2016| user = martinchab1997| text = RT @Rio2016: Andrea Fontes sempre sonhou em ser atleta. Um acidente de carro atrasou o sonho até descobrir a canoagem adaptada. https://t.c…
+date = Thu Jul 07 02:01:41 +0000 2016| user = martinchab1997| text = RT @Rio2016: Rochele Nunes é judoca brasileira e conduz a @ChamaOlimpica hoje em Pelotas, sua cidade natal. https://t.co/4stRANahxe
+date = Thu Jul 07 02:01:36 +0000 2016| user = martinchab1997| text = RT @Rio2016: Octávio Villar vem de uma linhagem de golfistas:o tio-avô criou o Clube de Golfe de Pelotas.Ele começou aos 8 anos. https://t.…
+date = Thu Jul 07 02:00:54 +0000 2016| user = Gaviao_SCCP| text = Já a minha mulher Thayla só vem ao RJ no dia 15/07 onde tbm vai cobrir os jogos @Rio2016
+date = Thu Jul 07 02:00:24 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A seleção de futebol da Argentina covocada para o @Rio2016 https://t.co/azo3XQ7B22 https://t.co/Dcoa9hkaee
+date = Thu Jul 07 01:59:59 +0000 2016| user = LeiSecaRJ| text = Se não respeitam eles rsrs RT @RadarCostaVerde: Força Nacional tem carro baleado em tiroteio na Av. Brasil, no Rio https://t.co/gDvNurEhxQ
+date = Thu Jul 07 01:59:56 +0000 2016| user = ThaataBala2| text = RT @Brasil2016: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. O @garcialuan93, do @vascodagama, te chama pra torcer junto!🏅⚽ https:…
+date = Thu Jul 07 01:59:56 +0000 2016| user = Gaviao_SCCP| text = A partir de hoje, eu estou aqui no RJ onde vou ficar uns 2 meses fazendo reportagens e claro, vou cobrir os jogos @Rio2016!
+date = Thu Jul 07 01:58:09 +0000 2016| user = maari_crvg| text = RT @Brasil2016: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. O @garcialuan93, do @vascodagama, te chama pra torcer junto!🏅⚽ https:…
+date = Thu Jul 07 01:57:31 +0000 2016| user = MiguelRamos0327| text = RT @Rio2016: Ana Luiza Angelo Levien é ex-atleta de ginástica artística e hoje passa sua experiência treinando jovens atletas. https://t.co…
+date = Thu Jul 07 01:57:21 +0000 2016| user = maxwellxwell| text = RT @Rio2016: Quer saber como chegar às arenas, o que levar e outras informações?Confira o Guia dos Jogos: https://t.co/sBYjSeQJfR https://t…
+date = Thu Jul 07 01:56:58 +0000 2016| user = lucassa78319909| text = RT @VisaBR: Viagem longa. Muito treino. Todos por um momento.Veja a jornada do #TeamVisa aqui: https://t.co/joiXjz3M2k #Rio2016 https://t.c…
+date = Thu Jul 07 01:56:53 +0000 2016| user = _Mylenasz| text = RT @Brasil2016: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. O @garcialuan93, do @vascodagama, te chama pra torcer junto!🏅⚽ https:…
+date = Thu Jul 07 01:55:42 +0000 2016| user = eualejenner| text = RT @iG: Especialista da ONU acha Brasil um "alvo fácil" para terrorismo na Olimpíada. #Rio2016
+
+→ https://t.co/pNKdRsVo4p https://t.co/mru3…
+date = Thu Jul 07 01:55:35 +0000 2016| user = vandaloyeah| text = Quando cliente pede chuva, tem que chover. #shooting #productionservice #rio2016 #souvandalo @… https://t.co/jvpJpdrL5z
+date = Thu Jul 07 01:55:03 +0000 2016| user = konther| text = Agora sim os ingressos bonitinhos em todas as suas emoções 🙌 #Rio2016 https://t.co/hMwSUS5Dqo https://t.co/ncsbbFChng
+date = Thu Jul 07 01:54:50 +0000 2016| user = VydelGamer_19| text = RT @AuthenticGames: Galera #Falta1Mês para os @JogosOlimpicos . Chega logo @Rio2016 https://t.co/lPRNISIOOo
+date = Thu Jul 07 01:53:23 +0000 2016| user = AnttonioElias| text = Esp_Interativo: Aí, usainbolt! Falaram que você não vem para os Jogos Rio2016... kkkkkkkkkkkk https://t.co/v18dNNrTse
+date = Thu Jul 07 01:52:58 +0000 2016| user = wickky_k| text = RT @minesporte: #Faltam30Dias pros Jogos @Rio2016, e o @hugocalderano, do tênis de mesa, conta com a sua torcida! @CBTM_TM https://t.co/GaY…
+date = Thu Jul 07 01:52:57 +0000 2016| user = SurtoOlimpico| text = A seleção de futebol da Argentina covocada para o @Rio2016 https://t.co/azo3XQ7B22 https://t.co/Dcoa9hkaee
+date = Thu Jul 07 01:52:54 +0000 2016| user = ZNHandebol| text = RT @timebrasil: Sabia que mais de 460 atletas brasileiros se classificaram para os Jogos Olímpicos @Rio2016? #Faltam30dias https://t.co/gTZ…
+date = Thu Jul 07 01:52:46 +0000 2016| user = TcheFortes| text = @LuchoSilveira @Argentina @rio2016_es sinceramente me decepcionei. Achei fraca, não chega entre as 4.
+date = Thu Jul 07 01:52:17 +0000 2016| user = CristanoRonaldu| text = RT @Rio2016: Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 01:51:35 +0000 2016| user = brauliovargasg| text = RT @Rio2016: Ana Luiza Angelo Levien é ex-atleta de ginástica artística e hoje passa sua experiência treinando jovens atletas. https://t.co…
+date = Thu Jul 07 01:51:27 +0000 2016| user = wickky_k| text = RT @Rio2016: Navio funciona como hospedagem no Rio 2016 e tem cruzeiros antes e depois dos Jogos: https://t.co/DwdRPiWzQZ https://t.co/XyYD…
+date = Thu Jul 07 01:50:18 +0000 2016| user = brauliovargasg| text = RT @Rio2016: Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 01:49:11 +0000 2016| user = Anandraaj04| text = RT @Rio2016: Andrea Fontes sempre sonhou em ser atleta. Um acidente de carro atrasou o sonho até descobrir a canoagem adaptada. https://t.c…
+date = Thu Jul 07 01:48:50 +0000 2016| user = Guilher52570271| text = RT @Rio2016: Ana Luiza Angelo Levien é ex-atleta de ginástica artística e hoje passa sua experiência treinando jovens atletas. https://t.co…
+date = Thu Jul 07 01:48:32 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 01:47:45 +0000 2016| user = vini_nascente_| text = RT @Rio2016: Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 01:47:19 +0000 2016| user = Rio2016| text = Pira de celebração acesa em Pelotas. Amanhã tem mais @ChamaOlimpica. #RumoAoRio https://t.co/H1MDOjNyxC
+date = Thu Jul 07 01:47:03 +0000 2016| user = laiswrestling| text = RT @Brasil2016: Faltam 30 Dias pros Jogos @Rio2016 e pra torcermos todos juntos pela @laiswrestling, da luta olímpica! #RumoAoRio https://t…
+date = Thu Jul 07 01:46:49 +0000 2016| user = MarcosA51741778| text = RT @g1rio: Risco de zika na Olimpíada é quase 'inexistente', diz Michel Temer https://t.co/YGgW3NxaST
+date = Thu Jul 07 01:45:53 +0000 2016| user = TVUltra| text = RT @Rio2016: Ana Luiza Angelo Levien é ex-atleta de ginástica artística e hoje passa sua experiência treinando jovens atletas. https://t.co…
+date = Thu Jul 07 01:45:44 +0000 2016| user = marciov09141853| text = RT @ViniciusRio2016: 🎉 O @Rio2016 tá chegandooo e eu adorei a música-tema! Tô aqui tentando imitar os passos de dança da molecada hehe 👏👏 h…
+date = Thu Jul 07 01:45:32 +0000 2016| user = Rio2016| text = Ana Luiza Angelo Levien é ex-atleta de ginástica artística e hoje passa sua experiência treinando jovens atletas. https://t.co/Tcb1kDa4Sx
+date = Thu Jul 07 01:45:19 +0000 2016| user = luilsomgos| text = RT @YeshuaSabedoria: Tanto a prata quanto o ouro me pertencem, declara o Senhor dos Exércitos.
+Ageu 2:8 NVI https://t.co/WWpqRyxiTb
+date = Thu Jul 07 01:45:06 +0000 2016| user = Gabriel02792440| text = RT @Rio2016: Andrea Fontes sempre sonhou em ser atleta. Um acidente de carro atrasou o sonho até descobrir a canoagem adaptada. https://t.c…
+date = Thu Jul 07 01:44:51 +0000 2016| user = pietralips_| text = RT @SPFW: A estilista @LennyNiemeyer assina os uniformes da delegação brasileira para as cerimônias dos Jogos @Rio2016! https://t.co/n5Jrk0…
+date = Thu Jul 07 01:44:47 +0000 2016| user = marciov09141853| text = RT @timebrasil: Felipe Nascimento faz aniversário hoje e vai representar o Brasil no pentatlo moderno nos Jogos Olímpicos @Rio2016 https://…
+date = Thu Jul 07 01:44:42 +0000 2016| user = marciov09141853| text = RT @timebrasil: Estamos todos juntos contando os dias para a grande estreia do Time Brasil nos Jogos OIímpicos @Rio2016. https://t.co/yO08N…
+date = Thu Jul 07 01:44:36 +0000 2016| user = marciov09141853| text = RT @Rio2016: Venilton Valandro é para-atleta de basquete sobre rodas há dez anos. Olha a emoção dele em Encantado. #RumoAoRio https://t.co/…
+date = Thu Jul 07 01:44:35 +0000 2016| user = marciov09141853| text = RT @timebrasil: Deixe a energia boa dos atletas classificados para @Rio2016 te contagiar! Falta 1 mês para os Jogos Olímpicos. https://t.co…
+date = Thu Jul 07 01:44:08 +0000 2016| user = lucialobo28| text = RT @EstadaoEsporte: Forças Armadas terão 22 mil militares na segurança do @Rio2016 - https://t.co/n3zsB3s1VU https://t.co/1YlxVYtijj
+date = Thu Jul 07 01:43:54 +0000 2016| user = marciov09141853| text = RT @Rio2016: Praça Saldanha Marinho enfeitada e todos esperando o revezamento da @ChamaOlimpica passar por aqui. #RumoAoRio https://t.co/Mc…
+date = Thu Jul 07 01:43:11 +0000 2016| user = Anandraaj04| text = RT @Rio2016: Andrea é da seleção brasileira e busca uma vaga nas Paralimpiadas do Rio. Ela conta um pouco da sua história: https://t.co/RIV…
+date = Thu Jul 07 01:42:47 +0000 2016| user = LukaGja| text = RT @iG: Especialista da ONU acha Brasil um "alvo fácil" para terrorismo na Olimpíada. #Rio2016
+
+→ https://t.co/pNKdRsVo4p https://t.co/mru3…
+date = Thu Jul 07 01:42:30 +0000 2016| user = juliasimas1534| text = Fuzileiros Navais fazem treinamento antiterrorismo para a Rio 2016 https://t.co/3hjvwwrqs6
+date = Thu Jul 07 01:40:32 +0000 2016| user = avafortuna| text = RT @CeliaNacarato: Beleza, assim o mundo inteiro vai ouvir a voz dos brasileiros
+#Rio2016 #Olimpiadas #rioolimpiadas #olimpiadas2016 https:…
+date = Thu Jul 07 01:39:37 +0000 2016| user = brauliovargasg| text = RT @Rio2016: Emilio Strapasson foi atleta de skeleton pelo Brasil e é presidente da Confederação Brasileira de Desportos do Gelo. https://t…
+date = Thu Jul 07 01:39:00 +0000 2016| user = abralef| text = RT @souza_davis: Tudo bem que pode ter ataques de terroristas no rj nas olimpíadas. Ta na cara que vai ter. Só não ataque o Cristo redentor…
+date = Thu Jul 07 01:38:57 +0000 2016| user = juanromerotv| text = RT @Rio2016: Olha o recado do Diego Ferreira dos Santos, campeão sulamericano. #RumoAoRio https://t.co/VFAjHW1Wpx
+date = Thu Jul 07 01:38:57 +0000 2016| user = TVUltra| text = RT @Rio2016: Olha o recado do Diego Ferreira dos Santos, campeão sulamericano. #RumoAoRio https://t.co/VFAjHW1Wpx
+date = Thu Jul 07 01:38:51 +0000 2016| user = joaaofarias| text = Tocha rendeu várias risada e a parceria ótima!! #VALEUAPENA #RIO2016
+date = Thu Jul 07 01:38:47 +0000 2016| user = Rio2016| text = Olha o recado do Diego Ferreira dos Santos, campeão sulamericano. #RumoAoRio https://t.co/VFAjHW1Wpx
+date = Thu Jul 07 01:38:36 +0000 2016| user = raphaelscostarj| text = #Rio2016 Brasil apresenta uniformes da abertura da @Rio2016 https://t.co/aYP2ThXMFp
+date = Thu Jul 07 01:38:19 +0000 2016| user = GilsonRGrimes| text = Não aumentou a capacidade da antiga via para desafogar o trânsito no Centro do Rio de Janeiro #Rio2016 .... https://t.co/micbCFEIK1
+date = Thu Jul 07 01:37:16 +0000 2016| user = RodrigoMarian| text = RT @SurtoOlimpico: A Argentina libera a convocação da seleção de futebol para o @Rio2016 https://t.co/oVWmDqj9RX
+date = Thu Jul 07 01:36:10 +0000 2016| user = victorlindoq| text = RT @Brasil2016: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. O @garcialuan93, do @vascodagama, te chama pra torcer junto!🏅⚽ https:…
+date = Thu Jul 07 01:35:44 +0000 2016| user = Rio2016| text = Alex Campelo Martins nasceu em Pelotas e como zagueiro defendeu grandes times do Brasil e do exterior. #RumoAoRio https://t.co/tuKXRwqMPO
+date = Thu Jul 07 01:35:15 +0000 2016| user = oConsciente| text = ebcnarede: Brasil chega às Olimpíadas com esperança de medalhas no basquete https://t.co/nmSjKtxzZb https://t.co/RzXYM6yWZj
+date = Thu Jul 07 01:35:02 +0000 2016| user = gigoloalemao| text = RT @round13boxe: Apesar de alarde, profissionais de ponta não tentarão vaga nos Jogos do #Rio2016.Leia: https://t.co/8RtiCLOJO1 #boxe https…
+date = Thu Jul 07 01:33:44 +0000 2016| user = Rio2016| text = Emilio Strapasson foi atleta de skeleton pelo Brasil e é presidente da Confederação Brasileira de Desportos do Gelo. https://t.co/TN2V9mCL35
+date = Thu Jul 07 01:33:44 +0000 2016| user = alinepaggy| text = Eles chegaram! #OlympicGames #Rio2016 #Basketball #NowItsHere https://t.co/aQ2oQLpjzK
+date = Thu Jul 07 01:32:02 +0000 2016| user = Rio2016| text = Andrea é da seleção brasileira e busca uma vaga nas Paralimpiadas do Rio. Ela conta um pouco da sua história: https://t.co/RIV8oClGG2
+date = Thu Jul 07 01:31:16 +0000 2016| user = round13boxe| text = O início, os países com + medalhas e os boxeadores tricampeões! Confira a história do #boxe nas Olimpíadas. https://t.co/MDpuMrBcZT #Rio2016
+date = Thu Jul 07 01:31:09 +0000 2016| user = vitorinobueno| text = @noriam7 @lucasfelix band acredito que vai matar o MasterChef antes do Rio2016, ainda mais com essas eliminações duplas
+date = Thu Jul 07 01:30:52 +0000 2016| user = rudyramazzini| text = A tocha está em Pelotas-RS. O local do pernoite não se sabe, até por que lá, ela pode estar literalmente em qualquer buraco! #rio2016
+date = Thu Jul 07 01:30:18 +0000 2016| user = Carvalho_Maay| text = RT @Rio2016: Rochele Nunes é judoca brasileira e conduz a @ChamaOlimpica hoje em Pelotas, sua cidade natal. https://t.co/4stRANahxe
+date = Thu Jul 07 01:29:02 +0000 2016| user = OlympicRio016| text = RT @andrececere: É a festa dos esportes!!
+#rio2016 #olimpiadas #Pelotas @ Pelotas, Brazil https://t.co/9hcGl54TfS
+date = Thu Jul 07 01:28:56 +0000 2016| user = Brasil2016| text = RT @Rio2016: Rochele Nunes é judoca brasileira e conduz a @ChamaOlimpica hoje em Pelotas, sua cidade natal. https://t.co/4stRANahxe
+date = Thu Jul 07 01:28:51 +0000 2016| user = Brasil2016| text = RT @Rio2016: Octávio Villar vem de uma linhagem de golfistas:o tio-avô criou o Clube de Golfe de Pelotas.Ele começou aos 8 anos. https://t.…
+date = Thu Jul 07 01:28:43 +0000 2016| user = Brasil2016| text = RT @Rio2016: Andrea Fontes sempre sonhou em ser atleta. Um acidente de carro atrasou o sonho até descobrir a canoagem adaptada. https://t.c…
+date = Thu Jul 07 01:28:39 +0000 2016| user = cfredbastos| text = RT @cbdnbr: 30 dias para os Jogos Olímpicos! Da neve russa ao calor do Rio, vamos juntos com o @timebrasil! #RoadToRio #Rio2016 https://t.c…
+date = Thu Jul 07 01:28:23 +0000 2016| user = LGCamelier| text = RT @Rio2016: Andrea Fontes sempre sonhou em ser atleta. Um acidente de carro atrasou o sonho até descobrir a canoagem adaptada. https://t.c…
+date = Thu Jul 07 01:28:23 +0000 2016| user = andrececere| text = É a festa dos esportes!!
+#rio2016 #olimpiadas #Pelotas @ Pelotas, Brazil https://t.co/9hcGl54TfS
+date = Thu Jul 07 01:28:16 +0000 2016| user = TVUltra| text = RT @Rio2016: Andrea Fontes sempre sonhou em ser atleta. Um acidente de carro atrasou o sonho até descobrir a canoagem adaptada. https://t.c…
+date = Thu Jul 07 01:28:05 +0000 2016| user = PAULAANGELA76| text = RT @GovRJ: As Forças Armadas vão atuar com cerca de 22 mil militares na @Rio2016. O efetivo antes previsto era de 18 mil. https://t.co/4NXQ…
+date = Thu Jul 07 01:27:45 +0000 2016| user = Rio2016| text = Andrea Fontes sempre sonhou em ser atleta. Um acidente de carro atrasou o sonho até descobrir a canoagem adaptada. https://t.co/8Ij0byw4Gf
+date = Thu Jul 07 01:27:45 +0000 2016| user = kleriton| text = Como conseguimos a lista de todos os condutores da Tocha em Porto Alegre @Rio2016 ?
+date = Thu Jul 07 01:27:06 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Judô define seleção paralímpica para os Jogos Rio 2016 Portal Brasil A Seleção Brasileira de… https://t.co/xKieyBSwJe
+date = Thu Jul 07 01:27:05 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 Detalhes do hipismo na contagem regressiva para o Rio 2016 Rio 2016 O hipismo é o único… https://t.co/MUi8etH7w4
+date = Thu Jul 07 01:26:19 +0000 2016| user = CristanoRonaldu| text = RT @Rio2016: Octávio Villar vem de uma linhagem de golfistas:o tio-avô criou o Clube de Golfe de Pelotas.Ele começou aos 8 anos. https://t.…
+date = Thu Jul 07 01:24:31 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Rochele Nunes é judoca brasileira e conduz a @ChamaOlimpica hoje em Pelotas, sua cidade natal. https://t.co/4stRANahxe
+date = Thu Jul 07 01:23:54 +0000 2016| user = machado_mil| text = Senado aprova criar tribunal para julgar doping na Olimpíada https://t.co/ZJyxwhfL0e
+date = Thu Jul 07 01:23:52 +0000 2016| user = raphaelscostarj| text = #Rio2016 @SenadoFederal aprova criar tribunal para julgar doping na Olimpíada https://t.co/BRMSOmmT4G
+date = Thu Jul 07 01:23:39 +0000 2016| user = 385salvador| text = RT @atarde: Tocha Olímpica é vendida na internet por até R$ 200 mil https://t.co/KEqzcO2mii #Rio2016
+date = Thu Jul 07 01:23:31 +0000 2016| user = Rio2016| text = Rochele Nunes é judoca brasileira e conduz a @ChamaOlimpica hoje em Pelotas, sua cidade natal. https://t.co/4stRANahxe
+date = Thu Jul 07 01:23:05 +0000 2016| user = jvgoistorres| text = RT @TheBlurBarbosa: Foco no detalhe, vamos 🇧🇷🏀🔥 #TimeBrasil @rio2016 @jogosolimpicos https://t.co/Dv7bWDpjHO
+date = Thu Jul 07 01:22:25 +0000 2016| user = marante_2| text = RT @Rio2016: Octávio Villar vem de uma linhagem de golfistas:o tio-avô criou o Clube de Golfe de Pelotas.Ele começou aos 8 anos. https://t.…
+date = Thu Jul 07 01:21:44 +0000 2016| user = TVUltra| text = RT @Rio2016: Octávio Villar vem de uma linhagem de golfistas:o tio-avô criou o Clube de Golfe de Pelotas.Ele começou aos 8 anos. https://t.…
+date = Thu Jul 07 01:21:44 +0000 2016| user = juanromerotv| text = RT @Rio2016: Octávio Villar vem de uma linhagem de golfistas:o tio-avô criou o Clube de /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Golfe de Pelotas.Ele começou aos 8 anos. https://t.…
+date = Thu Jul 07 01:20:38 +0000 2016| user = Rio2016| text = Octávio Villar vem de uma linhagem de golfistas:o tio-avô criou o Clube de Golfe de Pelotas.Ele começou aos 8 anos. https://t.co/BDmDgXcwTC
+date = Thu Jul 07 01:20:06 +0000 2016| user = NeideSo00147814| text = RT @CeliaNacarato: Beleza, assim o mundo inteiro vai ouvir a voz dos brasileiros
+#Rio2016 #Olimpiadas #rioolimpiadas #olimpiadas2016 https:…
+date = Thu Jul 07 01:19:43 +0000 2016| user = veniltonteixei1| text = Faltam 30 Dias, Guerreiros!! 󾭞󾓪󾓮
+#GuerreiroSempreSerei #NascidosParaVencer #DesistirJamais #Rio2016... https://t.co/g6eQUUaN2T
+date = Thu Jul 07 01:18:26 +0000 2016| user = DoraSantosDonna| text = RT @CeliaNacarato: Beleza, assim o mundo inteiro vai ouvir a voz dos brasileiros
+#Rio2016 #Olimpiadas #rioolimpiadas #olimpiadas2016 https:…
+date = Thu Jul 07 01:17:31 +0000 2016| user = trade_ricardo| text = RT @MinasTC: Está chegando, galera!! #Rio2016 #TimeMTC #OrgulhoDeSerMinas #VaiMinas https://t.co/DODcQ248Yd
+date = Thu Jul 07 01:16:53 +0000 2016| user = Alex_Queirozz| text = #Rio2016:Tiroteio deixa um morto no Complexo do Alemão na noite desta quarta
+date = Thu Jul 07 01:16:09 +0000 2016| user = bernardo_stampa| text = RT @GovRJ: As Forças Armadas vão atuar com cerca de 22 mil militares na @Rio2016. O efetivo antes previsto era de 18 mil. https://t.co/4NXQ…
+date = Thu Jul 07 01:14:51 +0000 2016| user = trade_ricardo| text = RT @JogosOlimpicos: Boa sorte a @lelepn03 @Duda18Amorim @Darahandebol2 e cia convocadas para o @Rio2016! #RumoaoRio https://t.co/YINMRfmDkI
+date = Thu Jul 07 01:14:23 +0000 2016| user = winehousw| text = RT @_robertasa: Foi uma festa a participação da Roberta Sá na cerimônia de #Falta1Ano para a #Rio2016 com @zecapagodinho http://t.co/vwPOfT…
+date = Thu Jul 07 01:14:04 +0000 2016| user = ESPNagora| text = 👊30 DIAS para @Rio2016!
+
+Até 2012, @ServiliodeOli era o único brasileiro a conquistar medalha com o bronze em 1968 https://t.co/qcFSp7Chzm
+date = Thu Jul 07 01:12:47 +0000 2016| user = MillenaVieira18| text = RT @RCaio03: Obrigado meu Deus por mais essa conquista , um grande orgulho poder representar meu país #rio2016 #vamos https://t.co/thcKm5M7…
+date = Thu Jul 07 01:08:22 +0000 2016| user = Dimifer| text = RT @Rio2016: O triatleta Gabriel Henriques é uma das promessas da modalidade e se prepara para o mundial do México em agosto. https://t.co/…
+date = Thu Jul 07 01:08:00 +0000 2016| user = nisebianco| text = Então poluição não é só nas águas do #RiodeJaneiro @eduardopaes_ @Rio2016  https://t.co/3jEdzJT9h6
+date = Thu Jul 07 01:07:37 +0000 2016| user = PanichiRaphael| text = RT @CeliaNacarato: Beleza, assim o mundo inteiro vai ouvir a voz dos brasileiros
+#Rio2016 #Olimpiadas #rioolimpiadas #olimpiadas2016 https:…
+date = Thu Jul 07 01:07:24 +0000 2016| user = Bibi_TeAmoTatto| text = RT @AuthenticGames: Galera #Falta1Mês para os @JogosOlimpicos . Chega logo @Rio2016 https://t.co/lPRNISIOOo
+date = Thu Jul 07 01:06:40 +0000 2016| user = CeliaNacarato| text = Beleza, assim o mundo inteiro vai ouvir a voz dos brasileiros
+#Rio2016 #Olimpiadas #rioolimpiadas #olimpiadas2016 https://t.co/GtntKwDP7U
+date = Thu Jul 07 01:06:36 +0000 2016| user = guirocha82| text = @TheBlurBarbosa @Rio2016 @Olympics @Nike estarei na arquibancada do #Rio2016. Bora buscar a medalha, Leandrinho!! 💪💪💪 força!
+date = Thu Jul 07 01:06:23 +0000 2016| user = caiofl| text = RT @JogosOlimpicos: Em 2008, @CesarCielo fez história e emocionou o 🇧🇷. Faltam 30 dias para mais história ser escrita no @Rio2016! 💚💛
+https…
+date = Thu Jul 07 01:04:43 +0000 2016| user = Jojo_chipeur| text = RT @Dejesusoficial9: #Faltam30Dias pra luta pelo ouro inédito no @Rio2016. Vamos juntos, venham torcer juntos!🏅⚽ @Brasil2016 https://t.co/Y…
+date = Thu Jul 07 01:04:41 +0000 2016| user = matheus_zello| text = RT @Rio2016: Navio funciona como hospedagem no Rio 2016 e tem cruzeiros antes e depois dos Jogos: https://t.co/DwdRPiWzQZ https://t.co/XyYD…
+date = Thu Jul 07 01:02:12 +0000 2016| user = FClaroRugby| text = O palco do #rugby para o @rio2016 se armando e está ficando sensacional! Obrigado pelo vídeo @marceloamiky... https://t.co/kCHELcugnj
+date = Thu Jul 07 01:02:11 +0000 2016| user = NetoPalhe| text = AQUI TD SOBRE A OLIMPIADAS RIO2016 https://t.co/3FN4ljjJQL
+date = Thu Jul 07 01:01:36 +0000 2016| user = FabioChiuffa| text = RT @SeuEsporteBR: Olha aí pessoal!!!
+Uniformes dos nossos atletas nas Cerimônias de Abertura e Encerramento na #Rio2016 #RumoAoRio https://…
+date = Thu Jul 07 01:01:28 +0000 2016| user = PeterOrtiz1| text = RT @guanajuatocode: @evagurrolaa atleta CODE #Guanajuato a @rio2016_es #RumboARio https://t.co/gzIAttX8br https://t.co/bfFCCz25n8
+date = Thu Jul 07 01:00:56 +0000 2016| user = LeoAraujoShow| text = Luize Altenhofen retorna à TV como repórter do SBT e cobrirá os Jogos Olímpicos. #Rio2016 https://t.co/SwBgvSTg11
+date = Thu Jul 07 01:00:55 +0000 2016| user = canaistv| text = Luize Altenhofen retorna à TV como repórter do SBT e cobrirá os Jogos Olímpicos. #Rio2016 https://t.co/nmS4e0ahO7
+date = Thu Jul 07 01:00:55 +0000 2016| user = AlisonTheodoro| text = Luize Altenhofen retorna à TV como repórter do SBT e cobrirá os Jogos Olímpicos. #Rio2016 https://t.co/GsSObQ6Cdw
+date = Thu Jul 07 01:00:55 +0000 2016| user = SiteTVShow| text = Luize Altenhofen retorna à TV como repórter do SBT e cobrirá os Jogos Olímpicos. #Rio2016 https://t.co/b2i0yNnliA
+date = Thu Jul 07 01:00:55 +0000 2016| user = 10TVBr| text = Luize Altenhofen retorna à TV como repórter do SBT e cobrirá os Jogos Olímpicos. #Rio2016 https://t.co/ppHjyG3BWw
+date = Thu Jul 07 01:00:55 +0000 2016| user = romariofelippe| text = Luize Altenhofen retorna à TV como repórter do SBT e cobrirá os Jogos Olímpicos. #Rio2016 https://t.co/YvXG0MccsR
+date = Thu Jul 07 01:00:55 +0000 2016| user = TVShow| text = Luize Altenhofen retorna à TV como repórter do SBT e cobrirá os Jogos Olímpicos. #Rio2016 https://t.co/W6zdg1QDEa
+date = Thu Jul 07 01:00:30 +0000 2016| user = thaua_sousa| text = O mais perto que eu cheguei das Olimpíadas na vida @Rio2016 https://t.co/FjIrhEk7It
+date = Thu Jul 07 01:00:11 +0000 2016| user = _KaueNiedsberg_| text = Um sonho... 
+#TochaOlimpica 
+@Rio2016 https://t.co/8tKeWAUah3
+date = Thu Jul 07 00:59:58 +0000 2016| user = angelogabriele| text = RT @wesleymir: 50 PMs assassinados neste ano na cidade maravilhosa #Rio2016 https://t.co/xx7RtZEhHA
+date = Thu Jul 07 00:59:27 +0000 2016| user = sra_perola| text = RT @Brasil2016: Tem até logo do @Rio2016 e imagem da tocha refletida em led verde na rua Andrade Neves, centro de Pelotas. https://t.co/JbA…
+date = Thu Jul 07 00:58:47 +0000 2016| user = jaozinfeitosa| text = RT @timebrasil: Olímpicos e elegantes! Os atletas apresentam o uniforme de abertura e encerramento do @timebrasil para @Rio2016 https://t.c…
+date = Thu Jul 07 00:57:32 +0000 2016| user = luizpavani| text = RT @Rio2016: Maria Portela é judoca e representará o Brasil nos Jogos Rio 2016. Hoje, conduziu a @ChamaOlimpica. #RumoAoRio https://t.co/x9…
+date = Thu Jul 07 00:57:19 +0000 2016| user = luizpavani| text = RT @noticiascbj: Vai com tudo, Portelinha! #PreparadosParaVencer https://t.co/RaUxJLY38W
+date = Thu Jul 07 00:56:25 +0000 2016| user = jaozinfeitosa| text = RT @GEdoBrasil: 1 mês do início dos Jogos Olímpicos @Rio2016 e #DiadaSaúde. Como essas datas estão ligadas? https://t.co/3bMcDQzzgR https:/…
+date = Thu Jul 07 00:56:11 +0000 2016| user = judors| text = Mais judocas gaúchos com a #TochaOlimpica do @Rio2016  https://t.co/5O6HwJDpnR
+date = Thu Jul 07 00:56:00 +0000 2016| user = titicow_| text = @SurtoOlimpico @Rio2016 Conheço só Vietto, Rulli e Romero...e tinha ouvido falar desse Simeone
+date = Thu Jul 07 00:55:45 +0000 2016| user = AmigoDoBode| text = RT @BodeOfWar: #B0DERULEZ Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para ju... https://t.c…
+date = Thu Jul 07 00:55:16 +0000 2016| user = JudoGaucho| text = Mais de 100 atletas do Santa Maria Judô acompanharam a Prof. Aglaia Pavani no Revezamento da Tocha Olímpica   https://t.co/7RHLEU7sxi
+date = Thu Jul 07 00:55:00 +0000 2016| user = MiguelRamos0327| text = RT @Brasil2016: Tem até logo do @Rio2016 e imagem da tocha refletida em led verde na rua Andrade Neves, centro de Pelotas. https://t.co/JbA…
+date = Thu Jul 07 00:54:38 +0000 2016| user = _fuckwill| text = @TheBlurBarbosa @Rio2016 @Olympics @Nike boa moleque tamo na torcida!
+date = Thu Jul 07 00:54:10 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 Rio de Janeiro ganha reforço de 3 mil homens das Forças Armadas ... Rio 2016 Um reforço… https://t.co/Kv3kSkTfVq
+date = Thu Jul 07 00:54:09 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 https://t.co/tPuOTu46RU Risco de zika na Olimpíada é quase 'inexistente', diz Michel Temer… https://t.co/Ls9snRUuUI
+date = Thu Jul 07 00:52:52 +0000 2016| user = ArajoDarcy| text = RT @Brasil2016: Tem até logo do @Rio2016 e imagem da tocha refletida em led verde na rua Andrade Neves, centro de Pelotas. https://t.co/JbA…
+date = Thu Jul 07 00:52:40 +0000 2016| user = Rio2016| text = RT @Brasil2016: Tem até logo do @Rio2016 e imagem da tocha refletida em led verde na rua Andrade Neves, centro de Pelotas. https://t.co/JbA…
+date = Thu Jul 07 00:51:59 +0000 2016| user = luisricky14| text = RT @DiscoverRio1: #Brasil dá as boas vindas ao Mundo para o Jogos Olímpicos do Rio.
+
+https://t.co/iOMgxIQ80w
+
+#Rio2016 #olympics #top https…
+date = Thu Jul 07 00:49:19 +0000 2016| user = aravisalencar| text = RT @jotapeah: #jpalencarbeta Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal par... https://t.co…
+date = Thu Jul 07 00:48:07 +0000 2016| user = tahtudodominado| text = Não pode barrar assaltante q vai p copacabana fazer arrastão, mas pode proibir o morador d sair d casa #Rio2016 https://t.co/8iWnWC3hYI
+date = Thu Jul 07 00:47:03 +0000 2016| user = marcelomelo83| text = RT @rodrigoaffranco: 12h50 no @globoesporte MG tem @BrunoSoares82 e @marcelomelo83 na primeira reportagem da série "Meu Sonho" @Rio2016 htt…
+date = Thu Jul 07 00:46:48 +0000 2016| user = GutooLuiz| text = @Rio2016 Estou Precisando de Um Depoimento de um Atleta Olímpico ou Paralímpico pode me Ajudar?
+date = Thu Jul 07 00:45:54 +0000 2016| user = OImpostor4| text = @VEJA @Rio2016 qie vergonha...um atleta olímpico teve que pagar R$ 1.890,00 pela tocha...vocês não tem vergonha na cara não?
+date = Thu Jul 07 00:43:35 +0000 2016| user = claudiavsj| text = Rio de Janeiro agora tem o disque Terror por conta das Olimpíadas . Não sei se rio ou se choro , se é trágico ou cômico.#Rio2016
+date = Thu Jul 07 00:42:40 +0000 2016| user = _TomKavanagh| text = RT @GovRJ: As Forças Armadas vão atuar com cerca de 22 mil militares na @Rio2016. O efetivo antes previsto era de 18 mil. https://t.co/4NXQ…
+date = Thu Jul 07 00:41:48 +0000 2016| user = pathayde| text = Crestomatia Política já saiu! https://t.co/YxVvoU5yRQ Graças a @Sen_Cristovam @minasempauta @AssembleiaRS #rio2016 #bahia
+date = Thu Jul 07 00:41:30 +0000 2016| user = Seba_Pereira| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:41:13 +0000 2016| user = rumplealencar| text = RT @jotapeah: #jpalencarbeta Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal par... https://t.co…
+date = Thu Jul 07 00:41:11 +0000 2016| user = RenatoVasconc18| text = RT @JogosOlimpicos: Em 2008, @CesarCielo fez história e emocionou o 🇧🇷. Faltam 30 dias para mais história ser escrita no @Rio2016! 💚💛
+https…
+date = Thu Jul 07 00:40:49 +0000 2016| user = ingr1direction| text = RT @AuthenticGames: Galera #Falta1Mês para os @JogosOlimpicos . Chega logo @Rio2016 https://t.co/lPRNISIOOo
+date = Thu Jul 07 00:40:45 +0000 2016| user = miltaopaiva| text = @Brasil2016 @JogosOlimpicos @timebrasil @Rio2016 
+E não é porque faltam 30 dias, mas acredito em 30 delas: 10 + 10 + 10
+date = Thu Jul 07 00:40:45 +0000 2016| user = Brasil2016| text = RT @Rio2016: O triatleta Gabriel Henriques é uma das promessas da modalidade e se prepara para o mundial do México em agosto. https://t.co/…
+date = Thu Jul 07 00:39:37 +0000 2016| user = Qweryt2112| text = RT @Delta_233: #hu3b3t Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julga... https://t.c…
+date = Thu Jul 07 00:38:25 +0000 2016| user = Pablo_Alexsan| text = RT @andregallindo: Com que roupa?
+Com essas. Uniformes do Time Brasil nas cerimônias de Abertura e Encerramento do @Rio2016. https://t.co/X…
+date = Thu Jul 07 00:36:40 +0000 2016| user = Yurifriske| text = RT @BancoCentralBR: A #TochaOlímpica é a estrela da nossa #moedadodia e falta só 1 mês para ela brilhar na abertura do Jogos #Rio2016! http…
+date = Thu Jul 07 00:36:20 +0000 2016| user = luiz_kbcao| text = Vai ter #Rio2016 Simmm ingressos na mão 😁😁 #Olimpiadas2016 https://t.co/Q9YakVpBej
+date = Thu Jul 07 00:34:10 +0000 2016| user = TVUltra| text = RT @Brasil2016: Rochele foi bronze no Mundial Militar, bronze no Mundial Sub-21 e é reserva na categoria pesado para o #Rio2016 . https://t…
+date = Thu Jul 07 00:34:01 +0000 2016| user = Brasil2016| text = Rochele foi bronze no Mundial Militar, bronze no Mundial Sub-21 e é reserva na categoria pesado para o #Rio2016 . https://t.co/qyqqJfsm0L
+date = Thu Jul 07 00:33:39 +0000 2016| user = Carlosan_lopes| text = RT @Rio2016: Navio funciona como hospedagem no Rio 2016 e tem cruzeiros antes e depois dos Jogos: https://t.co/DwdRPiWzQZ https://t.co/XyYD…
+date = Thu Jul 07 00:33:30 +0000 2016| user = KarinaTravassos| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Thu Jul 07 00:32:52 +0000 2016| user = brunotelleskk| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:32:26 +0000 2016| user = TorcidaBrasil2| text = Com cruzeirense, #Argentina divulga lista do #futebol olímpico. Veja nomes
+https://t.co/dDyDTTuMvC #Rio2016 https://t.co/dyMG6b0PV4
+date = Thu Jul 07 00:31:56 +0000 2016| user = AiltonBenedito| text = RT @wesleymir: 50 PMs assassinados neste ano na cidade maravilhosa #Rio2016 https://t.co/xx7RtZEhHA
+date = Thu Jul 07 00:30:29 +0000 2016| user = camicalcado| text = RT @EuCarolPaiixao: O Brasil não consegue nem sediar Educação, Saúde e Segurança, quem dira sediar um evento como as Olimpíadas. #Rio2016 #…
+date = Thu Jul 07 00:30:25 +0000 2016| user = rucef81159| text = RT @guanajuatocode: @evagurrolaa atleta CODE #Guanajuato a @rio2016_es #RumboARio https://t.co/gzIAttX8br https://t.co/bfFCCz25n8
+date = Thu Jul 07 00:29:12 +0000 2016| user = OlympicRio016| text = RT @acg747: "#Rio2016 já é medalha de ouro na modalidade Inferno Astral " por @marctawil no @LinkedIn https://t.co/64zC1KBoHh
+date = Thu Jul 07 00:28:25 +0000 2016| user = acg747| text = "#Rio2016 já é medalha de ouro na modalidade Inferno Astral " por @marctawil no @LinkedIn https://t.co/64zC1KBoHh
+date = Thu Jul 07 00:27:32 +0000 2016| user = Brasil2016| text = Tem até logo do @Rio2016 e imagem da tocha refletida em led verde na rua Andrade Neves, centro de Pelotas. https://t.co/JbALU64R6N
+date = Thu Jul 07 00:27:13 +0000 2016| user = passoslaurenn| text = só quem foi sabe #TochaOlimpica  #Rio2016  #Riogrande https://t.co/5tYxcMV13q
+date = Thu Jul 07 00:26:36 +0000 2016| user = andre_negao| text = A menos de 1 mês das olim-piadas, a mídia e a publicidade tonteiam a mente massificando essa merda x-(
+#Rio2016
+date = Thu Jul 07 00:26:29 +0000 2016| user = fbrsantosbjj| text = Vamos aproveitar o que a vida tem de melhor! #mydubai #errejota #021
+#rasalkhaimah #UAE #esqueça #Rio2016 https://t.co/bamiPEcu90
+date = Thu Jul 07 00:26:19 +0000 2016| user = ingrid_vallle| text = RT @AuthenticGames: Galera #Falta1Mês para os @JogosOlimpicos . Chega logo @Rio2016 https://t.co/lPRNISIOOo
+date = Thu Jul 07 00:24:49 +0000 2016| user = fatimaandreia10| text = Rio 2016: confira lista de casas temáticas no Rio durante Olimpíada #G1 https://t.co/Vm0sE1QHuK
+date = Thu Jul 07 00:24:34 +0000 2016| user = Filpc| text = Não vai faltar msm, já está faltando! // 'Não vai faltar segurança na Olimpíada do Rio', diz ministro da Defesa  https://t.co/9xdT3VxnrG
+date = Thu Jul 07 00:24:27 +0000 2016| user = correfrotinha| text = Segurança na #Rio2016:
+400 mil background checks feitos até agora (em Londres foram 600k)
+7.262 credenciais negadas. https://t.co/lnfOK3qKDu
+date = Thu Jul 07 00:24:08 +0000 2016| user = peguetedoCR7| text = RT @educhaves: Eu pratico esse esporte 😂 #Rio2016 #Olimpíadas https://t.co/96cHuS7JeN
+date = Thu Jul 07 00:23:30 +0000 2016| user = educhaves| text = Eu pratico esse esporte 😂 #Rio2016 #Olimpíadas https://t.co/96cHuS7JeN
+date = Thu Jul 07 00:20:41 +0000 2016| user = AutodromoRio| text = #Rio2016 VilaAutódromo vive! Muito merecida a medalha Pedro Ernesto para D. Penha.  https://t.co/YsWpIGCUFk
+date = Thu Jul 07 00:20:01 +0000 2016| user = corallfang| text = RT @rjmitidieri: Destruição de área de proteção ambiental para construir um campo de golfe para as #Olimpíadas no #Rio2016 : Injustificável…
+date = Thu Jul 07 00:20:01 +0000 2016| user = AlemaodaSaude| text = @Estadao #Rio2016 qual o infeliz que teve essa idéia?
+date = Thu Jul 07 00:19:49 +0000 2016| user = Estevao_1974| text = RT @ballaoficial: PRONUNCIAMENTO DO ESTADO ISLÂMICO. #Rio2016 #VemPraRua31Julho #olimPIADAS https://t.co/zYz99gkX4p
+date = Thu Jul 07 00:19:41 +0000 2016| user = sara_schneider| text = @JogosOlimpicos @Rio2016 muito maravilhosaaaaaaa 😍❤
+date = Thu Jul 07 00:19:22 +0000 2016| user = sara_schneider| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:18:40 +0000 2016| user = souza_davis| text = Tudo bem que pode ter ataques de terroristas no rj nas olimpíadas. Ta na cara que vai ter. Só não ataque o Cristo redentor #Rio2016
+date = Thu Jul 07 00:18:27 +0000 2016| user = TicaBrasil1| text = RT @portalbrasil: Judô define seleção paralímpica para os Jogos #Rio2016 https://t.co/RGCAKdu2br
+date = Thu Jul 07 00:17:16 +0000 2016| user = fimdejogo| text = enquanto estava no @RioInfoOficial a equipe do fimdejogo acompanhou o lançamento dos uniformes do time brasil @Rio2016
+date = Thu Jul 07 00:16:13 +0000 2016| user = jn_nunes| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:15:48 +0000 2016| user = eltongabrieljr| text = RT @Flamengo: #Falta1mês para os #JogosOlímpicos @Rio2016! E vai ter atleta do Mengão, fique de olho no #TimeFlamengo! https://t.co/AEzXwDR…
+date = Thu Jul 07 00:15:11 +0000 2016| user = cfredbastos| text = RT @minesporte: #Faltam30Dias pros Jogos @Rio2016, e o @hugocalderano, do tênis de mesa, conta com a sua torcida! @CBTM_TM https://t.co/GaY…
+date = Thu Jul 07 00:15:10 +0000 2016| user = portalbrasil| text = Judô define seleção paralímpica para os Jogos #Rio2016 https://t.co/RGCAKdu2br
+date = Thu Jul 07 00:15:03 +0000 2016| user = cfredbastos| text = RT @Rio2016: Navio funciona como hospedagem no Rio 2016 e tem cruzeiros antes e depois dos Jogos: https://t.co/DwdRPiWzQZ https://t.co/XyYD…
+date = Thu Jul 07 00:14:31 +0000 2016| user = marcant2005| text = @Rio2016 Fui retirar meus ingressos da Abertura e fiquei decepcionado por não receber meus ingressos comemorativos para fazer meu quadro
+date = Thu Jul 07 00:14:01 +0000 2016| user = IQUFRJ| text = Alteração trânsito campus Cidade Universitária ilha Fundão/UFRJ - Olimpíadas Rio2016: ver https://t.co/STKnFcka50
+date = Thu Jul 07 00:13:14 +0000 2016| user = ArtthurTomaz| text = RT @ZNHandebol: MINHA SELEÇÃO! M-I-N-H-A! #RaçaBRASIL #Rio2016 https://t.co/lqc5rbH2HH
+date = Thu Jul 07 00:11:33 +0000 2016| user = SamlSa/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+muel| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:11:07 +0000 2016| user = vini070800| text = #Falta1Mês para os @JogosOlimpicos . Chega logo @Rio2016
+date = Thu Jul 07 00:10:56 +0000 2016| user = marcant2005| text = Fui retirar meus ingressos da abertura e fiquei decepcionado por não receber os ingressos comemorativo p/ fazer meu quadro     #Rio2016
+date = Thu Jul 07 00:10:35 +0000 2016| user = cfredbastos| text = RT @minesporte: Centro Principal de Mídia do #Rio2016 começa a funcionar. https://t.co/EK18wRSLal https://t.co/XMjRwE6rr5
+date = Thu Jul 07 00:10:23 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Daqui a 30 Dias, no desfile de abertura @Rio2016,  serão esses os uniformes do @timebrasil.  https://t.co/j9FygnzptP https:…
+date = Thu Jul 07 00:09:58 +0000 2016| user = Marcel_MdS| text = RT @BancoCentralBR: A #TochaOlímpica é a estrela da nossa #moedadodia e falta só 1 mês para ela brilhar na abertura do Jogos #Rio2016! http…
+date = Thu Jul 07 00:09:03 +0000 2016| user = Charlesantini| text = @ESPNagora @Rio2016 @ServiliodeOli orgulho deste campeão.Servilio de Oliveira.
+date = Thu Jul 07 00:08:47 +0000 2016| user = paulo1_www| text = RT @OGlobo_Esportes: Vadão, técnico da seleção feminina, elogia Marta, organização tática e mira ouro na #Rio2016 https://t.co/qo2gm1HNCw h…
+date = Thu Jul 07 00:08:29 +0000 2016| user = mabiabarros| text = RT @timebrasil: Sabia que mais de 460 atletas brasileiros se classificaram para os Jogos Olímpicos @Rio2016? #Faltam30dias https://t.co/gTZ…
+date = Thu Jul 07 00:08:16 +0000 2016| user = alvesviniciusn2| text = Está difícil anda na cidade valeu governo 3 horas e nada de chega em casa @Rio2016
+date = Thu Jul 07 00:08:08 +0000 2016| user = kieloliveira| text = RT @BancoCentralBR: A #TochaOlímpica é a estrela da nossa #moedadodia e falta só 1 mês para ela brilhar na abertura do Jogos #Rio2016! http…
+date = Thu Jul 07 00:07:30 +0000 2016| user = HELDTLOKOO| text = Fuzileiros Navais fazem treinamento antiterrorismo para a Rio 2016 https://t.co/Px2u015vWv
+date = Thu Jul 07 00:07:22 +0000 2016| user = marcio32salgado| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:07:18 +0000 2016| user = gabykunsler_| text = Sobre ontem! 💖
+ #IssoÉOuro 
+#Rio2016 
+@CocaCola_Br https://t.co/0QPbij5U0u
+date = Thu Jul 07 00:07:17 +0000 2016| user = brasildeovelhas| text = RT @ForaPTJa: #10Medidascontracorrupcao Já!! #LavaJato #Rio2016 #RioOlympics #Rio #Veja #10MedidasAprovadas Já!! #Copacabana https://t.co/V…
+date = Thu Jul 07 00:07:12 +0000 2016| user = Albertovsky7| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:06:31 +0000 2016| user = cfredbastos| text = RT @timebrasil: Olímpicos e elegantes! Os atletas apresentam o uniforme de abertura e encerramento do @timebrasil para @Rio2016 https://t.c…
+date = Thu Jul 07 00:06:25 +0000 2016| user = AndCamps| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:06:20 +0000 2016| user = yurisreis10| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:05:54 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Calendário de jogos do goalball para o @Rio2016 é divulgado. https://t.co/2tJoAFlcp4 https://t.co/cnMJrkngec
+date = Thu Jul 07 00:04:59 +0000 2016| user = AnaLuVitorassi| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:04:53 +0000 2016| user = jmmartinez84| text = @timebrasil @Rio2016 ... o time GB tive um gran JO no 2012... Brasil no 2016???
+date = Thu Jul 07 00:04:50 +0000 2016| user = duroy_z| text = RT @timebrasil: Sabia que mais de 460 atletas brasileiros se classificaram para os Jogos Olímpicos @Rio2016? #Faltam30dias https://t.co/gTZ…
+date = Thu Jul 07 00:04:47 +0000 2016| user = edgar85jimenez| text = RT @JogosOlimpicos: Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.…
+date = Thu Jul 07 00:04:07 +0000 2016| user = Rio2016| text = RT @Brasil2016: Alex Campelo, ex-zagueiro do Grêmio Xavante no #TourDaTocha em Pelotas. https://t.co/m1VUPt294S
+date = Thu Jul 07 00:03:40 +0000 2016| user = JogosOlimpicos| text = Catalina Ponor, 3 vezes campeã olímpica, será a porta-bandeira da Romênia 🇷🇴 na abertura dos Jogos @Rio2016! https://t.co/MR1NEpCSQY
+date = Thu Jul 07 00:02:45 +0000 2016| user = kiomakodama| text = @Brasil2016 @Rio2016 @ChamaOlimpica Grêmio Esportivo Brasil @GEBrasilOficial
+date = Thu Jul 07 00:02:01 +0000 2016| user = milagenovez| text = RT @timebrasil: Sabia que mais de 460 atletas brasileiros se classificaram para os Jogos Olímpicos @Rio2016? #Faltam30dias https://t.co/gTZ…
+date = Thu Jul 07 00:01:41 +0000 2016| user = rioinloco| text = RT @timebrasil: Sabia que mais de 460 atletas brasileiros se classificaram para os Jogos Olímpicos @Rio2016? #Faltam30dias https://t.co/gTZ…
+date = Thu Jul 07 00:01:41 +0000 2016| user = rbfilipe| text = RT @timebrasil: Sabia que mais de 460 atletas brasileiros se classificaram para os Jogos Olímpicos @Rio2016? #Faltam30dias https://t.co/gTZ…
+date = Thu Jul 07 00:01:11 +0000 2016| user = timebrasil| text = Sabia que mais de 460 atletas brasileiros se classificaram para os Jogos Olímpicos @Rio2016? #Faltam30dias https://t.co/gTZU86ZyaL
+date = Thu Jul 07 00:01:02 +0000 2016| user = JogosOlimpicos| text = RT @Brasil2016: #PossoTeDizerUmaCoisa O @timebrasil 🇧🇷 tá pronto pra ganhar várias dessas aqui🏅! Faltam 30 dias pros Jogos @Rio2016! https:…
+date = Thu Jul 07 00:00:59 +0000 2016| user = tv4guanajuato| text = RT @guanajuatocode: @evagurrolaa atleta CODE #Guanajuato a @rio2016_es #RumboARio https://t.co/gzIAttX8br https://t.co/bfFCCz25n8
+date = Thu Jul 07 00:00:39 +0000 2016| user = Francinemrb| text = #Rio2016 falta criatividade ao Brasil, todo uniforme da delegação é igual, parecendo uma samambaia.
+date = Thu Jul 07 00:00:32 +0000 2016| user = cfredbastos| text = RT @Brasil2016: #PossoTeDizerUmaCoisa O @timebrasil 🇧🇷 tá pronto pra ganhar várias dessas aqui🏅! Faltam 30 dias pros Jogos @Rio2016! https:…
+date = Thu Jul 07 00:00:04 +0000 2016| user = Luluzinha0110| text = RT @SeuEsporteBR: Convocação | Handebol Feminino #Rio2016 https://t.co/SK5McWBt3e
+date = Wed Jul 06 23:59:35 +0000 2016| user = Rio2016| text = RT @Brasil2016: Secretário Andrei passa a @ChamaOlimpica  para Alessandro Jacondino, também da Sesge. https://t.co/FwkSeLofc4
+date = Wed Jul 06 23:59:13 +0000 2016| user = OlympicRio016| text = RT @juliiocesar: Acho desnecessário , serinho #rio2016
+date = Wed Jul 06 23:58:19 +0000 2016| user = juliiocesar| text = Acho desnecessário , serinho #rio2016
+date = Wed Jul 06 23:57:58 +0000 2016| user = juliiocesar| text = Até tanques de guerra vai ter no #Rio2016
+date = Wed Jul 06 23:57:45 +0000 2016| user = alcidesxavier| text = Mais de 21mil soldados cuidando da segurança do Rio! É o restante do Brasil? Entrega pra Deus!?! #olimpíadas #rio2016
+date = Wed Jul 06 23:57:44 +0000 2016| user = RosangelaBoigu2| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Wed Jul 06 23:57:42 +0000 2016| user = authentica1320| text = RT @AuthenticGames: Galera #Falta1Mês para os @JogosOlimpicos . Chega logo @Rio2016 https://t.co/lPRNISIOOo
+date = Wed Jul 06 23:57:39 +0000 2016| user = tovaga| text = RT @Planalto: A partir desta terça (5), 5 mil policiais e 21 mil militares atuarão na segurança das arenas e das vias olímpicas #Rio2016
+date = Wed Jul 06 23:57:34 +0000 2016| user = MarcosBabilonia| text = Semestre acadêmico modo OFF, Juegos olímpicos modo ON @obabilonia1. Con ingressos listos, a sólo 30 dias #Rio2016 https://t.co/5r4WztZV3c
+date = Wed Jul 06 23:57:33 +0000 2016| user = biancadobem| text = #JN
+
+Seria como dar festa com dinheiro dos outros, #Rio2016
+date = Wed Jul 06 23:56:39 +0000 2016| user = tovaga| text = RT @Planalto: Os Jogos Olímpicos #Rio2016 terão o maior esquema de segurança já executado no Brasil: https://t.co/gbOkJKSPke https://t.co/k…
+date = Wed Jul 06 23:56:31 +0000 2016| user = Dotto_RJ| text = RT @GovRJ: As Forças Armadas vão atuar com cerca de 22 mil militares na @Rio2016. O efetivo antes previsto era de 18 mil. https://t.co/4NXQ…
+date = Wed Jul 06 23:56:10 +0000 2016| user = farcristin| text = Piada do dia:  'Não vai faltar segurança na Olimpíada', diz ministro da Defesa https://t.co/7I5yHykBIW
+date = Wed Jul 06 23:56:05 +0000 2016| user = APhoenix13| text = Nada como saber valorizar o produto,rsrsrs, sqn...#rio2016...#Hookersfor10box https://t.co/85L59QcTLR
+date = Wed Jul 06 23:54:43 +0000 2016| user = isaac_pina| text = RT @guanajuatocode: @evagurrolaa atleta CODE #Guanajuato a @rio2016_es #RumboARio https://t.co/gzIAttX8br https://t.co/bfFCCz25n8
+date = Wed Jul 06 23:54:05 +0000 2016| user = polianam_| text = RT @VEJA: Brasil apresenta uniformes de gala para a abertura da @Rio2016. Você gostou?
+https://t.co/LrEKHWFebV
+date = Wed Jul 06 23:53:43 +0000 2016| user = melhorpessoaeu| text = ano eleitoral, #rio2016, estreia de #xfactorbr... não vai ser fácil pra concorrência. mesmo sem cqc e com pânico ruim, band marcando forte.
+date = Wed Jul 06 23:53:37 +0000 2016| user = tovaga| text = RT @Planalto: Defesa aumenta efetivo de segurança para #Rio2016 https://t.co/IMiIZfb6lV
+date = Wed Jul 06 23:53:32 +0000 2016| user = tovaga| text = RT @Planalto: Ministro da @DefesaGovBr, Raul Jungmann, afirmou nesta quarta (6) que não vai faltar segurança nos Jogos #Rio2016 https://t.c…
+date = Wed Jul 06 23:53:18 +0000 2016| user = tovaga| text = RT @Planalto: Efetivo para Jogos #Rio2016 chegará a 41 mil homens, afirma Jungmann (@DefesaGovBr) https://t.co/IMiIZfb6lV https://t.co/JCos…
+date = Wed Jul 06 23:52:57 +0000 2016| user = Round_Trip_Tur| text = RT @Rio2016: Luiza Rios começou na natação com 6 anos, mas só em 2012 se tornou atleta e quer ir aos Jogos Rio 2016. #RumoAoRio https://t.c…
+date = Wed Jul 06 23:52:31 +0000 2016| user = Round_Trip_Tur| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Wed Jul 06 23:52:26 +0000 2016| user = SeuEsporteBR| text = RT @SeuEsporteBR: Convocação | Handebol Feminino #Rio2016 https://t.co/SK5McWBt3e
+date = Wed Jul 06 23:52:17 +0000 2016| user = guanajuatocode| text = @evagurrolaa atleta CODE #Guanajuato a @rio2016_es #RumboARio https://t.co/gzIAttX8br https://t.co/bfFCCz25n8
+date = Wed Jul 06 23:51:57 +0000 2016| user = SeuEsporteBR| text = RT @SeuEsporteBR: Olha elas!!! As meninas do Nado Sincronizado com os uniformes da Cerimônia de Abertura #Rio2016 #RumoAoRio https://t.co/N…
+date = Wed Jul 06 23:51:53 +0000 2016| user = fernandotigp| text = RT @nocleico: Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co…
+date = Wed Jul 06 23:51:35 +0000 2016| user = EliasDaniiel| text = @wellingcampos @Rio2016 @Cruzeiro jogo de hoje contra o Vitória dois a zero pro time visitante elimina o segundo jogo?
+date = Wed Jul 06 23:51:21 +0000 2016| user = DuduCordovil| text = Para a @Rio2016 a @NiteroiPref fica em outro mundo,o @RIOCARD_ especial dos jogos olimpicos nao é aceito em onibus intermunicpais nem Barcas
+date = Wed Jul 06 23:50:55 +0000 2016| user = Vivi_Fonseca804| text = RT @timebrasil: Olímpicos e elegantes! Os atletas apresentam o uniforme de abertura e encerramento do @timebrasil para @Rio2016 https://t.c…
+date = Wed Jul 06 23:50:39 +0000 2016| user = joesilvams| text = Carregando o fogo olímpico !! #NISSAN #Tocha #Épico #Rio2016 #Brasil #instagood #love @ Santa… https://t.co/CmJr6Hi2s3
+date = Wed Jul 06 23:50:00 +0000 2016| user = marcusalbuque| text = Para quem se interessar, novos ingressos serão disponibilizados amanha ao meio dia para: tenis, ginastica... https://t.co/vf4sIfwSrT
+date = Wed Jul 06 23:49:28 +0000 2016| user = sheila991017090| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Wed Jul 06 23:48:12 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 https://t.co/82lddAjHkJ Senado aprova MP sobre controle de doping para Rio 2016… https://t.co/LInFRbsCDo
+date = Wed Jul 06 23:48:11 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 Navio funciona como hospedagem no Rio 2016 e tem cruzeiros ... Rio 2016 Embarcações de… https://t.co/xRjVm0VtY6
+date = Wed Jul 06 23:47:32 +0000 2016| user = Round_Trip_Tur| text = RT @Rio2016: Quer saber como chegar às arenas, o que levar e outras informações?Confira o Guia dos Jogos: https://t.co/sBYjSeQJfR https://t…
+date = Wed Jul 06 23:47:19 +0000 2016| user = ballaoficial| text = PRONUNCIAMENTO DO ESTADO ISLÂMICO. #Rio2016 #VemPraRua31Julho #olimPIADAS https://t.co/zYz99gkX4p
+date = Wed Jul 06 23:47:03 +0000 2016| user = dngrio| text = Faltam 2 dias... BROTA #madureira #Rio2016 #Rio #rj #hiphop #trap #viadutodemadureira #ghetto #brands #urbanclothing https://t.co/SOKkbuwDWd
+date = Wed Jul 06 23:46:56 +0000 2016| user = AndrePapagaios| text = @wellingcampos @Rio2016 @Cruzeiro podemos ir atrás de um volante rápido.
+date = Wed Jul 06 23:46:53 +0000 2016| user = PatrickHartwig| text = @Brasil2016 @Rio2016 @ChamaOlimpica nao seria corredor? HAHAHA
+date = Wed Jul 06 23:46:36 +0000 2016| user = MagriYoga| text = RT @Lobatadas: Notícias da Cidade Olímpica sitiada pelo crime. #Rio2016 https://t.co/DG9IfA1Noq
+date = Wed Jul 06 23:44:59 +0000 2016| user = AlmeidaKilaed| text = RT @GEdoBrasil: 1 mês do início dos Jogos Olímpicos @Rio2016 e #DiadaSaúde. Como essas datas estão ligadas? https://t.co/3bMcDQzzgR https:/…
+date = Wed Jul 06 23:44:40 +0000 2016| user = eucruzanderson| text = apoiando Olimpiadas2016 #Rio2016
+date = Wed Jul 06 23:44:09 +0000 2016| user = Hortencia| text = Uniformes do Time Brasil para a Abertura e encerramento dos Jogos Olímpicos. Gostaram? #rio2016 https://t.co/NwdQn6iZVz
+date = Wed Jul 06 23:43:34 +0000 2016| user = danielradd| text = RT @timebrasil: Deixe a energia boa dos atletas classificados para @Rio2016 te contagiar! Falta 1 mês para os Jogos Olímpicos. https://t.co…
+date = Wed Jul 06 23:43:30 +0000 2016| user = laisrdrgues| text = RT @iG: A um mês dos Jogos, @eduardopaes_ diz que não fala mais sobre segurança. #Rio2016
+
+→ https://t.co/muyOycBlcN https://t.co/kyMXGZkMDI
+date = Wed Jul 06 23:43:19 +0000 2016| user = WhereverIGo1R| text = @ViniciusRio2016 @rio2016_es @TomRio2016 Oh, um prazer te conhecer, Vinicius!!!! 😊
+date = Wed Jul 06 23:43:03 +0000 2016| user = sivoneydias| text = RT @JogosOlimpicos: Em 2008, @CesarCielo fez história e emocionou o 🇧🇷. Faltam 30 dias para mais história ser escrita no @Rio2016! 💚💛
+https…
+date = Wed Jul 06 23:43:00 +0000 2016| user = guiadabolareal| text = RT @SurtoOlimpico: A Argentina libera a convocação da seleção de futebol para o @Rio2016 https://t.co/oVWmDqj9RX
+date = Wed Jul 06 23:41:42 +0000 2016| user = USAemPortugues| text = @WHASpeaks: 30 dias para #Rio2016! Veja o blog especial da Missão dos EUA no Brasil @EmbaixadaEUA: https://t.co/aMRqGsTkIS
+date = Wed Jul 06 23:41:05 +0000 2016| user = charlesampaio| text = RT @JogosOlimpicos: A ciclista campeã olímpica @AnnaMeares  será a porta-bandeira do Team Austrália na abertura dos Jogos @Rio2016! 👏👏 http…
+date = Wed Jul 06 23:40:07 +0000 2016| user = blauwiemich| text = RT @timebrasil: Olímpicos e elegantes! Os atletas apresentam /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+o uniforme de abertura e encerramento do @timebrasil para @Rio2016 https://t.c…
+date = Wed Jul 06 23:40:04 +0000 2016| user = BondinhoOficial| text = Chegou hoje ao Morro da Urca a hashtag #rio2016 https://t.co/a8OMIlwzZy
+date = Wed Jul 06 23:39:47 +0000 2016| user = MagriYoga| text = RT @EstadaoEsporte: Forças Armadas terão 22 mil militares na segurança do @Rio2016 - https://t.co/n3zsB3s1VU https://t.co/1YlxVYtijj
+date = Wed Jul 06 23:38:36 +0000 2016| user = Nelifaria| text = @Brasil2016 @rio2016_es @ChamaOlimpica num país sem saneamento básico !!!!viva a tocha!
+date = Wed Jul 06 23:37:58 +0000 2016| user = camilo_camiilo| text = RT @BancoCentralBR: A #TochaOlímpica é a estrela da nossa #moedadodia e falta só 1 mês para ela brilhar na abertura do Jogos #Rio2016! http…
+date = Wed Jul 06 23:37:53 +0000 2016| user = norma_suelly| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/nOchwF21i1
+date = Wed Jul 06 23:37:51 +0000 2016| user = laisa_lyssa| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/gxfnL4cCZd
+date = Wed Jul 06 23:37:48 +0000 2016| user = rubiabeta74| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/H31McjrKXe
+date = Wed Jul 06 23:37:46 +0000 2016| user = lucianabeta73| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/rkwrnEAy5L
+date = Wed Jul 06 23:37:43 +0000 2016| user = ederbeta71| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/s8w4CUCPeD
+date = Wed Jul 06 23:37:40 +0000 2016| user = alinesantanna69| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/DCemk8JBcH
+date = Wed Jul 06 23:37:38 +0000 2016| user = wellingtonleme8| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/eqW10KFzmj
+date = Wed Jul 06 23:37:36 +0000 2016| user = pedrobeta67| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/Z4ZSHkOWuY
+date = Wed Jul 06 23:37:34 +0000 2016| user = antonioinacio61| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/nOSav8kV43
+date = Wed Jul 06 23:37:30 +0000 2016| user = lovialongtime| text = #i5gornascimento #12 Senado aprova MP que fixa regras para controle de doping na Olimpíada: ... https://t.co/yma9j0jbQz #i5gornascimento
+date = Wed Jul 06 23:37:21 +0000 2016| user = Susystrella| text = RT @EstadaoEsporte: Forças Armadas terão 22 mil militares na segurança do @Rio2016 - https://t.co/n3zsB3s1VU https://t.co/1YlxVYtijj
+date = Wed Jul 06 23:37:20 +0000 2016| user = B4utos| text = #OperacaoBetaLab Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria t... https://t.co/7W5Dw3eSqK #TIMBETA
+date = Wed Jul 06 23:37:16 +0000 2016| user = TeleVansBH| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/I20YVc9scJ
+date = Wed Jul 06 23:37:13 +0000 2016| user = 3Cleber| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/CXstbiZz5T
+date = Wed Jul 06 23:37:10 +0000 2016| user = Correia01Lu| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/lTZseVJMI5
+date = Wed Jul 06 23:37:06 +0000 2016| user = PORTALWL| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/Ogttg63MoT
+date = Wed Jul 06 23:36:57 +0000 2016| user = SoNeews| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/0BhrZgdo5j
+date = Wed Jul 06 23:36:51 +0000 2016| user = absintomuito| text = Show cabuloso ontem no #ocupaminc ! Foramostemer habemuspapa ! #rio2016 #praia #absinta #turnêrio https://t.co/m6RsbNMdQo
+date = Wed Jul 06 23:36:18 +0000 2016| user = cleberlab| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/Wf1fCqqXHA
+date = Wed Jul 06 23:36:09 +0000 2016| user = JhonnyConroe| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/XqW3za0Btb
+date = Wed Jul 06 23:36:05 +0000 2016| user = SamirSilva_x| text = RT @wellingcampos: Jogos Olímpicos @Rio2016 Lucas Romero do @Cruzeiro convocado. https://t.co/uluetmqq52 #Itatiaia
+date = Wed Jul 06 23:35:58 +0000 2016| user = Joan_Cleber| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/3i4Ff0mbhI
+date = Wed Jul 06 23:35:39 +0000 2016| user = jca_santos| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/HEW4S8XVao
+date = Wed Jul 06 23:35:37 +0000 2016| user = marcosaugusto88| text = RT @JogosOlimpicos: Em 2008, @CesarCielo fez história e emocionou o 🇧🇷. Faltam 30 dias para mais história ser escrita no @Rio2016! 💚💛
+https…
+date = Wed Jul 06 23:35:35 +0000 2016| user = ab_nandi| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/oyoHnCRyy2
+date = Wed Jul 06 23:35:31 +0000 2016| user = filipeborges22| text = #Operaçãoretweet Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/8Vf1xcKlK3 #betalab
+date = Wed Jul 06 23:35:31 +0000 2016| user = Silvasoni| text = @GovRJ @Rio2016 Quem vai pagar as despesas dos soldados até as eleições? E os salários atrasados ? Vão pedir emprestado p @SergioCabralRJ ?
+date = Wed Jul 06 23:35:29 +0000 2016| user = LeoWasteny| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/MCjk7GMyYK
+date = Wed Jul 06 23:35:21 +0000 2016| user = gilsonac1| text = #BetaLab #timBeta Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto ... https://t.co/ytGltLnref Se gostou RT!
+date = Wed Jul 06 23:35:21 +0000 2016| user = JogosOlimpicos| text = Anunciado o time da 🇦🇷 que vai brigar pelo tri olímpico no @Rio2016! Boa sorte a todos! 😉⚽️ https://t.co/mKXKeTDG8x
+date = Wed Jul 06 23:35:19 +0000 2016| user = TimBetaJP| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/0k2AdDkbZx
+date = Wed Jul 06 23:35:09 +0000 2016| user = Saamantha01| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/NJ7aQkWv0c
+date = Wed Jul 06 23:34:57 +0000 2016| user = Fabricio_betala| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/tJVWEuoX9B
+date = Wed Jul 06 23:34:54 +0000 2016| user = AlegriaKatia| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/nvWmhgR4gC
+date = Wed Jul 06 23:34:50 +0000 2016| user = BmsMarques| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/XjSGB0tuV8
+date = Wed Jul 06 23:34:47 +0000 2016| user = wellingcampos| text = Jogos Olímpicos @Rio2016 Lucas Romero do @Cruzeiro convocado. https://t.co/uluetmqq52 #Itatiaia
+date = Wed Jul 06 23:34:16 +0000 2016| user = lchixarobeta| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/qIUjFjcGXo
+date = Wed Jul 06 23:34:14 +0000 2016| user = FilipeRgis| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/xSn9ZBT6ei
+date = Wed Jul 06 23:34:06 +0000 2016| user = AriciaSilvaDiva| text = @barraco_reality Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal p... https://t.co/rYP9s8DEGu
+date = Wed Jul 06 23:33:50 +0000 2016| user = SpassosRJ| text = RT @jornalodia: #Sindicato dos #servidores critica Paes por se isentar da violência no Rio  #olimpíadas #rio2016 
+
+https://t.co/rly7sSZOO5
+date = Wed Jul 06 23:33:42 +0000 2016| user = felipe_deck1| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/ABwm3QRNiv
+date = Wed Jul 06 23:33:33 +0000 2016| user = BodeOfWar| text = #B0DERULEZ Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para ju... https://t.co/DLtN7PHMS4
+date = Wed Jul 06 23:33:31 +0000 2016| user = Market_JJ| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/8eBUuaaruQ
+date = Wed Jul 06 23:33:20 +0000 2016| user = jotapeah| text = #jpalencarbeta Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal par... https://t.co/enrzKe9eT4
+date = Wed Jul 06 23:32:33 +0000 2016| user = GersonTrev| text = RT @iasd: Já leu essa: Pastor adventista participará das Olimpíadas #rio2016 como capelão voluntário. https://t.co/UeXhxTg6kG https://t.co/…
+date = Wed Jul 06 23:31:31 +0000 2016| user = KarolinnaE| text = RT @fjv_ne: @Brasil2016 @Rio2016 @garcialuan93 @vascodagama Triste por desfalcar nosso time,mas feliz pelo Luan e representando nosso vascã…
+date = Wed Jul 06 23:31:09 +0000 2016| user = jornalistavitor| text = RT @EstadaoEsporte: Forças Armadas terão 22 mil militares na segurança do @Rio2016 - https://t.co/n3zsB3s1VU https://t.co/1YlxVYtijj
+date = Wed Jul 06 23:30:43 +0000 2016| user = LeaMarciaSilva| text = RT @timebrasil: Olímpicos e elegantes! Os atletas apresentam o uniforme de abertura e encerramento do @timebrasil para @Rio2016 https://t.c…
+date = Wed Jul 06 23:30:39 +0000 2016| user = brasildeovelhas| text = RT @Lobatadas: Notícias da Cidade Olímpica sitiada pelo crime. #Rio2016 https://t.co/DG9IfA1Noq
+date = Wed Jul 06 23:30:35 +0000 2016| user = jr140797| text = #betacaralhudosan Senado aprova MP que fixa regras para controle de doping na Olimpíada: Te... https://t.co/uG3avSKns2 #betacaralhudosan
+date = Wed Jul 06 23:30:31 +0000 2016| user = bruno_jesu| text = RT @nocleico: Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co…
+date = Wed Jul 06 23:30:21 +0000 2016| user = fraquepreto| text = RT @nocleico: Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co…
+date = Wed Jul 06 23:29:42 +0000 2016| user = hiago_jordao| text = RT @assis_gomes: #rt1 Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar a... https://t…
+date = Wed Jul 06 23:29:39 +0000 2016| user = Cris_duh_123| text = RT @Lobatadas: Notícias da Cidade Olímpica sitiada pelo crime. #Rio2016 https://t.co/DG9IfA1Noq
+date = Wed Jul 06 23:28:31 +0000 2016| user = Binhojc21| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/dbNMaqCefY
+date = Wed Jul 06 23:28:10 +0000 2016| user = JssicaTIM1| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/9oOuonZ5wy
+date = Wed Jul 06 23:28:02 +0000 2016| user = Teresa_betalab| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/djMvWECDjy
+date = Wed Jul 06 23:27:49 +0000 2016| user = MarisaMarroqu45| text = 30 dias para Rio 2016 cada vez mas cerca #Rio2016 https://t.co/oxhMobCMjK
+date = Wed Jul 06 23:27:48 +0000 2016| user = ConexaoReggaeR| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/4m3DROJ7R3
+date = Wed Jul 06 23:27:44 +0000 2016| user = jcleber73| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/I3BhgipcsF
+date = Wed Jul 06 23:27:40 +0000 2016| user = RetwetBeta| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/PkbieGGTjC
+date = Wed Jul 06 23:27:37 +0000 2016| user = luzdoceuclara| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/vg4tYvYLdx
+date = Wed Jul 06 23:27:24 +0000 2016| user = BarbosaVasco197| text = RT @g1rio: Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/1HDbO7gdI8
+date = Wed Jul 06 23:27:22 +0000 2016| user = liratimbeta1| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/Firtmlojlv
+date = Wed Jul 06 23:27:20 +0000 2016| user = joanahmoura| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/y14cvh2Ayh #TIMBETA
+date = Wed Jul 06 23:27:09 +0000 2016| user = irevirdebike| text = RT @JogosOlimpicos: A ciclista campeã olímpica @AnnaMeares  será a porta-bandeira do Team Austrália na abertura dos Jogos @Rio2016! 👏👏 http…
+date = Wed Jul 06 23:27:06 +0000 2016| user = carmemsantos55| text = Risco de zika na Olimpíada é quase 'inexistente', diz Temer https://t.co/f4yqvCpaqa
+date = Wed Jul 06 23:26:59 +0000 2016| user = mattemorrissey| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/3eXFtQvvNY
+date = Wed Jul 06 23:26:57 +0000 2016| user = Francielfbm| text = #OperacaoBetaLab Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal p... https://t.co/XCP2tTyEww
+date = Wed Jul 06 23:26:55 +0000 2016| user = carmemsantos55| text = 'Não vai faltar segurança na Olimpíada', diz ministro da Defesa https://t.co/EzcyRSZeFy
+date = Wed Jul 06 23:26:51 +0000 2016| user = soudoesporte| text = Vai que é tua Marta e seleção de futebol feminino! 🇧🇷🏆❤️
+
+#vaibrasil #rio2016 #soudoesporte https://t.co/14hzS3OtMU
+date = Wed Jul 06 23:26:50 +0000 2016| user = beta_lodonho| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/htLfex4fgy
+date = Wed Jul 06 23:26:48 +0000 2016| user = Delta_233| text = #hu3b3t Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julga... https://t.co/nClqvuFB0D
+date = Wed Jul 06 23:26:45 +0000 2016| user = nocleico| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.co/4yYOTZCjAd
+date = Wed Jul 06 23:26:43 +0000 2016| user = JessicaHelp| text = Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para ... https://t.co/1waPbWCmEt #RT #TimBeta
+date = Wed Jul 06 23:26:42 +0000 2016| user = BarbosaVasco197| text = RT @g1rio: Risco de zika na Olimpíada é quase 'inexistente', diz Michel Temer https://t.co/YGgW3NxaST
+date = Wed Jul 06 23:26:05 +0000 2016| user = igor22_FM| text = RT @SESGE_MJ: A operação Integrada de segurança dos Jogos #Rio2016 já começou. #JogosSeguros https://t.co/5VJdb9XHCU
+date = Wed Jul 06 23:25:54 +0000 2016| user = xandeporco| text = RT @RealDuva: Tudo 100% no evento teste dos Saltos Ornamentais! Parabéns @Rio2016! https://t.co/Iv8inDTCp7
+date = Wed Jul 06 23:25:49 +0000 2016| user = Weslleysn9| text = RT @jamarquesjunior: #Argentina #Rio2016 os 18 convocados para os Jogos Olímpicos https://t.co/5dzghnfSgW
+date = Wed Jul 06 23:25:41 +0000 2016| user = GylldeAbreu| text = RT @andrefran: Barcelona estourou 609% o orçamento, Londres 133%, Atlanta 178%. #Rio2016 ficou 30% abaixo. Há o que criticar, mas menos vir…
+date = Wed Jul 06 23:25:40 +0000 2016| user = Musashinin| text = Nos EUA e Japão, essa quadrilha petralha encontrar-se-iam a tempos puxando carvão para o capeta. @SenadoFederal @Rio2016 #OperaçãoLavajato
+date = Wed Jul 06 23:25:34 +0000 2016| user = Rezende_LR7| text = RT @jamarquesjunior: #Argentina #Rio2016 os 18 convocados para os Jogos Olímpicos https://t.co/5dzghnfSgW
+date = Wed Jul 06 23:25:33 +0000 2016| user = BarbosaVasco197| text = RT @g1rio: Paralelo à Rio 2016, coral resgata autoestima de moradores de rua https://t.co/IfBDDgrPDs
+date = Wed Jul 06 23:25:03 +0000 2016| user = Daniel_boycrazy| text = @apurezadaflor Sério, caramba que pena!!! Mas vai em algum jogo do #Rio2016 ??? Pena mesmo, vai ser um jogao
+date = Wed Jul 06 23:23:39 +0000 2016| user = rlvalves| text = RT @JogosOlimpicos: Em 2008, @CesarCielo fez história e emocionou o 🇧🇷. Faltam 30 dias para mais história ser escrita no @Rio2016! 💚💛
+https…
+date = Wed Jul 06 23:23:32 +0000 2016| user = BaixinhaGrando1| text = RT @g1: Senado aprova MP que fixa regras para controle de doping na Olimpíada https://t.co/HD8cpxZEOY
+date = Wed Jul 06 23:23:22 +0000 2016| user = Alfredosborba| text = RT @Rio2016: O presidente da @CBDAoficial, Coaracy Nunes Filho, conduziu a @ChamaOlimpica  em sua cidade Natal, Macapá. https://t.co/zRh9zm…

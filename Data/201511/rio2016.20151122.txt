@@ -1,0 +1,466 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sun Nov 22 01:54:28 +0000 2015| user = joseamrezende| text = @portaldaband @bandjogoaberto E para @Rio2016, se preparando tão bem quanto para estas fotos? Espero que sim.
+date = Sun Nov 22 01:26:47 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 ...sábado chuvoso, friozinho moderado ...ainda estudando ...  | Alma Blues | Rádios EBC: https://t.co/5mCO8iEhff via @TVBrasil
+date = Sun Nov 22 01:15:34 +0000 2015| user = embassyofsport| text = RT @RaissaOPereira: 2013: tomo no cu
+2014: tomo no cu dnv
+2015: nn foi diferente 
+2016: ...........................  Bem provável q ss dnv.…
+date = Sun Nov 22 01:05:21 +0000 2015| user = Regys_Silva| text = RT @SurtoOlimpico: O levantamento de peso da Bulgária está fora do @Rio2016 https://t.co/O0MAZ8Pr1v https://t.co/VUyOdWRRLG
+date = Sun Nov 22 01:00:47 +0000 2015| user = SurtoOlimpico| text = O levantamento de peso da Bulgária está fora do @Rio2016 https://t.co/O0MAZ8Pr1v https://t.co/VUyOdWRRLG
+date = Sun Nov 22 00:53:01 +0000 2015| user = EBteam23| text = RT @manu270SPAIN: 49erFX Wch 201
+General Final
+6º @TEchegoyen @BertaBetanzos,@EBteam23 CLASIFICADAS PARA #Rio2016 tras su 6º posicion https…
+date = Sun Nov 22 00:48:50 +0000 2015| user = TolyGirl| text = Vem aí #rio2016 #aquecerio #fieldhockey https://t.co/D3QkJACWPE
+date = Sun Nov 22 00:45:42 +0000 2015| user = FabiolaBemfeito| text = Começando a montagem do evento teste de badminton #Rio2016 #MalAcabouUm #VemOutro #badminton… https://t.co/g4iQ64wovM
+date = Sun Nov 22 00:31:40 +0000 2015| user = zehporteiro| text = #copacabana Mais um dia de trabalho concluído.. que venham outros. .equipe top. #job#bh#rio2016 by jpfellipe https://t.co/6PZlEmGDtE
+date = Sun Nov 22 00:25:09 +0000 2015| user = fckzjohn| text = RT @SurtoOlimpico: Momento OWWWWN na gravação das promos da @NBCOlympics para o @Rio2016 com @MichaelPhelps https://t.co/CQkSYI2uun
+date = Sun Nov 22 00:24:20 +0000 2015| user = SurtoOlimpico| text = Momento OWWWWN na gravação das promos da @NBCOlympics para o @Rio2016 com @MichaelPhelps https://t.co/CQkSYI2uun
+date = Sun Nov 22 00:15:52 +0000 2015| user = RaissaOPereira| text = 2013: tomo no cu
+2014: tomo no cu dnv
+2015: nn foi diferente 
+2016: ...........................  Bem provável q ss dnv... #Rio2016
+date = Sat Nov 21 23:58:41 +0000 2015| user = ilobur_news| text = 180 países patrocinam a trégua Olímpica do Rio 2016 - Rio 2016 https://t.co/7pMzf2t4eg #ブラジル #五輪 #Rio2016
+date = Sat Nov 21 23:19:47 +0000 2015| user = arleisson_furo| text = Inclusive vamos reagendar porque a organização do @Rio2016 não conhece algo chamado Skype, né? https://t.co/TlIOEaESFF
+date = Sat Nov 21 22:38:49 +0000 2015| user = Dani_Marzo| text = Canal Olímpico de #rio2016 🇧🇷🚣 #icf #icfslalom #ilovec2 #savec2 @ Rio de Janeiro, Brazil https://t.co/DvcqeM7N4e
+date = Sat Nov 21 21:34:36 +0000 2015| user = ericovelloso| text = Objetivo alcançado. Formados #ABT #IOB #COB #Rio2016 #Judô #Febaju https://t.co/jmsPnN9be5
+date = Sat Nov 21 21:31:50 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 #tudopelaNFL @laricatotal ....hot dog padrão Larica Total  ... esperando NFL... MOMENTO DE JAXX (MEC FM) ... TOONCAST ... e estudo.
+date = Sat Nov 21 21:30:55 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 #tudopelaNFL @laricatotal ... minha irmã está casando e saiu fora ... fiz o cachorro quente de sábado no estilo "Larica Total"
+date = Sat Nov 21 21:22:36 +0000 2015| user = iDisplaySports| text = #Brasil #Rio2016 Martine Grael e Kahena Kunze são vice-campeãs mundiais na vela  #Br   https://t.co/swNKYnvkK5
+date = Sat Nov 21 21:22:36 +0000 2015| user = AoDiaBrasil| text = #Brasil #Rio2016 Martine Grael e Kahena Kunze são vice-campeãs mundiais na vela  #Br   https://t.co/3MnrDfn38x
+date = Sat Nov 21 20:57:56 +0000 2015| user = kleilindinha| text = Aquecimento pra Olimpíadas. #rio2016 #vemprorio #nataliagaudio  #ginasticaritmica https://t.co/pb1KZcRmof
+date = Sat Nov 21 20:30:26 +0000 2015| user = VanDarckPire| text = E foi dada a largada... Primeiro dia de Evento Teste! Let's Hockey! #OHK #Rio2016 #AqueceRio #vst @… https://t.co/xkRMocFyX0
+date = Sat Nov 21 20:29:53 +0000 2015| user = fCaputo| text = E foi dada a largada... Primeiro dia de Evento Teste! Let's Hockey! #OHK #Rio2016 #AqueceRio #vst @… https://t.co/Alif7DDB27
+date = Sat Nov 21 19:50:39 +0000 2015| user = embassyofsport| text = RT @manu270SPAIN: 49erFX Wch 201
+General Final
+6º @TEchegoyen @BertaBetanzos,@EBteam23 CLASIFICADAS PARA #Rio2016 tras su 6º posicion https…
+date = Sat Nov 21 19:01:40 +0000 2015| user = Raffafust| text = Já quero esse casaco #chile #Rio2016 @ Riocentro https://t.co/fgXCxkrSb9
+date = Sat Nov 21 19:01:27 +0000 2015| user = VoozBrasil| text = Participantes dos Jogos Escolares são escolhidos para o revezamento da tocha do Rio 2016 https://t.co/EEyBRMyHBq #Vooz #Rio2016
+date = Sat Nov 21 18:55:25 +0000 2015| user = manu270SPAIN| text = 49erFX Wch 201
+General Final
+6º @TEchegoyen @BertaBetanzos,@EBteam23 CLASIFICADAS PARA #Rio2016 tras su 6º posicion https://t.co/UZukXEluaT
+date = Sat Nov 21 18:48:23 +0000 2015| user = embassyofsport| text = RT @Raffafust: Quando trabalhar sábado é um prazer ♡♥♡♥ #Rio2016 https://t.co/rsBQtumsRi
+date = Sat Nov 21 18:39:13 +0000 2015| user = tennisview| text = Olha so @Rio2016  https://t.co/QStP1c30JA
+date = Sat Nov 21 18:39:02 +0000 2015| user = MetroJornal_SP| text = #Vídeo
+
+Bola de futebol dos Jogos Olímpicos do #Rio2016 é apresentada https://t.co/wdeNFtwibj https://t.co/A4f1lPDJEk
+date = Sat Nov 21 18:31:06 +0000 2015| user = Raffafust| text = Evento teste Olimpíadas ♡♥♡♥ com o marido #Rio2016 @ Riocentro https://t.co/XAwnUh2fyi
+date = Sat Nov 21 18:05:51 +0000 2015| user = apbonomo| text = @marcelomelo83 um ano maravilhoso!! Parabéns!! Espero te ver na Rio2016!! 💪💪
+date = Sat Nov 21 17:56:05 +0000 2015| user = lorenzopotrich| text = @ViniciusRio2016 @Rio2016_en Aqueduto da Carioca, Lapa. 🤔
+date = Sat Nov 21 17:50:59 +0000 2015| user = Raffafust| text = Quando trabalhar sábado é um prazer ♡♥♡♥ #Rio2016 https://t.co/rsBQtumsRi
+date = Sat Nov 21 17:48:38 +0000 2015| user = Milla_Morena85| text = RT @AqueceRio: Argentina leva o bronze em um set apertado com 13 a 11 contra o Chile! #EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm https://t…
+date = Sat Nov 21 17:17:00 +0000 2015| user = Ela_eh_carioca_| text = Homens que batem não merecem seu amor. Muito menos seu voto! https://t.co/To6qnjQsCC  #PedroPaulo  #Eleições2016  #Rio2016
+date = Sat Nov 21 16:58:26 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016...EVENTOS HAOLE by DEEJAY HAOLE (https://t.co/FgGlqkqMja) ...O VINHO (CRÔNIA) : A saga das garrafas azuis - https://t.co/0LIl4wwt9y
+date = Sat Nov 21 16:41:38 +0000 2015| user = PortalPetMag| text = Quase #300dias pra gente ver os atletas passarem num piscar de olhos nos #JogosParalímpicos! Quer saber mais? https://t.co/QRwVEGmpTg
+date = Sat Nov 21 16:40:18 +0000 2015| user = neywilson| text = @joaoderly @cpjudo estão tirando o Campeonato Pan-Americano do Rio de Janeiro evento estratégico para os atletas visando @Rio2016
+date = Sat Nov 21 16:37:49 +0000 2015| user = owbea_| text = Vai ser a Errejota e a Beatriz, novas bolas oficiais da adidas Rio2016
+date = Sat Nov 21 16:25:38 +0000 2015| user = mapmonicatsx| text = Exato!
+@SilvinhoRatoRj @Ancelmocom @Rio2016
+date = Sat Nov 21 15:51:11 +0000 2015| user = javcollao| text = RT @AqueceRio: Argentina leva o bronze em um set apertado com 13 a 11 contra o Chile! #EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm https://t…
+date = Sat Nov 21 15:49:57 +0000 2015| user = giovanivitoria| text = Tocha Olímpica Rio 2016: CHAMA QUEM FAZ! https://t.co/EnlSLVTKah
+date = Sat Nov 21 15:48:31 +0000 2015| user = AqueceRio| text = Argentina foi a grande equipe a levar o bronze na disputa de times! #EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm https://t.co/0wJDNrSIoF
+date = Sat Nov 21 15:47:00 +0000 2015| user = marcoan84529880| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Sat Nov 21 15:42:43 +0000 2015| user = AqueceRio| text = Argentina leva o bronze em um set apertado com 13 a 11 contra o Chile! #EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm https://t.co/ddjWllmSye
+date = Sat Nov 21 15:39:39 +0000 2015| user = Tina_Bel| text = Procurando noticia no @gymblogbrazil  sobre o Brasileiro de Ginastica. Ah, lembrei! a @cbginastica proibiu a cobertura por eles #Rio2016
+date = Sat Nov 21 15:35:04 +0000 2015| user = aninhaaddobbati| text = Entre Ásia e Europa. Qual escolho ? 1 chance :) #rio2016 #turkey @… https://t.co/QIbTbqmua7
+date = Sat Nov 21 15:33:13 +0000 2015| user = AqueceRio| text = 11 a 9 Argentina fazendo 2 x 1 contra o Chile! #EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm @JogosOlimpicos
+date = Sat Nov 21 15:26:03 +0000 2015| user = AqueceRio| text = Argentina faz 11 a 4 no segundo set! #EventoTeste #TênisDeMesa @Rio2016 @jogosolimpicos @CBTM_TM
+date = Sat Nov 21 15:24:06 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 ...Negritude não é pequenitude ... Nesta data celebramos a Consciência Negra e inconsistência negra ...
+https://t.co/eQPwkNu0tH
+date = Sat Nov 21 15:24:00 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 .... Negritude não é pequenitude... Nesta data celebramos a Consciência Negra e inconsistência negra ...
+https://t.co/eQPwkNu0tH
+date = Sat Nov 21 15:23:54 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 .... Negritude não é pequenitude ... Nesta data celebramos a Consciência Negra e inconsistência negra ...
+https://t.co/eQPwkNu0tH
+date = Sat Nov 21 15:23:17 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 .... Negritude não é pequenitude
+====================================
+https://t.co/PQWmJFKhqw
+date = Sat Nov 21 15:23:09 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 .... Negritude não é pequenitude
+===================================
+https://t.co/PQWmJFKhqw
+date = Sat Nov 21 15:22:43 +0000 2015| user = javcollao| text = RT @AqueceRio: 11 a 6 para o Chile na primeira rodada!
+#EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm @JogosOlimpicos
+date = Sat Nov 21 15:21:58 +0000 2015| user = AqueceRio| text = 11 a 6 para o Chile na primeira rodada!
+#EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm @JogosOlimpicos
+date = Sat Nov 21 15:21:14 +0000 2015| user = Rodrimuni| text = RT @rioturismonet: [AGENDA @Maracana ] 20/8  ORO @Rio2016 11/11 BRA VS ARG ELIM 2018 @Rodrimuni @SantiRusso @590competencia @DiarioOle http…
+date = Sat Nov 21 15:19:29 +0000 2015| user = AqueceRio| text = Quem será que leva o ponto na rodada de duplas? #EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm @JogosOlimpicos https://t.co/6GffCvlRaQ
+date = Sat Nov 21 15:15:11 +0000 2015| user = AqueceRio| text = 2 a 0 para Argentina na luta pelo bronze! #EventoTeste #TênisDeMesa @Rio2016 @cbtm_tm @JogosOlimpicos https://t.co/81vtzwOuit
+date = Sat Nov 21 15:13:54 +0000 2015| user = ribeiroivanir| text = RT @TVNBR: Aeronáutica aprimora Áreas de Controle Terminal em cinco aeroportos para melhorar fluxo de aviões durante #Rio2016 https://t.co/…
+date = Sat Nov 21 14:57:58 +0000 2015| user = AqueceRio| text = Argentina leva o primeiro ponto, 3 sets a 1 contra Chile #EventoTeste #TênisDeMesa @Rio2016 @CBTM_TM @JogosOlimpicos https://t.co/rVUTGU68xk
+date = Sat Nov 21 14:56:49 +0000 2015| user = soyJuanCorona| text = RT @Rio2016: As instalações dos Jogos estão tomando forma! #obras https://t.co/touIMNRAK1 https://t.co/XWxrsxuEEn
+date = Sat Nov 21 14:47:52 +0000 2015| user = anjolucarelli| text = @Rio2016 me sigam para que eu possa mandar uma dm?
+date = Sat Nov 21 14:46:14 +0000 2015| user = Rio2016| text = Pra quem vai sua torcida? :D https://t.co/drU7dWgK2A
+date = Sat Nov 21 14:33:56 +0000 2015| user = RJdenuncias| text = @rioonibusinfo @fetranspor até hj não obtivemos nenhuma resposta. E  a #zona #buzinaço continua. #viva #Rio2016 esse é nosso #riodejaneiro
+date = Sat Nov 21 14:31:06 +0000 2015| user = AqueceRio| text = Começou a disputa masculina pelo bronze! Quem será que leva? Chile ou Argentina? #EventoTeste #TênisDeMesa @Rio2016 https://t.co/eKDGVBgowg
+date = Sat Nov 21 14:15:10 +0000 2015| user = marciomtc| text = Eduardo Paes: «Terrorismo? Qualquer evento corre esse risco» - Record https://t.co/T4GGsBhMat
+date = Sat Nov 21 14:03:53 +0000 2015| user = crixfa| text = RT @TVNBR: Aeronáutica aprimora Áreas de Controle Terminal em cinco aeroportos para melhorar fluxo de aviões durante #Rio2016 https://t.co/…
+date = Sat Nov 21 14:03:13 +0000 2015| user = EllaIDK| text = Record Eduardo Paes: «Terrorismo? Qualquer evento corre esse risco» Record O prefeito do Rio de Janeiro, Eduardo… https://t.co/Gfqow53tnT
+date = Sat Nov 21 13:54:38 +0000 2015| user = anagomyde| text = RT @TVNBR: Aeronáutica aprimora Áreas de Controle Terminal em cinco aeroportos para melhorar fluxo de aviões durante #Rio2016 https://t.co/…
+date = Sat Nov 21 13:54:08 +0000 2015| user = JuanPabloIDK| text = Record Eduardo Paes: «Terrorismo? Qualquer evento corre esse risco» Record O prefeito do Rio de Janeiro, Eduardo… https://t.co/QX5LZxHAaN
+date = Sat Nov 21 13:45:32 +0000 2015| user = VictorNF8| text = Pra finalizar... 💥🚀↗#issoéouronojej #jebs #MG #coisalinda #ballislife #cocacola #coke #love #rio2016… https://t.co/2gjQrMCVF7
+date = Sat Nov 21 13:42:45 +0000 2015| user = Vitor_92_Manoel| text = RT @HTE__Sports: #Rio2016 - Depois da Rússia, foi a vez dos levantadores de peso da Bulgária serem suspensos por dopping generalizado.
+date = Sat Nov 21 13:32:44 +0000 2015| user = TVNBR| text = Aeronáutica aprimora Áreas de Controle Terminal em cinco aeroportos para melhorar fluxo de aviões durante #Rio2016 https://t.co/l1Afk67hjn
+date = Sat Nov 21 13:32:32 +0000 2015| user = Rio2016| text = Parabéns pro Chile! :D https://t.co/lNZesz8UKL
+date = Sat Nov 21 13:22:11 +0000 2015| user = HTE__Sports| text = #Rio2016 - Depois da Rússia, foi a vez dos levantadores de peso da Bulgária serem suspensos por dopping generalizado.
+date = Sat Nov 21 13:15:01 +0000 2015| user = AqueceRio| text = Esse foi o ponto que deu a medalha de bronze para o Chile no #EventoTeste de #TênisDeMesa @CBTM_TM  @Rio2016 https://t.co/cEp0xC6s5t
+date = Sat Nov 21 13:13:24 +0000 2015| user = Sol_Fig| text = @Rio2016 @AqueceRio Vai ter evento em Janeiro?
+date = Sat Nov 21 13:05:57 +0000 2015| user = flobrazil| text = RT @jaquelinevolei: Pq domingo tbm é dia de TREINOOOO!!!!! #vamosquevamos #Gosesi #Rio2016 #Olimpiadas #sai👀 https://t.co/7lrolVU6C4
+date = Sat Nov 21 12:57:00 +0000 2015| user = Cafecomjoe| text = @espfantastico @tvrecord Vcs já sabem que o Rio2016 será alvo...por probabilidade...
+date = Sat Nov 21 12:51:07 +0000 2015| user = iknowstew| text = Terrroristas vocês é nem pensem em pisar aqui no rio2016
+date = Sat Nov 21 12:43:59 +0000 2015| user = Rio2016| text = Bora acompanhar o @AqueceRio ! #EventoTeste #TênisDeMesa https://t.co/vNksf6HgTp
+date = Sat Nov 21 12:38:44 +0000 2015| user = osirisbarros| text = Rio2016 @ Parque Olímpico Rio 2016 https://t.co/qqgebWUHut
+date = Sat Nov 21 11:45:29 +0000 2015| user = ilobur_news| text = Natália Gaudio aposta no rock n' roll em coreografia para o Rio 2016 - https://t.co/tPuOTu46RU https://t.co/Rr58JuAe9H #ブラジル #五輪 #Rio2016
+date = Sat Nov 21 11:45:26 +0000 2015| user = ilobur_news| text = Com a vaga na vela do Rio 2016, veterano argentino supera câncer - https://t.co/tPuOTu46RU https://t.co/0gUxqjo5WY #ブラジル #五輪 #Rio2016
+date = Sat Nov 21 11:41:25 +0000 2015| user = PassageiroRJ| text = #Rio2016 em #Niterói: Parque aquático!
+
+RT @livymello: Atenção:reduza Largo Batalha 2a curva depois Fórum Pendotiba. https://t.co/5VuMSGRrdU
+date = Sat Nov 21 11:07:03 +0000 2015| user = picharillo73| text = Paes diz que chance de terrorismo na Olimpíada sempre foi preocupação https://t.co/u5YKfd3yOt via @UOLEsporte #Rio2016
+date = Sat Nov 21 11:07:00 +0000 2015| user = Ossox| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 10:50:19 +0000 2015| user = AoDiaBrasil| text = #Brasil #Rio2016 Brasileiro do tênis de mesa viveu medo em Paris por atentados terroristas  #Br   https://t.co/3MnrDfn38x
+date = Sat Nov 21 10:50:19 +0000 2015| user = iDisplaySports| text = #Brasil #Rio2016 Brasileiro do tênis de mesa viveu medo em Paris por atentados terroristas  #Br   https://t.co/swNKYnvkK5
+date = Sat Nov 21 10:37:36 +0000 2015| user = ilobur_/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+news| text = Após atentados em Paris, prefeito liga alerta para o Rio 2016 ... - https://t.co/tPuOTu46RU https://t.co/ZnO1ylkwYN #ブラジル #五輪 #Rio2016
+date = Sat Nov 21 10:21:04 +0000 2015| user = FalconWings_SB| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 10:18:54 +0000 2015| user = valterespindola| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 10:03:23 +0000 2015| user = romanoolimpico| text = RT @SurtoOlimpico: Autoridades do Kuwait impedem atletas do país de tentar se qualificar para o @Rio2016 https://t.co/s3unj3BpVF https://t.…
+date = Sat Nov 21 06:56:00 +0000 2015| user = volunta_Rio2016| text = Grama azul e verde: nas cores do Brasil, campos do Centro Olímpico de Hóquei estão prontos para os Jogos Rio 2016:  https://t.co/2E5hTE8Ng9
+date = Sat Nov 21 06:56:00 +0000 2015| user = volunta_Rio2016| text = Paul Drinkhall aposta em jogadas de efeito para vencer evento-teste de tênis de mesa:  https://t.co/gWkpIRUCk8
+date = Sat Nov 21 06:56:00 +0000 2015| user = volunta_Rio2016| text = A pergunta de um milhão de dólares do tênis de mesa: como vencer os chineses?:  https://t.co/MVC740k8vy
+date = Sat Nov 21 06:56:00 +0000 2015| user = volunta_Rio2016| text = Muita emoção por apenas um ingresso:  https://t.co/lFNnhyZD6w
+date = Sat Nov 21 06:56:00 +0000 2015| user = volunta_Rio2016| text = Rio 2016 seleciona 27 brasileiros do time de voluntários para conduzir a tocha Olímpica:  https://t.co/3zg9gO2Fgz
+date = Sat Nov 21 05:53:48 +0000 2015| user = iDisplaySports| text = #Brasil #Rio2016 Paes diz que chance de terrorismo na Olimpíada sempre foi preocupação  #Br   https://t.co/swNKYnvkK5
+date = Sat Nov 21 05:53:48 +0000 2015| user = iDisplaySports| text = #Brasil #Rio2016 Pezão admite que finanças do Rio "desmancharam", mas garante recursos  #Br   https://t.co/swNKYnvkK5
+date = Sat Nov 21 05:53:47 +0000 2015| user = iDisplaySports| text = #Brasil #Rio2016 Equipe de halterofilismo da Bulgária não disputa Rio-2016 por doping  #Br   https://t.co/swNKYnvkK5
+date = Sat Nov 21 05:40:51 +0000 2015| user = zidruxXx| text = 258 dias pras Olimpíadas
+#Rio2016 #258days
+date = Sat Nov 21 05:39:27 +0000 2015| user = SILVESTREPATRIA| text = RT @exercitooficial: Estágio de Segurança de Autoridades no 1º BG habilita militares para atuarem durante os Jogos Olímpicos #Rio2016 https…
+date = Sat Nov 21 05:02:30 +0000 2015| user = FAXINANOPODER_| text = RT @exercitooficial: Estágio de Segurança de Autoridades no 1º BG habilita militares para atuarem durante os Jogos Olímpicos #Rio2016 https…
+date = Sat Nov 21 04:45:54 +0000 2015| user = Tina_Bel| text = @cbginastica Fazendo bonito no exterior -q  #Rio2016  https://t.co/fA9PealT5B
+date = Sat Nov 21 03:25:35 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: Autoridades do Kuwait impedem atletas do país de tentar se qualificar para o @Rio2016 https://t.co/s3unj3BpVF https://t.…
+date = Sat Nov 21 03:24:48 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: Destaques do Surto...o Levantamento de Peso da Bulgária está fora do @Rio2016 https://t.co/O0MAZ8Pr1v https://t.co/FkEtG…
+date = Sat Nov 21 03:23:09 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: Marco Grael e Gabriel Borges ficam com a vaga do Brasil na 49er no @Rio2016 https://t.co/r4It8AVHWF https://t.co/nKE53Qe…
+date = Sat Nov 21 03:23:01 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: O torneio Olímpico de Tênis do @Rio2016 não dará pontos para o ranking da @ATPWorldTour https://t.co/jhPRhrxn4i https://…
+date = Sat Nov 21 03:22:50 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: COI condena autoridades do Kuwait que tentam impedir atletas de obter vagas no @Rio2016 https://t.co/s3unj3BpVF https://…
+date = Sat Nov 21 03:22:40 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: O México corre risco de ficar de fora do @Rio2016 https://t.co/HQEhRyufhq https://t.co/8sNn4LpHJE
+date = Sat Nov 21 03:22:31 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: Destaques do Surto.. a @adidasbrasil lança a #Errejota, a bola do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/CQsZH0Pv…
+date = Sat Nov 21 03:21:16 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: e eis a bola oficial dos Jogos Olímpicos do @Rio2016: a Errejota https://t.co/SWE9wv2L1G
+date = Sat Nov 21 03:21:02 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: e organizações anti-doping querem o atletismo da Rússia fora do @Rio2016 https://t.co/6Paa86danx https://t.co/QTTnhkr3be
+date = Sat Nov 21 03:20:25 +0000 2015| user = cfredbastos| text = RT @SurtoOlimpico: Assim será a mesa do Tênis de Mesa nos Jogos do @Rio2016 (via @ittfworld) https://t.co/2v5TJ8iapK
+date = Sat Nov 21 03:17:35 +0000 2015| user = bubuzinha| text = RT @TVNBR: Encontro preparatório de revezamento da #TochaOlímpica acontece hoje em Foz do Iguaçu #Rio2016 https://t.co/fnjyiPj3Xm
+date = Sat Nov 21 03:13:59 +0000 2015| user = suzemendes| text = RT @TVNBR: Encontro preparatório de revezamento da #TochaOlímpica acontece hoje em Foz do Iguaçu #Rio2016 https://t.co/fnjyiPj3Xm
+date = Sat Nov 21 03:07:51 +0000 2015| user = AngelMorsi| text = @Rio2016 @JogosOlimpicos @barurca @ClaGalvan @grupoestacao @cinemafrances @CCBB_RJ CURTIR! https://t.co/5C35i1bamz * https://t.co/a6GaY2IGje
+date = Sat Nov 21 03:04:29 +0000 2015| user = D4ntcar| text = RT @SurtoOlimpico: E a @adidasbrasil lançou a #Errejota, bola oficial do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/J4DHGkXyiq
+date = Sat Nov 21 02:58:06 +0000 2015| user = diogomarins| text = Paes diz que chance de terrorismo na Olimpíada sempre foi preocupação https://t.co/MJa4yVGb89 via @UOLEsporte #Rio2016
+date = Sat Nov 21 02:45:18 +0000 2015| user = embassyofsport| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 02:36:43 +0000 2015| user = betna10| text = RT @lilany_pacheco: @EnversDeParis @LaMainalOreille @luciolamacedo @nucepmadrid @betna10 @nel_lapaz @Lima_NEL @NELMEXICO @nelmaracaibo siga…
+date = Sat Nov 21 02:35:56 +0000 2015| user = BattousaiJGR| text = Arcos das #olimpíadas , lindos #rio2016 !!! #sky #landscape @ Parque Madureira https://t.co/Y5UYD5xBQa
+date = Sat Nov 21 02:32:52 +0000 2015| user = Alde2010| text = @everaldomarques @jrluxboquinha tô torcendo pra ver @kawhileonard e @AntDavis23 no @Rio2016 será que rola?  #tudopelaNBA
+date = Sat Nov 21 02:27:30 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 #CBF #Brahma #Vasco #CAMARADOALMIRANTE ... a renovação começa com um Movimento por um futebol melhor... https://t.co/4qHwGQ2BR8
+date = Sat Nov 21 02:25:14 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 #CBF #Brahma #Canarinho #Jogabonito ... a renovação começa com um Movimento por um futebol melhor... https://t.co/4qHwGQkdfI
+date = Sat Nov 21 02:24:36 +0000 2015| user = Kenzie_Ramires| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 02:14:59 +0000 2015| user = LucasDMas| text = Quase #300dias pra gente ver os atletas passarem num piscar de olhos nos #JogosParalímpicos! Quer saber mais? https://t.co/cfNSOIhetA
+date = Sat Nov 21 02:07:13 +0000 2015| user = lilany_pacheco| text = @EnversDeParis @LaMainalOreille @luciolamacedo @nucepmadrid @betna10 @nel_lapaz @Lima_NEL @NELMEXICO @nelmaracaibo sigam @AMP_RIO2016 !!!
+date = Sat Nov 21 02:04:07 +0000 2015| user = lilany_pacheco| text = @CrisMaia27 @CarbonellNeus @diascassandra @carmengtaboas @erkber @alintes @Dohov @ruizacero @jesussant @LangelezKat sigam @AMP_RIO2016 !!!
+date = Sat Nov 21 01:57:35 +0000 2015| user = lilany_pacheco| text = @aubedelune @GLMontevideo @filadee @Luzzfer @MCDSB @jorgebafico @EVientosur @guilhermecrib @nathaliegl sigam @AMP_RIO2016 !!!
+date = Sat Nov 21 01:55:25 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 #SIGMA #Brahma #Jogabonito #Brigada #canarinho... renovação a partir do futebol ...  https://t.co/RdlE4OQ5kr via @YouTube
+date = Sat Nov 21 01:46:03 +0000 2015| user = JaymeSetera| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 01:45:58 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 #Sigma #Brahma #Jogabonito .. Jair Bolsonaro humilha jornalista em João Pessoa - 20/11/2015 https://t.co/RdlE4OytVR via @YouTube
+date = Sat Nov 21 01:44:37 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016  #Brahma  #CANARINHO  
+...movimento de renovação a partir do futebol ...PRA FRENTE BRASIL !
+https://t.co/RdlE4OQ5kr via @YouTube
+date = Sat Nov 21 01:44:10 +0000 2015| user = KnicksDaDepre| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 01:41:41 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016  #Brahma #BRIGADA #CANARINHO #JOGABONITO...movimento de renovação a partir do futebol...PRA FRENTE BRASIL !
+https://t.co/3s9btQZuQf
+date = Sat Nov 21 01:41:32 +0000 2015| user = MegaMaz| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 01:40:24 +0000 2015| user = VAREJAOANDERSON| text = RT @tiagosplitter: jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 01:40:09 +0000 2015| user = tiagosplitter| text = jantar com meu brother @varejaoanderson hoje, jogo amanha e pensando no #rio2016 ! https://t.co/q9Guvg2vUG
+date = Sat Nov 21 01:39:32 +0000 2015| user = embassyofsport| text = RT @MikaHylian: Olha o que me deram de troco. 
+
+#Olimpiadas #rio2016 #coin #moeda #moedacomemorativa #valemaisqueumreal https://t.co/muARnP…
+date = Sat Nov 21 01:34:21 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016  #Brahma  #JOGABONITO ... movimento de renovação a partir do futebol ...PRA FRENTE BRASIL !
+ - https://t.co/UQDSmxCwwb via @YouTube
+date = Sat Nov 21 01:33:01 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016  #Brahma  #JOGABONITO .... movimento de renovação a partir do futebol ...PRA FRENTE BRASIL !
+https://t.co/UQDSmxCwwb via @YouTube
+date = Sat Nov 21 01:25:54 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 ...https://t.co/3s9btQZuQf .... #JOGABONITO ... Copa do Mundo de 1970 - Pra frente Brasil https://t.co/UQDSmxCwwb via @YouTube
+date = Sat Nov 21 01:25:44 +0000 2015| user = LLG10| text = Bem legal ▶▶▶▶ https://t.co/Ndf1ZtF5zk #MuseuDoAmanhã #Rio2016 #RJ #errejota #021
+date = Sat Nov 21 01:21:41 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 #Brasil #Brigada #Canarinho ... joga bonito !  ....https://t.co/3s9btQZuQf.
+date = Sat Nov 21 01:20:46 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 ... tradições brasileiras ... o Brasil de pai pra filho .... https://t.co/3s9btQZuQf
+date = Sat Nov 21 01:19:43 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 #Milênio #Renovação ... Brasil para brasileiros ... https://t.co/3s9btQZuQf
+date = Sat Nov 21 01:18:09 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 ... #República #Federativa #Brasil ...vanguarda reacionária nacionalista .... https://t.co/3s9btQZuQf
+date = Sat Nov 21 01:16:56 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 ... o Brasil do século XXI .... https://t.co/3s9btQZuQf
+date = Sat Nov 21 01:16:21 +0000 2015| user = DEEJAYHAOLE| text = #Rio2016 ... renovação do sentimento nacional ... https://t.co/3s9btQZuQf
+date = Sat Nov 21 01:08:28 +0000 2015| user = rshowdoesporte| text = RT @SurtoOlimpico: E a @adidasbrasil lançou a #Errejota, bola oficial do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/J4DHGkXyiq
+date = Sat Nov 21 01:08:28 +0000 2015| user = UniEsportes| text = RT @SurtoOlimpico: E a @adidasbrasil lançou a #Errejota, bola oficial do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/J4DHGkXyiq
+date = Sat Nov 21 01:08:28 +0000 2015| user = Reporter24Horas| text = RT @SurtoOlimpico: E a @adidasbrasil lançou a #Errejota, bola oficial do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/J4DHGkXyiq
+date = Sat Nov 21 01:08:28 +0000 2015| user = vinnysacramento| text = RT @SurtoOlimpico: E a @adidasbrasil lançou a #Errejota, bola oficial do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/J4DHGkXyiq
+date = Sat Nov 21 01:08:20 +0000 2015| user = vinnysacramento| text = @SurtoOlimpico @adidasbrasil @Rio2016 Eu quero essa lindeza! ♥♥♥ #ErreJota #quebreabanca
+date = Sat Nov 21 01:05:02 +0000 2015| user = Regys_Silva| text = RT @SurtoOlimpico: E a @adidasbrasil lançou a #Errejota, bola oficial do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/J4DHGkXyiq
+date = Sat Nov 21 01:04:59 +0000 2015| user = Regys_Silva| text = RT @SurtoOlimpico: Autoridades do Kuwait impedem atletas do país de tentar se qualificar para o @Rio2016 https://t.co/s3unj3BpVF https://t.…
+date = Sat Nov 21 01:04:47 +0000 2015| user = Regys_Silva| text = RT @SurtoOlimpico: Relembrando que o México pode ficar de fora do @Rio2016 https://t.co/HQEhRyufhq https://t.co/ItJVWFcM0Z
+date = Sat Nov 21 01:04:14 +0000 2015| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...o Levantamento de Peso da Bulgária está fora do @Rio2016 https://t.co/O0MAZ8Pr1v https://t.co/FkEtG…
+date = Sat Nov 21 01:03:39 +0000 2015| user = MatheusGomesBFR| text = RT @SurtoOlimpico: E a @adidasbrasil lançou a #Errejota, bola oficial do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/J4DHGkXyiq
+date = Sat Nov 21 01:03:16 +0000 2015| user = SurtoOlimpico| text = E a @adidasbrasil lançou a #Errejota, bola oficial do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/J4DHGkXyiq
+date = Sat Nov 21 01:02:31 +0000 2015| user = SurtoOlimpico| text = Autoridades do Kuwait impedem atletas do país de tentar se qualificar para o @Rio2016 https://t.co/s3unj3BpVF https://t.co/QqoHlZygOY
+date = Sat Nov 21 01:00:13 +0000 2015| user = RyanBiddulph| text = RT @PHC_BR: Flying over Rio de Janeiro #phcbr #Rio2016 https://t.co/Cf0oapwGww
+date = Sat Nov 21 00:59:12 +0000 2015| user = SurtoOlimpico| text = Relembrando que o México pode ficar de fora do @Rio2016 https://t.co/HQEhRyufhq https://t.co/ItJVWFcM0Z
+date = Sat Nov 21 00:52:21 +0000 2015| user = paulo_homem| text = RT @Bradesco: Já está acabando a indicação p/ condutores da Tocha Olímpica Rio2016. Vc tb pode indicar alguém! #chamaquetransforma https://…
+date = Sat Nov 21 00:50:22 +0000 2015| user = SurtoOlimpico| text = Destaques do Surto...o Levantamento de Peso da Bulgária está fora do @Rio2016 https://t.co/O0MAZ8Pr1v https://t.co/FkEtGV6ChR
+date = Sat Nov 21 00:36:05 +0000 2015| user = MikaHylian| text = Olha o que me deram de troco. 
+
+#Olimpiadas #rio2016 #coin #moeda #moedacomemorativa #valemaisqueumreal https://t.co/muARnPq7u2
+date = Sat Nov 21 00:34:56 +0000 2015| user = MarianaAlves80| text = RT @MTurismo: Foz do Iguaçu e o #TourdaTocha #Rio2016 https://t.co/uRXOX9tlGn https://t.co/6hPdV1SDX6
+date = Sat Nov 21 00:25:39 +0000 2015| user = diego_wendell| text = Racionamento de energia para os jogos olímpicos #Rio2016 #Realengo #ZonaOeste  #RJ
+date = Sat Nov 21 00:15:26 +0000 2015| user = jZrplusj1ZP| text = RT @atarde: Centro Olímpico de Hóquei sobre Grama é inaugurado no Rio https://t.co/5DuwoSjI17 #Rio2016
+date = Sat Nov 21 00:00:12 +0000 2015| user = PHC_BR| text = Flying over Rio de Janeiro #phcbr #Rio2016 https://t.co/tfHegFpsie
+date = Fri Nov 20 23:54:15 +0000 2015| user = RicardoRilley86| text = Clarisse Rio2016 https://t.co/yoVxBxcCo5
+date = Fri Nov 20 23:34:07 +0000 2015| user = SEMETULERJAPERI| text = RT @MTurismo: Atentados em Paris levantaram dúvidas sobre a isenção de vistos p/ a #Rio2016. Saiba mais: https://t.co/4B57Byl88R https://t.…
+date = Fri Nov 20 23:31:27 +0000 2015| user = cfredbastos| text = RT @osolimpicos: Campo de hóquei pro #Rio2016! Semana que vem tem evento teste https://t.co/C8DdQpjDHN
+date = Fri Nov 20 23:18:06 +0000 2015| user = ilobur_news| text = Rio2016 Prefeito do Rio de Janeiro diz que terrorismo sempre foi ... - Impala (liberação de… https://t.co/SVQQEUWVUq #ブラジル #五輪 #Rio2016
+date = Fri Nov 20 23:05:10 +0000 2015| user = VanDarckPire| text = #CidadeOlimpica #Rio2016 @ Parque Madureira https://t.co/KMxEUynL4j
+date = Fri Nov 20 23:04:36 +0000 2015| user = alex_apis| text = #Cidade/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Olimpica #Rio2016 @ Parque Madureira https://t.co/JvMHcqu2b1
+date = Fri Nov 20 22:49:48 +0000 2015| user = FernandesWal| text = @Rio2016 qual é o endereço do local em q vai ser realizada a entrevista amanhã (sábado 20/11) na Barra da Tijuca ?
+date = Fri Nov 20 22:38:12 +0000 2015| user = atardeesporte| text = Centro Olímpico de Hóquei sobre Grama é inaugurado no Rio https://t.co/l73Pp66saQ #Rio2016
+date = Fri Nov 20 22:38:11 +0000 2015| user = atarde| text = Centro Olímpico de Hóquei sobre Grama é inaugurado no Rio https://t.co/5DuwoSjI17 #Rio2016
+date = Fri Nov 20 22:21:24 +0000 2015| user = marthaeferreira| text = RT @raphaelscostarj: @marthaeferreira @Rio2016 Com certeza estão! Esses extremistas são + organizados do q possamos imaginar!
+date = Fri Nov 20 22:16:24 +0000 2015| user = rioturismonet| text = [AGENDA @Maracana ] 20/8  ORO @Rio2016 11/11 BRA VS ARG ELIM 2018 @Rodrimuni @SantiRusso @590competencia @DiarioOle https://t.co/Ig9GQ2A0zO
+date = Fri Nov 20 22:13:30 +0000 2015| user = notadeseis| text = A tocha é nossa! #orgulhodeserleao #rio2016 @ Leão Alimentos e Bebidas ( Grupo Coca Cola) https://t.co/g2rLaJkNjY
+date = Fri Nov 20 22:13:14 +0000 2015| user = cathdkt| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 21:55:33 +0000 2015| user = raphaelscostarj| text = @marthaeferreira @Rio2016 Com certeza estão! Esses extremistas são + organizados do q possamos imaginar!
+date = Fri Nov 20 21:50:47 +0000 2015| user = withyouGabrielB| text = RT @gabigol: Voltamos a campo hoje, Brasil!! Que seja feita a vontade de Deus. 🙏🏾🇧🇷 #SeleçãoOlímpica #Rio2016 #RoadToRio https://t.co/moAMI…
+date = Fri Nov 20 21:35:54 +0000 2015| user = olympicgames_en| text = https://t.co/MC7wcDJyFl  #Rio2016 Rio De Janeiro &amp; São Paulo 2016（2016-04-26）
+date = Fri Nov 20 21:35:36 +0000 2015| user = osolimpicos| text = Campo de hóquei pro #Rio2016! Semana que vem tem evento teste https://t.co/C8DdQpjDHN
+date = Fri Nov 20 21:32:26 +0000 2015| user = Pataxocartoons| text = RT @MTurismo: É melhor se apressar pois a busca por hotéis na #Rio2016 cresce quase 50% no Rio de Janeiro https://t.co/vvKvozXExc https://t…
+date = Fri Nov 20 21:27:43 +0000 2015| user = marcohhenrique| text = RT @MTurismo: Foz do Iguaçu e o #TourdaTocha #Rio2016 https://t.co/uRXOX9tlGn https://t.co/6hPdV1SDX6
+date = Fri Nov 20 21:27:23 +0000 2015| user = magnamoreira_| text = RT @MTurismo: É melhor se apressar pois a busca por hotéis na #Rio2016 cresce quase 50% no Rio de Janeiro https://t.co/vvKvozXExc https://t…
+date = Fri Nov 20 21:27:19 +0000 2015| user = Seba_Pereira| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 21:22:14 +0000 2015| user = Gil_CRN449085| text = Grama azul e verde: nas cores do Brasil, campos do https://t.co/oOWUUbpKtk
+date = Fri Nov 20 21:22:08 +0000 2015| user = CamilaAguiarBR| text = Grama azul e verde: nas cores do Brasil, campos do - Rio 2016 https://t.co/Y6uob28gFP
+date = Fri Nov 20 21:21:03 +0000 2015| user = RecalAlessandro| text = Grama azul e verde: nas cores do Brasil, campos do - Rio 2016 https://t.co/WjRXl02IMb
+date = Fri Nov 20 21:14:24 +0000 2015| user = costafc| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 21:12:57 +0000 2015| user = JogosOlimpicos| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 21:12:55 +0000 2015| user = marcelmerguizo| text = Com Osorio como técnico do México nos Jogos Olímpicos, pra quem o são-paulino vai torcer? Dunga ou 'prôfe'? https://t.co/uy8TsClBwY #Rio2016
+date = Fri Nov 20 21:12:22 +0000 2015| user = RodrigoAdams_| text = RT @MTurismo: É melhor se apressar pois a busca por hotéis na #Rio2016 cresce quase 50% no Rio de Janeiro https://t.co/vvKvozXExc https://t…
+date = Fri Nov 20 21:09:59 +0000 2015| user = agui_augusto| text = RT @MTurismo: Foz do Iguaçu e o #TourdaTocha #Rio2016 https://t.co/uRXOX9tlGn https://t.co/6hPdV1SDX6
+date = Fri Nov 20 21:05:44 +0000 2015| user = rrslucas| text = @rio2016 ONU se manifesta contra Pedro Paulo, braço-direito de Paes https://t.co/7XdhUrsBq0 via @veja
+date = Fri Nov 20 21:05:06 +0000 2015| user = clebergarcia3| text = RT @MTurismo: É melhor se apressar pois a busca por hotéis na #Rio2016 cresce quase 50% no Rio de Janeiro https://t.co/vvKvozXExc https://t…
+date = Fri Nov 20 21:03:12 +0000 2015| user = MC13RAP| text = RT @MTurismo: É melhor se apressar pois a busca por hotéis na #Rio2016 cresce quase 50% no Rio de Janeiro https://t.co/vvKvozXExc https://t…
+date = Fri Nov 20 21:02:48 +0000 2015| user = edgarcvelasquez| text = RT @MTurismo: Foz do Iguaçu e o #TourdaTocha #Rio2016 https://t.co/uRXOX9tlGn https://t.co/6hPdV1SDX6
+date = Fri Nov 20 21:00:10 +0000 2015| user = ricardomedinao| text = RT @MTurismo: Foz do Iguaçu e o #TourdaTocha #Rio2016 https://t.co/uRXOX9tlGn https://t.co/6hPdV1SDX6
+date = Fri Nov 20 20:55:59 +0000 2015| user = MTurismo| text = É melhor se apressar pois a busca por hotéis na #Rio2016 cresce quase 50% no Rio de Janeiro https://t.co/vvKvozXExc https://t.co/8OdZ38XvNx
+date = Fri Nov 20 20:50:24 +0000 2015| user = MTurismo| text = Foz do Iguaçu e o #TourdaTocha #Rio2016 https://t.co/uRXOX9tlGn https://t.co/6hPdV1SDX6
+date = Fri Nov 20 20:47:30 +0000 2015| user = DeboraMLeal| text = RT @Rio2016: . @marcelomelo83 tá no topo do mundo no #Tênis e quer a medalha Olímpica em casa! 💪🎾🏆 https://t.co/cud684frT7 https://t.co/ewY…
+date = Fri Nov 20 20:45:09 +0000 2015| user = DeboraMLeal| text = RT @Rio2016: Pra inspirar: 7 atletas que venceram a batalha contra o câncer! :) https://t.co/eyeiib1Xa1 https://t.co/9ori9C9QR6
+date = Fri Nov 20 20:41:43 +0000 2015| user = TolyGirl| text = Mais sobre hj #aquecerio #rio2016 #fieldhockey #timebrasil #centroolimpico #deodoro #bluefield https://t.co/M3vMP7yEd0
+date = Fri Nov 20 20:39:20 +0000 2015| user = daniels_junior| text = RT @portalfab: #Olimpíadas FAB implanta modificações nas circulações aéreas de BSB, BH e SP https://t.co/82XQkOL9h0 #Rio2016 https://t.co/W…
+date = Fri Nov 20 20:30:59 +0000 2015| user = leosaosao| text = @Rio2016 Esperando pelas Leonas! E as jogadoras da Holanda? Venha logo, Rio 2016!
+date = Fri Nov 20 20:28:04 +0000 2015| user = cfredbastos| text = RT @Brasil2016: Futebol de 5 já tem as oito seleções definidas para o #Rio2016. https://t.co/UB3MpnOeHo https://t.co/grTZkX2yPx
+date = Fri Nov 20 20:28:00 +0000 2015| user = cfredbastos| text = RT @Brasil2016: Para min. da @JusticaGovBR, Brasil está preparado para garantir excelente padrão de segurança nos Jogos #Rio2016. https://t…
+date = Fri Nov 20 20:27:14 +0000 2015| user = cfredbastos| text = RT @Brasil2016: Atletas do badminton conhecem seus adversários no evento-teste dos Jogos #Rio2016. https://t.co/uN9jJmXteb https://t.co/ow3…
+date = Fri Nov 20 20:15:37 +0000 2015| user = AMP_RIO2016| text = Como escreveu Nelson Rodrigues: “Copacabana vive, por semana, sete domingos”. O que visitar no Rio? https://t.co/oKLqxF5mN1 #XCongressoAMP
+date = Fri Nov 20 20:13:13 +0000 2015| user = AMP_RIO2016| text = O corpo da imagem torna-se assim um corpo falante. Mas, o que é um corpo falante?”, interroga Miquel Bassols. A ler! https://t.co/nSUuaFN4jy
+date = Fri Nov 20 20:08:36 +0000 2015| user = AMP_RIO2016| text = SKABÔ – Boletim do X Congresso da AMP “Corpo Falante – Sobre o Inconsciente no Século XXI” Leiam ! https://t.co/eVcgLFGyWc #XCongressoAMP
+date = Fri Nov 20 20:07:08 +0000 2015| user = AMP_RIO2016| text = Assista ao primeiro vídeo da sessão “Afinidades Eletivas” sobre o tema:Pele e Boca! Tem mais no site! https://t.co/Pp6ETlMiZZ #XCongressoAMP
+date = Fri Nov 20 20:04:58 +0000 2015| user = AMP_RIO2016| text = Henri Kaufmanner entrevista Jésus Santiago sobre o novo  imaginário e o  corpo falante! Imperdível! https://t.co/tgHvR3vKvB #XCongressoAMP
+date = Fri Nov 20 19:55:27 +0000 2015| user = jonaslmoura| text = Brasil tem pressa para mudar lei e não perder agência antidoping | LANCE! https://t.co/XcbLugadbq
+date = Fri Nov 20 19:55:15 +0000 2015| user = jonaslmoura| text = Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio-2016 | LANCE! https://t.co/Rmfl0cSqNV
+date = Fri Nov 20 19:55:08 +0000 2015| user = jonaslmoura| text = Prefeito apresenta centro de hóquei de 2016. Iluminação ajudará atletas | LANCE! https://t.co/29LSyAORbW
+date = Fri Nov 20 19:51:35 +0000 2015| user = osirisbarros| text = Aqui com meu amigo Ricardo Júnior dando uma brincadinha com o #drone 
+
+#Rio2016 #RiodeJaneiro #BarradaTijuca... https://t.co/1n0lnNLcja
+date = Fri Nov 20 19:05:35 +0000 2015| user = luhollander| text = @andrea_amorim Falta vc aqui!!🖼🗺🍷🍸🍹#rio #art #Rio2016 @ Alessandro E Frederico Garcia D Avila https://t.co/6b4vMXIQeO
+date = Fri Nov 20 19:05:31 +0000 2015| user = Brasil_2016News| text = Grama azul e verde: nas cores do Brasil, campos do Centro Olímpico de Hóquei estão prontos para os Jogos Rio 2016:  https://t.co/AENWmUoYXl
+date = Fri Nov 20 19:04:15 +0000 2015| user = __j4na| text = Sem sacanagem, na segurança contra terroristas nas Olimpíadas @Rio2016 eu confio + nela sendo feita por traficantes do que pelas polícias
+date = Fri Nov 20 18:58:22 +0000 2015| user = AMP_RIO2016| text = SKABÔ 014 Boletim Multilíngue do X Congresso da AMP -- Jornada Clínica:
+https://t.co/keZtPNHE0P
+date = Fri Nov 20 18:49:18 +0000 2015| user = cfredbastos| text = RT @tenisnewsbrasil: Bruno Soares teme que retirada de pontos acabe com glamour das Olimpíadas pro tênis no futuro, não na Rio-2016 https:/…
+date = Fri Nov 20 18:40:44 +0000 2015| user = marceloraposo| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 18:40:37 +0000 2015| user = ilobur_news| text = Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio ... - Terra Brasil https://t.co/jnkmKmccKO #ブラジル #五輪 #Rio2016
+date = Fri Nov 20 18:33:40 +0000 2015| user = SrcRangel| text = RT @marceloinfoco: Praça XV sendo reformada. E este restaurante? Qual será o seu destino?
+#NovaPracaXV #Rio2016 @eduardopaes_ https://t.co/…
+date = Fri Nov 20 18:30:47 +0000 2015| user = RamirezPala| text = Aguardando a hora do embarque! Vamos com tudo!! #RamirezTramp #Mundial #Rio2016 #VemcomRMZ #Adidas #Caixa https://t.co/e6ZAawbVSW
+date = Fri Nov 20 18:30:41 +0000 2015| user = Icesp_| text = #Fofura Os mascotes dos Jogos Olímpicos @Rio2016 movimentaram o @GRAACC em visita as crianças em tratamento: https://t.co/9UbABlqasI ♥
+date = Fri Nov 20 18:23:23 +0000 2015| user = DEMOCRATABR| text = RT @raphaelscostarj: @marthaeferreira @Rio2016  Imigrantes e terroristas principalmente! Ñ esqueça q o EI está no Brasil: Foz do Iguaçu e SP
+date = Fri Nov 20 18:10:10 +0000 2015| user = 83Starl1ghtaE| text = RT @gazetadopovo: FOTOS - Está quase tudo pronto para a #Rio2016. Conheça as instalações da Olimpíada https://t.co/HPysdoGoRD https://t.co/…
+date = Fri Nov 20 18:00:56 +0000 2015| user = leofranca16| text = @ESPNagora @Rio2016 Vejo apenas mais um futuro elefante branco. Mais dinheiro público indo pro ralo.
+date = Fri Nov 20 17:55:07 +0000 2015| user = EstadaoEsporte| text = Rio exibe Centro Olímpico de Hóquei e reitera que cumprirá prazos para @Rio2016 - https://t.co/guzRZxRKej https://t.co/qN44CFexmV
+date = Fri Nov 20 17:55:00 +0000 2015| user = EsportesOnIine| text = Rio exibe Centro de Hóquei olímpico e reitera que cumprirá todos os prazos https://t.co/MTzANpImPc Rio2016 https://t.co/g3zst4sK3M
+date = Fri Nov 20 17:51:01 +0000 2015| user = GazetaDoEsporte| text = RT @ESPNagora: Rio exibe Centro de Hóquei olímpico e reitera que cumprirá todos os prazos https://t.co/sNWu2cG2wg @Rio2016 https://t.co/WZb…
+date = Fri Nov 20 17:46:10 +0000 2015| user = CTelheria| text = RT @PortalEsporte10: Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio-2016 https://t.co/LDiR2S5hMF
+date = Fri Nov 20 17:45:59 +0000 2015| user = CTelheria| text = RT @globoesportecom: Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/GxTi0J1mLz #Rio2016 https://t.c…
+date = Fri Nov 20 17:44:44 +0000 2015| user = esporte_final| text = RT @ESPNagora: Rio exibe Centro de Hóquei olímpico e reitera que cumprirá todos os prazos https://t.co/sNWu2cG2wg @Rio2016 https://t.co/WZb…
+date = Fri Nov 20 17:44:36 +0000 2015| user = YesbananasSport| text = Yes!Sports - Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio-2016:  https://t.co/Ct58dpCOWQ #sports #esportes
+date = Fri Nov 20 17:44:30 +0000 2015| user = FutebolMundial5| text = Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio-2016:  https://t.co/Po9kd6kIrc
+date = Fri Nov 20 17:44:25 +0000 2015| user = FutebolEspiao| text = Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio-2016 https://t.co/6MhazNkayH
+date = Fri Nov 20 17:44:23 +0000 2015| user = PortalEsporte10| text = Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio-2016 https://t.co/LDiR2S5hMF
+date = Fri Nov 20 17:44:21 +0000 2015| user = irafaelbarros| text = Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio-2016:  https://t.co/SJET4xo5SV
+date = Fri Nov 20 17:44:18 +0000 2015| user = BrunoJaquet03| text = Prefeito descarta atrasar entrega de arenas a pedido do Comitê Rio-2016:  https://t.co/WaeLLI4zSX
+date = Fri Nov 20 17:44:16 +0000 2015| user = ESPNagora| text = Rio exibe Centro de Hóquei olímpico e reitera que cumprirá todos os prazos https://t.co/sNWu2cG2wg @Rio2016 https://t.co/WZbuHRqQtG
+date = Fri Nov 20 17:40:13 +0000 2015| user = ilobur_news| text = Inaugurado, centro de hóquei carioca receberá evento-teste para a ... - https://t.co/ebp4n6SZAy https://t.co/MsGD0TWckj #ブラジル #五輪 #Rio2016
+date = Fri Nov 20 17:40:10 +0000 2015| user = ilobur_news| text = Grama azul e verde: nas cores do Brasil, campos do - Rio 2016 https://t.co/iB1XTFramX #ブラジル #五輪 #Rio2016
+date = Fri Nov 20 17:30:11 +0000 2015| user = Robinhoag| text = RT @globoesportecom: Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/GxTi0J1mLz #Rio2016 https://t.c…
+date = Fri Nov 20 17:26:39 +0000 2015| user = luizkaenzo| text = RT @globoesportecom: Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/GxTi0J1mLz #Rio2016 https://t.c…
+date = Fri Nov 20 17:25:05 +0000 2015| user = marcoprimeiro| text = Corredor "figuraça" do interior SP participará do revezamento da tocha olímpica. @contra_relogio @Rio2016 https://t.co/bQBA6cOCzZ
+date = Fri Nov 20 17:24:36 +0000 2015| user = EsportesOnIine| text = Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/SHrLvh4hiT #Rio2016 https://t.co/aHo3yPoWS1
+date = Fri Nov 20 17:23:07 +0000 2015| user = saogoncalo_RJ| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 17:21:50 +0000 2015| user = 2twthebeta| text = Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/e6NGKHzpRi  #Rio2016 https://t.co/j9RCmnMQbH
+date = Fri Nov 20 17:20:23 +0000 2015| user = 1twThe| text = Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/MPY37V7MHa  #Rio2016 https://t.co/rHpXGVM3WC
+date = Fri Nov 20 17:20:17 +0000 2015| user = 5twteam| text = RT @globoesportecom: Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/GxTi0J1mLz #Rio2016 https://t.c…
+date = Fri Nov 20 17:19:20 +0000 2015| user = FernandoFragar| text = RT @globoesportecom: Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/GxTi0J1mLz #Rio2016 https://t.c…
+date = Fri Nov 20 17:18:22 +0000 2015| user = arcostabsb| text = RT @globoesportecom: Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/GxTi0J1mLz #Rio2016 https://t.c…
+date = Fri Nov 20 17:16:38 +0000 2015| user = TimBetatw10| text = Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/5g1cU3ZIHM  #Rio2016 https://t.co/iLCfT5p3Ri
+date = Fri Nov 20 17:15:54 +0000 2015| user = joanadarc2944| text = RT @globoesportecom: Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/GxTi0J1mLz #Rio2016 https://t.c…
+date = Fri Nov 20 17:15:39 +0000 2015| user = FCBoleirinho| text = Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/rdt5LYz2S7 #Rio2016 https://t.co/9RKMK9JWTL #foto
+date = Fri Nov 20 17:15:08 +0000 2015| user = globoesportecom| text = Após crise, Paes inaugura o Centro de Hóquei de 2016: "Deodoro era temor" https://t.co/GxTi0J1mLz #Rio2016 https://t.co/cOOlebwVXR
+date = Fri Nov 20 17:08:46 +0000 2015| user = karicvz| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 17:05:54 +0000 2015| user = dois_min| text = A Arena do Futuro pronta para receber muitos jogos o/ #HandballLovers #Rio2016 https://t.co/2mXbdxaHG7 https://t.co/yjZJvLK9Eh
+date = Fri Nov 20 17:05:30 +0000 2015| user = Rio2016| text = Fiquem ligados no @AqueceRio #TênisDeMesa https://t.co/srfJlF7YFx
+date = Fri Nov 20 16:51:23 +0000 2015| user = ru_diazugalde| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 16:50:32 +0000 2015| user = mylenne_ribeiro| text = RT @PorAiAntenada: Olá, gostaria de pedir a banda One Direction e o Luan Santana para os Jogos Olímpicos Rio! @Rio2016
+#MTVStars One Direct…
+date = Fri Nov 20 16:40:18 +0000 2015| user = eleneide2015| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 16:39:58 +0000 2015| user = Tina_Bel| text = @cbginastica Impede @gymblogbrazil de fazer cobertura do Campeonato Brasileiro de Ginastica. #Rio2016. Isso é Brasil
+https://t.co/GFabXPQBN2
+date = Fri Nov 20 16:29:05 +0000 2015| user = SIMundial| text = Eduardo Paes: «Terrorismo? Qualquer evento corre esse risco» https://t.co/PfVR5xGhmj
+date = Fri Nov 20 16:22:29 +0000 2015| user = janetmbrasil| text = RT @Rio2016: Pra inspirar: 7 atletas que venceram a batalha contra o câncer! :) https://t.co/eyeiib1Xa1 https://t.co/9ori9C9QR6
+date = Fri Nov 20 16:21:42 +0000 2015| user = PorAiAntenada| text = Olá, gostaria de pedir a banda One Direction e o Luan Santana para os Jogos Olímpicos Rio! @Rio2016
+#MTVStars One Direction
+date = Fri Nov 20 16:20:44 +0000 2015| user = jornalistavitor| text = RT @EstadaoEsporte: Fabíola comemora gravidez e terá 2 meses para disputar Olimpíada @Rio2016 - https://t.co/TjdW5HFqVY https://t.co/M6l8FV…
+date = Fri Nov 20 16:14:42 +0000 2015| user = Brasil_2016News| text = Paul Drinkhall aposta em jogadas de efeito para vencer evento-teste de tênis de mesa:  https://t.co/h2LOQPdWQe
+date = Fri Nov 20 16:14:42 +0000 2015| user = Brasil_2016News| text = A pergunta de um milhão de dólares do tênis de mesa: como vencer os chineses?:  https://t.co/1VRhW05pGK
+date = Fri Nov 20 16:11:18 +0000 2015| user = DennysMuniz| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 16:06:35 +0000 2015| user = LagunaOlimpico| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 16:03:44 +0000 2015| user = juliaffc23| text = RT @retumbantedeg: O Marlon também recebeu sua Errejota, a bola oficial das Olimpíadas Rio2016, da @adidasbrasil. #quebreabanca https://t.c…
+date = Fri Nov 20 16:02:43 +0000 2015| user = Sobratema| text = Prefeitura entrega mais três obras da Rio 2016; veja fotos. No @g1rio https://t.co/iUJAI5t8uZ
+date = Fri Nov 20 16:00:49 +0000 2015| user = MarceliaRodrigs| text = RT @retumbantedeg: O Marlon também recebeu sua Errejota, a bola oficial da/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+s Olimpíadas Rio2016, da @adidasbrasil. #quebreabanca https://t.c…
+date = Fri Nov 20 16:00:47 +0000 2015| user = _jhullyffc| text = RT @retumbantedeg: O Marlon também recebeu sua Errejota, a bola oficial das Olimpíadas Rio2016, da @adidasbrasil. #quebreabanca https://t.c…
+date = Fri Nov 20 15:58:17 +0000 2015| user = luanagaalFFC| text = RT @retumbantedeg: O Marlon também recebeu sua Errejota, a bola oficial das Olimpíadas Rio2016, da @adidasbrasil. #quebreabanca https://t.c…
+date = Fri Nov 20 15:57:48 +0000 2015| user = retumbantedeg| text = O Marlon também recebeu sua Errejota, a bola oficial das Olimpíadas Rio2016, da @adidasbrasil. #quebreabanca https://t.co/OSSmytFaK4
+date = Fri Nov 20 15:52:44 +0000 2015| user = Barrazine| text = RT @DiarioDoRio: Adidas lança bola das Olimpíadas, a Errejota https://t.co/1LUdAwWQ9n #Rio2016
+date = Fri Nov 20 15:51:47 +0000 2015| user = DiarioDoRio| text = Adidas lança bola das Olimpíadas, a Errejota https://t.co/rD6TtmiEJ6 #Rio2016
+date = Fri Nov 20 15:50:06 +0000 2015| user = SIMundial| text = Rio2016: Prefeito do Rio de Janeiro diz que terrorismo sempre foi uma preocupação https://t.co/T1iEs1C5Z7
+date = Fri Nov 20 15:48:24 +0000 2015| user = DeportesGDC| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:43:30 +0000 2015| user = Lusa_noticias| text = Rio2016: Prefeito do Rio de Janeiro diz que terrorismo sempre foi uma preocupação
+date = Fri Nov 20 15:41:39 +0000 2015| user = EdnaColicigno| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:41:31 +0000 2015| user = caiopandini| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:40:57 +0000 2015| user = grapastor| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:35:39 +0000 2015| user = agesantana| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:35:11 +0000 2015| user = cpboficial| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:34:26 +0000 2015| user = Carlosan_lopes| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 15:32:03 +0000 2015| user = mattsoeiro| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:31:12 +0000 2015| user = AMP_RIO2016| text = RT @mgoldeol: @AMP_RIO2016 Entrevista a Ana Lucia Lutterbach Holck https://t.co/Li6Wi4Q9pq
+date = Fri Nov 20 15:30:49 +0000 2015| user = andressoares| text = Retweeted Rio 2016 (@Rio2016):
+
+#DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos!... https://t.co/gJYf5vXvCH
+date = Fri Nov 20 15:30:44 +0000 2015| user = andressoares| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:30:41 +0000 2015| user = mateuslps_| text = RT @EstadaoEsporte: Fabíola comemora gravidez e terá 2 meses para disputar Olimpíada @Rio2016 - https://t.co/TjdW5HFqVY https://t.co/M6l8FV…
+date = Fri Nov 20 15:30:01 +0000 2015| user = RCova18| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:29:26 +0000 2015| user = GovRJ| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:28:10 +0000 2015| user = ricardoagalvao| text = RT @Rio2016: #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:27:51 +0000 2015| user = Rio2016| text = #DiaDaConsciênciaNegra - relembre atletas que fizeram história nos Jogos! https://t.co/IJKl3AGbe8 https://t.co/FtzlooMhbF
+date = Fri Nov 20 15:27:32 +0000 2015| user = Garrincha1904| text = RT @NeEvora: O caminho faz-se caminhando. #Adidas #Rio2016 https://t.co/4V3xdWW5V1
+date = Fri Nov 20 15:24:38 +0000 2015| user = cadeadane| text = RT @EstadaoEsporte: Fabíola comemora gravidez e terá 2 meses para disputar Olimpíada @Rio2016 - https://t.co/TjdW5HFqVY https://t.co/M6l8FV…
+date = Fri Nov 20 15:22:04 +0000 2015| user = EstadaoEsporte| text = Fabíola comemora gravidez e terá 2 meses para disputar Olimpíada @Rio2016 - https://t.co/TjdW5HFqVY https://t.co/M6l8FVjvtG
+date = Fri Nov 20 15:17:05 +0000 2015| user = Bialima_santana| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 15:15:40 +0000 2015| user = mgoldeol| text = @AMP_RIO2016 Entrevista a Ana Lucia Lutterbach Holck https://t.co/Li6Wi4Q9pq
+date = Fri Nov 20 14:52:29 +0000 2015| user = FutebolEspiao| text = Prefeito apresenta centro de hóquei de 2016. Iluminação ajudará atletas https://t.co/igDzHyc8fg
+date = Fri Nov 20 14:52:26 +0000 2015| user = PortalEsporte10| text = Prefeito apresenta centro de hóquei de 2016. Iluminação ajudará atletas https://t.co/Chz63qyNEr
+date = Fri Nov 20 14:52:21 +0000 2015| user = BrunoJaquet03| text = Prefeito apresenta centro de hóquei de 2016. Iluminação ajudará atletas:  https://t.co/yz7GFs3lY1
+date = Fri Nov 20 14:39:56 +0000 2015| user = TolyGirl| text = Hoje foi a abertura oficial do Centro Olímpico de Hóquei!!! #HelloOlympicField #fieldhockey #rio2016… https://t.co/OEsPeKIzBr
+date = Fri Nov 20 14:29:08 +0000 2015| user = macfef5fla| text = RT @rafaluz55: Hoje tem mais um jogão aqui em Sao Paulo contra o Paulistano as 19:30. fordsports @flamengo @rio2016… https://t.co/Kft8MzuGib
+date = Fri Nov 20 14:26:36 +0000 2015| user = iFlamengoNews| text = RT @rafaluz55: Hoje tem mais um jogão aqui em Sao Paulo contra o Paulistano as 19:30. fordsports @flamengo @rio2016… https://t.co/Kft8MzuGib
+date = Fri Nov 20 14:26:36 +0000 2015| user = MatheusCRF_| text = RT @rafaluz55: Hoje tem mais um jogão aqui em Sao Paulo contra o Paulistano as 19:30. fordsports @flamengo @rio2016… https://t.co/Kft8MzuGib
+date = Fri Nov 20 14:26:16 +0000 2015| user = rafaluz55| text = Hoje tem mais um jogão aqui em Sao Paulo contra o Paulistano as 19:30. fordsports @flamengo @rio2016… https://t.co/Kft8MzuGib
+date = Fri Nov 20 14:17:39 +0000 2015| user = martinchab1997| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 14:08:01 +0000 2015| user = IVALDOMORAES| text = RT @TVNBR: Encontro preparatório de revezamento da #TochaOlímpica acontece hoje em Foz do Iguaçu #Rio2016 https://t.co/fnjyiPj3Xm
+date = Fri Nov 20 14:07:18 +0000 2015| user = AMP_RIO2016| text = Peças Soltas: El cuerpo en sentido ingenuo
+Alicia Yacoi (EOL/AMP)
+"No sabemos de la figura vacía que somos..."
+https://t.co/RNhLDVmnj8…
+date = Fri Nov 20 14:04:55 +0000 2015| user = IVALDOMORAES| text = RT @portalfab: #Olimpíadas FAB implanta modificações nas circulações aéreas de BSB, BH e SP https://t.co/82XQkOL9h0 #Rio2016 https://t.co/W…
+date = Fri Nov 20 14:02:26 +0000 2015| user = TVNBR| text = Encontro preparatório de revezamento da #TochaOlímpica acontece hoje em Foz do Iguaçu #Rio2016 https://t.co/fnjyiPj3Xm
+date = Fri Nov 20 14:01:17 +0000 2015| user = robervals1bev| text = RT @portalfab: #Olimpíadas FAB implanta modificações nas circulações aéreas de BSB, BH e SP https://t.co/82XQkOL9h0 #Rio2016 https://t.co/W…
+date = Fri Nov 20 14:00:30 +0000 2015| user = portalfab| text = #Olimpíadas FAB implanta modificações nas circulações aéreas de BSB, BH e SP https://t.co/82XQkOL9h0 #Rio2016 https://t.co/W2NoJqH6WH
+date = Fri Nov 20 13:58:14 +0000 2015| user = mrbrightside74| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 13:55:20 +0000 2015| user = RicardoRilley86| text = Fabiola gravida 2º vaga de levantadora da SFV para o Rio2016 em aberto
+date = Fri Nov 20 13:53:03 +0000 2015| user = a_canoista| text = RT @FPimenta13: Chove pesado mas está muito calor..  
+Vamos lá à carga..  :-D 
+
+#florida2015 #trainingcamp2015  #rio2016 https://t.co/jmJvH…
+date = Fri Nov 20 13:51:26 +0000 2015| user = MayaraMah| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 13:51:06 +0000 2015| user = Gari_Souza| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 13:50:16 +0000 2015| user = brenobarros| text = Próximos eventos-teste #Rio2016 começam terça. Hóquei sobre a grama, no Centro Olímpico, e o badminton, que também acontecerá no Pavilhão 4.
+date = Fri Nov 20 13:48:15 +0000 2015| user = cmjornal| text = Halterofilismo da Bulgária excluído dos Jogos Rio2016 https://t.co/1zcEWVHbuO
+date = Fri Nov 20 13:46:58 +0000 2015| user = waleteixeira| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 13:44:51 +0000 2015| user = embassyofsport| text = RT @zidruxXx: 259 dias pras Olimpíadas
+#Rio2016 #259days
+date = Fri Nov 20 13:39:42 +0000 2015| user = MorganaMC| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 13:37:55 +0000 2015| user = adailton_farf| text = @Rio2016 Outro esporte que gostaria de assistir pessoalmente, mas infelizmente será difícil, uma vez que o Rio fique um pouco longe :\
+date = Fri Nov 20 13:37:44 +0000 2015| user = 10_Sports| text = Curtiu a Errejota? Essa será a bola oficial dos Jogos do Rio 2016.  https://t.co/kbQeD5u0C4 #adidas #rio2016 https://t.co/QBhzzITbsZ
+date = Fri Nov 20 13:37:04 +0000 2015| user = saratavares| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 13:35:55 +0000 2015| user = adrianagalvaol| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 13:33:15 +0000 2015| user = brenobarros| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 13:31:13 +0000 2015| user = ilobur_news| text = Halterofilistas da Bulgária excluídos dos Jogos Rio 2016 - Público.pt https://t.co/LwBUR1N8md #ブラジル #五輪 #Rio2016
+date = Fri Nov 20 13:31:00 +0000 2015| user = umpassarimazul| text = RT @JogosOlimpicos: É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Trib…
+date = Fri Nov 20 13:30:13 +0000 2015| user = JogosOlimpicos| text = É você, Katniss?! Treinadora de Jennifer Lawrence em Jogos Vorazes é uma atleta olímpica! https://t.co/GZN3Oa5fkH #Tributos (via @Rio2016)
+date = Fri Nov 20 13:15:25 +0000 2015| user = jenner_ana| text = tarra feliz pq tinha conseguido pegar uma moeda de 1 real do basquete Rio2016 e agora ja tenho 3. OKAY CHEGA, quero outros esportes
+date = Fri Nov 20 13:14:21 +0000 2015| user = marceloinfoco| text = Praça XV sendo reformada. E este restaurante? Qual será o seu destino?
+#NovaPracaXV #Rio2016 @eduardopaes_ https://t.co/K2vXk74ZeM
+date = Fri Nov 20 13:09:40 +0000 2015| user = BrenerTP| text = Em menos de 1 ano estarei aí no novo Centro Olímpico de Hóquei sob Grama...#Rio2016 #Olímpics #Olympi https://t.co/saEn0fMl18
+date = Fri Nov 20 13:05:09 +0000 2015| user = LPJ_Bresil| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 13:02:52 +0000 2015| user = radiokolbehd| text = Com Tel_ @M_mastromarinoo, atleta marplatense clasificado a los JJOO Rio2016
+date = Fri Nov 20 13:01:52 +0000 2015| user = minesporte| text = .@GeorgeHilton10 destaca legado nacional dos Jogos #Rio2016, como a pista de atletismo de Cascavel (PR). https://t.co/VwdZNjKQAE
+date = Fri Nov 20 12:58:37 +0000 2015| user = DiscoverBrazil1| text = Paul Drinkhall aposta em jogadas de efeito para vencer evento-teste de tênis de mesa https://t.co/tdbouBeh7E https://t.co/tddFBjwRnI
+date = Fri Nov 20 12:58:37 +0000 2015| user = DiscoverRio1| text = Paul Drinkhall aposta em jogadas de efeito para vencer evento-teste de tênis de mesa https://t.co/jXgZilhxC8 https://t.co/jL5vQe1iOs
+date = Fri Nov 20 12:44:12 +0000 2015| user = zidruxXx| text = 259 dias pras Olimpíadas
+#Rio2016 #259days
+date = Fri Nov 20 12:42:15 +0000 2015| user = FlorchaGGoalie| text = regram @rio2016
+Agora: apresentação do campo de #HóqueiSobreGrama em #Deodoro! E do dia 24 ao 28 tem… https://t.co/sqtvyZAcVR
+date = Fri Nov 20 12:35:39 +0000 2015| user = cpboficial| text = Bom dia, sexta-feira! \o/ Faltam 292 dias para os #JogosParalímpicos @Rio2016 ;)
+date = Fri Nov 20 12:27:13 +0000 2015| user = Emilsonrwerner| text = @Rio2016 @NelsonLambach Obrigado! Será uma grande olimpíada e estamos na torcida pelo Rio 2016!
+date = Fri Nov 20 12:22:10 +0000 2015| user = RicardoLongo1| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 12:08:07 +0000 2015| user = Rio2016| text = @Emilsonrwerner @NelsonLambach É grama sintética :)
+date = Fri Nov 20 12:05:54 +0000 2015| user = seleccaonaciona| text = Doping: halterofilismo da Bulgária excluído dos Jogos Olímpicos https://t.co/vuTgWOvkEa
+date = Fri Nov 20 12:04:35 +0000 2015| user = NewsPortugal| text = [+Futebol] Doping: halterofilismo da Bulgária excluído dos Jogos Olímpicos: 
+
+Onze atletas acusaram st... https://t.co/Xp9Yw2gONg
+date = Fri Nov 20 12:03:33 +0000 2015| user = Emilsonrwerner| text = @Rio2016 @NelsonLambach Mas não é grama, né? O hóquei pode ser praticado sobre carpê?
+date = Fri Nov 20 12:01:27 +0000 2015| user = Rio2016| text = @Emilsonrwerner @NelsonLambach pra aumentar o contraste com a bolinha ;)
+date = Fri Nov 20 12:00:50 +0000 2015| user = javcollao| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:58:48 +0000 2015| user = guiantamo| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:58:17 +0000 2015| user = LucasEsportes| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:58:04 +0000 2015| user = 14Rendon| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:57:00 +0000 2015| user = tcariolet| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:55:08 +0000 2015| user = NelsonLambach| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:54:32 +0000 2015| user = IVALDOMORAES| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:53:04 +0000 2015| user = GioelePaglia| text = RT @Rio2016: Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:52:07 +0000 2015| user = Rio2016| text = Apresentação do campo de #HóqueiSobreGrama em Deodoro! https://t.co/RlEcqDSoh0
+date = Fri Nov 20 11:45:54 +0000 2015| user = acerjrio| text = No primeiro painel, Mario Andrada, diretor de comunicação do Comitê da @rio2016, fala sobre a estrutura dos jogos e a área de comunicação
+date = Fri Nov 20 11:44:50 +0000 2015| user = nlopes952| text = RT @NeEvora: O caminho faz-se caminhando. #Adidas #Rio2016 https://t.co/4V3xdWW5V1
+date = Fri Nov 20 11:42:12 +0000 2015| user = musicaoverdose| text = Rio 2016 divulga calendário completo de eventos-teste https://t.co/Frktld6Wak
+date = Fri Nov 20 11:35:33 +0000 2015| user = mengo_fa| text = RT @gpesportiva: FOTOS - Está quase tudo pronto para a #Rio2016. Conheça as instalações da Olimpíada https://t.co/5dkHKNyWnb https://t.co/y…
+date = Fri Nov 20 11:34:59 +0000 2015| user = FloraViguie| text = RT @lilany_pacheco: @anna_aromi @angeh5 @manteloma @FloraViguie @jorgebafico @Benichouphil Sigam e retuitem @AMP_RIO2016 !!!
+date = Fri Nov 20 11:31:51 +0000 2015| user = marthaeferreira| text = @raphaelscostarj @Rio2016 Células terroristas já estão na tríplice fronteira há muitos anos. Só não sei se é o EI. Provou-se o Al Qaeda.
+date = Fri Nov 20 11:30:22 +0000 2015| user = marthaeferreira| text = RT @raphaelscostarj: @marthaeferreira @Rio2016  Imigrantes e terroristas principalmente! Ñ esqueça q o EI está no Brasil: Foz do Iguaçu e SP
+date = Fri Nov 20 11:04:54 +0000 2015| user = marciapink_1| text = RT @gazetadopovo: FOTOS - Está quase tudo pronto para a #Rio2016. Conheça as instalações da Olimpíada https://t.co/HPysdoGoRD https://t.co/…
+date = Fri Nov 20 11:04:44 +0000 2015| user = maisfutebol| text = Doping: seleção de halterofilismo da Bulgária excluída dos Jogos Olímpicos do Rio2016
+https://t.co/BDNje8PSbr
+date = Fri Nov 20 11:00:34 +0000 2015| user = alem_do_futebol| text = RT @SurtoOlimpico: Marco Grael e Gabriel Borges ficam com a vaga do Brasil na 49er no @Rio2016 https://t.co/r4It8AVHWF https://t.co/nKE53Qe…
+date = Fri Nov 20 11:00:16 +0000 2015| user = gpesportiva| text = FOTOS - Está quase tudo pronto para a #Rio2016. Conheça as instalações da Olimpíada https://t.co/5dkHKNyWnb https://t.co/ynMoijRFXQ
+date = Fri Nov 20 11:00:16 +0000 2015| user = gazetadopovo| text = FOTOS - Está quase tudo pronto para a #Rio2016. Conheça as instalações da Olimpíada https://t.co/HPysdoGoRD https://t.co/JpYZjMqWzr
+date = Fri Nov 20 10:31:19 +0000 2015| user = betisehead| text = RT @Rio2016: Pra inspirar: 7 atletas que venceram a batalha contra o câncer! :) https://t.co/eyeiib1Xa1 https://t.co/9ori9C9QR6
+date = Fri Nov 20 10:26:13 +0000 2015| user = Seba_Pereira| text = RT @SurtoOlimpico: Destaques do Surto.. a @adidasbrasil lança a #Errejota, a bola do @Rio2016 https://t.co/LnIL5WlsOi https://t.co/CQsZH0Pv…
+date = Fri Nov 20 10:26:01 +0000 2015| user = Seba_Pereira| text = RT @SurtoOlimpico: COI condena autoridades do Kuwait que tentam impedir atletas de obter vagas no @Rio2016 https://t.co/s3unj3BpVF https://…
+date = Fri Nov 20 10:25:51 +0000 2015| user = Seba_Pereira| text = RT @SurtoOlimpico: O torneio Olímpico de Tênis do @Rio2016 não dará pontos para o ranking da @ATPWorldTour https://t.co/jhPRhrxn4i https://…
+date = Fri Nov 20 10:25:22 +0000 2015| user = ilobur_news| text = A seleção de halterofilismo da Bulgária foi excluída dos Jogos ... - Correio da Manhã https://t.co/RMBCtcJoVI #ブラジル #五輪 #Rio2016
+date = Fri Nov 20 10:21:19 +0000 2015| user = Seba_Pereira| text = RT @SurtoOlimpico: Marco Grael e Gabriel Borges ficam com a vaga do Brasil na 49er no @Rio2016 https://t.co/r4It8AVHWF https://t.co/nKE53Qe…
+date = Fri Nov 20 10:06:02 +0000 2015| user = fraque| text = Halterofilismo da Bulgária excluído dos Jogos Rio2016 https://t.co/LKFVA2dW8t
+date = Fri Nov 20 10:05:54 +0000 2015| user = fraque| text = Senhores do Fraque® Halterofilismo da Bulgária excluído dos Jogos Rio2016: Casos de doping são a razão. https://t.co/2jkhem6frf
+date = Fri Nov 20 09:20:59 +0000 2015| user = embassyofsport| text = RT @ilobur_news: O que dizer dos Jogos Mundiais dos Povos Indígenas? - Rio 2016 https://t.co/tgojAdLQwy #ブラジル #五輪 #Rio2016
+date = Fri Nov 20 09:20:15 +0000 2015| user = JairNumb1969| text = Brasil não está preparado para evitar ataque na Rio-16, dizem especialistas https://t.co/82e2jL5Tr5 via @UOLEsporte #Rio2016
+date = Fri Nov 20 09:05:21 +0000 2015| user = ptnacional| text = RT @blogdilmabr: Brasil garante a segurança nos Jogos Rio 2016 https://t.co/H3PhhHss67 #Rio2016 #BrasilComDilma

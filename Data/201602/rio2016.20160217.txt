@@ -1,0 +1,850 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Wed Feb 17 02:06:04 +0000 2016| user = stellabarros13| text = Aquecendo o core pra torcer nas olimpíadas #Rio2016 hehe
+date = Wed Feb 17 01:52:49 +0000 2016| user = alexpussieldi| text = Já assistiu? Confira o vídeo do #olympicpoolparty https://t.co/CSnON5Rxzu #rio2016
+date = Wed Feb 17 01:46:04 +0000 2016| user = DanValentine_| text = Acompanhando Canadá 1x0 Guatemala pelo Pre Olimpico da Concacaf para #Rio2016 #FutebolFeminino
+
+https://t.co/DuVe3SfztS
+date = Wed Feb 17 01:45:13 +0000 2016| user = leormenezes| text = RT @fabiopaleixo: Tiago Splitter passará por cirurgia e está fora da Olimpíada do Rio https://t.co/CJQOCfKCbf via @UOLEsporte #Rio2016
+date = Wed Feb 17 01:34:53 +0000 2016| user = leandro_wobeto| text = RT @fabiopaleixo: Tiago Splitter passará por cirurgia e está fora da Olimpíada do Rio https://t.co/CJQOCfKCbf via @UOLEsporte #Rio2016
+date = Wed Feb 17 01:31:17 +0000 2016| user = UOLEsporte| text = RT @fabiopaleixo: Tiago Splitter passará por cirurgia e está fora da Olimpíada do Rio https://t.co/CJQOCfKCbf via @UOLEsporte #Rio2016
+date = Wed Feb 17 01:23:55 +0000 2016| user = balanacesta| text = Aleixo no UOL: "Tiago Splitter passará por cirurgia e está fora da Olimpíada do Rio" https://t.co/kd600bUyRH via @UOLEsporte #Rio2016
+date = Wed Feb 17 01:18:59 +0000 2016| user = fabiopaleixo| text = Tiago Splitter passará por cirurgia e está fora da Olimpíada do Rio https://t.co/CJQOCfKCbf via @UOLEsporte #Rio2016
+date = Wed Feb 17 01:10:58 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Relembrando que Eliane Martins conseguiu indice no Salto em Distância para o @Rio2016 https://t.co/gBepKbkLcd https://t.…
+date = Wed Feb 17 01:10:37 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...Camarões estreará no torneio Olímpico de Vôlei feminino no @Rio2016 https://t.co/io4h7i63OM https:/…
+date = Wed Feb 17 01:07:02 +0000 2016| user = Tania_Bertoline| text = O que será de #Rio2016? Deus nos ajude de não ser um vexame
+date = Wed Feb 17 01:00:59 +0000 2016| user = SurtoOlimpico| text = Relembrando que Eliane Martins conseguiu indice no Salto em Distância para o @Rio2016 https://t.co/gBepKbkLcd https://t.co/IalAdR0ptN
+date = Wed Feb 17 00:51:12 +0000 2016| user = bapazz| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio https://t.co/l3ogzuzve5 via @theoldreader
+date = Wed Feb 17 00:50:21 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...Camarões estreará no torneio Olímpico de Vôlei feminino no @Rio2016 https://t.co/io4h7i63OM https://t.co/UhhmUMYTrY
+date = Wed Feb 17 00:42:20 +0000 2016| user = giii_dmoura| text = Alegria imensa vem 01/04 #vemLuanSantana #Rio2016 ❤️❤️❤️❤️
+date = Wed Feb 17 00:35:39 +0000 2016| user = osolimpicos| text = .@tiagosplitter precisa operar, ficará parado por 8 meses e está fora do #Rio2016
+date = Wed Feb 17 00:34:37 +0000 2016| user = alexpussieldi| text = Primeiro grande desfalque do Brasil para o #rio2016: https://t.co/OBjqzjh53k
+date = Wed Feb 17 00:33:03 +0000 2016| user = thiagopro| text = Possível baixa para a seleção de basquete #Rio2016  https://t.co/I4gSvkO8q0
+date = Wed Feb 17 00:29:07 +0000 2016| user = rafamrocha| text = A cidade não será catequizada https://t.co/JxX4bwgLpt #Rio2016
+date = Wed Feb 17 00:24:34 +0000 2016| user = cnetoin| text = #Rio2016 - Camarões se classificou no vôlei feminino. O Egito irá para a seletiva global. cc @hakeru_chan @nanyshidou @GabrielGomes97 e +
+date = Wed Feb 17 00:13:28 +0000 2016| user = tortoriello| text = 2o capítulo série #olimpíada #Rio2016, preparação ginástica e futebol fem. #JornaldaBand @Rio2016 @bandjornalismo 
+
+https://t.co/cfN9NQ3m6M
+date = Wed Feb 17 00:11:16 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Tiago Splitter passa por cirurgia e vira dúvida para Olimpíada  #Br   https://t.co/swNKYnvkK5
+date = Wed Feb 17 00:11:16 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Tiago Splitter passa por cirurgia e vira dúvida para Olimpíada  #Br   https://t.co/3MnrDfn38x
+date = Wed Feb 17 00:04:11 +0000 2016| user = VictorCeltics99| text = RT @TheBlurBarbosa: Foi ótimo ver a família, repor as energias e sentir o clima para as olimpíadas @Rio2016 #EuSouTimeBrasil https://t.co/X…
+date = Wed Feb 17 00:04:03 +0000 2016| user = cbckjr| text = @TheBlurBarbosa @Rio2016 @Olympics leandrinho me da uma jersey :(
+date = Wed Feb 17 00:02:04 +0000 2016| user = RojasFarfan| text = RT @TheBlurBarbosa: Foi ótimo ver a família, repor as energias e sentir o clima para as olimpíadas @Rio2016 #EuSouTimeBrasil https://t.co/X…
+date = Wed Feb 17 00:01:38 +0000 2016| user = _DaviBritto| text = @TheBlurBarbosa @Rio2016 que lindo, estarei torcendo por você nos jogos Leandrinho, estarei torcendo pelo Brasil. Rumo ao ouro.
+date = Tue Feb 16 23:57:53 +0000 2016| user = dudumagnani| text = RT @osolimpicos: Classificados pro vôlei Fem no #Rio2016: BRA🇧🇷, CHN🇨🇳, SRB🇷🇸, RUS🇷🇺, ARG🇦🇷, USA🇺🇸 e CMR🇨🇲
+date = Tue Feb 16 23:57:18 +0000 2016| user = BahSais| text = @_apple5 @BrazilGovNews @Rio2016 E a caçada continua...
+date = Tue Feb 16 23:51:35 +0000 2016| user = Schweighoferx| text = RT @TheBlurBarbosa: Foi ótimo ver a família, repor as energias e sentir o clima para as olimpíadas @Rio2016 #EuSouTimeBrasil https://t.co/X…
+date = Tue Feb 16 23:51:11 +0000 2016| user = PowerUrubu| text = Tanto $$$ e quando o circo passar não sobrará nada pra quem fica e vive, realmente, essa cidade. #Legado #Rio2016 https://t.co/O6qIJ7jgok
+date = Tue Feb 16 23:50:53 +0000 2016| user = TheBlurBarbosa| text = Foi ótimo ver a família, repor as energias e sentir o clima para as olimpíadas @Rio2016 #EuSouTimeBrasil https://t.co/X0eEBX09sM
+date = Tue Feb 16 23:46:46 +0000 2016| user = Seba_Pereira| text = RT @osolimpicos: Classificados pro vôlei Fem no #Rio2016: BRA🇧🇷, CHN🇨🇳, SRB🇷🇸, RUS🇷🇺, ARG🇦🇷, USA🇺🇸 e CMR🇨🇲
+date = Tue Feb 16 23:38:12 +0000 2016| user = andreea_ariani| text = Splitter passará por cirurgia, fica oito meses fora e não joga a Olimpíada  -https://t.co/4giAq7o4WP #Rio2016 #basquete
+date = Tue Feb 16 23:34:54 +0000 2016| user = lucianodesouzab| text = Sitiado por obra olímpica, morador tem de mostrar credencial para entrar na própria casa https://t.co/ywvxIKOTqi via @UOLEsporte #Rio2016
+date = Tue Feb 16 23:29:17 +0000 2016| user = osolimpicos| text = Classificados pro vôlei Fem no #Rio2016: BRA🇧🇷, CHN🇨🇳, SRB🇷🇸, RUS🇷🇺, ARG🇦🇷, USA🇺🇸 e CMR🇨🇲
+date = Tue Feb 16 23:26:49 +0000 2016| user = PowerUrubu| text = Viva o tal legado olímpico. 
+
+#CidadeOlímpica #Rio2016 https://t.co/4E3NkKOYFN
+date = Tue Feb 16 23:20:49 +0000 2016| user = ROBERTAIRLANA| text = RT @GomesFilho13: Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça via @UOLEsporte #Rio2016   https://t.co/CpzF0hCd5U
+date = Tue Feb 16 23:19:30 +0000 2016| user = FabiolaBemfeito| text = Torcida brasileira até q foi bem no #RioOpen. Torceu, torceu pelo Bellucci, mas reconheceu e aplaudiu vitória Dolgopolov #RoadtoRio #Rio2016
+date = Tue Feb 16 23:13:04 +0000 2016| user = OGlobo_Esportes| text = Tiago Splitter é operado, fica fora da NBA e pode perder a #Rio2016 https://t.co/xkUz0Q9NJ5 https://t.co/iuVzKoAlT1
+date = Tue Feb 16 23:10:58 +0000 2016| user = geraldopost| text = @Rio2016 Não terá mais Ginástica Artística, queria ver se continua comprar mais dois ingressos e não achei o evento no calendário.
+date = Tue Feb 16 22:54:18 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Sitiado por obra olímpica, morador tem de mostrar credencial para entrar na própria casa  #Br   https://t.co/3MnrDfn38x
+date = Tue Feb 16 22:54:18 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Sitiado por obra olímpica, morador tem de mostrar credencial para entrar na própria casa  #Br   https://t.co/swNKYnvkK5
+date = Tue Feb 16 22:51:53 +0000 2016| user = sandrarossi13| text = RT @CiscoDoBrasil: Engenheiro cria ferramenta p ajudar deficientes visuais nos pontos de ônibus #Rio2016 #Cisco https://t.co/7a3SHgvNLt htt…
+date = Tue Feb 16 22:48:28 +0000 2016| user = GustavoM2014| text = RT @portalbrasil: 🏊 Natação brasileira terá recorde de atletas paralímpicos nos Jogos #Rio2016 https://t.co/YAPm9BnGEL @Brasil2016
+date = Tue Feb 16 22:43:35 +0000 2016| user = dani1127| text = RT @g1: Prefeito do Rio afirma que há exagero sobre zika: 'Morre mais gente de gripe' https://t.co/OXnJjPHG8d #G1 #G1Rio
+date = Tue Feb 16 22:37:38 +0000 2016| user = BrasilBogota| text = RT @Rio2016: Equipes classificadas ⚽️👧 🏼#Rio2016
+
+🇧🇷 #Brasil
+🇨🇴 #Colômbia 
+🇩🇪 #Alemanha
+🇫🇷 #França
+🇿🇦 #ÁfricaDoSul
+🇿🇼 #Zimbábue
+🇳🇿 #NovaZel…
+date = Tue Feb 16 22:27:48 +0000 2016| user = lcportinho| text = Desfalque irreparável para seleção brasileira de basquete (@CBB_basquete @basquetebrasil) nos Jogos @Rio2016  https://t.co/gFJf8ffag5
+date = Tue Feb 16 22:21:01 +0000 2016| user = AUGUSTOBISPO01| text = RT @emidio18272: Sitiado por obra olímpica, morador tem de mostrar credencial para entrar na própria casa https://t.co/QehAHLJE71 via @UOLE…
+date = Tue Feb 16 22:18:05 +0000 2016| user = flaviodilascio| text = Splitter passará por cirurgia, fica fora da temporada e mais longe dos Jogos https://t.co/YJ4CMF8by1 #nba #Rio2016 https://t.co/qUlHF6HHfj
+date = Tue Feb 16 22:08:24 +0000 2016| user = yec_terrza| text = RT @AnaPaulaVolei: Rio 2016 já a mil na TV por aqui! Sei q vcs vão falar "ah o zika", mas estou confiante que será lindo! 
+#Rio2016 https:/…
+date = Tue Feb 16 22:00:33 +0000 2016| user = usiuva| text = Eu não acredito que isso seja uma cena da cidade que vai ser a sede das Olimpíadas! #Rio2016 Isso nunca vai mudar? https://t.co/T7oaEzNjzL
+date = Tue Feb 16 21:59:58 +0000 2016| user = Lobatadas| text = O Rio de Janeiro continua sendo...
+#Rio2016  https://t.co/sGbWApBZo9
+date = Tue Feb 16 21:56:02 +0000 2016| user = naldobarros690| text = RT @cpboficial: Curitiba receberá abertura do Circuito Caixa Loterias a exatos 200 dias dos Jogos @Rio2016: https://t.co/F475etgr3G https:/…
+date = Tue Feb 16 21:55:54 +0000 2016| user = naldobarros690| text = RT @cpboficial: #QueLindoSeria todas as arquibancadas dos #JogosParalímpicos @Rio2016 lotadas! Garanta seu ingresso &gt;&gt; https://t.co/l9Tz1IO…
+date = Tue Feb 16 21:53:38 +0000 2016| user = emidio18272| text = Sitiado por obra olímpica, morador tem de mostrar credencial para entrar na própria casa https://t.co/QehAHLJE71 via @UOLEsporte #Rio2016
+date = Tue Feb 16 21:50:32 +0000 2016| user = FolhaKariocas| text = INFORME KARIOCAS - BOLETIM ESPECIAL
+
+RT MarcioJusto: Essa é a nossa #CidadeOlimpica #Rio2016. Rua Carolina Santos... https://t.co/PZi8HHSeyA
+date = Tue Feb 16 21:48:31 +0000 2016| user = MarcioJunger| text = RT @CaosNoRio: RT MarcioJusto: Essa é a nossa #CidadeOlimpica #Rio2016. Rua Carolina Santos no Méier. Virou um riacho! Prefeitura… https://…
+date = Tue Feb 16 21:47:29 +0000 2016| user = mzasou| text = RT @infraton: Rio de Janeiro, Cidade Olímpica #Rio2016 https://t.co/HLIS27wXuC
+date = Tue Feb 16 21:39:53 +0000 2016| user = shaiky7| text = RT @infraton: Rio de Janeiro, Cidade Olímpica #Rio2016 https://t.co/HLIS27wXuC
+date = Tue Feb 16 21:39:30 +0000 2016| user = CaosNoRio| text = RT MarcioJusto: Essa é a nossa #CidadeOlimpica #Rio2016. Rua Carolina Santos no Méier. Virou um riacho! Prefeitura… https://t.co/LXqf2f9ZgT
+date = Tue Feb 16 21:38:36 +0000 2016| user = econovida| text = RT @ToDiBolha: ARAB NEWS
+Nadal e Ferrer nao estao preocupados com #zika no #RioOpen2016
+
+#Saude #zikazero #Rio2016 #esporte #Dilma https://…
+date = Tue Feb 16 21:38:03 +0000 2016| user = tupiniquimmm| text = RT @ToDiBolha: ARAB NEWS
+Nadal e Ferrer nao estao preocupados com #zika no #RioOpen2016
+
+#Saude #zikazero #Rio2016 #esporte #Dilma https://…
+date = Tue Feb 16 21:36:36 +0000 2016| user = ToDiBolha| text = ARAB NEWS
+Nadal e Ferrer nao estao preocupados com #zika no #RioOpen2016
+
+#Saude #zikazero #Rio2016 #esporte #Dilma https://t.co/9sV50tb7HR
+date = Tue Feb 16 21:35:37 +0000 2016| user = THAISLLOPES| text = @MobTrilhosRJ @SuperVia_trens 
+Chove dentro dos vagões!
+#Rio2016 #CidadeOlimpica https://t.co/3qrpjj6Pn0
+date = Tue Feb 16 21:33:56 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Lesionada, Isinbayeva segue tratamento e não sabe quando retomará treinos  #Br   https://t.co/swNKYnvkK5
+date = Tue Feb 16 21:33:56 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Lesionada, Isinbayeva segue tratamento e não sabe quando retomará treinos  #Br   https://t.co/3MnrDfn38x
+date = Tue Feb 16 21:33:55 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Dirigente queniano acusado de chantagear atletas se afasta de funções  #Br   https://t.co/3MnrDfn38x
+date = Tue Feb 16 21:33:55 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Dirigente queniano acusado de chantagear atletas se afasta de funções  #Br   https://t.co/swNKYnvkK5
+date = Tue Feb 16 21:28:02 +0000 2016| user = negorick| text = Reportagem meia boca do #rjtv. Não denuncia, nem mostra a pressão dos motoristas em dupla função e cobra punição para os motoristas.#Rio2016
+date = Tue Feb 16 21:27:34 +0000 2016| user = MarcioJusto| text = Essa é a nossa #CidadeOlimpica #Rio2016. Rua Carolina Santos no Méier. Virou um riacho! @Prefeitura_Rio @CaosNoRio https://t.co/gvgGwfdDrZ
+date = Tue Feb 16 21:26:13 +0000 2016| user = LucaaaiixCRF| text = RT @infraton: Rio de Janeiro, Cidade Olímpica #Rio2016 https://t.co/HLIS27wXuC
+date = Tue Feb 16 21:25:12 +0000 2016| user = DanilloRafa| text = RT @infraton: Rio de Janeiro, Cidade Olímpica #Rio2016 https://t.co/HLIS27wXuC
+date = Tue Feb 16 21:22:42 +0000 2016| user = nacaochamadafla| text = RT @infraton: Rio de Janeiro, Cidade Olímpica #Rio2016 https://t.co/HLIS27wXuC
+date = Tue Feb 16 21:22:20 +0000 2016| user = marcelobarroso| text = Sou #VoluntárioRio2016! Veja se você também é em https://t.co/LfUYiVD0FO
+date = Tue Feb 16 21:19:03 +0000 2016| user = JrWandeir| text = Retweeted Rio 2016 (@Rio2016):
+
+Os atletas de #SaltosOrnamentais Luiz Outerelo, Ian Matos e Juliana Veloso  estão... https://t.co/XKpIxskDGT
+date = Tue Feb 16 21:18:59 +0000 2016| user = JrWandeir| text = RT @Rio2016: Os atletas de #SaltosOrnamentais Luiz Outerelo, Ian Matos e Juliana Veloso  estão se divertindo no @viaparque ! Vem! https://t…
+date = Tue Feb 16 21:07:24 +0000 2016| user = infraton| text = Rio de Janeiro, Cidade Olímpica #Rio2016 https://t.co/HLIS27wXuC
+date = Tue Feb 16 21:06:21 +0000 2016| user = TCasqueira| text = RT @cbdvonline: Que trio! Victória, Carol e Simone levaram o OURO no Parapan de Toronto. Nos Jogos do @Rio2016 tem muito mais. https://t.co…
+date = Tue Feb 16 21:04:57 +0000 2016| user = caoerton| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 21:00:17 +0000 2016| user = alvarojosetv| text = Clique dos Jogos de ATLANTA 96 , grande festa no Sul dos EUA .
+Abertura foi incrível
+Faltam 171 dias para #Rio2016 https://t.co/cOMpwcLoZp
+date = Tue Feb 16 20:50:05 +0000 2016| user = vercessi2006| text = @bandnewsfmrio piscina olímpica? preparatório para  rio2016?
+date = Tue Feb 16 20:46:49 +0000 2016| user = talanarede| text = TÁ LÁ, 
+Olimpíada? Não, obrigado
+https://t.co/RClJH7jHls | #Olimpiadas #Rio2016 #Olimpiadas2016 #OlimpiadasRio2016 https://t.co/omE8xEqD6k
+date = Tue Feb 16 20:39:59 +0000 2016| user = Z_Shan93| text = Estou tão animado!!! Finalmente recebeu meu convite voluntário do @Rio2016 !!! https://t.co/BNZBPSvelC
+date = Tue Feb 16 20:34:50 +0000 2016| user = OGlobo_Esportes| text = Time de #ciclismo faz fotos sensuais enquanto atletas tentam vaga na #Rio2016 https://t.co/J2hxNVxaqR #bicicleta https://t.co/c2fZKSjrHe
+date = Tue Feb 16 20:33:04 +0000 2016| user = RosaninhaDantas| text = Se chover assim em agosto..a prova de canoagem pode ser na rua #rio2016 #chuva #alagados
+date = Tue Feb 16 20:33:01 +0000 2016| user = inconfidenciaam| text = Diariamente, nas ondas da #Brasileiríssima, ouça o quadro #MomentoOlímpico https://t.co/RYQJgDE8b6 #Rio2016
+date = Tue Feb 16/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ 20:33:01 +0000 2016| user = inconfidenciafm| text = Diariamente, nas ondas da #Brasileiríssima, ouça o quadro #MomentoOlímpico https://t.co/fXN3vf2g8w #Rio2016
+date = Tue Feb 16 20:28:11 +0000 2016| user = CiannePlummer| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 20:13:46 +0000 2016| user = tortoriello| text = Daqui a pouco, a 2a reportagem da série olímpica #futebol #seleçãofeminina #ginástica @Rio2016 
+19:20 #JornaldaBand https://t.co/tCpyZEijLx
+date = Tue Feb 16 20:09:29 +0000 2016| user = GstamosVidaReal| text = RT @CiscoDoBrasil: O Leonardo é um engenheiro da Cisco nos Jogos #Rio2016 #Cisco #Inovação 
+Saiba mais em: https://t.co/X7GoPFS1pp https://…
+date = Tue Feb 16 20:00:03 +0000 2016| user = CiscoDoBrasil| text = O Leonardo é um engenheiro da Cisco nos Jogos #Rio2016 #Cisco #Inovação 
+Saiba mais em: https://t.co/X7GoPFS1pp https://t.co/IwpCcTOMF0
+date = Tue Feb 16 19:58:54 +0000 2016| user = alem_do_futebol| text = Vôlei Feminino, Pré-Olímpico Africano em Yaoundé/CMR: Egito e Quênia vão disputar o Pré-Mundial, c/ COL e PUR, valendo uma vaga p/ @Rio2016
+date = Tue Feb 16 19:58:14 +0000 2016| user = alem_do_futebol| text = Vôlei Feminino, Pré-Olímpico Africano em Yaoundé, Camarões, final, Egito 2x3 Camarões. CMR classificada p/ @Rio2016 #RoadToRio
+date = Tue Feb 16 19:54:47 +0000 2016| user = flablack| text = RT @cpboficial: #QueLindoSeria todas as arquibancadas dos #JogosParalímpicos @Rio2016 lotadas! Garanta seu ingresso &gt;&gt; https://t.co/l9Tz1IO…
+date = Tue Feb 16 19:52:03 +0000 2016| user = MariaPe45| text = RT #JuegosOlímpicos "Zika no afectará Rio2016": Brasil https://t.co/UPtqiIeTu7 https://t.co/2CGB6irehG
+date = Tue Feb 16 19:51:26 +0000 2016| user = la12commx| text = #JuegosOlímpicos "Zika no afectará @Rio2016": Brasil https://t.co/tnaSo7Rf1q https://t.co/XjyVSE7qxG
+date = Tue Feb 16 19:47:54 +0000 2016| user = AnaPaulaVolei| text = Rio 2016 já a mil na TV por aqui! Sei q vcs vão falar "ah o zika", mas estou confiante que será lindo! 
+#Rio2016 https://t.co/GkGUV3upiK
+date = Tue Feb 16 19:42:38 +0000 2016| user = naldobarros690| text = RT @cbdvonline: Bom dia! Como passa rápido, né, gente? Só 204 dias para vivermos essa emoção dos #JogosParalímpicos do @Rio2016  https://t.…
+date = Tue Feb 16 19:42:11 +0000 2016| user = naldobarros690| text = RT @cbdvonline: Que trio! Victória, Carol e Simone levaram o OURO no Parapan de Toronto. Nos Jogos do @Rio2016 tem muito mais. https://t.co…
+date = Tue Feb 16 19:40:11 +0000 2016| user = Laurafwx| text = RT @cpboficial: Venha torcer com a gente e vibrar #NaMesmaBatida do #CoraçãoParalímpico! Vamos juntos rumo ao @rio2016
+https://t.co/HpumOcG…
+date = Tue Feb 16 19:39:22 +0000 2016| user = Round_Trip_Tur| text = O aeroporto Tom Jobim tem a maior pista de pouso e decolagem entre os aeroportos do Brasil, c/ 4.000 metros. #Rio2016 @RIOgaleao #RoadtoRio
+date = Tue Feb 16 19:38:15 +0000 2016| user = saidaderede| text = Atenção: CAMARÕES se junta a Brasil, China, Sérvia, EUA, Rússia e Argentina e garante vaga no vôlei feminino do #Rio2016
+date = Tue Feb 16 19:36:06 +0000 2016| user = IAouzatovic| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 19:35:32 +0000 2016| user = Round_Trip_Tur| text = @RIOgaleão inicia busca por novo operador de câmbio para o Aeroporto Internacional Tom Jobim #Rio2016 #RoadtoRio
+date = Tue Feb 16 19:31:28 +0000 2016| user = dalgrev| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 19:30:04 +0000 2016| user = PublicEmily_No1| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 19:28:40 +0000 2016| user = jhvv99| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 19:26:58 +0000 2016| user = aclpassos011| text = @cpboficial @Rio2016  Que lindo seria se o povo lutasse pra valer para mudar o BRASIL e não se iludissem com o Carnaval.
+date = Tue Feb 16 19:26:58 +0000 2016| user = runmeb| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 19:22:26 +0000 2016| user = aclpassos011| text = @cpboficial @Rio2016  Que lindo seria se a Educação ,a Saúde e Segurança fossem prioridades no nosso país....
+date = Tue Feb 16 19:21:38 +0000 2016| user = fabisnick| text = EU AMO O #RIO! ❤️ #SouCarioca #Rio2016 #CidadeOlimpica ✨✨😍 https://t.co/bK6GSLoIXR
+date = Tue Feb 16 19:15:28 +0000 2016| user = darlansouzacom| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 19:07:04 +0000 2016| user = cabralgarcia_ei| text = Confira a galeria do @portalR7 e veja como estão as obras das principais instalações olímpicas para o #Rio2016 https://t.co/rerf09jTSG
+date = Tue Feb 16 18:58:37 +0000 2016| user = cbdvonline| text = Que trio! Victória, Carol e Simone levaram o OURO no Parapan de Toronto. Nos Jogos do @Rio2016 tem muito mais. https://t.co/0u6VOPSz3n
+date = Tue Feb 16 18:58:15 +0000 2016| user = cfredbastos| text = RT @cpboficial: #QueLindoSeria todas as arquibancadas dos #JogosParalímpicos @Rio2016 lotadas! Garanta seu ingresso &gt;&gt; https://t.co/l9Tz1IO…
+date = Tue Feb 16 18:54:37 +0000 2016| user = Rom1vion| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 18:46:04 +0000 2016| user = PetitSabino| text = RT @jornalodia: Cientistas dizem que 'é hora de cancelar Olimpíadas no Rio' por surto do #Zika https://t.co/aRfBREAryU #Rio2016 https://t.c…
+date = Tue Feb 16 18:40:06 +0000 2016| user = flavioaraujo_sp| text = Vamos lá #Brasil as #Olimpíadas #Rio2016 estão Vindo. Será que teremos decepções a exemplo #CopadoMundo #SomosBrasil https://t.co/fTGLjIPEBD
+date = Tue Feb 16 18:40:02 +0000 2016| user = cfredbastos| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 18:39:00 +0000 2016| user = alberto_queiroz| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 18:37:26 +0000 2016| user = FitCal_Echo| text = Rio2016 Vai correr a Maratona do Rio? Confirma presença no FB https://t.co/gIeyuYFmMN
+date = Tue Feb 16 18:34:33 +0000 2016| user = Carioca_EC| text = RIO OPEN 2016
+Coletiva de imprensa com @joaofeijaosouza .
+@Rio2016 @RioOpenOficial 
+Reportagem: Mirian de Sousa https://t.co/nWufwFk0Lh
+date = Tue Feb 16 18:32:08 +0000 2016| user = martinchab1997| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 18:31:56 +0000 2016| user = lucenacepat| text = RT @jornalodia: Cientistas dizem que 'é hora de cancelar Olimpíadas no Rio' por surto do #Zika https://t.co/aRfBREAryU #Rio2016 https://t.c…
+date = Tue Feb 16 18:27:11 +0000 2016| user = DPonsuy| text = RT @Rio2016: Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCv…
+date = Tue Feb 16 18:24:19 +0000 2016| user = esquivafalcao| text = RT @TwitterMediaBR: Sinônimo de medalhas para o Brasil: @robert_scheidt e os irmãos @esquivafalcao e Yamaguchi! #Rio2016 https://t.co/IpsNY…
+date = Tue Feb 16 18:23:53 +0000 2016| user = Rio2016| text = Meb Keflezighi (@runmeb) se classificou pra #Maratona no #Rio2016 aos 40 anos!  😱 🏃 🏃 https://t.co/qH8JHzRAj8 https://t.co/jCvqXQymBr
+date = Tue Feb 16 18:19:01 +0000 2016| user = TwitterMediaBR| text = Sinônimo de medalhas para o Brasil: @robert_scheidt e os irmãos @esquivafalcao e Yamaguchi! #Rio2016 https://t.co/IpsNYiLBQC
+date = Tue Feb 16 18:11:12 +0000 2016| user = RSPARADESPORTO| text = Semana que vem tem evento-teste de #rugbyEmCR #Rio2016 @AqueceRio https://t.co/yvBBfgfkvm #Rugby  @IWRF @rugbybrasil @brasilrugby @rugbiabrc
+date = Tue Feb 16 18:09:49 +0000 2016| user = mbeneteli| text = RT @CiscoDoBrasil: Engenheiro cria ferramenta p ajudar deficientes visuais nos pontos de ônibus #Rio2016 #Cisco https://t.co/7a3SHgvNLt htt…
+date = Tue Feb 16 18:05:29 +0000 2016| user = nathi_ely| text = RT @travinha_esp: #Atletismo #Rio2016: Eliane Martins se qualifica no salto em distância para Rio 2016. https://t.co/yZFn189d4q https://t.c…
+date = Tue Feb 16 18:04:21 +0000 2016| user = RSPARADESPORTO| text = Só vai dar Brasil nas águas do @Rio2016 
+
+🏊🏊🏊🏊🏊 #JogosParalimpicos #Rio2016 @TomRio2016  https://t.co/BIgmC0OyYO
+date = Tue Feb 16 18:03:17 +0000 2016| user = klecioboy1| text = RT @jornalodia: Cientistas dizem que 'é hora de cancelar Olimpíadas no Rio' por surto do #Zika https://t.co/aRfBREAryU #Rio2016 https://t.c…
+date = Tue Feb 16 18:00:01 +0000 2016| user = CiscoDoBrasil| text = Engenheiro cria ferramenta p ajudar deficientes visuais nos pontos de ônibus #Rio2016 #Cisco https://t.co/7a3SHgvNLt https://t.co/NIn1E1QAf0
+date = Tue Feb 16 17:58:13 +0000 2016| user = travinha_esp| text = #Atletismo #Rio2016: Eliane Martins se qualifica no salto em distância para Rio 2016. https://t.co/yZFn189d4q https://t.co/iGbMnSxqOL
+date = Tue Feb 16 17:53:33 +0000 2016| user = lorenna_brito| text = RT @jornalodia: Cientistas dizem que 'é hora de cancelar Olimpíadas no Rio' por surto do #Zika https://t.co/aRfBREAryU #Rio2016 https://t.c…
+date = Tue Feb 16 17:51:17 +0000 2016| user = doeumlivro| text = RT @cpboficial: Curitiba receberá abertura do Circuito Caixa Loterias a exatos 200 dias dos Jogos @Rio2016: https://t.co/F475etgr3G https:/…
+date = Tue Feb 16 17:50:59 +0000 2016| user = doeumlivro| text = RT @cpboficial: #QueLindoSeria todas as arquibancadas dos #JogosParalímpicos @Rio2016 lotadas! Garanta seu ingresso &gt;&gt; https://t.co/l9Tz1IO…
+date = Tue Feb 16 17:50:10 +0000 2016| user = cfredbastos| text = RT @soudoesporte: VOA, THIAGO! Brasileiro bate campeão olímpico do salto com vara: https://t.co/t9VQtcXpzJ
+#Atletismo #Rio2016
+date = Tue Feb 16 17:50:06 +0000 2016| user = cfredbastos| text = RT @soudoesporte: Brasil terá recorde de nadadores nos Jogos Paralímpicos #Rio2016: https://t.co/QQYoDfsFzZ
+#CPB #NaMesmaBatida do #Coração…
+date = Tue Feb 16 17:20:33 +0000 2016| user = Laurafwx| text = @cpboficial  @rio2016 veja nessa tela aqui. https://t.co/dOlRVNyy2d disputa pelo bronze não deveria ter uma medalha?
+date = Tue Feb 16 17:16:51 +0000 2016| user = comcatrj| text = RT @RioOnWatch: “O Que Podemos Fazer Contra Tropas Armadas?” Demolições Ilegais na #VilaAutódromo https://t.co/4BiygC28g3 #Rio2016 https://…
+date = Tue Feb 16 17:12:21 +0000 2016| user = keyroz74| text = @cpboficial @Laurafwx @Rio2016 :Aceitam ações da Petrobras como forma de pagamento?!
+date = Tue Feb 16 17:04:46 +0000 2016| user = pliniorocha77| text = Hoje, no @DiarioSP, a @Martatx01 conta a história do @MatheusSantana9, que luta contra a diabetes rumo ao #Rio2016. https://t.co/q1XMcUZVEI
+date = Tue Feb 16 17:01:23 +0000 2016| user = Laurafwx| text = @cpboficial @Rio2016 vocês teriam uma página sobre das próteses? Velocidade média da lâmina de fibra de carbono? Quero divulgar no meu meio.
+date = Tue Feb 16 16:59:58 +0000 2016| user = Laurafwx| text = @cpboficial @Rio2016 nossa, ta vendendo bem melhor agora. Todo dia eu olho! Varios ingressos bom já se foram. Vai dar certo.
+date = Tue Feb 16 16:59:04 +0000 2016| user = Laurafwx| text = RT @cpboficial: #QueLindoSeria todas as arquibancadas dos #JogosParalímpicos @Rio2016 lotadas! Garanta seu ingresso &gt;&gt; https://t.co/l9Tz1IO…
+date = Tue Feb 16 16:45:30 +0000 2016| user = igesporte| text = Confira alguns motivos para acompanhar mountain bike no @Rio2016
+
+→ https://t.co/HDf3JNHZl3 https://t.co/bHJtUe9CEe
+date = Tue Feb 16 16:43:36 +0000 2016| user = Esportessencial| text = RT @soudoesporte: VOA, THIAGO! Brasileiro bate campeão olímpico do salto com vara: https://t.co/t9VQtcXpzJ
+#Atletismo #Rio2016
+date = Tue Feb 16 16:43:11 +0000 2016| user = soudoesporte| text = VOA, THIAGO! Brasileiro bate campeão olímpico do salto com vara: https://t.co/t9VQtcXpzJ
+#Atletismo #Rio2016
+date = Tue Feb 16 16:32:21 +0000 2016| user = zitameireles| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/1uWUFPgE6T
+date = Tue Feb 16 16:32:20 +0000 2016| user = laurakelyn| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/slXHNUzqEA
+date = Tue Feb 16 16:32:18 +0000 2016| user = claudineteabner| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/qN3MggBj8C
+date = Tue Feb 16 16:28:39 +0000 2016| user = Clara77dias| text = RT @Rio2016: Inspiração do dia: a determinação de @IbtihajMuhammad, esgrimista do @TeamUSA! ✨✨✨ https://t.co/918ZtjKmWj https://t.co/4bxQXM…
+date = Tue Feb 16 16:27:27 +0000 2016| user = cpboficial| text = #QueLindoSeria todas as arquibancadas dos #JogosParalímpicos @Rio2016 lotadas! Garanta seu ingresso &gt;&gt; https://t.co/l9Tz1IO6TI
+date = Tue Feb 16 16:24:35 +0000 2016| user = barbaracwb| text = Novo artigo publicado! Proposta de #legados esportivos em função dos Jogos "#Rio2016" - RBCE, v36 - https://t.co/xqcg9QTrtC
+date = Tue Feb 16 16:22:01 +0000 2016| user = awilkinso| text = RT @equinixbrasil: A ideia é tornar um exemplo de bairro inteligente e humano por de   #Tecnologia  #Rio2016 https://t.co/GK0cYsm2jL
+date = Tue Feb 16 16:21:01 +0000 2016| user = equinixbrasil| text = A ideia é tornar um exemplo de bairro inteligente e humano por de   #Tecnologia  #Rio2016 https://t.co/GK0cYsm2jL
+date = Tue Feb 16 16:19:43 +0000 2016| user = OlympicsReTweet| text = RT @mataruna: Do you know about the @Rio2016 Organize Committee? O que é o Comitê Organizador #Rio2016? https://t.co/KM7WHsp44m @olympics @…
+date = Tue Feb 16 16:11:59 +0000 2016| user = GaboKa2009| text = Sou #VoluntárioRio2016! Veja se você também é em https://t.co/5LWlouJHaZ
+date = Tue Feb 16 16:11:39 +0000 2016| user = bikemagazinebr| text = Ciclismo na moeda olímpica dos Jogos Rio 2016. Bacana! #Rio2016 https://t.co/W0Vhxf12Z9
+date = Tue Feb 16 16:04:43 +0000 2016| user = mataruna| text = Do you know the #Transforma Program? #Olympic #Education https://t.co/QGoRQccd4B Vc conhece programa Transforma - Educação Olímpica @Rio2016
+date = Tue Feb 16 16:03:35 +0000 2016| user = gillyworks| text = RT @portalbrasil: 🏊 Natação brasileira terá recorde de atletas paralímpicos nos Jogos #Rio2016 https://t.co/YAPm9BnGEL @Brasil2016
+date = Tue Feb 16 16:01:47 +0000 2016| user = Sandalabarros| text = RT @portalbrasil: 🏊 Natação brasileira terá recorde de atletas paralímpicos nos Jogos #Rio2016 https://t.co/YAPm9BnGEL @Brasil2016
+date = Tue Feb 16 16:01:37 +0000 2016| user = oConsciente| text = portalbrasil: 🏊 Natação brasileira terá recorde de atletas paralímpicos nos Jogos #Rio2016 https://t.co/BGOWf54zYl Brasil2016
+date = Tue Feb 16 16:00:21 +0000 2016| user = portalbrasil| text = 🏊 Natação brasileira terá recorde de atletas paralímpicos nos Jogos #Rio2016 https://t.co/YAPm9BnGEL @Brasil2016
+date = Tue Feb 16 15:58:59 +0000 2016| user = CamilaMacielSer| text = New post: "Ministro diz que 'não haverá desistências' nos Jogos por zika" https://t.co/ZpXfKMvopA
+date = Tue Feb 16 15:56:48 +0000 2016| user = MyriamCal13| text = RT @ColectivoRadio: @catperezj se prepara para #Rio2016 #FCFFemenino #FutFem #CorazónTricolor #PasiónPorMiSelección #HinchaOficial #Goa… ht…
+date = Tue Feb 16 15:56:15 +0000 2016| user = mataruna| text = Do you know about the @Rio2016 Organize Committee? O que é o Comitê Organizador #Rio2016? https://t.co/KM7WHsp44m @olympics @Paralympics
+date = Tue Feb 16 15:53:29 +0000 2016| user = RobGomes101| text = Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/Y08uhWfGbd
+date = Tue Feb 16 15:43:55 +0000 2016| user = CamilaMacielSer| text = New post: "Ministro diz que 'não haverá desistências' nos Jogos por zika" https://t.co/ZpXfKMvopA
+date = Tue Feb 16 15:36:43 +0000 2016| user = CaosNoRio| text = Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/bxngLoc33y
+date = Tue Feb 16 15:36:05 +0000 2016| user = lsmendonca51| text = RT @InformeRJO: Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t…
+date = Tue Feb 16 15:34:03 +0000 2016| user = volunta_Rio2016| text = Saltadores brasileiros encaram piscina de bolinhas antes da Copa do Mundo:  https://t.co/tAs9HHEmB8
+date = Tue Feb 16 15:34:03 +0000 2016| user = valtinhoroberto| text = Dudu Oliveira show dia 16/02/2016 no Rio de Janeiro
+Bar Semente  - clique aqui 
+ 
+https://t.co/RIuBkJw6AK
+
+#rio2016
+date = Tue Feb 16 15:34:03 +0000 2016| user = volunta_Rio2016| text = Após enfrentar machismo nas redes sociais, Ingrid Oliveira conta com torcida brasileira:  https://t.co/vlLX1hSOoD
+date = Tue Feb 16 15:33:05 +0000 2016| user = robertoms78| text = @dilmabr o ministro da saúde larga td o votar no pmdb... o pmdb vale mais que a saúde do Brasil... #vergonha #ZikaVirus #Rio2016
+date = Tue Feb 16 15:31:58 +0000 2016| user = InformeRJO| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/nVw5wXfGjR
+date = Tue Feb 16 15:31:52 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/4yl926h3tn
+date = Tue Feb 16 15:31:52 +0000 2016| user = Geands| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/5rsIfuRrW2
+date = Tue Feb 16 15:31:51 +0000 2016| user = dmvasconcelos89| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/9pjuVtCvPR
+date = Tue Feb 16 15:31:49 +0000 2016| user = DesertEagleRJ| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/4IuGgBqrud
+date = Tue Feb 16 15:31:47 +0000 2016| user = SindicoDoRio| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/3Prum1ylO4
+date = Tue Feb 16 15:31:46 +0000 2016| user = Bruno_Vida| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/5PSgGhNPeN
+date = Tue Feb 16 15:31:43 +0000 2016| user = yagog| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/eG4UYQQluO
+date = Tue Feb 16 15:31:41 +0000 2016| user = Noticiasdopovo_| text = #RJ Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/FN2ga3b5OY
+date = Tue Feb 16 15:31:41 +0000 2016| user = Rio_Acontece| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/Ku6HJmnniR
+date = Tue Feb 16 15:31:39 +0000 2016| user = Opulencio| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/09n1joAqsS
+date = Tue Feb 16 15:31:34 +0000 2016| user = Noticias_Rio| text = Ministro diz que 'não haverá desistências' nos Jogos por z/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/zfpWKzjPlx
+date = Tue Feb 16 15:31:34 +0000 2016| user = viviane9655| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/NhpG6pMMrv
+date = Tue Feb 16 15:31:33 +0000 2016| user = JornalUniversal| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/3GcvsDV1d1
+date = Tue Feb 16 15:31:32 +0000 2016| user = juliamarine9| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/fPPbKVF5Bm
+date = Tue Feb 16 15:31:29 +0000 2016| user = Ferrei17Matilde| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/qSUbrt369F
+date = Tue Feb 16 15:31:27 +0000 2016| user = marcia_f3rreira| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/W4ZTLdV9Q5
+date = Tue Feb 16 15:31:24 +0000 2016| user = jonatarn19| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/1Y5tdBGm53
+date = Tue Feb 16 15:31:22 +0000 2016| user = CarlaLouysse| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/gDsnpoOfGc
+date = Tue Feb 16 15:31:20 +0000 2016| user = dani3lly| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/9WdhQOzBLt
+date = Tue Feb 16 15:31:18 +0000 2016| user = DURANDU85065556| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/Nf4vlbEBQW
+date = Tue Feb 16 15:31:13 +0000 2016| user = marl3nemarta| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/s9BZnj8bcT
+date = Tue Feb 16 15:31:12 +0000 2016| user = lorenadrumont| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/lKZTTNZ6oO
+date = Tue Feb 16 15:31:09 +0000 2016| user = jaoaoliveira| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/7cbMxWI14r
+date = Tue Feb 16 15:31:04 +0000 2016| user = g1rio| text = Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/osJP865pWC
+date = Tue Feb 16 15:31:04 +0000 2016| user = lauradiniz9655| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/QIuTYVd8Xi
+date = Tue Feb 16 15:31:02 +0000 2016| user = joaquimpint0| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/YbdjPN7tpu
+date = Tue Feb 16 15:31:01 +0000 2016| user = juli0pereira| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/vah0jButR8
+date = Tue Feb 16 15:30:58 +0000 2016| user = HeybetaXis| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/ltg6oKmpgd
+date = Tue Feb 16 15:30:55 +0000 2016| user = mariajoaq9655| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/92tAMPA7Z9
+date = Tue Feb 16 15:30:53 +0000 2016| user = alicekiara1| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/JTkYDkd0xe
+date = Tue Feb 16 15:30:51 +0000 2016| user = leonadublyer| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/KNhRu9N3Sr
+date = Tue Feb 16 15:30:48 +0000 2016| user = saidosereno| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/wHtnjkx7dP
+date = Tue Feb 16 15:30:47 +0000 2016| user = DiarioMacae| text = Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/cQxmON4ILs
+date = Tue Feb 16 15:30:47 +0000 2016| user = guuHFeliciano| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/srFbFu9GkJ
+date = Tue Feb 16 15:30:44 +0000 2016| user = NyTimesBrasil| text = Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, negou pr... https://t.co/u7MBxpYKrh
+date = Tue Feb 16 15:30:43 +0000 2016| user = rj_noticia| text = #G1 - Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/355kM9wiAs
+date = Tue Feb 16 15:30:41 +0000 2016| user = adrianokmd_| text = Rio de Janeiro : Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Ext... https://t.co/yRoeZ85q11
+date = Tue Feb 16 15:30:40 +0000 2016| user = Divulgary| text = Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/pQwF99D3lU
+date = Tue Feb 16 15:30:38 +0000 2016| user = AcordaBraziu| text = #Acordabraziu Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteri... https://t.co/dAZYLGizGj
+date = Tue Feb 16 15:30:34 +0000 2016| user = SPCRio| text = #Rio: Ministro diz que 'não haverá desistências' nos Jogos por zika: Mauro Vieira, das Relações Exteriores, ne... https://t.co/eWYFySzGBR
+date = Tue Feb 16 15:30:32 +0000 2016| user = Divulgary| text = Rio: Ministro diz que 'não haverá desistências' nos Jogos por zika https://t.co/mX2SI9purb
+date = Tue Feb 16 15:21:48 +0000 2016| user = Catalinaperezj| text = RT @ColectivoRadio: @catperezj se prepara para #Rio2016 #FCFFemenino #FutFem #CorazónTricolor #PasiónPorMiSelección #HinchaOficial #Goa… ht…
+date = Tue Feb 16 15:14:29 +0000 2016| user = LeiSecaRJ| text = RT @pfreirep: Também na Armando Lombardi, pedestre tem que ir pela rua!! Que lixo de cidade! #Rio2016 #BarradaTijuca https://t.co/48qRX7mW4c
+date = Tue Feb 16 15:13:37 +0000 2016| user = Brasil_2016News| text = Saltadores brasileiros encaram piscina de bolinhas antes da Copa do Mundo:  https://t.co/89LRXaDBUO
+date = Tue Feb 16 15:13:36 +0000 2016| user = Brasil_2016News| text = Após enfrentar machismo nas redes sociais, Ingrid Oliveira conta com torcida brasileira:  https://t.co/XrUd4I0rvk
+date = Tue Feb 16 15:12:59 +0000 2016| user = marewendrehoski| text = RT @gazetadopovo: Seleção feminina de vôlei fará amistosos preparativos para #Rio2016 em São José dos Pinhais https://t.co/HCwVzBzvDx https…
+date = Tue Feb 16 15:09:28 +0000 2016| user = pfreirep| text = Também na Armando Lombardi, pedestre tem que ir pela rua!!! Que lixo de cidade! @LeiSecaRJ #Rio2016 #BarradaTijuca https://t.co/iKwsJ8C7oh
+date = Tue Feb 16 15:01:08 +0000 2016| user = gpesportiva| text = Seleção feminina de vôlei fará amistosos preparativos para #Rio2016 em São José dos Pinhais https://t.co/sISo7XcId5 https://t.co/nI6ErIXPmk
+date = Tue Feb 16 15:01:05 +0000 2016| user = gazetadopovo| text = Seleção feminina de vôlei fará amistosos preparativos para #Rio2016 em São José dos Pinhais https://t.co/HCwVzBzvDx https://t.co/rpFLixrNEz
+date = Tue Feb 16 15:00:02 +0000 2016| user = fabiolamolinabr| text = O @timebrasil está fazendo parte da rotina de @swim_fly1. Arrasou com o maiô da coleção do #rio2016
+
+#regram... https://t.co/oYu9FoeWIy
+date = Tue Feb 16 14:53:23 +0000 2016| user = marlenefs1| text = RT @AdilsonFirmo: Prefeito do Rio diz que zika 'não é tema olímpico' https://t.co/plu5TYyreP
+date = Tue Feb 16 14:28:36 +0000 2016| user = MauVaz1| text = RT @Rio2016: Inspiração do dia: a determinação de @IbtihajMuhammad, esgrimista do @TeamUSA! ✨✨✨ https://t.co/918ZtjKmWj https://t.co/4bxQXM…
+date = Tue Feb 16 14:24:54 +0000 2016| user = martinchab1997| text = RT @Rio2016: Inspiração do dia: a determinação de @IbtihajMuhammad, esgrimista do @TeamUSA! ✨✨✨ https://t.co/918ZtjKmWj https://t.co/4bxQXM…
+date = Tue Feb 16 14:24:51 +0000 2016| user = zidruxXx| text = 171 dias pras Olimpíadas
+#Rio2016 #171days
+date = Tue Feb 16 14:14:41 +0000 2016| user = GloriaLaraf| text = RT @NeEvora: Concentração absoluta! Na contagem regressiva para o #Rio2016. #Faltam171dias #RoadToRio #Adidas https://t.co/AIR5QRdNCM
+date = Tue Feb 16 14:13:59 +0000 2016| user = FIE_fencing| text = RT @Rio2016: Inspiração do dia: a determinação de @IbtihajMuhammad, esgrimista do @TeamUSA! ✨✨✨ https://t.co/918ZtjKmWj https://t.co/4bxQXM…
+date = Tue Feb 16 14:13:51 +0000 2016| user = PedroLealJr| text = RT @Rio2016: Inspiração do dia: a determinação de @IbtihajMuhammad, esgrimista do @TeamUSA! ✨✨✨ https://t.co/918ZtjKmWj https://t.co/4bxQXM…
+date = Tue Feb 16 14:13:31 +0000 2016| user = Rio2016| text = Inspiração do dia: a determinação de @IbtihajMuhammad, esgrimista do @TeamUSA! ✨✨✨ https://t.co/918ZtjKmWj https://t.co/4bxQXMkR6K
+date = Tue Feb 16 14:12:53 +0000 2016| user = voolivrenorio| text = Voo Livre no Rio
+
+#gingliders #ginfuse #gopro #gopro4 #rj #rio #resenha #rio2016 #riodejaneiro… https://t.co/WZOa991f8Z
+date = Tue Feb 16 14:09:47 +0000 2016| user = lualinda68| text = RT @cpboficial: Curitiba receberá abertura do Circuito Caixa Loterias a exatos 200 dias dos Jogos @Rio2016: https://t.co/F475etgr3G https:/…
+date = Tue Feb 16 14:04:43 +0000 2016| user = QUMetro| text = RT @Barboreh: @turcorj @QUMetro @Rio2016 @metro_rio @bandnewsfmrio @oCidadaoRJ Muitos gringos vao supor ter errado de destino e pararam em …
+date = Tue Feb 16 14:02:54 +0000 2016| user = InformeRJO| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio: Nesta sexta-feira (19), começa a Copa do Mundo... https://t.co/vDAw28UKMv
+date = Tue Feb 16 14:02:51 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Confira a lista de eventos-teste até os Jogos Olímpicos do Rio https://t.co/pczlTGywWR
+date = Tue Feb 16 14:02:50 +0000 2016| user = DesertEagleRJ| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio: Nesta sexta-feira (19), começa a Copa do Mundo... https://t.co/24dAdE4y0e
+date = Tue Feb 16 14:02:49 +0000 2016| user = SindicoDoRio| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio: Nesta sexta-feira (19), começa a Copa do Mundo... https://t.co/7hbPCelqyj
+date = Tue Feb 16 14:02:47 +0000 2016| user = Bruno_Vida| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio: Nesta sexta-feira (19), começa a Copa do Mundo... https://t.co/EI1V2g0xyP
+date = Tue Feb 16 14:02:45 +0000 2016| user = Rio_Acontece| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio: Nesta sexta-feira (19), começa a Copa do Mundo... https://t.co/zMibOZYpWy
+date = Tue Feb 16 14:02:43 +0000 2016| user = Noticias_Rio| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio: Nesta sexta-feira (19), começa a Copa do Mundo... https://t.co/enAEpUOID2
+date = Tue Feb 16 13:58:11 +0000 2016| user = minesporte| text = Guilherme Raso, da Sec. de Alto Rendimento, ressalta o legado nacional do #Rio2016 e o Plano Brasil Medalhas. https://t.co/ypbqZvjOIA
+date = Tue Feb 16 13:57:01 +0000 2016| user = clarafavilla| text = RT @larosa_filippo: Sobe para 135 o número de atletas italianos que já têm certeza de competir nas Olimpíadas de @Rio2016 #RoadToRio  https…
+date = Tue Feb 16 13:55:45 +0000 2016| user = cpboficial| text = Curitiba receberá abertura do Circuito Caixa Loterias a exatos 200 dias dos Jogos @Rio2016: https://t.co/F475etgr3G https://t.co/VAW2tjXyaU
+date = Tue Feb 16 13:51:35 +0000 2016| user = HudsonPrado| text = @Monicaspaixao @Rio2016 To ansioso demais!
+date = Tue Feb 16 13:51:27 +0000 2016| user = AnisioCiscotto| text = RT @larosa_filippo: Sobe para 135 o número de atletas italianos que já têm certeza de competir nas Olimpíadas de @Rio2016 #RoadToRio  https…
+date = Tue Feb 16 13:50:13 +0000 2016| user = larosa_filippo| text = Sobe para 135 o número de atletas italianos que já têm certeza de competir nas Olimpíadas de @Rio2016 #RoadToRio  https://t.co/MnfDkUUxsZ
+date = Tue Feb 16 13:45:38 +0000 2016| user = Monicaspaixao| text = @HudsonPrado Sim. Correto @Rio2016 ?! Aguardando ansiosal!! https://t.co/Wa8UzqvcbU
+date = Tue Feb 16 13:34:50 +0000 2016| user = Monicaspaixao| text = @OUrsoOficial conta para gente qual seu esporte favorito? Dia 29 está chegando...contagem regressiva @Rio2016 divulga logo a lista oficial!!
+date = Tue Feb 16 13:32:34 +0000 2016| user = rugbybra_| text = RT @guanarugby: Mentira! Aguenta sim! Manda mais #Rugby!!!! 🏉 #BrasilRugby #rugbyunited #SempreRugby #Rio2016
+date = Tue Feb 16 13:31:57 +0000 2016| user = guanarugby| text = Mentira! Aguenta sim! Manda mais #Rugby!!!! 🏉 #BrasilRugby #rugbyunited #SempreRugby #Rio2016
+date = Tue Feb 16 13:29:21 +0000 2016| user = noticias24br| text = #OlimpíadasRio2016 Confira a lista de eventos-teste até os Jogos Olímpicos do Rio https://t.co/w1bfVjF67m
+date = Tue Feb 16 13:28:13 +0000 2016| user = jeffersonns3| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio https://t.co/UlvcSF8Vv8
+date = Tue Feb 16 13:21:27 +0000 2016| user = AMP_RIO2016| text = Interviews
+Yves-Claude Stavy
+"De um desvio que se agrava"
+Em francês
+Por Anaëlle Lebovits-Quenehen
+https://t.co/aYFGt2QK5c
+#AMPRio2016
+date = Tue Feb 16 13:16:15 +0000 2016| user = RaAguia1| text = RT @claudinarosa: Quadrilha petista defendendo o chefe. #corrrupcao #Brazica #lavajato #Lula ladrão corrupto #Somostodosmoro #Rio2016  http…
+date = Tue Feb 16 13:14:09 +0000 2016| user = marcaosccp| text = #EURO2016 vai competir com #Rio2016. Alguma dúvida de qual competição vai ter mais audiência? #jogoaberto
+date = Tue Feb 16 13:13:33 +0000 2016| user = ted_s21| text = RT @g1rio: Confira a lista de eventos-teste até os Jogos Olímpicos do Rio https://t.co/eHJ5DM78dS
+date = Tue Feb 16 13:13:08 +0000 2016| user = Barboreh| text = @turcorj @QUMetro @Rio2016 @metro_rio @bandnewsfmrio @oCidadaoRJ Muitos gringos vao supor ter errado de destino e pararam em Nova Deli...
+date = Tue Feb 16 13:11:43 +0000 2016| user = CamilaMacielSer| text = New post: "Confira a lista de eventos-teste até os Jogos Olímpicos do Rio " https://t.co/MQEdsv0JrU
+date = Tue Feb 16 13:10:43 +0000 2016| user = WeltonRenato91| text = @Rio2016 @CidadeOlimpica e o meu reembolso nada 😠
+date = Tue Feb 16 13:06:43 +0000 2016| user = luigi_afro| text = RT @NeEvora: Concentração absoluta! Na contagem regressiva para o #Rio2016. #Faltam171dias #RoadToRio #Adidas https://t.co/AIR5QRdNCM
+date = Tue Feb 16 13:05:05 +0000 2016| user = CaosNoRio| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio  https://t.co/HkBpRwsZS3
+date = Tue Feb 16 13:04:05 +0000 2016| user = cbdvonline| text = Bom dia! Como passa rápido, né, gente? Só 204 dias para vivermos essa emoção dos #JogosParalímpicos do @Rio2016  https://t.co/dft2ltKVfP
+date = Tue Feb 16 13:01:45 +0000 2016| user = Rio2016| text = O Rio cada vez mais #CidadeOlímpica! 😊 https://t.co/zkOw7WgoJK
+date = Tue Feb 16 13:01:32 +0000 2016| user = rafaelacidadee| text = RT @NeEvora: Concentração absoluta! Na contagem regressiva para o #Rio2016. #Faltam171dias #RoadToRio #Adidas https://t.co/AIR5QRdNCM
+date = Tue Feb 16 12:59:10 +0000 2016| user = Alexxbh| text = RT @claudinarosa: Quadrilha petista defendendo o chefe. #corrrupcao #Brazica #lavajato #Lula ladrão corrupto #Somostodosmoro #Rio2016  http…
+date = Tue Feb 16 12:55:22 +0000 2016| user = claudinarosa| text = Quadrilha petista defendendo o chefe. #corrrupcao #Brazica #lavajato #Lula ladrão corrupto #Somostodosmoro #Rio2016  https://t.co/wVdUiFCFkb
+date = Tue Feb 16 12:55:04 +0000 2016| user = g1rio| text = Confira a lista de eventos-teste até os Jogos Olímpicos do Rio https://t.co/eHJ5DM78dS
+date = Tue Feb 16 12:55:02 +0000 2016| user = Esportessencial| text = RT @soudoesporte: Brasil terá recorde de nadadores nos Jogos Paralímpicos #Rio2016: https://t.co/QQYoDfsFzZ
+#CPB #NaMesmaBatida do #Coração…
+date = Tue Feb 16 12:54:12 +0000 2016| user = soudoesporte| text = Brasil terá recorde de nadadores nos Jogos Paralímpicos #Rio2016: https://t.co/QQYoDfsFzZ
+#CPB #NaMesmaBatida do #CoraçãoParalímpico
+date = Tue Feb 16 12:46:43 +0000 2016| user = GeoMarcelo| text = Lançamento dos novos Aros Olímpicos - Rio2016 @ Cidade de Arujá https://t.co/99gR1SwC2Y
+date = Tue Feb 16 12:45:42 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Assista a preparação do atleta Ygor Coelho, do badminton, para os Jogos #Rio2016. https://t.co/JyfCzKX0xt
+date = Tue Feb 16 12:45:19 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Basquete em cadeira de rodas já tem as 22 seleções definidas para o #Rio2016. https://t.co/5eTDgycjkj https://t.co/v9rUYL31…
+date = Tue Feb 16 12:45:15 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Parque Aquático Maria Lenk é apresentado após obras de ajuste para o #Rio2016. https://t.co/6W54egdUWb https://t.co/uc4dDN1…
+date = Tue Feb 16 12:41:30 +0000 2016| user = gigena00| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 12:39:15 +0000 2016| user = R_Ricardinhoo| text = Cidade Maravilhosa .. #Rio2016 https://t.co/SLk2ywHW5e
+date = Tue Feb 16 12:37:40 +0000 2016| user = poetacicero| text = Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça https://t.co/rueWR9OMRO via @UOLEsporte #Rio2016
+date = Tue Feb 16 12:36:12 +0000 2016| user = davidsorridente| text = RT @NeEvora: Concentração absoluta! Na contagem regressiva para o #Rio2016. #Faltam171dias #RoadToRio #Adidas https://t.co/AIR5QRdNCM
+date = Tue Feb 16 12:23:24 +0000 2016| user = _MattosMariana| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 12:22:09 +0000 2016| user = Laurafwx| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 12:18:09 +0000 2016| user = Laurafwx| text = RT @RSPARADESPORTO: Brasil terá número recorde de nadadores nos Jogos Paraolímpicos do @Rio2016 https://t.co/6GiVuTQLuE via @cpboficial htt…
+date = Tue Feb 16 12:17:53 +0000 2016| user = cfredbastos| text = RT @osolimpicos: BRA chega a 419 atleta classificados pro #Rio2016
+date = Tue Feb 16 12:17:47 +0000 2016| user = cfredbastos| text = RT @osolimpicos: Eliane Martins fez 6,70m no salto em distância ontem em São Bernardo e consegue índice olímpico pra prova! #Rio2016
+date = Tue Feb 16 12:16:51 +0000 2016| user = accescontrol| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 12:16:33 +0000 2016| user = marianvrh| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 12:15:04 +0000 2016| user = escolabaraoblu| text = #Rio2016: • Presente nas olimpíadas deste ano, o #basquetebol surgiu como uma alternativa para estudantes que não... https://t.co/nOkxsKHYn0
+date = Tue Feb 16 12:14:46 +0000 2016| user = EstadaoEsporte| text = .@BancoCentralBR anuncia lançamento do último conjunto de moedas para @Rio2016. https://t.co/lJ0vtgkm65 https://t.co/nEKsafOPv2
+date = Tue Feb 16 12:13:21 +0000 2016| user = Angel_Caldeira| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 12:12:57 +0000 2016| user = Rio2016| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 12:12:36 +0000 2016| user = DelegacionVzla| text = Parque olímpico @rio2016_es @Rio2016_en @ViniciusRio2016  Foto de rio2016 https://t.co/EfnNeVYEPN
+date = Tue Feb 16 12:07:36 +0000 2016| user = EIC_Br| text = Milton Roth do @EIC_br traduziu /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Adriele Silva e Alan Fonteles,atletas paralímpicos de destaque, promessas p #Rio2016 https://t.co/mRIEnew9g8
+date = Tue Feb 16 12:03:46 +0000 2016| user = zappedaniel| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 11:56:16 +0000 2016| user = vkonchinski| text = Rio-2016 e governo batem cabeça e atrasam lançamento de slogan da Olimpíada https://t.co/fmC9ByW7TO via @UOLEsporte #Rio2016
+date = Tue Feb 16 11:55:49 +0000 2016| user = Batherup| text = @cpboficial @Rio2016 Bom dia de Toronto! ❄️☃
+date = Tue Feb 16 11:54:55 +0000 2016| user = cfredbastos| text = RT @cpboficial: Brasil terá número recorde de nadadores nos Jogos Paralímpicos do @Rio2016!!   https://t.co/KrLB0xv8V2 https://t.co/qMRuaxn…
+date = Tue Feb 16 11:54:11 +0000 2016| user = glaucioestevao| text = RT @avozdobrasil: #Natação brasileira contará com recorde de 32 atletas #paralímpicos nos Jogos #Rio2016! https://t.co/tFlJIT43T4
+date = Tue Feb 16 11:53:00 +0000 2016| user = marvinzitoh| text = RT @avozdobrasil: #Natação brasileira contará com recorde de 32 atletas #paralímpicos nos Jogos #Rio2016! https://t.co/tFlJIT43T4
+date = Tue Feb 16 11:52:41 +0000 2016| user = Alerribeiro1| text = Estou em Comitê Organizador Rio 2016™ - @rio2016 em Rio de Janeiro, RJ https://t.co/LqVnLpqvQf
+date = Tue Feb 16 11:51:54 +0000 2016| user = WendellBws12| text = RT @cpboficial: Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 11:51:34 +0000 2016| user = cpboficial| text = Bom dia, gente! Faltam 204 dias para os #JogosParalímpicos @Rio2016! 😎🇧🇷
+date = Tue Feb 16 11:50:41 +0000 2016| user = lima_janalima| text = RT @avozdobrasil: #Natação brasileira contará com recorde de 32 atletas #paralímpicos nos Jogos #Rio2016! https://t.co/tFlJIT43T4
+date = Tue Feb 16 11:49:46 +0000 2016| user = doeumlivro| text = @jornalistavitor @Laurafwx @blogdosakamoto @cpboficial @Rio2016 @Brasil2016 @luciafwx @maisvibrante @thiagoreisbh @prosapolitica bom dia!
+date = Tue Feb 16 11:49:18 +0000 2016| user = doeumlivro| text = RT @RSPARADESPORTO: Brasil terá número recorde de nadadores nos Jogos Paraolímpicos do @Rio2016 https://t.co/6GiVuTQLuE via @cpboficial htt…
+date = Tue Feb 16 11:49:05 +0000 2016| user = avozdobrasil| text = #Natação brasileira contará com recorde de 32 atletas #paralímpicos nos Jogos #Rio2016! https://t.co/tFlJIT43T4
+date = Tue Feb 16 11:47:40 +0000 2016| user = simone68303293| text = NATHALIA MODELO MISS RIO DE JANEIRO 2015 
+https://t.co/tNFHQwzkRK
+#BANABANALOVERS #RIO2016 #SNAKEPRINT https://t.co/XMQOMcnVq8
+date = Tue Feb 16 11:47:21 +0000 2016| user = luciafwx| text = @jornalistavitor @Laurafwx @blogdosakamoto @cpboficial @Rio2016 @Brasil2016 @doeumlivro @maisvibrante @thiagoreisbh @prosapolitica bom dia
+date = Tue Feb 16 11:31:59 +0000 2016| user = QUMetro| text = RT @turcorj: Quero ver na @Rio2016 os gringos no ônibus do @metro_rio c/ 68 pessoas em pé quando a capacidad é de 45 @bandnewsfmrio @QUMetr…
+date = Tue Feb 16 11:30:04 +0000 2016| user = MahPortela| text = " Paciência é a distância entre a semente e a flor."
+
+#Roma #Raçudinha #IamBravour #rio2016 #euquero #euacredito... https://t.co/S5Q7YD5wjR
+date = Tue Feb 16 11:30:02 +0000 2016| user = barbuteko| text = RT @Ary_AntiPT: #Rio2016 
+Rio de Janeiro se prepara para receber os Atletas das Olimpiadas. 
+https://t.co/ZwoIIJpjwL
+date = Tue Feb 16 11:25:59 +0000 2016| user = ivani64| text = RT @Ary_AntiPT: #Rio2016 
+Rio de Janeiro se prepara para receber os Atletas das Olimpiadas. 
+https://t.co/ZwoIIJpjwL
+date = Tue Feb 16 11:19:53 +0000 2016| user = turcorj| text = Quero ver na @Rio2016 os gringos no ônibus do @metro_rio c/ 68 pessoas em pé quando a capacidad é de 45 @bandnewsfmrio @QUMetro @oCidadaoRJ
+date = Tue Feb 16 11:17:12 +0000 2016| user = Ary_AntiPT| text = #Rio2016 
+Rio de Janeiro se prepara para receber os Atletas das Olimpiadas. 
+https://t.co/ZwoIIJpjwL
+date = Tue Feb 16 11:08:03 +0000 2016| user = alem_do_futebol| text = Vôlei Feminino, Pré-Olímpico Africano em Yaoundé, Camarões, 15:00: Egito x Camarões (vale vaga em @Rio2016 ) #RoadToRio
+date = Tue Feb 16 11:06:07 +0000 2016| user = Joicebruhn| text = Parque olímpico ontem... #Rio2016 https://t.co/NcTAsiFu1f
+date = Tue Feb 16 11:01:46 +0000 2016| user = telminha1904| text = RT @NeEvora: Concentração absoluta! Na contagem regressiva para o #Rio2016. #Faltam171dias #RoadToRio #Adidas https://t.co/AIR5QRdNCM
+date = Tue Feb 16 11:00:54 +0000 2016| user = taisbr| text = Estou em Comitê Organizador Rio 2016™ - @rio2016 em Rio de Janeiro, RJ https://t.co/OplfR740Ya
+date = Tue Feb 16 10:49:27 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Rio-2016 e governo batem cabeça e atrasam lançamento de slogan da Olimpíada  #Br   https://t.co/3MnrDfn38x
+date = Tue Feb 16 10:49:27 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Rio-2016 e governo batem cabeça e atrasam lançamento de slogan da Olimpíada  #Br   https://t.co/swNKYnvkK5
+date = Tue Feb 16 10:47:36 +0000 2016| user = rfam| text = RT @NeEvora: Concentração absoluta! Na contagem regressiva para o #Rio2016. #Faltam171dias #RoadToRio #Adidas https://t.co/AIR5QRdNCM
+date = Tue Feb 16 10:44:32 +0000 2016| user = NeEvora| text = Concentração absoluta! Na contagem regressiva para o #Rio2016. #Faltam171dias #RoadToRio #Adidas https://t.co/AIR5QRdNCM
+date = Tue Feb 16 10:28:20 +0000 2016| user = RicardoDadinho| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Tue Feb 16 10:27:13 +0000 2016| user = glblfitwrldwide| text = Bom dia ☀👊 #30tododia #goprooftheday #rio12k #gopromundo #hero4black #rio2016 #goprobr #cardioexercises #exercise b… https://t.co/VpKpKCyvP0
+date = Tue Feb 16 10:19:49 +0000 2016| user = gutembergdias| text = Desde ontem homens da Força Nacional estão em Mossoró para checar o roteiro da Tocha Olímpica. #Rio2016
+date = Tue Feb 16 09:40:37 +0000 2016| user = crisapiens| text = #Rio2016 fui selecionada voluntária p os Jogos Olimpícos,porém o comite nao oferece alojamento,alguém do Rio se habilita oferecer um sofa?
+date = Tue Feb 16 09:15:52 +0000 2016| user = RolandDavi| text = Sportv terá comentaristas internacionais e 16 canais de TV na Olimpíada #Rio2016 https://t.co/3ZoFycaDCY https://t.co/FeDVVWICYY
+date = Tue Feb 16 08:52:13 +0000 2016| user = voolivrenorio| text = Vamos voar!!!!
+
+#resenhabaregrill #rj #rio #resenha #rio2016 #riodejaneiro #rioeuamoeucuido… https://t.co/Yi1YvleTab
+date = Tue Feb 16 06:29:43 +0000 2016| user = bridgebotelho| text = RT @JulesBoykoff: "Olimpíada? Não, obrigado" • Smart piece on anti-Olympics activism from #Boston2024 to #Rio2016 https://t.co/nMpI9PzwJ1 P…
+date = Tue Feb 16 06:13:15 +0000 2016| user = josellygomes| text = RT @merson_gomes: Logo das olimpíadas no Brasil. #Olimpiadas #Rio2016 😂 https://t.co/2cUjQv3v0O
+date = Tue Feb 16 05:46:42 +0000 2016| user = DivingFans| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Tue Feb 16 05:20:30 +0000 2016| user = DicasdoEmbarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016  #EmbarqueNaViagem #Rio2016 http://www.e https://t.co/tY4rZSMZqP
+date = Tue Feb 16 05:20:26 +0000 2016| user = PortalENV| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016  #EmbarqueNaViagem #Rio2016 http://www.e https://t.co/ffredRjBqV
+date = Tue Feb 16 05:20:25 +0000 2016| user = Nairoquinha| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016  #EmbarqueNaViagem #Rio2016 http://www.e https://t.co/10lALu4Cjy
+date = Tue Feb 16 05:20:24 +0000 2016| user = Embarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016  #EmbarqueNaViagem #Rio2016 http://www.e https://t.co/73YZd0t5Jz
+date = Tue Feb 16 05:20:15 +0000 2016| user = LifeStyleENV| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016  #EmbarqueNaViagem #Rio2016 http://www.e https://t.co/KpMID4QMMB
+date = Tue Feb 16 05:20:14 +0000 2016| user = Embarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016  #EmbarqueNaViagem #Rio2016 https://t.co/l16AOm7MNb
+date = Tue Feb 16 04:55:12 +0000 2016| user = oinotna_oremor| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Tue Feb 16 04:49:04 +0000 2016| user = wickky_k| text = RT @Carioca_EC: Coletiva de imprensa
+@GustavoKuerten2 
+@RioOpenOficial  @Rio2016 
+Reportagem: Mirian de Sousa https://t.co/NklPTKwJ2h
+date = Tue Feb 16 04:44:30 +0000 2016| user = laviniagondim| text = Rio2016 Olimpiada do Cocô-obrigatório o uso de macacão,luvas de material sintético 3camadas.Capacete de Fibra.P/tds. https://t.co/EW4smJOeZ6
+date = Tue Feb 16 04:37:57 +0000 2016| user = GomesFilho13| text = Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça via @UOLEsporte #Rio2016   https://t.co/CpzF0hCd5U
+date = Tue Feb 16 04:24:02 +0000 2016| user = ANGELWILLIANS| text = @ESPNagora @Rio2016 pra que essa falsidade toda se vestindo de agente? Quer dominar um povo,você só precisa lhes dar pão e circo.
+date = Tue Feb 16 04:04:13 +0000 2016| user = merson_gomes| text = Logo das olimpíadas no Brasil. #Olimpiadas #Rio2016 😂 https://t.co/2cUjQv3v0O
+date = Tue Feb 16 03:44:04 +0000 2016| user = LifeStyleENV| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/M39DWJBeKf
+date = Tue Feb 16 03:44:04 +0000 2016| user = PortalENV| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/5XgN2G8vfr
+date = Tue Feb 16 03:44:04 +0000 2016| user = DicasdoEmbarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/CbGQa7diQi
+date = Tue Feb 16 03:44:03 +0000 2016| user = Nairoquinha| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/cJLiBZ5Vck
+date = Tue Feb 16 03:44:03 +0000 2016| user = Embarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/GFFG5sbgP0
+date = Tue Feb 16 03:24:54 +0000 2016| user = Carioca_EC| text = @RioOpenOficial  2016  já começou!!!
+@Rio2016 @Carioca_EC 
+Foto: Mirian de Sousa https://t.co/hV723793TC
+date = Tue Feb 16 03:22:06 +0000 2016| user = Carioca_EC| text = Coletiva de imprensa
+@GustavoKuerten2 
+@RioOpenOficial  @Rio2016 
+Reportagem: Mirian de Sousa https://t.co/NklPTKwJ2h
+date = Tue Feb 16 03:04:33 +0000 2016| user = PorAiAntenada| text = Gostaria de pedir a banda One Direction e o Luan Santana p os Jogos Olímpicos do Rio! @Rio2016 
+
+#Vote1DirectionUK #KCA
+date = Tue Feb 16 03:04:19 +0000 2016| user = PorAiAntenada| text = Gostaria de pedir a banda One Direction e o Luan Santana p os Jogos Olímpicos do Rio!! @Rio2016 
+
+#Vote1DirectionUK #KCA
+date = Tue Feb 16 02:45:56 +0000 2016| user = rflalves| text = NUM ORGULHO DANADO DESSAS MENINAS... #VamosTICAS #RoadToRio @Rio2016  https://t.co/zL1gTCNHPJ
+date = Tue Feb 16 02:41:17 +0000 2016| user = rflalves| text = Estados Unidos e a arbitragem seguem 100% no pré-olímpico da CONCACAF para @Rio2016
+date = Tue Feb 16 02:39:40 +0000 2016| user = marcimag_| text = Comprei ingresso para #atletismo na @Rio2016 🙌🏽🙌🏽🙌🏽 já tinha #nadosincronizado #tachegando #Rio2016
+date = Tue Feb 16 02:37:33 +0000 2016| user = BCReport8| text = Rio2016: ChinaxEUA. 2 potências econômicas também rivalizam na disputa do quadro de medalhas https://t.co/Amwp6aJe5c https://t.co/Izf0uodiDR
+date = Tue Feb 16 02:21:39 +0000 2016| user = NinhaSTH| text = Oi, @Rio2016 @Prefeitura_Rio, sobre os Voluntários e seus locais para estadia, podem ajudar, por favor? https://t.co/eFzPqdJLAv
+date = Tue Feb 16 02:18:48 +0000 2016| user = tvespetacular| text = Band contrata # ÁlvaroJosé para reforçar a equipe olímpica da emissora. #Rio2016  #jogosolímpicos #Brazil
+date = Tue Feb 16 02:12:16 +0000 2016| user = Baldez01| text = @Ligue1746 rua dois w esquina estrada do pontal no recreio #rio2016 risco de dengue, zika e etc https://t.co/o48MPNL7ns
+date = Tue Feb 16 02:03:03 +0000 2016| user = romanoolimpico| text = RT @SurtoOlimpico: Egito e Camarões decidirão o Africano de Vôlei Feminino e a vaga no @Rio2016
+date = Tue Feb 16 01:59:33 +0000 2016| user = Baldez01| text = @Rioluz @lightclientes @Prefeitura_Rio poste 20 dias apagado est pontal esquina rua dois w #Rio2016 https://t.co/NAblRpgEOS
+date = Tue Feb 16 01:46:55 +0000 2016| user = 72_sunshine| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Tue Feb 16 01:45:41 +0000 2016| user = atletasmxof| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Tue Feb 16 01:43:31 +0000 2016| user = FemexNatacion| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Tue Feb 16 01:40:58 +0000 2016| user = arseniogongora| text = @Karen__Manzano @miseleccionmx @Rio2016_en ridículo
+date = Tue Feb 16 01:18:07 +0000 2016| user = heliobleite| text = RT @exercitooficial: Batalhão de Manutenção e Suprimento de Aviação na preparação para os Jogos #Rio2016 https://t.co/Jl6VIU6uQM https://t.…
+date = Tue Feb 16 01:17:56 +0000 2016| user = FABRCARV| text = #Mexico fora do futebol feminino. #Rio2016 https://t.co/OBtvQEOGKA
+date = Tue Feb 16 01:06:02 +0000 2016| user = miiguell_dm| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Tue Feb 16 01:01:53 +0000 2016| user = neumann_jeanzin| text = tou com 1 real das olimpíadas rio2016
+date = Tue Feb 16 00:54:46 +0000 2016| user = adry_59| text = Acabemos esto! 👏🏼👏🏼👏🏼👏🏼❤️ #Rio2016 #LaSeleFemenina
+date = Tue Feb 16 00:53:08 +0000 2016| user = cintiaflorit| text = RT @RSPARADESPORTO: #NaMesmaBatida #CoraçãoParalímpico! Vamos juntos rumo ao @rio2016
+https://t.co/yvVhN1flOT @cpboficial
+date = Tue Feb 16 00:49:05 +0000 2016| user = edeniagarcia| text = RT @RSPARADESPORTO: Brasil terá número recorde de nadadores nos Jogos Paraolímpicos do @Rio2016 https://t.co/6GiVuTQLuE via @cpboficial htt…
+date = Tue Feb 16 00:48:55 +0000 2016| user = EdEdpalmeirese| text = Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça https://t.co/xsPFTxGdTs via @UOLEsporte #Rio2016
+date = Tue Feb 16 00:48:48 +0000 2016| user = RSPARADESPORTO| text = Brasil terá número recorde de nadadores nos Jogos Paraolímpicos do @Rio2016 https://t.co/6GiVuTQLuE via @cpboficial https://t.co/2m18j5TMVN
+date = Tue Feb 16 00:46:10 +0000 2016| user = LaraNadoSincro| text = RT @Brasil2016: Parque Aquático Maria Lenk é apresentado após obras de ajuste para o #Rio2016. https://t.co/6W54egdUWb https://t.co/uc4dDN1…
+date = Tue Feb 16 00:41:39 +0000 2016| user = Pablofariia| text = Goleira dos EUA fala em não vir ao #Rio2016 com medo do zika. E, terá competições na Baía de Guanabara. O pessoal vai sair mutante da água
+date = Tue Feb 16 00:33:41 +0000 2016| user = ESBR_2| text = jade Barbosa atleta da seleção de ginástica brasileira. #Rio2016 https://t.co/wNYJ96rFk2
+date = Tue Feb 16 00:33:28 +0000 2016| user = fatima_SFalways| text = @BPNinha @rosemarymagalha @Leka2015BR @SofiaInesO @clara_polkadots @Val1037 @falcaoullopes @Rio2016 Boa noite babysinha @BPNinha ❤❤❤
+date = Tue Feb 16 00:31:19 +0000 2016| user = fernandafarani| text = RT @Rio2016: Morador do Alemão cria primeiro portal Paralímpico do país! Boa, Nataniel! https://t.co/UHsCMwb2Ma https://t.co/LpKEzADf5V
+date = Tue Feb 16 00:31:16 +0000 2/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+016| user = michellecurnow3| text = RT @BPNinha: @fatima_SFalways @rosemarymagalha @Leka2015BR @SofiaInesO @clara_polkadots @Val1037 @falcaoullopes @Rio2016 boa noite flor ❤
+date = Tue Feb 16 00:30:09 +0000 2016| user = BPNinha| text = @fatima_SFalways @rosemarymagalha @Leka2015BR @SofiaInesO @clara_polkadots @Val1037 @falcaoullopes @Rio2016 boa noite flor ❤
+date = Tue Feb 16 00:29:19 +0000 2016| user = Gisaieira| text = Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça https://t.co/8Telhi0mRb via @UOLEsporte #Rio2016
+date = Tue Feb 16 00:25:37 +0000 2016| user = YuyisRuiz| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Tue Feb 16 00:22:12 +0000 2016| user = soulfofo| text = @ferciccone Renatinha para oposta Rio2016
+date = Tue Feb 16 00:14:47 +0000 2016| user = Arriaga5Arriaga| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Tue Feb 16 00:06:53 +0000 2016| user = Cris_lima27| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Tue Feb 16 00:00:58 +0000 2016| user = ReginaInclusao| text = RT @RSPARADESPORTO: #NaMesmaBatida #CoraçãoParalímpico! Vamos juntos rumo ao @rio2016
+https://t.co/yvVhN1flOT @cpboficial
+date = Mon Feb 15 23:58:52 +0000 2016| user = tortoriello| text = Esperança de ouro na #Olimpíada já foi segurança de boate @Rio2016 @bandjornalismo Série #JornaldaBand 
+https://t.co/tCpyZEijLx
+date = Mon Feb 15 23:57:37 +0000 2016| user = Clausval| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Mon Feb 15 23:56:53 +0000 2016| user = oscreychavez| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Mon Feb 15 23:56:38 +0000 2016| user = leocarjr| text = Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça https://t.co/fhbtWuI6GQ via @UOLEsporte #Rio2016
+date = Mon Feb 15 23:55:30 +0000 2016| user = AdelaAguilarC| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Mon Feb 15 23:54:56 +0000 2016| user = reformacancha| text = RT @Ivangarciapollo: Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 ht…
+date = Mon Feb 15 23:54:33 +0000 2016| user = Ivangarciapollo| text = Que deus nos abençoe e nos proteja🙏🏻 #ousadia y #alegría #arenita😍😘 #CristoRedentor #Río2016 #TeamVisa @VisaMX 🇲🇽🇧🇷 https://t.co/Gau60Nthws
+date = Mon Feb 15 23:54:14 +0000 2016| user = TorcidaBrasil2| text = Com gana, @CesarCielo começa a ver resultados na preparação pro @Rio2016 @alexpussieldi      https://t.co/HWB47wBnp6 https://t.co/zktxdv2pMP
+date = Mon Feb 15 23:52:21 +0000 2016| user = crisinha99| text = RT @portalbrasil: 🚫✅ Zika vírus não compromete a realização da Olimpíada, afirma @dilmabr. #Rio2016 #ZikaZero #CombateAedes https://t.co/xE…
+date = Mon Feb 15 23:47:44 +0000 2016| user = naldobarros690| text = RT @cpboficial: Bom dia, segunda-feira! 😎 Faltam 205 dias para os #JogosParalímpicos @Rio2016!
+date = Mon Feb 15 23:47:25 +0000 2016| user = naldobarros690| text = RT @Rio2016: #MotivationalMonday com Zahra Nemati que vai ser porta-bandeira do #Irã no #Rio2016! 🇮🇷 🎯 https://t.co/hHTPBwkCpJ https://t.co…
+date = Mon Feb 15 23:46:19 +0000 2016| user = naldobarros690| text = RT @cpboficial: Brasil terá número recorde de nadadores nos Jogos Paralímpicos do @Rio2016!!   https://t.co/KrLB0xv8V2 https://t.co/qMRuaxn…
+date = Mon Feb 15 23:30:04 +0000 2016| user = YuyisRuiz| text = RT @cpboficial: Brasil terá número recorde de nadadores nos Jogos Paralímpicos do @Rio2016!!   https://t.co/KrLB0xv8V2 https://t.co/qMRuaxn…
+date = Mon Feb 15 23:17:57 +0000 2016| user = ggmomfr| text = RT @VJacobergerL: 2/2 infos sobre o assunto, entrem em contato comigo via mensagem #Rio2016 #Brazil #Brésil https://t.co/HZZUz5glKu
+date = Mon Feb 15 22:59:39 +0000 2016| user = Ju_Kichimoto| text = RT @SESISP_Oficial: O Desafio Transforma está lançado e sua foto irá decorar a Vila dos Atletas. Saiba mais em https://t.co/BA0XyaQNou http…
+date = Mon Feb 15 22:55:25 +0000 2016| user = Pris_sz| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 22:55:03 +0000 2016| user = rcview| text = Eu acho que vai chover... rs
+Siga a Rcview no Instagram e no Twitter: @rcview 
+#rcview #chuva #tempestade #Rio2016 https://t.co/WqX2hBZDBR
+date = Mon Feb 15 22:49:58 +0000 2016| user = MMARCO1313| text = #Travel #Tour #Voyage #Rio2016 #RioOpen2016 O Brazil infrenta uma pandemia de Zica Viruz que é muito perigoso.
+date = Mon Feb 15 22:46:14 +0000 2016| user = Rio2016| text = Convite de ídolo não se nega! #Partiu @AqueceRio de #SaltosOrnamentais
+https://t.co/JJuIbKHpt0
+date = Mon Feb 15 22:45:30 +0000 2016| user = alem_do_futebol| text = RT @SurtoOlimpico: Egito e Camarões decidirão o Africano de Vôlei Feminino e a vaga no @Rio2016
+date = Mon Feb 15 22:31:52 +0000 2016| user = alvarojosetv| text = Mais narrações nessa semana no @BandsportsTV  e ainda @bandjogoaberto  com @RenataBFan #Rio2016  está chegando https://t.co/AOjDtioHRj
+date = Mon Feb 15 22:28:04 +0000 2016| user = Ronoc_| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 22:25:15 +0000 2016| user = lucrjviola| text = RT @portalbrasil: 🚫✅ Zika vírus não compromete a realização da Olimpíada, afirma @dilmabr. #Rio2016 #ZikaZero #CombateAedes https://t.co/xE…
+date = Mon Feb 15 22:25:11 +0000 2016| user = lucrjviola| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 22:18:58 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 No Rio, Nadal ataca temor ao zika: "Pessoas estão levando a vida normal"  #Br   https://t.co/3MnrDfn38x
+date = Mon Feb 15 22:18:58 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 No Rio, Nadal ataca temor ao zika: "Pessoas estão levando a vida normal"  #Br   https://t.co/swNKYnvkK5
+date = Mon Feb 15 22:16:20 +0000 2016| user = ctoesphockeysal| text = RT @rfe_hockey: ÚLTIMA HORA: CONFIRMADO por @FIH_Hockey ¡¡ @AbsolutaFem CLASIFICADA PARA @rio2016_es !! FELICIDADES #Creciendo https://t.co…
+date = Mon Feb 15 22:09:09 +0000 2016| user = Williantoreto| text = Esta chegando a hora!!! #rio2016 #olimpiadas #maraca #énosso #final #futebol #ouro #masculino… https://t.co/Dt1ssTt6tU
+date = Mon Feb 15 22:08:30 +0000 2016| user = Laurafwx| text = RT @cpboficial: Brasil terá número recorde de nadadores nos Jogos Paralímpicos do @Rio2016!!   https://t.co/KrLB0xv8V2 https://t.co/qMRuaxn…
+date = Mon Feb 15 22:04:32 +0000 2016| user = instaipanema| text = Tudo no Brasil depende do Sol. #rio #rj #riodejaneiro #brasil #brazil #rio2016 #summer #ve… https://t.co/pEbQ6fmEys https://t.co/kgn30RAImU
+date = Mon Feb 15 22:02:53 +0000 2016| user = OlympicsReTweet| text = RT @pessoawander71: Como a Coca-Cola quer deixar seu time em clima de Olimpíadas - https://t.co/IqZpSK6lH5 https://t.co/xhRx1CY85X @exame #…
+date = Mon Feb 15 21:59:58 +0000 2016| user = pessoawander71| text = Como a Coca-Cola quer deixar seu time em clima de Olimpíadas - https://t.co/IqZpSK6lH5 https://t.co/xhRx1CY85X @exame #Rio2016 #issoeouro
+date = Mon Feb 15 21:55:39 +0000 2016| user = AdrianoMorrison| text = É só chover no rio que o trânsito pára. Vamos nos preparar: olimpíadas estão chegando. #Rio2016 #chuva
+date = Mon Feb 15 21:54:57 +0000 2016| user = irlane_isc| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 21:35:02 +0000 2016| user = GEORGEHILTON10| text = Ministro George Hilton no Meio-de-Campo #Esportes #rio2016 https://t.co/k9CM2x8rx5
+date = Mon Feb 15 21:34:27 +0000 2016| user = gritoficial| text = RT @FCFSeleccionCol: A tope para #Rio2016. https://t.co/hQk0DATdlf
+date = Mon Feb 15 21:32:36 +0000 2016| user = pfreirep| text = Sorria, vc está na Barra! (mas só se vc estiver de carro,  se estiver a pé quero que vc se foda! ) #CidadeOlimpica #Rio2016
+date = Mon Feb 15 21:32:35 +0000 2016| user = OpiniaoBotafogo| text = Nuzman tem segurança pessoal bancada pela Rio 2016, diz blog | LANCE! https://t.co/PJLWhkYl5m
+date = Mon Feb 15 21:30:37 +0000 2016| user = leandrocarneiro| text = Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça https://t.co/uSOh2iEV5j via @UOLEsporte #Rio2016
+date = Mon Feb 15 21:29:14 +0000 2016| user = xdan| text = eu aqui doido pra ser voluntário e o @Rio2016 não me querendo
+date = Mon Feb 15 21:22:04 +0000 2016| user = sineriz99| text = @yurioliver123 @SOSginasticaBR ksksks obrigadaa!!!! Agora só vem Rio2016🙏🏻
+date = Mon Feb 15 21:15:24 +0000 2016| user = MarcelloEsKiLiN| text = Parabéns!!!! 
+Agora é estudar e continuar fazendo o mesmo que já vem fazendo! 
+󾟖#basquete #olimpíadas #rio2016... https://t.co/CRZ9ggbvmz
+date = Mon Feb 15 21:06:51 +0000 2016| user = ar_vasconcelos| text = Boa noite: https://t.co/nnKRjhRHEf
+date = Mon Feb 15 21:02:32 +0000 2016| user = LigaRojaDirecta| text = RT @FCFSeleccionCol: A tope para #Rio2016. https://t.co/hQk0DATdlf
+date = Mon Feb 15 21:00:38 +0000 2016| user = Diegimsantos| text = #batebolanaveia #rio2016 a exemplo da copa do mundo, muita gente vai duplicar de fortuna depois desse evento!
+date = Mon Feb 15 20:59:06 +0000 2016| user = DicasdoEmbarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 https://t.co/CbGQa7diQi #Rio2016 #EmbarqueNaViagem
+date = Mon Feb 15 20:59:06 +0000 2016| user = PortalENV| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 https://t.co/5XgN2G8vfr #Rio2016 #EmbarqueNaViagem
+date = Mon Feb 15 20:59:06 +0000 2016| user = Nairoquinha| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 https://t.co/cJLiBZ5Vck #Rio2016 #EmbarqueNaViagem
+date = Mon Feb 15 20:59:06 +0000 2016| user = LifeStyleENV| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 https://t.co/M39DWJBeKf #Rio2016 #EmbarqueNaViagem
+date = Mon Feb 15 20:59:06 +0000 2016| user = Embarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 https://t.co/GFFG5sbgP0 #Rio2016 #EmbarqueNaViagem
+date = Mon Feb 15 20:56:25 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Guga vê chance "claríssima" de medalha para o Brasil no tênis da Rio-2016  #Br   https://t.co/swNKYnvkK5
+date = Mon Feb 15 20:56:25 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Guga vê chance "claríssima" de medalha para o Brasil no tênis da Rio-2016  #Br   https://t.co/3MnrDfn38x
+date = Mon Feb 15 20:55:20 +0000 2016| user = TaxiRioDeJan| text = RT @Rio2016: Piscina de bolinha do @viaparque + atletas de #SaltosOrnamentais + galera incrível = https://t.co/xHKj37SXr7 https://t.co/dohc…
+date = Mon Feb 15 20:55:14 +0000 2016| user = TaxiRioDeJan| text = RT @Rio2016: Quer diversão e PRÊMIOS? #MeuRio2016 para Android: https://t.co/slwmqDbmF0 e iOS: https://t.co/7u55hNVki3 https://t.co/UZHuNMo…
+date = Mon Feb 15 20:52:02 +0000 2016| user = matheus15338075| text = RT @Brasil2016: Basquete em cadeira de rodas já tem as 22 seleções definidas para o #Rio2016. https://t.co/5eTDgycjkj https://t.co/v9rUYL31…
+date = Mon Feb 15 20:51:31 +0000 2016| user = ExpliQi| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 20:48:55 +0000 2016| user = kieloliveira| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 20:48:19 +0000 2016| user = julioaderson| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 20:41:51 +0000 2016| user = oConsciente| text = portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. BancoCentralBR #Rio2016 https://t.co/frJ7GqLvRa
+date = Mon Feb 15 20:39:46 +0000 2016| user = TTiane_Seba| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 20:38:28 +0000 2016| user = Brasil003| text = 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada https://t.co/KzqCHi8yec #Rio2016
+date = Mon Feb 15 20:37:25 +0000 2016| user = Brasil002| text = 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada https://t.co/7SYZ5AVjwf #Rio2016
+date = Mon Feb 15 20:36:20 +0000 2016| user = vercessi2006| text = @marcelometall @LeiSecaRJ @RadarCostaVerde @bandnewsfmrio viva rio2016 do Sr Eduardo. parabéns  1746 sempre presente infernizando nossa vida
+date = Mon Feb 15 20:34:41 +0000 2016| user = Kitri1| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 20:32:54 +0000 2016| user = yvybrussels| text = RT @portalbrasil: 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 20:31:06 +0000 2016| user = portalbrasil| text = 🎉💰 Banco Central lança novas moedas comemorativas da Olimpíada. @BancoCentralBR #Rio2016 https://t.co/UTnVLJEhAP
+date = Mon Feb 15 20:29:20 +0000 2016| user = SurtoOlimpico| text = Egito e Camarões decidirão o Africano de Vôlei Feminino e a vaga no @Rio2016
+date = Mon Feb 15 20:27:50 +0000 2016| user = RicardoLeyser| text = RT @Brasil2016: Assista a preparação do atleta Ygor Coelho, do badminton, para os Jogos #Rio2016. https://t.co/JyfCzKX0xt
+date = Mon Feb 15 20:23:07 +0000 2016| user = Brasil2016| text = Assista a preparação do atleta Ygor Coelho, do badminton, para os Jogos #Rio2016. https://t.co/JyfCzKX0xt
+date = Mon Feb 15 20:20:40 +0000 2016| user = VJacobergerL| text = 2/2 infos sobre o assunto, entrem em contato comigo via mensagem #Rio2016 #Brazil #Brésil https://t.co/HZZUz5glKu
+date = Mon Feb 15 20:19:44 +0000 2016| user = soulfofo| text = Acabei de ler num site que as titulares do Rio2016 serão Gabi e Natália. Jaque e Garay vão bancar. Eu fico bem triste com o ser human
+date = Mon Feb 15 20:08:08 +0000 2016| user = mariavazquez999| text = Sou #VoluntárioRio2016! Veja se você também é em https://t.co/py6n8BMgoe
+date = Mon Feb 15 20:03:01 +0000 2016| user = DeaCanedo| text = #SemanaOlímpica23: Rio-16 resiste a semana tensa com zika e atraso em obras https://t.co/LSYjIsiWkr via @UOLEsporte #Rio2016
+date = Mon Feb 15 20:00:08 +0000 2016| user = AmaroRodolpho| text = Sou #VoluntárioRio2016! Veja se você também é em https://t.co/VbIaWUtG6S
+date = Mon Feb 15 19:49:50 +0000 2016| user = flaviodilascio| text = Elite da natação deve encarar até sete exames antidoping antes do Rio 2016 https://t.co/IDi38grFwh #Rio2016 https://t.co/mq79j5CMQp
+date = Mon Feb 15 19:48:57 +0000 2016| user = Diegode18344389| text = Brilhante
+ https://t.co/6I7905fF9r
+date = Mon Feb 15 19:42:29 +0000 2016| user = martinchab1997| text = RT @Rio2016: A #China é o país do #TênisDeMesa e a história do esporte é bem antiga: https://t.co/BWHocVbD5L https://t.co/Y76hCo7cBA
+date = Mon Feb 15 19:41:49 +0000 2016| user = BrunoBrahim79| text = Depois de 20 minutos apareceu ônibus. Povo sempre esculachado no transporte público. #rj #rio2016 #vergonha #brazil https://t.co/yd9Z5Hoyjy
+date = Mon Feb 15 19:40:49 +0000 2016| user = cindynyhoff| text = RT @amovoleidepraia: Entrevista exclusiva com a Presidente da @usavolleyball @LoriOki 
+#Volleyball #FIVB #RIo2016
+https://t.co/Eh56xCGi9d h…
+date = Mon Feb 15 19:38:09 +0000 2016| user = andrebasbaum| text = RT @portalbrasil: 🚫✅ Zika vírus não compromete a realização da Olimpíada, afirma @dilmabr. #Rio2016 #ZikaZero #CombateAedes https://t.co/xE…
+date = Mon Feb 15 19:37:33 +0000 2016| user = flaviodilascio| text = Foto: lutadora da seleção exibe orelha estourada após Torneio da Ucrânia https://t.co/YTu0Vjy72o #Wrestling #Rio2016 https://t.co/HWUrlzGkCh
+date = Mon Feb 15 19:35:23 +0000 2016| user = Realislarry12| text = RT @Rio2016: A #China é o país do #TênisDeMesa e a história do esporte é bem antiga: https://t.co/BWHocVbD5L https://t.co/Y76hCo7cBA
+date = Mon Feb 15 19:34:38 +0000 2016| user = oConsciente| text = portalbrasil: 🚫✅ Zika vírus não compromete a realização da Olimpíada, afirma dilmabr. #Rio2016 #ZikaZero #CombateA… https://t.co/4mneQffn6t
+date = Mon Feb 15 19:33:44 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Nadadores de elite serão testados até 7 vezes contra doping antes dos Jogos  #Br   https://t.co/3MnrDfn38x
+date = Mon Feb 15 19:33:44 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Nadadores de elite serão testados até 7 vezes contra doping antes dos Jogos  #Br   https://t.co/swNKYnvkK5
+date = Mon Feb 15 19:33:44 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Melo e Soares também jogarão juntos Aberto do Brasil de olho na Rio-16  #Br   https://t.co/3MnrDfn38x
+date = Mon Feb 15 19:33:44 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Melo e Soares também jogarão juntos Aberto do Brasil de olho na Rio-16  #Br   https://t.co/swNKYnvkK5
+date = Mon Feb 15 19:33:44 +0000 2016| user = BrunoBrahim79| text = @BRTRio @LeiSecaRJ @OsorioRJ @eduardopaes_ @radiotupi @OGlobo_Rio fila imensa. #vergonha #rj #rio2016
+date = Mon Feb 15 19:33:44 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 #SemanaOlímpica23: Rio-16 resiste a semana tensa com zika e atraso em obras  #Br   https://t.co/3MnrDfn38x
+date = Mon Feb 15 19:33:44 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 #SemanaOlímpica23: Rio-16 resiste a semana tensa com zika e atraso em obras  #Br   https://t.co/swNKYnvkK5
+date = Mon Feb 15 19:32:51 +0000 2016| user = bubuzinha| text = RT @portalbrasil: 🚫✅ Zika vírus não compromete a realização da Olimpíada, afirma @dilmabr. #Rio2016 #ZikaZero #CombateAedes https://t.co/xE…
+date = Mon Feb 15 19:31:02 +0000 2016| user = portalbrasil| text = 🚫✅ Zika vírus não compromete a realização da Olimpíada, afirma @dilmabr. #Rio2016 #ZikaZero #CombateAedes https://t.co/xEnUXlNxhw
+date = Mon Feb 15 19:26:14 +0000 2016| user = daianaor20| text = RT @Rio2016: #MotivationalMonday com Zahra Nemati que vai ser porta-bandeira do #Irã no #Rio2016! 🇮🇷 🎯 https://t.co/hHTPBwkCpJ https://t.co…
+date = Mon Feb 15 19:22:01 +0000 2016| user = Rio2016| text = A #China é o país do #TênisDeMesa e a história do esporte é bem antiga: https://t.co/BWHocVbD5L https://t.co/Y76hCo7cBA
+date = Mon Feb 15 18:59:42 +0000 2016| user = JP_ELELIOM| text = Imagens mostram suspeito rendido na Avenida Brasil; veja vídeo #G1 https://t.co/Fo30pvkAtl @rio2016
+date = Mon Feb 15 18:46:32 +0000 2016| user = lualinda68| text = RT @cpboficial: Brasil terá número recorde de nadadores nos Jogos Paralímpicos do @Rio2016!!   https://t.co/KrLB0xv8V2 https://t.co/qMRuaxn…
+date = Mon Feb 15 18:44:52 +0000 2016| user = eduardofriasc| text = #Rio2016 
+Cidade Maravilhosa
+
+https://t.co/BwGeLQL0dM
+date = Mon Feb 15 18:37:53 +0000 2016| user = LoriOki| text = RT @amovoleidepraia: Entrevista exclusiva com a Presidente da @usavolleyball @LoriOki 
+#Volleyball #FIVB #RIo2016
+https://t.co/Eh56xCGi9d h…
+date = Mon Feb 15 18:37:33 +0000 2016| user = amovoleidepraia| text = Entrevista exclusiv/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+a com a Presidente da @usavolleyball @LoriOki 
+#Volleyball #FIVB #RIo2016
+https://t.co/Eh56xCGi9d https://t.co/YGqac5hDN6
+date = Mon Feb 15 18:31:59 +0000 2016| user = ANTlCOMUNISMO| text = #AntiComunaNews China, o país do... tênis de mesa: A história do “pingue-pongue” na China, relatada em livro d... https://t.co/E7A89YT2Ot
+date = Mon Feb 15 18:22:37 +0000 2016| user = RicardoLeyser| text = RT @cpboficial: Brasil terá número recorde de nadadores nos Jogos Paralímpicos do @Rio2016!!   https://t.co/KrLB0xv8V2 https://t.co/qMRuaxn…
+date = Mon Feb 15 18:21:12 +0000 2016| user = GBHIATO| text = E sou capaz de nem ver Futebol nesse certame. Ansioso pelo @Rio2016.
+#Últimotweet
+date = Mon Feb 15 18:19:52 +0000 2016| user = cpboficial| text = Brasil terá número recorde de nadadores nos Jogos Paralímpicos do @Rio2016!!   https://t.co/KrLB0xv8V2 https://t.co/qMRuaxnvqv
+date = Mon Feb 15 18:19:45 +0000 2016| user = marcusalbuque| text = Objeto do desejo! #olimpics #olimpíadas #rio2016 #medalhas #espetáculo @ Praça Do Tropical https://t.co/ldHyFqjaGy
+date = Mon Feb 15 18:14:30 +0000 2016| user = c_best01| text = RT @Rio2016: #MotivationalMonday com Zahra Nemati que vai ser porta-bandeira do #Irã no #Rio2016! 🇮🇷 🎯 https://t.co/hHTPBwkCpJ https://t.co…
+date = Mon Feb 15 18:12:45 +0000 2016| user = binderbr| text = #RedesSociais: Após enfrentar machismo nas redes sociais, Ingrid - Rio 2016 https://t.co/jk7vB3wKR5
+date = Mon Feb 15 18:04:02 +0000 2016| user = corruPTofobico| text = China, o país do... tênis de mesa: A história do “pingue-pongue” na China, relatada em liv... https://t.co/VQQEsK8Ikf via: @ANTlCOMUNISMO
+date = Mon Feb 15 18:00:01 +0000 2016| user = CiscoDoBrasil| text = O Desafio #Cisco estimula soluções de infraestrutura para o Porto Maravilha  #Rio2016 https://t.co/t4TSUC4HmS https://t.co/Z97L7hNE8E
+date = Mon Feb 15 17:57:00 +0000 2016| user = komecobr| text = Komeco assina contrato de Fornecedor Oficial dos Jogos Olímpicos Rio 2016: https://t.co/ePcB1Lifnn #Rio2016
+date = Mon Feb 15 17:56:34 +0000 2016| user = viciadaemlarry| text = Gostaria de pedir a banda One Direction p os Jogos Olímpicos do Rio! @Rio2016 
+#VoteDirectionersUK #KCA
+date = Mon Feb 15 17:54:08 +0000 2016| user = carlitostweets| text = Leblon 10:30 segunda feira #Somosnossotros em #Rio2016 
+#CidadeOlimpica #Carnaval2016
+Chegou ao fin vem ahí 2017 https://t.co/TmZsoAeEe5
+date = Mon Feb 15 17:51:09 +0000 2016| user = pgoncaIves| text = São Paulo vai sediar as provas de maratona aquatica #Rio2016 
+https://t.co/xuyXJ9eoLX
+date = Mon Feb 15 17:51:03 +0000 2016| user = luizatrajano| text = Essa semana, o Banco Central lança o último lote de moedas comemorativas da #Rio2016! Vale guardar a lembrança! https://t.co/kaPxj42hYz
+date = Mon Feb 15 17:49:04 +0000 2016| user = martinchab1997| text = RT @Rio2016: Piscina de bolinha do @viaparque + atletas de #SaltosOrnamentais + galera incrível = https://t.co/xHKj37SXr7 https://t.co/dohc…
+date = Mon Feb 15 17:31:18 +0000 2016| user = Alebil01| text = RT @Rio2016: #MotivationalMonday com Zahra Nemati que vai ser porta-bandeira do #Irã no #Rio2016! 🇮🇷 🎯 https://t.co/hHTPBwkCpJ https://t.co…
+date = Mon Feb 15 17:24:05 +0000 2016| user = ClaudioCaparroz| text = Palpitando @rio2016_es https://t.co/M3sjRRAAeC
+date = Mon Feb 15 17:23:06 +0000 2016| user = swissando_| text = RT @Rio2016: Os atletas de #SaltosOrnamentais Luiz Outerelo, Ian Matos e Juliana Veloso  estão se divertindo no @viaparque ! Vem! https://t…
+date = Mon Feb 15 17:23:03 +0000 2016| user = swissando_| text = RT @Rio2016: Piscina de bolinha do @viaparque + atletas de #SaltosOrnamentais + galera incrível = https://t.co/xHKj37SXr7 https://t.co/dohc…
+date = Mon Feb 15 17:22:58 +0000 2016| user = swissando_| text = RT @Rio2016: Quer diversão e PRÊMIOS? #MeuRio2016 para Android: https://t.co/slwmqDbmF0 e iOS: https://t.co/7u55hNVki3 https://t.co/UZHuNMo…
+date = Mon Feb 15 17:10:03 +0000 2016| user = diversidade_rua| text = RT @cpboficial: Bom dia, segunda-feira! 😎 Faltam 205 dias para os #JogosParalímpicos @Rio2016!
+date = Mon Feb 15 17:03:37 +0000 2016| user = vallvitorr| text = Amigos que estão buscando uma forma de participar de alguma forma dos jogos olímpicos ou em busca de um trabalho... https://t.co/SncfRDEdEO
+date = Mon Feb 15 16:57:45 +0000 2016| user = RSPARADESPORTO| text = RT @cpboficial: Bom dia, segunda-feira! 😎 Faltam 205 dias para os #JogosParalímpicos @Rio2016!
+date = Mon Feb 15 16:57:30 +0000 2016| user = RSPARADESPORTO| text = #NaMesmaBatida #CoraçãoParalímpico! Vamos juntos rumo ao @rio2016
+https://t.co/yvVhN1flOT @cpboficial
+date = Mon Feb 15 16:53:53 +0000 2016| user = FuruchoLuiz| text = Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça https://t.co/VMSULudTmN via @UOLEsporte #Rio2016
+date = Mon Feb 15 16:49:37 +0000 2016| user = brenobarros| text = . @cfredbastos se o Thiago continuar nesta forma tem tudo para beliscar um pódio na #Rio2016
+date = Mon Feb 15 16:47:19 +0000 2016| user = osolimpicos| text = BRA chega a 419 atleta classificados pro #Rio2016
+date = Mon Feb 15 16:44:58 +0000 2016| user = osolimpicos| text = Eliane Martins fez 6,70m no salto em distância ontem em São Bernardo e consegue índice olímpico pra prova! #Rio2016
+date = Mon Feb 15 16:40:36 +0000 2016| user = osolimpicos| text = No Fem, @HastyHastings venceu a seletiva e se junta a Desiree Linden e @ShalaneFlanagan na equipe americana de maratona #Rio2016
+date = Mon Feb 15 16:39:32 +0000 2016| user = osolimpicos| text = Em sua 1ª maratona, Galen Rupp vence seletiva americana da maratona pro #Rio2016. @runmeb e Jared Ward completam a equipe Masc
+date = Mon Feb 15 16:36:29 +0000 2016| user = saogoncalo_RJ| text = RT @Rio2016: Piscina de bolinha do @viaparque + atletas de #SaltosOrnamentais + galera incrível = https://t.co/xHKj37SXr7 https://t.co/dohc…
+date = Mon Feb 15 16:32:18 +0000 2016| user = adrianolimaa| text = Melhor lugar do mundo para andar de bike. 🚴🏻🚴🏻 #sun #instagood #vscocam #bike #rio2016 #rio… https://t.co/QMIbdrTE5M
+date = Mon Feb 15 16:31:59 +0000 2016| user = biamaralh| text = @hamayana_ @Rio2016 com certeza!!! 😍😍😍
+date = Mon Feb 15 16:22:47 +0000 2016| user = biamaralh| text = Faltam 25 semanas pros jogoooos 2016 😍😍😍😍 @hamayana_ @Rio2016 #Voluntarios ❤️
+date = Mon Feb 15 16:11:54 +0000 2016| user = SergioGranja| text = Babá:  "Para o microditador Eduardo Paes, preocupação com a saúde da população é um "exagero". A grana pública... https://t.co/vcPvlHCvEF
+date = Mon Feb 15 15:54:47 +0000 2016| user = CataPlaDi| text = RT @ViniciusRio2016: Uhuuul!!! Tbm quero ir piscina de bolinhas, @Rio2016! 😍🙋 https://t.co/jnJk3N3ODB
+date = Mon Feb 15 15:53:51 +0000 2016| user = viaparque| text = RT @Rio2016: Piscina de bolinha do @viaparque + atletas de #SaltosOrnamentais + galera incrível = https://t.co/xHKj37SXr7 https://t.co/dohc…
+date = Mon Feb 15 15:50:23 +0000 2016| user = ViniciusRio2016| text = Uhuuul!!! Tbm quero ir piscina de bolinhas, @Rio2016! 😍🙋 https://t.co/jnJk3N3ODB
+date = Mon Feb 15 15:41:38 +0000 2016| user = martincito6| text = RT @Rio2016: Piscina de bolinha do @viaparque + atletas de #SaltosOrnamentais + galera incrível = https://t.co/xHKj37SXr7 https://t.co/dohc…
+date = Mon Feb 15 15:37:38 +0000 2016| user = ClamorOficial| text = Vamos juntos manifestar o Reino de Deus no Rio de Janeiro, inscreva-se já https://t.co/uyszzoQ1FI  #Rio2016 https://t.co/5UsjdA7miy
+date = Mon Feb 15 15:37:19 +0000 2016| user = abascal2| text = RT @Rio2016: Piscina de bolinha do @viaparque + atletas de #SaltosOrnamentais + galera incrível = https://t.co/xHKj37SXr7 https://t.co/dohc…
+date = Mon Feb 15 15:28:44 +0000 2016| user = Rio2016| text = Piscina de bolinha do @viaparque + atletas de #SaltosOrnamentais + galera incrível = https://t.co/xHKj37SXr7 https://t.co/dohckLfIdx
+date = Mon Feb 15 15:26:51 +0000 2016| user = Renato_Pereira| text = R$ 45,00 é o valor que a Casa da Moeda vai pagar por cada fita das medalhas que serão entregues nas Olimpíadas. #Rio2016
+date = Mon Feb 15 15:21:20 +0000 2016| user = rafamrocha| text = Mais um relato de agressão da GM à foliões na Pça Mauá. @Prefeitura_Rio, @eduardopaes_  #Rio2016 meu cú!
+https://t.co/SEFhVDyPAN
+date = Mon Feb 15 15:15:16 +0000 2016| user = NobreCachos| text = Terreirão do Samba Rio2016 https://t.co/JzMgqAU2O1
+date = Mon Feb 15 15:09:16 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça  #Br   https://t.co/swNKYnvkK5
+date = Mon Feb 15 15:09:16 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Empresário acusa Praia Clube de demitir Tandara grávida e vai à Justiça  #Br   https://t.co/3MnrDfn38x
+date = Mon Feb 15 14:52:12 +0000 2016| user = tortoriello| text = Série do #JornaldaBand mostra preparação para sonho olímpico. 19:20 @BandTV @bandjornalismo @Rio2016 #Olimpíada https://t.co/1f3REdHFEc
+date = Mon Feb 15 14:51:46 +0000 2016| user = flaviodilascio| text = Luta olímpica do Brasil fatura duas medalhas no Torneio da Ucrânia #globoesporte #rio2016
+ https://t.co/qO4UdH4M2Y https://t.co/BAgRL8Kkkq
+date = Mon Feb 15 14:48:43 +0000 2016| user = JLCantanhede| text = #rio2016 está fritando, 39 graus com sensação térmica de 43
+date = Mon Feb 15 14:44:19 +0000 2016| user = volunta_Rio2016| text = China, o país do... tênis de mesa:  https://t.co/2lLouQbJS9
+date = Mon Feb 15 14:44:18 +0000 2016| user = volunta_Rio2016| text = Em clima Rio 32 graus, saltadores de cinco países experimentam o Centro Maria Lenk:  https://t.co/ClXgLxr3nx
+date = Mon Feb 15 14:44:18 +0000 2016| user = volunta_Rio2016| text = Com melhorias, Centro Maria Lenk está pronto para as feras dos saltos ornamentais:  https://t.co/8kx4l9cslx
+date = Mon Feb 15 14:44:18 +0000 2016| user = volunta_Rio2016| text = Japão: o país do... judô:  https://t.co/4GCWG3VjFt
+date = Mon Feb 15 14:44:18 +0000 2016| user = volunta_Rio2016| text = Estados Unidos terão sua primeira atleta a competir usando hijab:  https://t.co/V4vlp9oetO
+date = Mon Feb 15 14:15:15 +0000 2016| user = DaniFuller2| text = Tudo indica que no masculino teremos um grupo MORTE para o Brasil e quase nenhum jogo ruim.. contando o histórico dos países #Rio2016
+date = Mon Feb 15 14:14:10 +0000 2016| user = DaniFuller2| text = Já teremos na fase de grupos #Rio2016 um Brasil x Russia no vôlei feminino ~ OMFG
+date = Mon Feb 15 14:10:45 +0000 2016| user = Alzipp| text = RT @Rio2016: Quer diversão e PRÊMIOS? #MeuRio2016 para Android: https://t.co/slwmqDbmF0 e iOS: https://t.co/7u55hNVki3 https://t.co/UZHuNMo…
+date = Mon Feb 15 14:08:34 +0000 2016| user = helberteixeira_| text = RT @Brasil2016: Basquete em cadeira de rodas já tem as 22 seleções definidas para o #Rio2016. https://t.co/5eTDgycjkj https://t.co/v9rUYL31…
+date = Mon Feb 15 14:08:09 +0000 2016| user = Brasil_2016News| text = China, o país do... tênis de mesa:  https://t.co/An5sSp7Xxi
+date = Mon Feb 15 14:07:54 +0000 2016| user = CeciliaValerio2| text = RT @Rio2016: #MotivationalMonday com Zahra Nemati que vai ser porta-bandeira do #Irã no #Rio2016! 🇮🇷 🎯 https://t.co/hHTPBwkCpJ https://t.co…
+date = Mon Feb 15 14:07:23 +0000 2016| user = peltier27| text = Foi um prazer estar com vocês, "marcistas"! Até a próxima semana! #Rio2016
+date = Mon Feb 15 14:07:09 +0000 2016| user = peltier27| text = De qualquer forma, a #Rio2016 terá mais eventos-teste até agosto! #FoliaoAnoInteiro
+date = Mon Feb 15 14:07:07 +0000 2016| user = Brasil2016| text = Basquete em cadeira de rodas já tem as 22 seleções definidas para o #Rio2016. https://t.co/5eTDgycjkj https://t.co/v9rUYL31cp
+date = Mon Feb 15 14:06:21 +0000 2016| user = peltier27| text = Quem está curtindo o início de semana? #Rio2016 #FoliaoAnoInteiro
+date = Mon Feb 15 14:05:51 +0000 2016| user = peltier27| text = As Olimpíadas são sucesso mundial! #FoliaoAnoInteiro #Rio2016
+date = Mon Feb 15 14:05:15 +0000 2016| user = ereis73| text = Mas o prefeito @eduardopaes afirma que #ZikaVirus não tem nada a ver com a #RIO2016 e com a #waterrio  https://t.co/WiDo5xHpGo
+date = Mon Feb 15 14:03:55 +0000 2016| user = peltier27| text = Os casais brasileiros celebraram o amor ontem, é verdade, mas oficialmente o Dia dos Namorados é em 12 de junho! #FoliaoAnoInteiro #Rio2016
+date = Mon Feb 15 14:01:29 +0000 2016| user = peltier27| text = 🎶  Quem me chamou? chamou pra sambar
+Não mexe comigo, eu sou a menina de Oyá 🎶 
+#Mangueira #Rio2016
+date = Mon Feb 15 13:58:45 +0000 2016| user = peltier27| text = A festa acabou, mas continuará quando começarem os Jogos Olímpicos. #Rio2016 #JogosOlímpicos
+date = Mon Feb 15 13:57:38 +0000 2016| user = peltier27| text = O Twitter de Peltier mudou a foto do perfil, mas está desatualizado desde março de 2012! #Rio2016
+date = Mon Feb 15 13:55:03 +0000 2016| user = peltier27| text = 🎶 Quem me chamou? Mangueira
+Chegou a hora, não dá mais pra segurar 🎶 
+#MariaBethânia #Rio2016
+date = Mon Feb 15 13:53:58 +0000 2016| user = marlenesilvab| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Mon Feb 15 13:52:29 +0000 2016| user = peltier27| text = Gente, o que é isso?! #Rio2016
+date = Mon Feb 15 13:45:50 +0000 2016| user = brenobarros| text = acredito q o #snapchat será a grande onde em 2016, principalmente na #Rio2016 @mkt_esportivo. O potencial da ferramenta é incrível.
+date = Mon Feb 15 13:40:58 +0000 2016| user = SmeGoiania| text = RT @PrefeituradeGyn: Envolvidos c/ evento da #Rio2016 na Capital realizarão ensaio geral c/ 200 atletas q/ farão revezamento na condução de…
+date = Mon Feb 15 13:40:15 +0000 2016| user = peltier27| text = Os Peltier não perdem tempo! #Rio2016
+date = Mon Feb 15 13:39:43 +0000 2016| user = peltier27| text = Quem se identifica como os mais tranquilos? #DeVoltaàRotina #Rio2016
+date = Mon Feb 15 13:38:57 +0000 2016| user = peltier27| text = Mas para boa parte dos cariocas, 2016 já começou no primeiro dia útil, 4 de janeiro! #DeVoltaàRotina #Rio2016
+date = Mon Feb 15 13:38:37 +0000 2016| user = lenasilvab| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Mon Feb 15 13:37:00 +0000 2016| user = Laurafwx| text = RT @cpboficial: Bom dia, segunda-feira! 😎 Faltam 205 dias para os #JogosParalímpicos @Rio2016!
+date = Mon Feb 15 13:35:41 +0000 2016| user = PassageiroRJ| text = #ViolênciaRJ na #CidadeOlímpica, o #Rio2016.
+
+Turista tcheco é furtado e esfaqueado em Copacabana.
+
+https://t.co/5KzGIW1Tz1
+date = Mon Feb 15 13:35:20 +0000 2016| user = Laurafwx| text = Ginástica: de volta, Rebeca Andrade se desdobra em busca da vaga nas Olimpíadas do Rio | Rio 2016 https://t.co/TEvPW1D2nF #rio2016
+date = Mon Feb 15 13:34:21 +0000 2016| user = peltier27| text = Diz o ditado que o ano só começa mesmo depois do Carnaval. #DeVoltaàRotina #Rio2016
+date = Mon Feb 15 13:33:02 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Morre chefão do doping russo envolvido em escândalo  #Br   https://t.co/swNKYnvkK5
+date = Mon Feb 15 13:33:02 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Morre chefão do doping russo envolvido em escândalo  #Br   https://t.co/3MnrDfn38x
+date = Mon Feb 15 13:31:51 +0000 2016| user = EmbVen_Brasil| text = RT @maduro_pt: RT @pinfantepsuv: @rubenoszki classificado para os Jogos Olímpicos #Rio2016 espada individual masculino [...] https://t.co/1…
+date = Mon Feb 15 13:30:44 +0000 2016| user = peltier27| text = Chega mais que 2016 começou pra valer na na família Peltier! #Rio2016
+date = Mon Feb 15 13:19:30 +0000 2016| user = ROBERTA60772874| text = RT @Brasil2016: Parque Aquático Maria Lenk é apresentado após obras de ajuste para o #Rio2016. https://t.co/6W54egdUWb https://t.co/uc4dDN1…
+date = Mon Feb 15 13:08:18 +0000 2016| user = IVALDOMORAES| text = RT @Brasil2016: Parque Aquático Maria Lenk é apresentado após obras de ajuste para o #Rio2016. https://t.co/6W54egdUWb https://t.co/uc4dDN1…
+date = Mon Feb 15 13:07:04 +0000 2016| user = CanotajeEc| text = RT @Brasil2016: Parque Aquático Ma/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ria Lenk é apresentado após obras de ajuste para o #Rio2016. https://t.co/6W54egdUWb https://t.co/uc4dDN1…
+date = Mon Feb 15 13:06:07 +0000 2016| user = Brasil2016| text = Parque Aquático Maria Lenk é apresentado após obras de ajuste para o #Rio2016. https://t.co/6W54egdUWb https://t.co/uc4dDN1LJR
+date = Mon Feb 15 12:58:48 +0000 2016| user = ABritoLopes| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Mon Feb 15 12:58:40 +0000 2016| user = jjmservicos| text = Bom dia!!!! https://t.co/So2QQglbqn
+date = Mon Feb 15 12:57:48 +0000 2016| user = PrefeituradeGyn| text = Envolvidos c/ evento da #Rio2016 na Capital realizarão ensaio geral c/ 200 atletas q/ farão revezamento na condução de uma tora de madeira.
+date = Mon Feb 15 12:57:43 +0000 2016| user = jjmservicos| text = Exemplo!!! https://t.co/uRvAIQWCof
+date = Mon Feb 15 12:57:09 +0000 2016| user = trisltz| text = Hey @Rio2016 to no aguardo da confirmação de vocês pra eu carregar a Tocha Olímpica, a @Nissan_Oficial me indicou. Veja aí. ;)
+date = Mon Feb 15 12:55:12 +0000 2016| user = empresaolimpica| text = A Prefeitura apresentou as obras de adequação do Maria Lenk para os Jogos #Rio2016. Confira: https://t.co/Vmwc48DohD https://t.co/OsYvSIYsAe
+date = Mon Feb 15 12:48:11 +0000 2016| user = cpboficial| text = RT @Rio2016: #MotivationalMonday com Zahra Nemati que vai ser porta-bandeira do #Irã no #Rio2016! 🇮🇷 🎯 https://t.co/hHTPBwkCpJ https://t.co…
+date = Mon Feb 15 12:45:54 +0000 2016| user = aesrocha| text = @ESPNagora @gabi_moreira @Rio2016 #Brasil um pais de trouxas. Todo mundo tira uma casquinha desviando grana. #vergonha
+date = Mon Feb 15 12:41:02 +0000 2016| user = ElbrusRED| text = RT @Rio2016: #MotivationalMonday com Zahra Nemati que vai ser porta-bandeira do #Irã no #Rio2016! 🇮🇷 🎯 https://t.co/hHTPBwkCpJ https://t.co…
+date = Mon Feb 15 12:38:24 +0000 2016| user = Rio2016| text = #MotivationalMonday com Zahra Nemati que vai ser porta-bandeira do #Irã no #Rio2016! 🇮🇷 🎯 https://t.co/hHTPBwkCpJ https://t.co/oMkPwhZ9cB
+date = Mon Feb 15 12:31:14 +0000 2016| user = Laurafwx| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Mon Feb 15 12:22:59 +0000 2016| user = Kesia_Pontes| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Mon Feb 15 12:22:19 +0000 2016| user = paulo_homem| text = RT @cpboficial: Bom dia, segunda-feira! 😎 Faltam 205 dias para os #JogosParalímpicos @Rio2016!
+date = Mon Feb 15 12:19:58 +0000 2016| user = kilkerry48| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 12:16:56 +0000 2016| user = Iuriarmstrong| text = RT @cpboficial: Bom dia, segunda-feira! 😎 Faltam 205 dias para os #JogosParalímpicos @Rio2016!
+date = Mon Feb 15 12:13:53 +0000 2016| user = doeumlivro| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Mon Feb 15 12:09:00 +0000 2016| user = portalfab| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Mon Feb 15 12:08:53 +0000 2016| user = GuilhermeJrg| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 12:08:14 +0000 2016| user = WendellBws12| text = RT @cpboficial: Bom dia, segunda-feira! 😎 Faltam 205 dias para os #JogosParalímpicos @Rio2016!
+date = Mon Feb 15 12:05:46 +0000 2016| user = Mrblackwell72| text = @ESPNagora @gabi_moreira @Rio2016 Cadeia nele.
+date = Mon Feb 15 12:03:38 +0000 2016| user = abranches| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman  https://t.co/dJvEw0kbm8
+date = Mon Feb 15 12:00:23 +0000 2016| user = cpboficial| text = Bom dia, segunda-feira! 😎 Faltam 205 dias para os #JogosParalímpicos @Rio2016!
+date = Mon Feb 15 11:48:03 +0000 2016| user = _massacinzenta| text = Em ano olímpico, obras já começam a subir no pódio. Leia mais!  https://t.co/VJWngVr16s #Olimpíadas #RIO2016 #ObrasOlímpicas
+date = Mon Feb 15 11:39:27 +0000 2016| user = claudiasimas| text = Estou em Comitê Organizador Rio 2016™ - @rio2016 em Rio de Janeiro, RJ https://t.co/Ec8FNtTBOy
+date = Mon Feb 15 11:25:09 +0000 2016| user = BigRicardo23| text = Sobre o #Rio2016. Recomendo a leitura!
+https://t.co/9dyrelAm2d
+date = Mon Feb 15 11:18:26 +0000 2016| user = alvinegropenta| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 11:11:36 +0000 2016| user = gabi_moreira| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 11:10:51 +0000 2016| user = Anemarie_Bender| text = RT @blogplanalto: Zika vírus não compromete a realização das Olimpíadas, afirma @DilmaBr https://t.co/w7EOer30rF #ZikaZero #Rio2016 https:/…
+date = Mon Feb 15 11:10:01 +0000 2016| user = wamarals61| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 11:05:01 +0000 2016| user = DmjuGoes| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 11:04:05 +0000 2016| user = yghorandrade| text = @ESPNagora @gabi_moreira @Rio2016 
+Por que vcs acham que esses caras nunca querem largar o osso? Sempre tirando algum proveito de td
+date = Mon Feb 15 11:03:25 +0000 2016| user = tchemano| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 11:01:09 +0000 2016| user = tmalvao| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 11:00:50 +0000 2016| user = ClodoaldoBarth| text = @ESPNagora @gabi_moreira @Rio2016 o Brasil sendo Brasil ....realmente o Brasil  não é um país sério. ..
+date = Mon Feb 15 11:00:47 +0000 2016| user = alberto_queiroz| text = RT @Rio2016: É HOJE! Atletas Olímpicos vão estar na piscina de bolinha do @viaparque dando dicas sobre #SaltosOrnamentais! https://t.co/O8d…
+date = Mon Feb 15 11:00:28 +0000 2016| user = larosa_filippo| text = @TCagnotto ,estrela italiana em @Rio2016 ,ao chegar na cidade maravilhosa adorou clima e instalações olímpicas!  https://t.co/W6TBoyNbC1
+date = Mon Feb 15 11:00:19 +0000 2016| user = cmdoda| text = @ESPNagora @gabi_moreira @Rio2016 Vergonha! Sr, Nuzman joga fora uma história construída no esporte #ForaCambada #Chupins #aproveitadores
+date = Mon Feb 15 10:59:33 +0000 2016| user = tiagormachado| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 10:59:23 +0000 2016| user = GazetaDoEsporte| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 10:58:55 +0000 2016| user = gabrielcosta88| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 10:58:25 +0000 2016| user = ClodoaldoBarth| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 10:57:45 +0000 2016| user = luisferreaa| text = RT @ESPNagora: Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.…
+date = Mon Feb 15 10:56:31 +0000 2016| user = ESPNagora| text = Exclusivo de @gabi_moreira - Comitê @Rio2016 paga 'segurança pessoal e privada' de Nuzman https://t.co/yRNvUqlUiT https://t.co/cJH7GAW8MD
+date = Mon Feb 15 10:39:33 +0000 2016| user = taisbr| text = To morta — Estou em Comitê Organizador Rio 2016™ - @rio2016 em Rio de Janeiro, RJ https://t.co/SfbBpi4p2S
+date = Mon Feb 15 10:33:48 +0000 2016| user = ManNextDoor| text = RT @JPPir: @diogofromhell @ManNextDoor Para mim estes gajos são os principais candidatos a ganhar o salto em altura nos Jogos Olimpicos do …
+date = Mon Feb 15 10:33:03 +0000 2016| user = EstadaoEsporte| text = É HOJE! @Rio2016 recebe @RafaelNadal, @DavidFerrer87, @tsonga7 e os melhores do Brasil - https://t.co/c4jI4GQccS https://t.co/ze0X6YPw5y
+date = Mon Feb 15 10:10:56 +0000 2016| user = JPPir| text = @diogofromhell @ManNextDoor Para mim estes gajos são os principais candidatos a ganhar o salto em altura nos Jogos Olimpicos do  Rio2016
+date = Mon Feb 15 09:32:42 +0000 2016| user = instacopacabana| text = Boa semana a todos.... #letsfilm #cidademaravilhosa #rio2016 #cidadeolimpica #Sunrise #rio… https://t.co/0XGTw18mNC https://t.co/z4SYUT1jTq
+date = Mon Feb 15 09:26:22 +0000 2016| user = arruda40| text = Cientistas americanos pedem cancelamento de Olimpíada por vírus Zika https://t.co/BQgT8eyG9h via @UOLEsporte #Rio2016
+date = Mon Feb 15 09:14:27 +0000 2016| user = azvdo| text = ‘O #Rio2016 insistiu em um modelo fora de moda’
+https://t.co/oIKN7Nriv1 via @estadao
+date = Mon Feb 15 06:38:01 +0000 2016| user = zidruxXx| text = 172 dias pras Olimpíadas
+#Rio2016 #172days
+date = Mon Feb 15 05:56:13 +0000 2016| user = luciapezzi| text = RT @Rio2016: Atletas de #SaltosOrnamentais no @viaparque hj! Obrigado a todos que foram curtir a piscina de bolinha com a gente! https://t.…
+date = Mon Feb 15 04:51:46 +0000 2016| user = USAGold2016| text = RT @Rio2016: É HOJE! Atletas Olímpicos vão estar na piscina de bolinha do @viaparque dando dicas sobre #SaltosOrnamentais! https://t.co/O8d…
+date = Mon Feb 15 03:54:30 +0000 2016| user = Alde2010| text = @everaldomarques @jrluxboquinha pena que na compra do ingresso a gente não sabe não time, mas quero ver USA  no @Rio2016 #tudopelonbaallstar
+date = Mon Feb 15 03:44:04 +0000 2016| user = PortalENV| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/5XgN2G8vfr
+date = Mon Feb 15 03:44:04 +0000 2016| user = LifeStyleENV| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/M39DWJBeKf
+date = Mon Feb 15 03:44:04 +0000 2016| user = Embarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/GFFG5sbgP0
+date = Mon Feb 15 03:44:04 +0000 2016| user = DicasdoEmbarque| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/CbGQa7diQi
+date = Mon Feb 15 03:44:04 +0000 2016| user = Nairoquinha| text = Encontre sua hospedagem para os Jogos Olímpicos e paralímpicos Rio 2016 #Rio2016 https://t.co/cJLiBZ5Vck
+date = Mon Feb 15 03:30:20 +0000 2016| user = Alde2010| text = @jrluxboquinha e @eduagraespn olhando esse jogo já imagino ver a seleção USA no @Rio2016  #tudopelonbaallstar
+date = Mon Feb 15 03:11:02 +0000 2016| user = VitorZanon| text = @jrluxboquinha @eduagraespn #tudopelonbaallstar qual seria a lista de jogadores dos estados unidos q vcs levariam para o Rio2016?
+date = Mon Feb 15 02:47:40 +0000 2016| user = MissioCesar| text = @TheBlurBarbosa Grande... sou seu fã cara... quero te ver brilhando na Rio2016... Abraço
+date = Mon Feb 15 02:25:44 +0000 2016| user = beatriz32204288| text = "@Brasil2016: C/ 13 atletas garantidos, tênis de mesa paralímpico busca três medalhas nos Jogos #Rio2016. https://t
+date = Mon Feb 15 02:24:02 +0000 2016| user = SpnIsThePower| text = RT @minesporte: "Temos uma maratona para percorrer antes do #Rio2016: a luta contra o Aedes aegypti", diz @GeorgeHilton10. #ZikaZero https:…
+date = Mon Feb 15 02:16:33 +0000 2016| user = esportes_on| text = @eduagraespn Kobe, Rose, Wade, Duncan e Bosch... Time americano dos não selecionados pra Rio2016... Dava pra brigar pelo bronze??#NBAAllStar
+date = Mon Feb 15 02:07:17 +0000 2016| user = esportes_on| text = @everaldomarques Kobe, Rose, Wade, Duncan e Bosch... Time americano dos não selecionados pra Rio2016... Dava pra brigar pelo bronze??
+date = Mon Feb 15 01:48:46 +0000 2016| user = jerfesonS| text = RT @EstadaoEsporte: Rebeca Andrade se desdobra para classificar equipe de ginástica para os Jogos @Rio2016 - https://t.co/a7OMfwRFQd https:…
+date = Mon Feb 15 01:35:53 +0000 2016| user = MaLima2013| text = Cientistas americanos pedem cancelamento de Olimpíada por vírus Zika via @UOLEsporte #Rio2016   https://t.co/HeEq6IYuih
+date = Mon Feb 15 01:34:01 +0000 2016| user = Condominiodeide| text = RT @EstadaoEsporte: Rebeca Andrade se desdobra para classificar equipe de ginástica para os Jogos @Rio2016 - https://t.co/a7OMfwRFQd https:…
+date = Mon Feb 15 01:33:32 +0000 2016| user = CandyGomela| text = RT @GomelitaDesigns: #Venezuela #Clasificados #Rio2016 🇻🇪 Foto de gomelitadesigns https://t.co/06LiyaoSbE
+date = Mon Feb 15 01:31:52 +0000 2016| user = GomelitaDesigns| text = #Venezuela #Clasificados #Rio2016 🇻🇪 Foto de gomelitadesigns https://t.co/06LiyaoSbE
+date = Mon Feb 15 01:30:07 +0000 2016| user = mvsallesadvocac| text = Retweeted Ministério da Defesa (@DefesaGovBr):
+
+#Rio2016 será oportunidade para promover o desporto militar com... https://t.co/hm30S1BQvZ
+date = Mon Feb 15 01:30:00 +0000 2016| user = mvsallesadvocac| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Mon Feb 15 01:20:33 +0000 2016| user = Artesanart| text = @Marciaheringer @PMERJ @LeiSecaRJ @Rio2016 Direito de defesa faz parte dos Diritos Humanos. https://t.co/CqFd3cTqHk https://t.co/eWrxuDUJge
+date = Mon Feb 15 01:17:00 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Campeã Mundial, Lauren Jackson ainda não sabe se vai para o @Rio2016 https://t.co/nYBGcJ2w0h https://t.co/CmdCPV0ybI
+date = Mon Feb 15 01:16:48 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: O Surto Entrevista com @nzaccardi falando do @TeamUSA para o @Rio2016 https://t.co/8KbHcnmDzD https://t.co/kEu8AQLowB
+date = Mon Feb 15 01:16:26 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: EUA definem os seus representantes  na Martaona do @Rio2016 https://t.co/51PpZL6lvQ https://t.co/ftH6OyJCUX
+date = Mon Feb 15 01:15:25 +0000 2016| user = AoDiaBrasil| text = #Brasil #Rio2016 Favoritas, Martine e Kahena caem na reta final e fecham Mundial no 6º lugar  #Br   https://t.co/3MnrDfn38x
+date = Mon Feb 15 01:15:25 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Favoritas, Martine e Kahena caem na reta final e fecham Mundial no 6º lugar  #Br   https://t.co/swNKYnvkK5
+date = Mon Feb 15 01:08:19 +0000 2016| user = Moreira1804| text = Que os Jogos #rio2016 tenham cerimônias igual do #SB50 e #AllStarGame sensacionais!
+#tudopelonbaallstar
+date = Mon Feb 15 01:03:06 +0000 2016| user = SurtoOlimpico| text = Campeã Mundial, Lauren Jackson ainda não sabe se vai para o @Rio2016 https://t.co/nYBGcJ2w0h https://t.co/CmdCPV0ybI
+date = Mon Feb 15 01:01:15 +0000 2016| user = SurtoOlimpico| text = O Surto Entrevista com @nzaccardi falando do @TeamUSA para o @Rio2016 https://t.co/8KbHcnmDzD https://t.co/kEu8AQLowB
+date = Mon Feb 15 00:56:38 +0000 2016| user = SurtoOlimpico| text = EUA definem os seus representantes  na Martaona do @Rio2016 https://t.co/51PpZL6lvQ https://t.co/ftH6OyJCUX
+date = Mon Feb 15 00:56:22 +0000 2016| user = hotxlatinas| text = RT @NaughtyBianca: muita folia? #Rio2016 #carnaval2016 #folia #camisinhatanafesta #latina #bigbooty em casa cansadaaaaaaa!! https://t.co/eH…
+date = Mon Feb 15 00:46:40 +0000 2016| user = septhaina| text = @Lmaatos @Rio2016 então mano, bem por isso que tô preocupada. se a carta convite tá demorando, imagina a escala! :////
+date = Mon Feb 15 00:41:01 +0000 2016| user = viaparque| text = RT @Rio2016: Atletas de #SaltosOrnamentais no @viaparque hj! Obrigado a todos que foram curtir a piscina de bolinha com a gente! https://t.…
+date = Mon Feb 15 00:37:32 +0000 2016| user = Lmaatos| text = @septhaina @Rio2016 sério, mas só diz onde vai trabalhar. não fala datas nem nada
+date = Mon Feb 15 00:35:27 +0000 2016| user = septhaina| text = @Lmaatos @Rio2016 nosssss tá zoando? dessa vez não esqueceram do mionzinho aheoiaheoihioheoahoe
+date = Mon Feb 15 00:33:27 +0000 2016| user = Lmaatos| text = @septhaina @Rio2016 a minha já chegou, corre atrás
+date = Mon Feb 15 00:29:14 +0000 2016| user = septhaina| text = kd minha carta convite @Rio2016
+date = Mon Feb 15 00:24:29 +0000 2016| user = Moreira1804| text = @TeamCanada ação e timing perfeitos. Serão mais que bem vindos ao #Rio2016. #Valentines   https://t.co/HCggvXXq5n
+date = Mon Feb 15 00:20:39 +0000 2016| user = vonivar| text = RT @EstadaoEsporte: Rebeca Andrade se desdobra para classificar equipe de ginástica para os Jogos @Rio2016 - https://t.co/a7OMfwRFQd https:…
+date = Mon Feb 15 00:14:24 +0000 2016| user = juju_ssantana| text = Sou #VoluntárioRio2016! Veja se você também é em https://t.co/i3QheU6lEn
+date = Mon Feb 15 00:02:01 +0000 2016| user = elianecoutinho_| text = Isso é o Rio de Janeiro, cidade sede das Olimpíadas. Que vergonha! #Rio2016 #violência #criminalidade https://t.co/DMLqlRAZDu
+date = Sun Feb 14 23:18:48 +0000 2016| user = alem_do_futebol| text = @calb995 @49erSailing Concordo contigo, kkkk uma pena. Mas elas são muito consistentes. Acho que são favoritas ao pódio no @Rio2016
+date = Sun Feb 14 23:10:07 +0000 2016| user = meiodecampo| text = #MinistroHiltonNaRedeMinas Ministro @GEORGEHILTON10 fala como a olimpíada @Rio2016 se previne com relação ao #ZikaVirus
+date = Sun Feb 14 23:06:02 +0000 2016| user = lucasacg| text = RT @Dragao_Goiano: Ednei, um atleta olímpico! #Rio2016 #dragaogoiano https://t.co/BKxVJ9kzpf
+date = Sun Feb 14 22:58:05 +0000 2016| user = Dragao_Goiano| text = Ednei, um atleta olímpico! #Rio2016 #dragaogoiano https://t.co/BKxVJ9kzpf
+date = Sun Feb 14 22:56:53 +0000 2016| user = viaparque| text = #Repost @rio2016 with repostapp.
+・・・
+tammygalera, ajulianaveloso, @iansaltos e luizouterelo lá… https://t.co/CheEpAKdU1
+date = Sun Feb 14 22:52:59 +0000 2016| user = chagasw| text = RT @paulocezar se dar o rabo fosse esporte olímpico eu seria medalha de ouro  #rio2016
+date = Sun Feb 14 22:46:38 +0000 2016| user = martinchab1997| text = RT @Rio2016: Atletas de #SaltosOrnamentais no @viaparque hj! Obrigado a todos que foram curtir a piscina de bolinha com a gente! https://t.…
+date = Sun Feb 14 22:40:04 +0000 2016| user = veigacarmen| text = RT @jrgomezbesteiro: Parabéns á galega @TEchegoyen campioa do mundo con @BertaBetanzos. Que orgullo de deportistas! Agora a por #Rio2016  h…
+date = Sun Feb 14 22:26:43 +0000 2016| user = Karameluo| text = RT @Rio2016: Atletas de #SaltosOrnamentais no @viaparque hj! Obrigado a todos que foram curtir a piscina de bolinha com a gente! https://t.…
+date = Sun Feb 14 22:26:42 +0000 2016| user = PloSilver| text = RT @DefesaGovBr: #Rio2016 será oportunidade para promover o desporto militar com  potências olímpicas https://t.co/fzwm3MJzVC https://t.co/…
+date = Sun Feb 14 22:26:31 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Atletas de #SaltosOrnamentais no @viaparque hj! Obrigado a todos que foram curtir a piscina de bolinha com a gente! https://t.…
+date = Sun Feb 14 22:26:24 +0000 2016| user = Rio2016| text = Atletas de #SaltosOrnamentais no @viaparque hj! Obrigado a todos que foram curtir a piscina de bolinha com a gente! https://t.co/0CiOGX6ZFy
+date = Sun Feb 14 22:25:39 +0000 2016| user = NordamMarketing| text = Come with me to Rio de Janeiro...   #brazil   #brasil   #riodejaneiro   #rio2016  #amazing_places   #amazingphotos… https://t.co/7xqC6NgSRq
+date = Sun Feb 14 22:24:42 +0000 2016| user = viaparque| text = #Repost @rio2016 with repostapp.
+・・・
+O que são esses pontinhos no meio de uma megapiscina de… https://t.co/1FSlfACYdt
+date = Sun Feb 14 22:24:33 +0000 2016| user = rugbyZOKU| text = Safavi Ati AtiSafavi RT JRFURugby: 200 more days until Rio2016 ! #rugbyjp #Japan7s #Sakura7s https://t.co/uqhxnYpXKM
+date = Sun Feb 14 22:23:19 +0000 2016| user = JessicFiguera| text = RT @jrgomezbesteiro: Parabéns á galega @TEchegoyen campioa do mundo con @BertaBetanzos. Que orgullo de deportistas! Agora a por #Rio2016  h…
+date = Sun Feb 14 22:20:04 +0000 2016| user = PlanoDeportivo| text = #DeporteNacional #Río2016 
+Destino coloca a neozelandés como técnico del #Tri de #Rugby 
+https://t.co/i8n4NcZzB5 https://t.co/iNcK5m42b1
+date = Sun Feb 14 22:19:05 +0000 2016| user = AtualNoticia| text = Brasil leva mais duas medalhas do judô na Europa https://t.co/CyPe38gKIZ #Rio2016

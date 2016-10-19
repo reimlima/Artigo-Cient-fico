@@ -1,0 +1,173 @@
+#!/bin/bash
+
+IFS='
+'
+AWK=$(which awk)
+SED=$(which sed)
+CURL=$(which curl)
+DATE=$(which date)
+HDFS=$(which hdfs)
+PORT="9200"
+HOST="172.16.2.114"
+INDEXNAME="twitter"
+SCRIPTNAME=$(basename $0)
+HADOOPBIN=$(which hadoop)
+HADOOPHOME="/export/hadoop"
+HADOOPSTREAMING="$HADOOPHOME/share/hadoop/tools/lib/hadoop-streaming-2.7.2.jar"
+TWEETMAPER="/home/hadoop/scripts/MRtwitter/tweetMapper.pl"
+TWEETTEXTREDUCER="/home/hadoop/scripts/MRtwitter/tweetTextReducer.pl"
+TWEETACCOUNTREDUCER="/home/hadoop/scripts/MRtwitter/tweetAccountReducer.pl"
+TWEETWORDCOUNTREDUCER="/home/hadoop/scripts/MRtwitter/tweetWordCountReducer.pl"
+TWEETDATETIMEREDUCER="/home/hadoop/scripts/MRtwitter/tweetDateTimeReducer.pl"
+LOGFILE=/home/hadoop/scripts/MRflow/${SCRIPTNAME}.log
+LOCKFILE=/tmp/${SCRIPTNAME}.lock
+
+
+#[ Functions ]-----------------------------------------------------------------#
+
+trapfunction(){
+
+        # Function called by 'trap' command. Only removes lock
+        # file if the process PID was the same in the file.
+
+        PIDOFMYSELF=$$
+        PIDINLOCKFILE=$(cat $LOCKFILE)
+        if [ "$PIDOFMYSELF" == "$PIDINLOCKFILE" ] ; then
+                rm $LOCKFILE
+        else
+                echo
+                echo "PID: $PIDINLOCKFILE"
+                echo
+        fi
+
+}
+
+trap trapfunction 0 1 2 3 9 15
+
+exitfunc(){
+
+        # Generic output function, show the message given,
+        # and then exits with the given code.
+
+        # Parse message and exit code
+        EXITCODE=$(echo $@ | awk '{print $NF}')
+        EXITMESSAGE=$(echo $@ | awk '{ $NF = ""; print $0}')
+        echo "[ $($DATE +%m/%d/%Y\ %H:%M:%S) ] - $EXITMESSAGE"
+        echo "[ $($DATE +%m/%d/%Y\ %H:%M:%S) ] - $EXITMESSAGE" >> $LOGFILE
+        echo "-----------------------------------------------" >> $LOGFILE
+        exit $EXITCODE
+
+}
+
+usage(){
+
+        exitfunc "Usage: $SCRIPTNAME [-i inputdir] [-h] 1"
+
+}
+
+hadoopInsert(){
+
+        cd $HADOOPHOME
+
+        for i in $TTRI $TARI $TWCRI $TDTRI ; do
+                echo "[ $($DATE +%m/%d/%Y\ %H:%M:%S) ] - Criando diretorios de input no Hadoop: ${i}" >> $LOGFILE
+                $HDFS dfs -mkdir -p input/${i}
+                $HDFS dfs -put $INPUTDIR input/${i}
+        done
+
+}
+
+hadoopTweetWordCountReducer(){
+        echo "[ $($DATE +%m/%d/%Y\ %H:%M:%S) ] - Inserindo dados no Hadoop: $TWCRI" >> $LOGFILE
+        $HADOOPBIN jar $HADOOPSTREAMING -input input/$TWCRI/$CLEANINPUT -output output/$TWCRI -mapper $TWEETMAPER -reducer $TWEETWORDCOUNTREDUCER
+}
+
+hadoopTweetTextReducer(){
+        echo "[ $($DATE +%m/%d/%Y\ %H:%M:%S) ] - Inserindo dados no Hadoop: $TTRI" >> $LOGFILE
+        $HADOOPBIN jar $HADOOPSTREAMING -input input/$TTRI/$CLEANINPUT -output output/$TTRI -mapper $TWEETMAPER -reducer $TWEETTEXTREDUCER
+}
+
+hadoopTweetAccountReducer(){
+        echo "[ $($DATE +%m/%d/%Y\ %H:%M:%S) ] - Inserindo dados no Hadoop: $TARI" >> $LOGFILE
+        $HADOOPBIN jar $HADOOPSTREAMING -input input/$TARI/$CLEANINPUT -output output/$TARI -mapper $TWEETMAPER -reducer $TWEETACCOUNTREDUCER
+}
+
+hadoopTweetDateTimeReducer(){
+        echo "[ $($DATE +%m/%d/%Y\ %H:%M:%S) ] - Inserindo dados no Hadoop: $TDTRI" >> $LOGFILE
+        $HADOOPBIN jar $HADOOPSTREAMING -input input/$TDTRI/$CLEANINPUT -output output/$TDTRI -mapper $TWEETMAPER -reducer $TWEETDATETIMEREDUCER
+}
+
+elasticsearchIndexing(){
+
+        for i in $TTRI $TARI $TWCRI $TDTRI ; do
+                [ `echo ${i} | sed '/TweetTextReducer.*/!d'` ] && TYPENAME="TweetTextReducer" && FIELD1="TweetText" && FIELD2="AmountofText"
+                [ `echo ${i} | sed '/TweetAccountReducer.*/!d'` ] && TYPENAME="TweetAccountReducer" && FIELD1="TweetAccount" && FIELD2="AmountofPosts"
+                [ `echo ${i} | sed '/TweetWordCountReducer.*/!d'` ] && TYPENAME="TweetWordCountReducer" && FIELD1="TweetWordCount" && FIELD2="AmountofWords"
+                [ `echo ${i} | sed '/TweetDateTimeReducer.*/!d'` ] && TYPENAME="TweetDateTimeReducer" && FIELD1="TweetDateTime" && FIELD2="AmountofDate"
+                echo "[ $($DATE +%m/%d/%Y\ %H:%M:%S) ] - Indexando no Elasticsearch: \"$TYPENAME\" > \"$FIELD1\" > \"$FIELD2\"" >> $LOGFILE
+                TMPOUTPUT=$($HDFS dfs -cat output/${i}/part-00000)
+                for j in $TMPOUTPUT ; do
+                        VALUE1=$(echo ${j} | $AWK '{$NF=""; print $0}' | $SED 's/ $//')
+                        VALUE2=$(echo ${j} | $AWK '{print $NF}')
+                        $CURL -XPOST "http://$HOST:$PORT/$INDEXNAME/$TYPENAME" -d "{ \"$FIELD1\" : \"$VALUE1\", \"$FIELD2\" : \"$VALUE2\"}"
+                done
+        done
+
+}
+
+executionFlow(){
+
+        CLEANINPUT=$(echo $INPUTDIR | sed 's|/$||' | awk -F\/ '{ print $NF }')
+
+        TTRI="TweetTextReducer$CLEANINPUT"
+        TARI="TweetAccountReducer$CLEANINPUT"
+        TWCRI="TweetWordCountReducer$CLEANINPUT"
+        TDTRI="TweetDateTimeReducer$CLEANINPUT"
+
+        hadoopInsert $TTRI $TARI $TWCRI $TDTRI
+        [ $? -eq 0 ] || exitfunc "Something went wrong with Insert Data, check logfile  1"
+        wait
+        hadoopTweetWordCountReducer $TWCRI $CLEANINPUT
+        [ $? -eq 0 ] || exitfunc "Something went wrong with Word Count Reducer, check logfile 1"
+        wait
+        hadoopTweetTextReducer $TTRI $CLEANINPUT
+        [ $? -eq 0 ] || exitfunc "Something went wrong with Tweet Text Reducer, check logfile 1"
+        wait
+        hadoopTweetAccountReducer $TARI $CLEANINPUT
+        [ $? -eq 0 ] || exitfunc "Something went wrong with Tweet Account Reducer, check logfile 1"
+        wait
+        hadoopTweetDateTimeReducer $TDTRI $CLEANINPUT
+        [ $? -eq 0 ] || exitfunc "Something went wrong with Tweet Account Reducer, check logfile 1"
+        wait
+        elasticsearchIndexing $TTRI $TARI $TWCRI $TDTRI
+        [ $? -eq 0 ] || exitfunc "Something went wrong with Elastic Search Indexing, check logfile 1"
+        wait
+        exitfunc "all operations were done successfully 0"
+
+}
+
+
+#[ tests, tests, tests ]-------------------------------------------------------#
+
+# Validate if there is a lock file
+
+if [ -e $LOCKFILE ]; then
+        exitfunc "There is another script running 1"
+else
+        echo "$$" > $LOCKFILE
+fi
+
+# Validate command line option
+
+[ $1 ] || usage
+[ `echo $1 | sed '/-[ih]/!d'` ] || usage
+
+while getopts "hi:" opts ; do
+        case $opts in
+                i) INPUTDIR=$OPTARG  ;;
+                h) usage             ;;
+                *) usage             ;;
+        esac
+done
+
+executionFlow $@

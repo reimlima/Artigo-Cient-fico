@@ -1,0 +1,451 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sat Aug 06 03:10:56 +0000 2016| user = ivangrundmann| text = RT @kamilavintureli: Os humilhados serão exaltados #OpeningCeremony #Rio2016 https://t.co/qpH7sGq5E8
+date = Sat Aug 06 03:10:56 +0000 2016| user = santaastica| text = RT @Brasil2016: O #Rio2016 fecha a cerimônia de abertura reafirmando a necessidade de atenção com o planeta! #Br2016 https://t.co/PtSrMFRQTH
+date = Sat Aug 06 03:10:56 +0000 2016| user = rafahssantos| text = RT @ZAMENZA: SALVE GUGA!!!!!!!!!
+SALVE HORTÊNCIA!!!!!!!!!!!
+SALVE WANDERLEI!!!!!!!!!!!!  #CerimoniaDeAbertura #Rio2016 https://t.co/ytNvqZW…
+date = Sat Aug 06 03:10:56 +0000 2016| user = RafaeelTavares_| text = RT @Rio2016: "A paz vem de nós não dos outros" #ficaadica #CerimoniaDeAbertura #Rio2016 #UmMundoNovo https://t.co/ejoMLZnfU0
+date = Sat Aug 06 03:10:56 +0000 2016| user = wickky_k| text = RT @alvaroleme: Minhas reações durante a #CerimôniaDeAbertura 
+
+1. Grito
+2. Berro
+3. Choro
+
+#Rio2016
+date = Sat Aug 06 03:10:56 +0000 2016| user = superLorar| text = RT @CrisBartis: Pode mandar outro 7x1 pra eu acordar prq já tô toda acreditandinho de novo #Rio2016
+date = Sat Aug 06 03:10:56 +0000 2016| user = FanaticasDa1D| text = RT @gabrielfronzi: Sejamos mais humanos, mais humildes. Mais brasileiros. Que Deus nos abençoe. #Rio2016 https://t.co/qHqBUsd8ve
+date = Sat Aug 06 03:10:56 +0000 2016| user = sarmentolcs| text = RT @ibismania: Grande Vanderlei Cordeiro de Lima, mereceu demais acender a pira olímpica! #Rio2016 👏🏼👏🏼👏🏼 https://t.co/mdsKwVtQq7
+date = Sat Aug 06 03:10:56 +0000 2016| user = anittaftsophia| text = RT @POPline: Deu o nome, @Anitta #CerimoniaDeAbertura #Rio2016 https://t.co/5Hr6FcJrrz
+date = Sat Aug 06 03:10:56 +0000 2016| user = dulceppk| text = RT @ThiiagoHenrique: AQUELE ORGULHO EM SER BRASILEIRO.. #CerimôniaDeAbertura #Rio2016 https://t.co/5MNBselzRY
+date = Sat Aug 06 03:10:56 +0000 2016| user = vinn200| text = RT @bicmuller: O MARACA VIROU UMA PIRA OLÍMPICA GIGANTE, QUE COISA MAIS LINDA #CerimoniaDeAbertura #BRA #rio2016 https://t.co/fX45Eagprp
+date = Sat Aug 06 03:10:56 +0000 2016| user = MoisesLindis2| text = RT @vascodagama: É um orgulho ser brasileiro, carioca e vascaíno! #LoveRio #Rio2016 #TimeBrasil
+date = Sat Aug 06 03:10:56 +0000 2016| user = TwitCoralscfc| text = RT @Brasil2016: Em NY, o Empire State Building está verde e amarelo! #SomosTodosBrasil #BR2016 #Rio2016 https://t.co/aNHcFBT58V
+date = Sat Aug 06 03:10:56 +0000 2016| user = beatrizarauj0O| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:56 +0000 2016| user = iancafainello| text = RT @LMalves99: Bem vindo ao Rio
+#Rio2016 
+#CerimoniaDeAbertura https://t.co/UtgujUsnXM
+date = Sat Aug 06 03:10:56 +0000 2016| user = alicehgu| text = RT @DammitComBR: Vanderlei Cordeiro de Lima 👏👏👏 #Rio2016  #CerimoniaDeAbertura 🇧🇷 https://t.co/PDkPu2ZVwJ
+date = Sat Aug 06 03:10:56 +0000 2016| user = letzflix| text = RT @mneves_: Vanderlei é a prova de que vencer não é apenas chegar em primeiro lugar. O esporte é muito maior que isso. #Rio2016 https://t.…
+date = Sat Aug 06 03:10:56 +0000 2016| user = alexaguiarpoa| text = Que definição fantástica: Londres fez um show, o Rio um poema para o mundo. #Rio2016 #CerimoniadeAbertura  https://t.co/IsYBSpPWgT
+date = Sat Aug 06 03:10:56 +0000 2016| user = sigrist| text = RT @mneves_: Vanderlei é a prova de que vencer não é apenas chegar em primeiro lugar. O esporte é muito maior que isso. #Rio2016 https://t.…
+date = Sat Aug 06 03:10:55 +0000 2016| user = ramter9| text = RT @Brasil2016: Em NY, o Empire State Building está verde e amarelo! #SomosTodosBrasil #BR2016 #Rio2016 https://t.co/aNHcFBT58V
+date = Sat Aug 06 03:10:55 +0000 2016| user = chicodornelas| text = RT @JOAQUINTEIXEIRA: EU COLOCARIA O ADRIANO IMPERADOR PRA ACENDE A PIRA A TIRO
+
+#RIO2016 #CerimoniaDeAbertura #ChamaOlimpica https://t.co/6…
+date = Sat Aug 06 03:10:55 +0000 2016| user = Lourinah| text = RT @Rio2016: "A paz vem de nós não dos outros" #ficaadica #CerimoniaDeAbertura #Rio2016 #UmMundoNovo https://t.co/ejoMLZnfU0
+date = Sat Aug 06 03:10:55 +0000 2016| user = jorge_polyana| text = RT @cleytu: O ESTÁDIO VAIANDO O TEMER #CerimoniaDeAbertura #Rio2016 https://t.co/15K7OMX7FH
+date = Sat Aug 06 03:10:55 +0000 2016| user = EltoRatioflai| text = RT @eicoisinha_: o mundo dá voltas 
+#CerimôniaDeAbertura 
+#Rio2016 https://t.co/IqEzdSzfXN
+date = Sat Aug 06 03:10:55 +0000 2016| user = Fran_Mig| text = RT @hevertonfutebol: Emocionante! Fantástico! Extraordinário! Inesquecível!
+#Rio2016 https://t.co/tRBkuZSYDA
+date = Sat Aug 06 03:10:55 +0000 2016| user = isabelasegal| text = RT @ZAMENZA: NÃO ACABA NÃO!!!!!!!! Não queremos voltar pra realidade!!!!!! #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:55 +0000 2016| user = MUSTACHE0511| text = RT @iahgos: por mim nois continuava o brasil vivendo dentro da abertura da olimpiada #Rio2016
+date = Sat Aug 06 03:10:55 +0000 2016| user = _anittasp| text = RT @RedeGlobo: O que dizer de @Anitta, @gilbertogil e @caetanoveloso juntos?! #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://…
+date = Sat Aug 06 03:10:55 +0000 2016| user = OpenerMedia| text = E assim la nave va - Nos países Brasilis
+https://t.co/2BJ0DNaQwj #Rio2016  COUP IN BRAZIL #OpeningCeremony https://t.co/tPy00rWkJn
+date = Sat Aug 06 03:10:55 +0000 2016| user = JulianaMarinnho| text = Apesar de todos os acontecimentos com o meu país, a abertura das olimpíadas foi maravilhosa e encantadora.
+Orgulhosa!
+#BRA #Rio2016 💚💙💛
+date = Sat Aug 06 03:10:55 +0000 2016| user = LuciaBizzotto| text = RT @maria_fro: Aí, @caetanoveloso grande!
+Façam correr o mundo gente! #Rio2016 #stopcoupinbrazil  #foraTemer https://t.co/5W7Se92Kor
+date = Sat Aug 06 03:10:55 +0000 2016| user = KaikeBersott| text = O Brasil sambou #Rio2016
+date = Sat Aug 06 03:10:55 +0000 2016| user = augustojairo| text = Coisa mais linda!! #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:55 +0000 2016| user = spinellimarcia| text = RT @goleada_info: Vanderlei Cordeiro de Lima. Merecido demais! 
+
+#Rio2016 
+#CerimoniaDeAbertura 
+
+https://t.co/PD8HmU3Y6K
+date = Sat Aug 06 03:10:55 +0000 2016| user = ThamyKauane| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:55 +0000 2016| user = itsredtime| text = RT @Pontifex_pt: Felicitações aos atletas de #Rio2016! Sejam sempre mensageiros de fraternidade e de autêntico espírito esportivo.
+date = Sat Aug 06 03:10:55 +0000 2016| user = fw_vaz| text = RT @sonambular: porque o decair é do homem // mas o levantar é de deus
+
+#Rio2016 #CerimoniaDeAbertura https://t.co/DnVXvDjlMx
+date = Sat Aug 06 03:10:55 +0000 2016| user = 29mateus| text = RT @FeRomano80: ARGENTINA ACABA DE GANHAR A PRIMEIRA MEDALHA DE OURO DAS OLIMPÍADAS #Rio2016 https://t.co/XQuvwlB2rc
+date = Sat Aug 06 03:10:55 +0000 2016| user = Ma_FCB| text = RT @RedeGlobo: O SOOOOOLLLL há de brilhar mais uma vez! ☀️ #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/HH75LSU2Ik
+date = Sat Aug 06 03:10:55 +0000 2016| user = JhulyCanha| text = RT @Pontifex_pt: Felicitações aos atletas de #Rio2016! Sejam sempre mensageiros de fraternidade e de autêntico espírito esportivo.
+date = Sat Aug 06 03:10:55 +0000 2016| user = niggaftjustinb| text = RT @dantas_alinne: Minha cara ao ver a delegação da Alemanha entrando... 😒 #CerimoniaDeAbertura #Germany @Rio2016 https://t.co/NMQn5xxVok
+date = Sat Aug 06 03:10:55 +0000 2016| user = ray_cipriano| text = RT @pqpvoces: eu nem chorei só fiquei tremendo #CerimoniaDeAbertura #Rio2016 https://t.co/IhgpBTHzWe
+date = Sat Aug 06 03:10:54 +0000 2016| user = loroplatinado| text = RT @_FlyMeuMelhor_: COMO ALGUEM AINDA PODE SER CONTRA A ESSE EVENTO  MARAVILHOSO? #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:54 +0000 2016| user = carolvascocelos| text = RT @cleytu: JURAMENTO OLÍMPICO:
+
+EU JURO SEMPRE LACRAR E DAR CLOSE CERTO
+
+#CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:54 +0000 2016| user = wasconcelos| text = RT @catimba_ce: Que imagem!  Vanderlei acendendo a pira olímpica!#Rio2016 #BRA #OpeningCeremony #CeremoniaDeInauguracion https://t.co/zj6nX…
+date = Sat Aug 06 03:10:54 +0000 2016| user = louistrxyew| text = RT @DammitComBR: Vanderlei Cordeiro de Lima 👏👏👏 #Rio2016  #CerimoniaDeAbertura 🇧🇷 https://t.co/PDkPu2ZVwJ
+date = Sat Aug 06 03:10:54 +0000 2016| user = isabella_fds2| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:54 +0000 2016| user = moutinhorebeca| text = RT @vascodagama: É um orgulho ser brasileiro, carioca e vascaíno! #LoveRio #Rio2016 #TimeBrasil
+date = Sat Aug 06 03:10:54 +0000 2016| user = AriannaCRF| text = RT @noclimadabola: A cerimônia de abertura dos jogos olímpicos foi um sucesso. Rio de Janeiro, Brasil. 💚💛 #Rio2016 #CerimoniaDeAbertura htt…
+date = Sat Aug 06 03:10:54 +0000 2016| user = Mariananettt| text = RT @fokinha: VAMU SE AMA BRASIL É LINDO DEMAIS ME BEIJEM #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:54 +0000 2016| user = ffromwmyb| text = RT @1Dnoticia: YAAAAY! O que acharam da abertura das Olímpiadas? 🇧🇷 #OpeningCeremony #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:54 +0000 2016| user = BeaBia2015| text = RT @RedeGlobo: É o @gugakuerten do #BRA!!!!!!!!!! #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/3TnDvEpzCg
+date = Sat Aug 06 03:10:54 +0000 2016| user = AleDelirios| text = O Vanderlei poderia ter usado o padre irlandês para acender a pira. Justiça olímpica do morro. 😂 #CerimôniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:54 +0000 2016| user = opsscaroll| text = RT @vascodagama: O nosso Rio fez história. #Rio2016
+date = Sat Aug 06 03:10:54 +0000 2016| user = HyugaStefany| text = RT @jornalextra: #Rio2016: De bicicleta, modelo transexual Lea T puxa a delegação brasileira. https://t.co/p6LI7QxwpH https://t.co/S0G7pEMP…
+date = Sat Aug 06 03:10:54 +0000 2016| user = JeffersoLeandro| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:54 +0000 2016| user = CampNouBall_Boy| text = #OpeningCeremony was absolutely amazing. Parabéns Brazil, Parabéns Rio 👏👏👏 #Rio2016 https://t.co/kGmU8yjLOc
+date = Sat Aug 06 03:10:54 +0000 2016| user = MarcosShirahige| text = RT @BrandaoGabriel: Confesso que estou impressionado com a abertura das Olimpíadas. Simplesmente fantástico! #Rio2016
+date = Sat Aug 06 03:10:54 +0000 2016| user = Pia_lok0| text = RT @Vessoni: É oficia!
+
+Alemanha 7x8 Brasil 
+
+#CerimoniaDeAbertura
+ 
+#Rio2016 https://t.co/cfbDf2VRR2
+date = Sat Aug 06 03:10:54 +0000 2016| user = AzevedoTom| text = RT @P3nguin: #CerimoniaDeAbertura #Rio2016 show de bola essa pira olímpica. https://t.co/aG3kmwJAfS
+date = Sat Aug 06 03:10:53 +0000 2016| user = anittaftsophia| text = RT @RedeGlobo: O que dizer de @Anitta, @gilbertogil e @caetanoveloso juntos?! #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://…
+date = Sat Aug 06 03:10:53 +0000 2016| user = math32_| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:53 +0000 2016| user = jaguaregay| text = RT @RedeGlobo: .@Anitta cheia de charme!!!  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/6zcnny5gve
+date = Sat Aug 06 03:10:53 +0000 2016| user = raquelapulchro| text = RT @Miltonneves: O 14 BIS e Santos Dumont foram um tapa na cara dos segundões Irmãos Wright dos EUA  #rio2016 #openingceremony #Olympics
+date = Sat Aug 06 03:10:53 +0000 2016| user = daniel_hd| text = #cerimoniadeabertura #Rio2016 por que bola de gude ainda não é um esporte olimpico?
+date = Sat Aug 06 03:10:53 +0000 2016| user = rillary_fe| text = Esse trem da tocha olímpica girando humilhou todas as das outras olimpíadas  #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:53 +0000 2016| user = DaniBarbs7| text = RT @igaozim: ESTADO ISLÂMICO HUMILHADÍSSIMO #CerimoniaDeAbertura #Rio2016 https://t.co/BaMdcE58IE
+date = Sat Aug 06 03:10:53 +0000 2016| user = selecaomilgrau| text = Parabéns #Rio2016 https://t.co/VQ2Au34JWh
+date = Sat Aug 06 03:10:53 +0000 2016| user = vlr013| text = RT @_Twittei_: QUE FODAAAAAAAAAAAAA #CerimoniaDeAbertura  #Rio2016 https://t.co/x9LL1pYLw7
+date = Sat Aug 06 03:10:53 +0000 2016| user = Marcio_Rossiney| text = RT @rossineymarcio: A @98FC torceu pra abertura da olimpíada ser um fiasco, mas se se deram mal. #Rio2016  #CerimoniaDeAbertura
+date = Sat Aug 06 03:10:53 +0000 2016| user = GabsSnow| text = RT @RedeGlobo: Assistindo em looping infinito! #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/sUm5KTjyY2
+date = Sat Aug 06 03:10:53 +0000 2016| user = opatacci| text = RT @Vessoni: É oficia!
+
+Alemanha 7x8 Brasil 
+
+#CerimoniaDeAbertura
+ 
+#Rio2016 https://t.co/cfbDf2VRR2
+date = Sat Aug 06 03:10:53 +0000 2016| user = wastethebarry| text = RT @ZecaCracco: Simplesmente orgulhoso por fazer parte disso! #TimeBrasil #Rio2016 #CerimoniaDeAbertura https://t.co/oePeL0x82s
+date = Sat Aug 06 03:10:53 +0000 2016| user = WayneLaah| text = RT @namorei: Brasil:
+
+Melhor copa do mundo
+Melhor cerimônia de abertura 
+Melhor povo 
+Melhor cultura 
+Melhor país #CerimoniaDeAbertura #Rio…
+date = Sat Aug 06 03:10:53 +0000 2016| user = dudskg| text = RT @signodkojf: Orgulho! #Rio2016 
+💚💚💚💚💚💛💚💚💚💚💚
+💚💚💚💚💛💛💛💚💚💚💚
+💚💚💛💛💙💙💙💛💛💚💚
+💚💛💛💙💙💙💙💙💛💛💚
+💛💛💙💙💙💙💙💙💙💛💛
+💚💛💛💙💙💙💙💙💛💛💚
+💚💚💛💛💙💙💙💛💛💚💚
+💚💚💚💚💛💛💛💚💚💚💚
+💚💚💚💚💚💛💚💚…
+date = Sat Aug 06 03:10:53 +0000 2016| user = JanesWilliam| text = Quem achou que faríamos feio na abertura das Olimpíadas PERDEU!
+#Rio2016 #CerimôniaDeAbertura #OpeningCeremony
+date = Sat Aug 06 03:10:53 +0000 2016| user = sugalaxia| text = RT @BTS_BR: Lembre-se disso sempre, ARMY. Amamos o BTS, a Coreia, mas somos brasileiros e temos MUITO do que se orgulhar bem aqui em casa #…
+date = Sat Aug 06 03:10:53 +0000 2016| user = UmDos40M| text = RT @pedroneschling: Vanderlei acendendo a Pira foi daqueles momentos que fazem o mundo ficar um pouco melhor. #rio2016
+date = Sat Aug 06 03:10:53 +0000 2016| user = arrobadabeca| text = RT @ZAMENZA: Os fogos formando os anéis olímpicos! Que perfeição isso!  #CerimoniaDeAbertura #Rio2016 https://t.co/vKnUUiiM6I
+date = Sat Aug 06 03:10:53 +0000 2016| user = Tatiisousa99| text = RT @RedeGlobo: .@Anitta cheia de charme!!!  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/6zcnny5gve
+date = Sat Aug 06 03:10:53 +0000 2016| user = fulganio| text = RT @DammitComBR: Vanderlei Cordeiro de Lima 👏👏👏 #Rio2016  #CerimoniaDeAbertura 🇧🇷 https://t.co/PDkPu2ZVwJ
+date = Sat Aug 06 03:10:53 +0000 2016| user = lelefn| text = Não to sabendo lidar com essa transmissão da NBC. Vou assistir o resto no YouTube quando voltar pra casa. #Rio2016
+date = Sat Aug 06 03:10:53 +0000 2016| user = beautyanitta| text = RT @efeitoanitta: A @ANITTA S-A-M-B-O-U E MOSTROU AO MUNDO PRA O QUE VEIO!!! ❤❤❤ #Rio2016  #CerimoniaDeAbertura https://t.co/i5jWGfZIIB
+date = Sat Aug 06 03:10:53 +0000 2016| user = LuucasPaaiva| text = RT @vascodagama: É um orgulho ser brasileiro, carioca e vascaíno! #LoveRio #Rio2016 #TimeBrasil
+date = Sat Aug 06 03:10:52 +0000 2016| user = kgabifarias| text = RT @RedeGlobo: O SOOOOOLLLL há de brilhar mais uma vez! ☀️ #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/HH75LSU2Ik
+date = Sat Aug 06 03:10:52 +0000 2016| user = PedroCardozo08| text = RT @vascodagama: É um orgulho ser brasileiro, carioca e vascaíno! #LoveRio #Rio2016 #TimeBrasil
+date = Sat Aug 06 03:10:52 +0000 2016| user = sttydiasus| text = RT @TeamRealitysBR: 🌸 não vamos deixar essa imagem morrer 🌸 #CerimoniaDeAbertura #Rio2016 https://t.co/ahtkjg0H64
+date = Sat Aug 06 03:10:52 +0000 2016| user = nanyle| text = 💛💚💛💚💙💚💛💚💛 muito orgulho!!!! #Rio2016 #CerimoniaDeAbertura https://t.co/5CrcJcPumD
+date = Sat Aug 06 03:/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+10:52 +0000 2016| user = Karensant_| text = Que coisa maravilhosa essa #CerimoniaDeAbertura #Rio2016 #BRA 💚💛💙
+date = Sat Aug 06 03:10:52 +0000 2016| user = GabsRodriguess_| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:52 +0000 2016| user = paivaftsantoni| text = RT @ZAMENZA: Os fogos formando os anéis olímpicos! Que perfeição isso!  #CerimoniaDeAbertura #Rio2016 https://t.co/vKnUUiiM6I
+date = Sat Aug 06 03:10:52 +0000 2016| user = _henriquevianna| text = RT @goleada_info: Vanderlei Cordeiro de Lima. Merecido demais! 
+
+#Rio2016 
+#CerimoniaDeAbertura 
+
+https://t.co/PD8HmU3Y6K
+date = Sat Aug 06 03:10:52 +0000 2016| user = Bitch_fentyy| text = RT @vaidesmaiar: Voltamos a programação normal com o feijão de R$ 20,00. #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:52 +0000 2016| user = DMVecinal| text = RT @RedeGlobo: .@Anitta cheia de charme!!!  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/6zcnny5gve
+date = Sat Aug 06 03:10:52 +0000 2016| user = Lary_Soares_13| text = RT @barb4ro: QUE IMAGEM!!!! #CerimoniaDeAbertura #Rio2016 https://t.co/57rB7RA8bw
+date = Sat Aug 06 03:10:52 +0000 2016| user = crizostibea| text = RT @Daelucaas: as vezes nois tem vergonha de ser brasileiro, mas cara OLHA ISSO BRASIL, OLHA O QUE O NOSSO PAÍS FAZ, MANO, Q COISA MAIS BEA…
+date = Sat Aug 06 03:10:52 +0000 2016| user = schinaider_bea| text = RT @vascodagama: Todo o Brasil e mundo. #Rio2016 #LoveRio https://t.co/7cJUoFkMRy
+date = Sat Aug 06 03:10:52 +0000 2016| user = iasmim_no| text = RT @cleytu: OLHA O CRISTO QUE COISA MAIS LINDA #CerimoniaDeAbertura  #Rio2016 https://t.co/K0fbg6QH8i
+date = Sat Aug 06 03:10:52 +0000 2016| user = Alivit| text = RT @GeorgMarques: #Rio2016 e o Sol Olímpico já brilha. https://t.co/vp4bse0deE
+date = Sat Aug 06 03:10:52 +0000 2016| user = tephasouza3| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:52 +0000 2016| user = emistavares| text = Tô arrepiada até agora 😍 #CerimôniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:52 +0000 2016| user = sabrina__nonato| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:52 +0000 2016| user = juliacypriano| text = RT @ArlindoGrund: Os italianos são puro charme e elegância. #Rio2016 ;-)
+date = Sat Aug 06 03:10:52 +0000 2016| user = carlosazulayjr| text = RT @cajucajr: Ai que lindas essas vaias quando o #ForaTemerRio2016 falou. #Rio2016 #jeuxolympiques
+date = Sat Aug 06 03:10:52 +0000 2016| user = Joaopedro12A| text = RT @humdaora: ISSO É BRASIL
+#CerimoniaDeAbertura 
+#Rio2016 https://t.co/TC6XQPqfBn
+date = Sat Aug 06 03:10:52 +0000 2016| user = tavo_ucatolica| text = RT @MichelTemer: (AI) Delegação brasileira entra no Maracanã e é recebida com muitos aplausos #TimeBrasil #Rio2016
+https://t.co/jzThj890nt
+date = Sat Aug 06 03:10:52 +0000 2016| user = medeiroswm| text = @luizcarlosjnr Rocks!!! Brilhante transmissão!! Parabéns!! #Rio2016noSporTV  #Rio2016
+date = Sat Aug 06 03:10:52 +0000 2016| user = JuuMeireles_| text = RT @_anaantunes: e o rio de janeiro continua lindo 💚💛 #Rio2016 #CerimoniaDeAbertura https://t.co/qp6icQI8fm
+date = Sat Aug 06 03:10:52 +0000 2016| user = ffannypimentel| text = Sem Palavras ❣
+#OpeningCeremony #CeremoniaDeInauguracion #Olympics2016 #Rio2016
+date = Sat Aug 06 03:10:51 +0000 2016| user = Miss_Waity| text = RT @vitimizei: nem parece que tudo isso aconteceu no brasil meu deus eu to impressionada #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:51 +0000 2016| user = AnittaNYC| text = RT @POPline: Deu o nome, @Anitta #CerimoniaDeAbertura #Rio2016 https://t.co/5Hr6FcJrrz
+date = Sat Aug 06 03:10:51 +0000 2016| user = allowmeworld| text = RT @linscoln: FOI TUDO MARAVILHOSO DEMAIS
+#CerimoniaDeAbertura #Rio2016 https://t.co/qrQmlOPput
+date = Sat Aug 06 03:10:51 +0000 2016| user = nathan_streisky| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:51 +0000 2016| user = AAguiaro| text = RT @ibismania: Grande Vanderlei Cordeiro de Lima, mereceu demais acender a pira olímpica! #Rio2016 👏🏼👏🏼👏🏼 https://t.co/mdsKwVtQq7
+date = Sat Aug 06 03:10:51 +0000 2016| user = ceciliachiclete| text = Nada vai resolver nossos pequenos probleminhas caseiros #rio2016. Mas foi bonito sim, festa e… https://t.co/9zTHtXgHI7
+date = Sat Aug 06 03:10:51 +0000 2016| user = fofocasonline| text = @luuhcfrota @caetanoveloso @Rio2016 @gilbertogil @Anitta lacre do nosso dinheiro no malote desses malas #CerimoniaDeAbertura
+date = Sat Aug 06 03:10:51 +0000 2016| user = nathaliajuarezg| text = RT @Brasil2016: "Olha que coisa mais linda, mais cheia de graça..." 😍 @giseleofficial #CerimoniaDeAbertura #Rio2016 https://t.co/YHjQUYwOSp
+date = Sat Aug 06 03:10:51 +0000 2016| user = leoh_2569| text = Foi lindo, apesar da crise no Brasil, A festa foi Show, Divino, parabéns  Aos Brasileiros #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:51 +0000 2016| user = ochito_| text = RT @ZAMENZA: Delegação do Japão desfilando. #CerimoniaDeAbertura #Rio2016 https://t.co/9862cyYKKw
+date = Sat Aug 06 03:10:51 +0000 2016| user = FanaticasDa1D| text = RT @joelsong: Sim, a Record encerrou com um 2014. #Rio2016 https://t.co/75tENUG6Mq
+date = Sat Aug 06 03:10:51 +0000 2016| user = bbbruno_| text = RT @leodekiller: A China e foda!Melhor comentário Q eu vi até agra sobre essa! #CerimoniaDeAbertura #TochaOlimpica #Rio2016 #olimpics https…
+date = Sat Aug 06 03:10:51 +0000 2016| user = mfrodrigs| text = RT @andretrig: O recado tá dado! Só falta o anfitrião praticar a sustentabilidade tão bem ilustrada na abertura dos Jogos @Rio2016 https://…
+date = Sat Aug 06 03:10:51 +0000 2016| user = EveraldoMota| text = RT @b_toledoh: Poluição afeta qualidade do ar olímpico do RJ https://t.co/Ex4D09vKkp via @pagina_22 #Rio2016 #Bra https://t.co/e5lYMpRg57
+date = Sat Aug 06 03:10:51 +0000 2016| user = marcia_moreira2| text = RT @BlogDoPim: Função do alarmismo contra aquecimento global hoje é render votos a Hillary dos "millenials" que caem nessa farsa. #Rio2016…
+date = Sat Aug 06 03:10:51 +0000 2016| user = IzzyTaehyung| text = RT @Renisson_Prado: ALEMANHA veio com a bandeira do Brasil para nós lembrar do 7x1 #CerimoniaDeAbertura
+#Rio2016 https://t.co/VRLgHPvrku
+date = Sat Aug 06 03:10:51 +0000 2016| user = srndwca| text = RT @Rio2016: "A paz vem de nós não dos outros" #ficaadica #CerimoniaDeAbertura #Rio2016 #UmMundoNovo https://t.co/ejoMLZnfU0
+date = Sat Aug 06 03:10:51 +0000 2016| user = Steph_crvg| text = RT @vascodagama: Todo o Brasil e mundo. #Rio2016 #LoveRio https://t.co/7cJUoFkMRy
+date = Sat Aug 06 03:10:51 +0000 2016| user = stockholmez| text = RT @EsseDiegoLuiz: Orgulho de ser brasileiro e apesar de tudo no final fazer tudo sair lindo #CerimoniaDeAbertura #Rio2016 https://t.co/ulf…
+date = Sat Aug 06 03:10:51 +0000 2016| user = Veronic74951148| text = RT @ponchohd: Oi #Maracana 
+Oi #Brasil 
+#Rio2016
+date = Sat Aug 06 03:10:51 +0000 2016| user = taiginagromova| text = 📷Vanderlei de Lima le dio vida a #Rio2016 - #LaAficiónEnRío https://t.co/fMJCey4Q1c https://t.co/x3ww9K8lUg
+date = Sat Aug 06 03:10:51 +0000 2016| user = Jurisbeach| text = RT @bicmuller: O MARACA VIROU UMA PIRA OLÍMPICA GIGANTE, QUE COISA MAIS LINDA #CerimoniaDeAbertura #BRA #rio2016 https://t.co/fX45Eagprp
+date = Sat Aug 06 03:10:51 +0000 2016| user = blogcsmedeiros| text = RT @EuPedroBatista: A noite de hoje com certeza será inesquecível, essa abertura entra para a história!! #Rio2016 #CerimoniaDeAbertura http…
+date = Sat Aug 06 03:10:51 +0000 2016| user = Silvio__Campos| text = RT @pedroneschling: Vanderlei acendendo a Pira foi daqueles momentos que fazem o mundo ficar um pouco melhor. #rio2016
+date = Sat Aug 06 03:10:51 +0000 2016| user = alex6ssousa| text = RT @TeamRealitysBR: 🌸 não vamos deixar esse GIF morrer, pois representa muito! 🌸 #Rio2016 #CerimoniaDeAbertura https://t.co/WUfFwk7c0L
+date = Sat Aug 06 03:10:51 +0000 2016| user = redsonmello| text = RT @GeorgMarques: Demorou, mas Michel Temer recebeu uma vaia Olímpica agora no Maracanã que ficará para a história. #Rio2016 #CerimoniaDeAb…
+date = Sat Aug 06 03:10:51 +0000 2016| user = BabyAnitta| text = RT @radiojovempan: #Rio2016 #CerimoniaDeAbertura A cantora @Anitta também está no palco ao lado de @caetanoveloso e @gilbertogil
+date = Sat Aug 06 03:10:51 +0000 2016| user = amandio_c| text = RT @humdaora: ISSO É BRASIL
+#CerimoniaDeAbertura 
+#Rio2016 https://t.co/TC6XQPqfBn
+date = Sat Aug 06 03:10:50 +0000 2016| user = larasmuniz| text = RT @pqpvoces: eu nem chorei só fiquei tremendo #CerimoniaDeAbertura #Rio2016 https://t.co/IhgpBTHzWe
+date = Sat Aug 06 03:10:50 +0000 2016| user = skvvad| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:50 +0000 2016| user = sergiolivres| text = A #CerimoniaDeAbertura do #Rio2016 ficou excelente não ficou devendo nada pra ninguém #Olympics2016 #gold
+date = Sat Aug 06 03:10:50 +0000 2016| user = _Michel30| text = RT @vascodagama: É um orgulho ser brasileiro, carioca e vascaíno! #LoveRio #Rio2016 #TimeBrasil
+date = Sat Aug 06 03:10:50 +0000 2016| user = continueaamar| text = Uma abertura que vai da bossa nova pra o funk, do pagode pra o rap, da mpb pra o samba foi foda demais! #CerimoniadeAbertura #Rio2016 #Bra
+date = Sat Aug 06 03:10:50 +0000 2016| user = ddlylas| text = RT @lwithp: EU AMO A INTERNET #Rio2016 https://t.co/8KVTJSqJN2
+date = Sat Aug 06 03:10:50 +0000 2016| user = Aurrai| text = Aliás, após a linda abertura da #Rio2016, devo lembrar aos senhores que saiu o @ReloadingBR da semana. Tá aí: https://t.co/pd2VeBHFOA
+date = Sat Aug 06 03:10:50 +0000 2016| user = matheus198_2| text = RT @RikEditor: Acenderam a nave do Bowser Jr.
+Ele vai ficar bolaaado! #rio2016 #CerimoniaDeAbertura https://t.co/INpo3V5IEX
+date = Sat Aug 06 03:10:50 +0000 2016| user = TainaTita| text = RT @POPline: Que noite, Brasil! 🇧🇷 Vocês estavam esperando isso? 🇧🇷 #cerimoniadeabertura #Rio2016 https://t.co/xnXOz1GUNj
+date = Sat Aug 06 03:10:50 +0000 2016| user = juubscorrea| text = RT @vascodagama: É um orgulho ser brasileiro, carioca e vascaíno! #LoveRio #Rio2016 #TimeBrasil
+date = Sat Aug 06 03:10:50 +0000 2016| user = Ms_Bruny| text = Onde dá replay? #CerimoniaDeAbertura
+#Rio2016
+date = Sat Aug 06 03:10:50 +0000 2016| user = Banitta_| text = RT @POPline: Deu o nome, @Anitta #CerimoniaDeAbertura #Rio2016 https://t.co/5Hr6FcJrrz
+date = Sat Aug 06 03:10:50 +0000 2016| user = OficialKdu| text = RT @cleytu: FOI TUDO MUITO LINDO
+BELÍSSIMO
+ARRASARAM #CerimoniaDeAbertura #Rio2016 https://t.co/LZjHX3YeOL
+date = Sat Aug 06 03:10:50 +0000 2016| user = ViniciusComentv| text = Depois de tudo vem essa chamada lacradora de #Justiça... Meu Deus #CerimoniaDeAbertura
+#Rio2016
+date = Sat Aug 06 03:10:50 +0000 2016| user = ferreirastella_| text = RT @vascodagama: Todo o Brasil e mundo. #Rio2016 #LoveRio https://t.co/7cJUoFkMRy
+date = Sat Aug 06 03:10:50 +0000 2016| user = ramonecs| text = Sem palavras! #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:50 +0000 2016| user = FaellMyPrince| text = RT @joohsalvador: A garota de Ipanema ia ser eu, mas recusei o convite. #OpeningCeremony #CeremoniaDeInauguracion #Rio2016 https://t.co/9qJ…
+date = Sat Aug 06 03:10:50 +0000 2016| user = jacobwsecrets| text = RT @namorei: Brasil:
+
+Melhor copa do mundo
+Melhor cerimônia de abertura 
+Melhor povo 
+Melhor cultura 
+Melhor país #CerimoniaDeAbertura #Rio…
+date = Sat Aug 06 03:10:50 +0000 2016| user = bad_luck_hawk| text = RT @deboradevaza: Amém Brasil 💚💛💙 #CerimoniaDeAbertura #OpeningCeremony #Rio2016 https://t.co/QGL7aHVBhP
+date = Sat Aug 06 03:10:50 +0000 2016| user = brensouza_| text = RT @vterleski: QUE MOMENTO #CerimoniaDeAbertura #Rio2016 https://t.co/GBj36JZz8w
+date = Sat Aug 06 03:10:50 +0000 2016| user = Carlao_ER| text = RT @wanyffer: Sabia que Renata Capucci era incrível, mas entrar ao vivo com esse eco alto e delay... Impressionante #Rio2016
+date = Sat Aug 06 03:10:50 +0000 2016| user = meninadakari| text = RT @kariellegontijo: Bom final de semana migas! #CerimoniaDeAbertura #Rio2016 https://t.co/Hbvk3atqOg
+date = Sat Aug 06 03:10:50 +0000 2016| user = artdecu| text = RT @gilbertogil: É... Botaram um jogo bom no Maraca. #Rio2016 #CerimoniaDeAbertura #OpeningCeremony
+date = Sat Aug 06 03:10:50 +0000 2016| user = _gleycce| text = RT @RedeGlobo: .@Anitta cheia de charme!!!  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/6zcnny5gve
+date = Sat Aug 06 03:10:50 +0000 2016| user = _z1c0_| text = RT @MatheusCRF_: A ficha caiu. É aqui, no nosso país. Cerimônia de abertura memorável. Que comecem os Jogos! #Rio2016 https://t.co/DTFihXxw…
+date = Sat Aug 06 03:10:49 +0000 2016| user = PauloMe05494352| text = RT @correio: Temer é vaiado na #CerimoniaDeAbertura da #Rio2016; siga ao vivo https://t.co/QsIsnNK1ea https://t.co/9pWJ5xlnIb
+date = Sat Aug 06 03:10:49 +0000 2016| user = IlzaMairinck| text = RT @luh_coments: Que Deus abençoe e que tudo ocorra na paz 🙏 #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:49 +0000 2016| user = marcio2k1| text = RT @Vessoni: É oficia!
+
+Alemanha 7x8 Brasil 
+
+#CerimoniaDeAbertura
+ 
+#Rio2016 https://t.co/cfbDf2VRR2
+date = Sat Aug 06 03:10:49 +0000 2016| user = LGSSantos| text = RT @vascodagama: O nosso Rio fez história. #Rio2016
+date = Sat Aug 06 03:10:49 +0000 2016| user = xxeitorxx| text = RT @ojoaolopes: MULHERES NEGRAS EXISTEM, MULHERES NEGRAS RESISTEM #Rio2016  @Karolconka  e Mc Sofia https://t.co/vyohVuBgSP
+date = Sat Aug 06 03:10:49 +0000 2016| user = mineguin03| text = RT @TodaTV: QUE IMAGEM LINDA &lt;3 #CerimoniadeAbertura #Rio2016 https://t.co/GZRYYDutvx
+date = Sat Aug 06 03:10:49 +0000 2016| user = MarcosShirahige| text = RT @narizgelado: PORRA,  PQP... QUE LINDEZA! PARABÉNS,  RIO! #CerimoniaDeAbertura #Rio2016 #OpeningCeremony
+date = Sat Aug 06 03:10:49 +0000 2016| user = Andre_AlbMotta| text = RT @chicobarney: anitta neste exato momento já é mais popular que jesus cristo. merecidamente. #rio2016
+date = Sat Aug 06 03:10:49 +0000 2016| user = Nyanmaruu_| text = RT @babi: MEU
+DEUS
+QUE
+COISA
+MARAVILHOSA #Rio2016 #CerimoniaDeAbertura https://t.co/GGud7P1L62
+date = Sat Aug 06 03:10:49 +0000 2016| user = vascainocampea1| text = RT @vascodagama: Todo o Brasil e mundo. #Rio2016 #LoveRio https://t.co/7cJUoFkMRy
+date = Sat Aug 06 03:10:49 +0000 2016| user = MartinsGal| text = RT @Beharsp: Festa espetacular! Com muito orgulho do Brasil! Chupa quem estava torcendo contra! #Rio2016  #CerimoniaDeAbertura
+date = Sat Aug 06 03:10:49 +0000 2016| user = ourhooran| text = RT @ZAMENZA: SALVE GUGA!!!!!!!!!
+SALVE HORTÊNCIA!!!!!!!!!!!
+SALVE WANDERLEI!!!!!!!!!!!!  #CerimoniaDeAbertura #Rio2016 https://t.co/ytNvqZW…
+date = Sat Aug 06 03:10:49 +0000 2016| user = RayannePrates| text = RT @RedeGlobo: O SOOOOOLLLL há de brilhar mais uma vez! ☀️ #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/HH75LSU2Ik
+date = Sat Aug 06 03:10:49 +0000 2016| user = Raissaa_Pontes| text = RT @cleytu: BRASIL DEU UM SHOW DE ABERTURA #CerimoniaDeAbertura #Rio2016 https://t.co/OJIspHilyz
+date = Sat Aug 06 03:10:49 +0000 2016| user = Yuriazevedo123| text = RT @Brasil2016: Nosso hino, lindo e poético, apresentado por Paulinho da Viola. Isso é puro Brasil, gente! Isso é #Rio2016! #Br2016 https:/…
+date = Sat Aug 06 03:10:49 +0000 2016| user = drirobins| text = RT @igaozim: ESTADO ISLÂMICO HUMILHADÍSSIMO #CerimoniaDeAbertura #Rio2016 https://t.co/BaMdcE58IE
+date = Sat Aug 06 03:10:49 +0000 2016| user = fabiotsousa| text = RT @Rio2016: Agora a @ChamaOlimpica segue para o centro do Rio. Vai acender a #Pira em frente à Igreja da Candelária. #Rio2016 #ParaTodos
+date = Sat Aug 06 03:10:49 +0000 2016| user = realouiskiss| text = RT @Brasil2016: "Olha que coisa mais linda, mais cheia de graça..." 😍 @giseleofficial #CerimoniaDeAbertura #Rio2016 https://t.co/YHjQUYwOSp
+date = Sat Aug 06 03:10:49 +0000 2016| user = crvgdanni| text = RT @vascodagama: Todo o Brasil e mundo. #Rio2016 #LoveRio https://t.co/7cJUoFkMRy
+date = Sat Aug 06 03:10:4/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+9 +0000 2016| user = MiPaloma_| text = RT @RedeGlobo: O SOOOOOLLLL há de brilhar mais uma vez! ☀️ #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/HH75LSU2Ik
+date = Sat Aug 06 03:10:49 +0000 2016| user = cleytu| text = Vanderlei Cordeiro de Lima
+definição viva de que "brasileiro não desiste nunca" 👏👏👏
+#Rio2016  #CerimoniaDeAbertura https://t.co/GAlzp8yadI
+date = Sat Aug 06 03:10:49 +0000 2016| user = HelderNogueira_| text = RT @fakellenn: Brasil sambou na cara do mundo!!! Abertura sensacional #OpeningCeremony #Rio2016
+date = Sat Aug 06 03:10:49 +0000 2016| user = carollinefelix1| text = RT @Vessoni: É oficia!
+
+Alemanha 7x8 Brasil 
+
+#CerimoniaDeAbertura
+ 
+#Rio2016 https://t.co/cfbDf2VRR2
+date = Sat Aug 06 03:10:48 +0000 2016| user = dallasoften| text = RT @sergiwramos: EU VIVI A COPA2014 E RIO2016 SINTO MUITO PELAS CRIANÇAS #CerimoniaDeAbertura
+date = Sat Aug 06 03:10:48 +0000 2016| user = julidellamea| text = De encher os olhos e o coração. Vamos, Brasil! #Rio2016 https://t.co/58jYKsste2
+date = Sat Aug 06 03:10:48 +0000 2016| user = ruanbruno_98| text = RT @nrnflamengo: Belíssimo espetáculo na #CerimôniadeAbertura #Rio2016 mas hoje tem #Flamengo #FlaRumoAoHepta
+date = Sat Aug 06 03:10:48 +0000 2016| user = kyou_zoldyck| text = RT @bicmuller: O MARACA VIROU UMA PIRA OLÍMPICA GIGANTE, QUE COISA MAIS LINDA #CerimoniaDeAbertura #BRA #rio2016 https://t.co/fX45Eagprp
+date = Sat Aug 06 03:10:48 +0000 2016| user = truepride1d| text = RT @jornalextra: #Rio2016: De bicicleta, modelo transexual Lea T puxa a delegação brasileira. https://t.co/p6LI7QxwpH https://t.co/S0G7pEMP…
+date = Sat Aug 06 03:10:48 +0000 2016| user = josue_ssilva| text = RT @ibismania: 7x2 com essa #CerimoniaDeAbertura. #rio2016 https://t.co/4I0T1XaGYB
+date = Sat Aug 06 03:10:48 +0000 2016| user = pedroprola| text = RT @bicmuller: ESTONTEANTE ESSA PIRA #CerimoniaDeAbertura #Rio2016 https://t.co/YO99SLnxSN
+date = Sat Aug 06 03:10:48 +0000 2016| user = Kaka_onnet| text = Frase d Roberto Campos clarifica bem o reclame d Caetano Veloso contra o Temer, fim d MinC e boquinhas.#Rio2016 https://t.co/UQj9tBNhVx
+date = Sat Aug 06 03:10:48 +0000 2016| user = B_NetoS| text = RT @RedeGlobo: .@Anitta cheia de charme!!!  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/6zcnny5gve
+date = Sat Aug 06 03:10:48 +0000 2016| user = crvgvideira| text = RT @vascodagama: Todo o Brasil e mundo. #Rio2016 #LoveRio https://t.co/7cJUoFkMRy
+date = Sat Aug 06 03:10:48 +0000 2016| user = ManuelaLeydine| text = RT @RedeGlobo: Que assim seja, @TiagoLeifert! 🙏  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/4IRuvur0by
+date = Sat Aug 06 03:10:48 +0000 2016| user = anittaesorriso| text = RT @RedeGlobo: .@Anitta cheia de charme!!!  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/6zcnny5gve
+date = Sat Aug 06 03:10:48 +0000 2016| user = voleifernandes| text = RT @Brasil2016: Em NY, o Empire State Building está verde e amarelo! #SomosTodosBrasil #BR2016 #Rio2016 https://t.co/aNHcFBT58V
+date = Sat Aug 06 03:10:48 +0000 2016| user = SoEduardaCrl| text = RT @Rio2016: "A paz vem de nós não dos outros" #ficaadica #CerimoniaDeAbertura #Rio2016 #UmMundoNovo https://t.co/ejoMLZnfU0
+date = Sat Aug 06 03:10:48 +0000 2016| user = lubsrz| text = RT @ibismania: Grande Vanderlei Cordeiro de Lima, mereceu demais acender a pira olímpica! #Rio2016 👏🏼👏🏼👏🏼 https://t.co/mdsKwVtQq7
+date = Sat Aug 06 03:10:48 +0000 2016| user = lmjwayout| text = RT @jornalextra: #Rio2016: De bicicleta, modelo transexual Lea T puxa a delegação brasileira. https://t.co/p6LI7QxwpH https://t.co/S0G7pEMP…
+date = Sat Aug 06 03:10:48 +0000 2016| user = lapsrj| text = RT @JogosOlimpicos: A lindíssima pira olímpica #Rio2016! 😍 Maravilhosa! 🔥 #ChamaOlimpica #CerimoniaDeAbertura https://t.co/V4bn5eqCYp
+date = Sat Aug 06 03:10:48 +0000 2016| user = alberto_sorto| text = RT @POPline: Deu o nome, @Anitta #CerimoniaDeAbertura #Rio2016 https://t.co/5Hr6FcJrrz
+date = Sat Aug 06 03:10:48 +0000 2016| user = ricapriotti| text = Ele merece tudo isso é muito mais. #Rio2016 #olympics @ Estádio Do Maracanã - Portão E https://t.co/5udTNEClYL
+date = Sat Aug 06 03:10:48 +0000 2016| user = arcanjoze| text = RT @naotefresqueia: Simplesmente AFUDÊ, PARABÉNS #CerimoniaDeAbertura #Rio2016 https://t.co/vzWghv4N6V
+date = Sat Aug 06 03:10:48 +0000 2016| user = bianca_nunes| text = RT @RedeGlobo: .@Anitta cheia de charme!!!  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/6zcnny5gve
+date = Sat Aug 06 03:10:48 +0000 2016| user = gabrielsouza_05| text = RT @ibismania: 7x2 com essa #CerimoniaDeAbertura. #rio2016 https://t.co/4I0T1XaGYB
+date = Sat Aug 06 03:10:48 +0000 2016| user = gothicboyzz| text = RT @RedeGlobo: O que dizer de @Anitta, @gilbertogil e @caetanoveloso juntos?! #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://…
+date = Sat Aug 06 03:10:48 +0000 2016| user = Tayna18Ts| text = RT @ibismania: 7x2 com essa #CerimoniaDeAbertura. #rio2016 https://t.co/4I0T1XaGYB
+date = Sat Aug 06 03:10:48 +0000 2016| user = 11dpt02| text = Spechless #OpeningCeremony #Rio2016 Parabéns #Brasil 👏🏽👏🏽🇧🇷 #CeremoniaDeInauguracion @Rio2016 https://t.co/UFJHiK6cH7
+date = Sat Aug 06 03:10:48 +0000 2016| user = AlineTCSchmitz| text = Momento Histórico 󾭞󾮖󾟛
+A palavra de ordem foi "Emoção" ❤❤❤
+#olimpiadas #brasil #rio2016 #chamaolimpica... https://t.co/9xiZ3jG51G
+date = Sat Aug 06 03:10:48 +0000 2016| user = KarinaKaike| text = RT @jornalextra: #Rio2016: Coberto de óleo, porta-bandeira de Tonga faz sucesso na festa de abertura
+
+https://t.co/3pz9XE5zkL https://t.co/…
+date = Sat Aug 06 03:10:48 +0000 2016| user = Crfjessi| text = RT @Brasil2016: Em NY, o Empire State Building está verde e amarelo! #SomosTodosBrasil #BR2016 #Rio2016 https://t.co/aNHcFBT58V
+date = Sat Aug 06 03:10:48 +0000 2016| user = AlanUrsulino| text = RT @Porpetonehumor: A queima de fogos da abertura foi só pra avisar que chegou mercadoria da boa no morro #Rio2016 #cerimoniadeabertura
+date = Sat Aug 06 03:10:48 +0000 2016| user = Gamarizei| text = RT @CamillaBillo: Sobre as vaias:♥
+#CerimoniaDeAbertura 
+#Rio2016
+date = Sat Aug 06 03:10:48 +0000 2016| user = ocaiogarcia| text = Nunca vou esquecer essa cerimônia! Festa maravilhosa!  🇧🇷 #rio2016 #olympics #olimpiadas #rio… https://t.co/BpPUW3HtU8
+date = Sat Aug 06 03:10:48 +0000 2016| user = danilosiqueira_| text = RT @tardedesetembro: primeiras imagens de quem vai entrar com a bicicletinha do Brasil #CerimoniaDeAbertura #Rio2016 https://t.co/AAb4iRGXGX
+date = Sat Aug 06 03:10:48 +0000 2016| user = Khaiooooooooooo| text = RT @namorei: PQ O BRASIL É O MELHOR PAÍS #CerimoniaDeAbertura #Rio2016 https://t.co/9u7ejjivZl
+date = Sat Aug 06 03:10:48 +0000 2016| user = Barbara_G_Rocha| text = RT @jampa: Realmente é espetacular nos detalhes e sutilezas. parabéns aos envolvidos. #Rio2016
+date = Sat Aug 06 03:10:47 +0000 2016| user = amandadohoran| text = RT @cleytu: o melhor do brasil é o brasileiro #CerimoniaDeAbertura #Rio2016  https://t.co/r7UsQxfiTw
+date = Sat Aug 06 03:10:47 +0000 2016| user = milezoka| text = RT @adorocinema: Brasileiro honorário ♥ #CerimoniaDeAbertura #Rio2016  https://t.co/JsdejqkJU5
+date = Sat Aug 06 03:10:47 +0000 2016| user = RicardoSazi| text = A #CerimoniaDeAbertura foi melhor que VMA com todas as rainhas do pop. #Rio2016 #OpeningCeremony #BRA
+date = Sat Aug 06 03:10:47 +0000 2016| user = iWescley| text = a melhor cerimônia da história das Olimpíadas foi a do #Rio2016 , festa o Brasil sabe fazer como ninguém, impressionante!
+date = Sat Aug 06 03:10:47 +0000 2016| user = jamelopes| text = RT @diImabr: As manifestações contra o golpista já começaram de madrugada no dia da abertura no Rio. #Rio2016 #ForaTemer https://t.co/LjeZY…
+date = Sat Aug 06 03:10:47 +0000 2016| user = DelenaLovato_| text = RT @RedeGlobo: Que assim seja, @TiagoLeifert! 🙏  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/4IRuvur0by
+date = Sat Aug 06 03:10:47 +0000 2016| user = estevamandrea| text = Gente achei tudo maravilhoso! Principalmente as pessoas que estão nesse espírito de Good Vibes independente de qualquer coisa ♥ #Rio2016
+date = Sat Aug 06 03:10:47 +0000 2016| user = vic_galvao| text = RT @Baloezinhos: ISSO É BRASIL
+#CerimoniaDeAbertura  
+#Rio2016 https://t.co/B8jIxPKT7r
+date = Sat Aug 06 03:10:47 +0000 2016| user = byconnie| text = Mais da tocha...#Rio2016 #OpeningCeremony https://t.co/yZaJTUdYDQ
+date = Sat Aug 06 03:10:47 +0000 2016| user = lananamo| text = RT @cleytu: VAI TER BATE BUNDA SIM
+CHORA MUNDO #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:47 +0000 2016| user = Feni_| text = RT @ponchohd: Oi #Maracana 
+Oi #Brasil 
+#Rio2016
+date = Sat Aug 06 03:10:47 +0000 2016| user = 15raganhan| text = RT @Rio2016: Agora a @ChamaOlimpica segue para o centro do Rio. Vai acender a #Pira em frente à Igreja da Candelária. #Rio2016 #ParaTodos
+date = Sat Aug 06 03:10:47 +0000 2016| user = itsgabrielcxsta| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:47 +0000 2016| user = frogtlarry| text = RT @pqpvoces: eu nem chorei só fiquei tremendo #CerimoniaDeAbertura #Rio2016 https://t.co/IhgpBTHzWe
+date = Sat Aug 06 03:10:47 +0000 2016| user = luis_souza__| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:47 +0000 2016| user = gmatturo| text = Sem palavras! #Rio2016 #Rio2016noFOXSports https://t.co/s84LLlndIp
+date = Sat Aug 06 03:10:47 +0000 2016| user = tiagosilva17720| text = RT @B24pt: Suk entra a meio da segunda parte e bisa na goleada da Coreia do Sul por 8-0 contra as Ilhas Fiji. #Rio2016 https://t.co/xX0KwNz…
+date = Sat Aug 06 03:10:47 +0000 2016| user = WilhaBalbino| text = Aqui é Brasil !!!
+#Rio2016 #olimpiadas @ Rio de Janeiro, Brazil https://t.co/SjKX2RiH17
+date = Sat Aug 06 03:10:47 +0000 2016| user = Dougneves_7| text = RT @vascodagama: É um orgulho ser brasileiro, carioca e vascaíno! #LoveRio #Rio2016 #TimeBrasil
+date = Sat Aug 06 03:10:46 +0000 2016| user = rooo_fiaIho| text = RT @JOAQUINTEIXEIRA: ENCERRO POR AQUI MINHA COBERTURA OLIMPICA #RIO2016 HORA DE PORNOCHANCHADA NO CANAL BRASIL. ATÉ AMANHÃ OBRIGADO A TODOS…
+date = Sat Aug 06 03:10:46 +0000 2016| user = ellencrysand| text = RT @CoryMyLove_: O Brasil está de parabéns 👏👏❤
+ #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:46 +0000 2016| user = McFLY_Troop| text = RT @vterleski: QUE MOMENTO #CerimoniaDeAbertura #Rio2016 https://t.co/GBj36JZz8w
+date = Sat Aug 06 03:10:46 +0000 2016| user = horanmeseduz| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:46 +0000 2016| user = LuizferFaria| text = Essa abertura foi linda e incrível! Orgulho! #CerimoniaDeAbertura #OpeningCeremony #Rio2016
+date = Sat Aug 06 03:10:46 +0000 2016| user = LauraNatlia2| text = RT @RedeGlobo: Que assim seja, @TiagoLeifert! 🙏  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/4IRuvur0by
+date = Sat Aug 06 03:10:46 +0000 2016| user = edyrjr| text = RT @folha: Temer é vaiado na abertura da #Rio2016 https://t.co/Twdi7kp97e https://t.co/WguiVr2aJB
+date = Sat Aug 06 03:10:46 +0000 2016| user = tamm1_| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:46 +0000 2016| user = gingerbread_gir| text = RT @namorei: Orgulho de ser brasileiro e apesar de tudo no final fazer tudo sair lindo #CerimoniaDeAbertura #Rio2016 https://t.co/EhqB2pj6Ko
+date = Sat Aug 06 03:10:46 +0000 2016| user = LaraMBK| text = RT @LordeVoIdemort: ISSO QUE É BRASIL
+#CerimoniaDeAbertura 
+#Rio2016 https://t.co/rlIyZGKnHf
+date = Sat Aug 06 03:10:46 +0000 2016| user = ViiihBispo| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:46 +0000 2016| user = Lourinah| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:46 +0000 2016| user = PatrickReality| text = RT @jornalextra: #Rio2016: De bicicleta, modelo transexual Lea T puxa a delegação brasileira. https://t.co/p6LI7QxwpH https://t.co/S0G7pEMP…
+date = Sat Aug 06 03:10:46 +0000 2016| user = HuyThang751| text = RT @frasesdebebadas: ISSO QUE É BRASIL
+#CerimoniaDeAbertura 
+#Rio2016 https://t.co/xNVpypXxcJ
+date = Sat Aug 06 03:10:46 +0000 2016| user = perjudrigo| text = RT @Fernandadilon: Lindo e emocionante do começo ao fim! #CerimoniadeAbertura #Rio2016
+date = Sat Aug 06 03:10:46 +0000 2016| user = luandademoura| text = #OpeningCeremony #Backstage  #Rio2016 Caetano sendo lindo. https://t.co/njP9MebuBr
+date = Sat Aug 06 03:10:46 +0000 2016| user = Tamakis2| text = RT @cleytu: BRASIL ENTRANDO #CerimoniaDeAbertura #Rio2016 https://t.co/LC9vVeHTL5
+date = Sat Aug 06 03:10:46 +0000 2016| user = ericbrunosantos| text = RT @RedeGlobo: Pra você guardar, miga, @ChamaOlimpica! 🔥❤️ #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/Yv0BMbrFVg
+date = Sat Aug 06 03:10:46 +0000 2016| user = ONED21justin| text = RT @marcotimao: Legal terem escolhido o Vanderlei de Lima para acender a pira olímpica. O Brasil não fez feio na cerimonia de abertura. Gos…
+date = Sat Aug 06 03:10:46 +0000 2016| user = Harmonizei5H| text = RT @RedeGlobo: O SOOOOOLLLL há de brilhar mais uma vez! ☀️ #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/HH75LSU2Ik
+date = Sat Aug 06 03:10:46 +0000 2016| user = izap_| text = RT @myllamarcolino: COM MUITO ORGULHO,COM MUITO AMOR #CerimoniaDeAbertura #Rio2016 #BRA #VaiBrasil
+date = Sat Aug 06 03:10:46 +0000 2016| user = Vicky_confident| text = RT @swaggie_fc: APESAR DE TUDO, TENHO ORGULHO DE SER BRASILEIRA #Rio2016 #ChamaOlimpica #CerimoniaDeAbertura https://t.co/X1vjUSa5vr
+date = Sat Aug 06 03:10:46 +0000 2016| user = duartesbruno| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:46 +0000 2016| user = pretihaaa| text = RT @RedeGlobo: .@Anitta cheia de charme!!!  #SomosTodosOlímpicos  #CerimoniaDeAbertura  #Rio2016 https://t.co/6zcnny5gve
+date = Sat Aug 06 03:10:46 +0000 2016| user = lolokb_| text = RT @cleytu: BRASIL DEU UM SHOW DE ABERTURA #CerimoniaDeAbertura #Rio2016 https://t.co/OJIspHilyz
+date = Sat Aug 06 03:10:45 +0000 2016| user = ZanonKelly| text = RT @namorei: Orgulho de ser brasileiro e apesar de tudo no final fazer tudo sair lindo #CerimoniaDeAbertura #Rio2016 https://t.co/EhqB2pj6Ko
+date = Sat Aug 06 03:10:45 +0000 2016| user = AurelianoJr91| text = RT @TVShow: Real Time SP às 23h22: Globo 26.8, SBT 7.8, Record 6.0, Band 3.4 e RedeTV! 0.8.
+
+#CerimoniaDeAbertura #Rio2016 #RecordRio2016
+date = Sat Aug 06 03:10:45 +0000 2016| user = Liightweight_| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:45 +0000 2016| user = Andersonvm95| text = Parabéns #Rio2016 #CeremoniaDeInauguracion #OpeningCeremony foi foda pra caralho
+date = Sat Aug 06 03:10:45 +0000 2016| user = marinadebrot| text = RT @alvaroleme: Minhas reações durante a #CerimôniaDeAbertura 
+
+1. Grito
+2. Berro
+3. Choro
+
+#Rio2016
+date = Sat Aug 06 03:10:45 +0000 2016| user = Karolstsilva| text = RT @OGuiadoFutebol: Uma foto que ficará para a história dos #JogosOlimpicos!
+
+#Rio2016 #OpeningCeremony https://t.co/qTIM6DM6Ij
+date = Sat Aug 06 03:10:45 +0000 2016| user = Jurisbeach| text = RT @mordomoeugenio: Caralho o povo batendo palma pela janela aqui no bairro #Rio2016
+date = Sat Aug 06 03:10:45 +0000 2016| user = isabellecriiis| text = RT @LordeVoIdemort: ISSO QUE É BRASIL
+#CerimoniaDeAbertura 
+#Rio2016 https://t.co/rlIyZGKnHf
+date = Sat Aug 06 03:10:45 +0000 2016| user = MSavarese| text = RT @Brasil2016: Em NY, o Empire State Building está verde e amarelo! #SomosTodosBrasil #BR2016 #Rio2016 https://t.co/aNHcFBT58V
+date = Sat Aug 06 03:10:45 +0000 2016| user = SilvaaCRVG| text = RT @vascodagama: Todo o Brasil e mundo. #Rio2016 #LoveRio https://t.co/7cJUoFkMRy
+date = Sat Aug 06 03:10:45 +0000 2016| user = glaubfd| text = RT @lwithp: TO ARREPIADO ATÉ NO CU #Rio2016 #CerimoniaDeAbertura
+date = Sat Aug 06 03:10:45 +0000 2016| user = matheusamendola| text = RT @W_Assis7: Os humilhados serão exaltados...  #CerimoniaDeAbertura #Rio2016 https://t.co/d9QeajNfCt
+date = Sat Aug 06 03:10:45 +0000 2016| user = alenunes0305| text = RT @OpaKaique: QUE O BRASIL PEGUE BOA POSIÇÃO NO RANKING DE MEDALHAS
+QUE O BRASIL PEGUE BOA POSIÇÃO NO RANKING DE MEDALHAS #Rio2016 https:/…
+date = Sat Aug 06 03:10:45 +0000 2016| user = aninhacp| text = RT @Brasil2016: Em NY, o Empire State Building está verde e amarelo! #SomosTodosBrasil #BR2016 #Rio2016 https://t.co/aNHcFBT58V
+date = Sat Aug 06 03:10:45 +0000 2016| user = Itaaah_Braun| text = RT @vterleski: QUE MOMENTO #CerimoniaDeAbertura #Rio2016 https://t.co/GBj36JZz8w
+date = Sat Aug 06 03:10:45 +0000 2016| user = breendabia| text = RT @intedioso: Quando eu lembro que amanha é sabado #Rio2016 #CerimoniaDeAbertura #OpeningCeremony https://t.co/Husu1kXJnQ
+date = Sat Aug 06 03:10:45 +0000 2016| user = andhidekee| text = RT @jornalextra: #Rio2016: Coberto de óleo, porta-bandeira de Tonga faz sucesso na festa de abertura
+
+https://t.co/3pz9XE5zkL https://t.co/…
+date = Sat Aug 06 03:10:45 +0000 2016| user = JooHenrique99| text = RT @vascodagama: É um orgulho ser brasileiro, carioca e vascaíno! #LoveRio #Rio2016 #TimeBrasil
+date = Sat Aug 06 03:10:44 +0000 2016| user = AgathaDrewLs| text = Nossa fico tudo tão lindo...✨💞 
+#Cerimôniadeabertura #Rio2016
+date = Sat Aug 06 03:10:44 +0000 2016| user = ___BrunoAlmeida| text = RT @FuteCurioso: #Rio2016 
+Não passamos vergonha na abertura 
+
+Parabéns BRASIL! https://t.co/qblQwPGkSW
+date = Sat Aug 06 03:10:44 +0000 2016| user = alin3zinha| text = RT @cleytu: mas eu só quero é ser feliz
+amei
+  #CerimoniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:44 +0000 2016| user = Jblancoyoyi| text = RT @SenhorStoessel: o cara que inventou isso deve ganhar um Oscar de criatividade #CerimoniaDeAbertura #Rio2016 https://t.co/NZchRcfWfh
+date = Sat Aug 06 03:10:44 +0000 2016| user = coanbrasil| text = RT @Rio2016: Agora a @ChamaOlimpica segue para o centro do Rio. Vai acender a #Pira em frente à Igreja da Candelária. #Rio2016 #ParaTodos
+date = Sat Aug 06 03:10:44 +0000 2016| user = enquetesevc| text = RT @cleytu: A PIRA OLÍMPICA É BELÍSSIMA #CerimoniaDeAbertura  #Rio2016 https://t.co/eIXgkxXT0Z
+date = Sat Aug 06 03:10:44 +0000 2016| user = BiaGentil| text = RT @cleytu: BRASIL DEU UM SHOW DE ABERTURA #CerimoniaDeAbertura #Rio2016 https://t.co/OJIspHilyz
+date = Sat Aug 06 03:10:44 +0000 2016| user = _limadu| text = RT @bicmuller: Só nessa passagem da delegação a Alemanha já fez 15 gols #CerimôniaDeAbertura #Rio2016
+date = Sat Aug 06 03:10:44 +0000 2016| user = Lavoizier| text = Simplesmente maravilhosa... Its Amazing #Rio2016 #thisisbrazil
+date = Sat Aug 06 03:10:44 +0000 2016| user = marianjofc| text = RT @cesarperes19: Fiz as contas aqui e a proporção de bandeiras da Alemanha e do Brasil na entrada da delegação é de 7-1! 🤔😂 #Rio2016 https…
+date = Sat Aug 06 03:10:44 +0000 2016| user = quintocanal| text = Estão oficialmente inaugurados os #JogosOlímpicos - #Rio2016 :)
+Viram a cerimónia de abertura? O que acham da... https://t.co/QldAqqJvB9
+date = Sat Aug 06 03:10:44 +0000 2016| user = TUDODATVEMUNDO3| text = RT @karolflorn: graças a Deus foi lindo e deu td certo o nosso país merece #Rio2016 #CerimoniaDeAbertura
+date = Sat Aug 06 03:10:44 +0000 2016| user = rodrigomorhy| text = RT @castrovc: O Rio humilha! Boa noite! #CerimoniaDeAbertura #Rio2016 #JogosOlimpicos
+date = Sat Aug 06 03:10:44 +0000 2016| user = Yasmin_Grey_| text = VAI BRASIL!!!! ❤
+#OpeningCeremony #DoItForUs #Rio2016 https://t.co/Ir3NwSLRGr
+date = Sat Aug 06 03:10:44 +0000 2016| user = SantosSkyrim| text = RT @jornalextra: #Rio2016: De bicicleta, modelo transexual Lea T puxa a delegação brasileira. https://t.co/p6LI7QxwpH https://t.co/S0G7pEMP…
+date = Sat Aug 06 03:10:44 +0000 2016| user = maricbarreto| text = RT @CRFTenhoMundial: Quem é melhor do que a seleção masculina toda ? #CerimoniaDeAbertura #Rio2016 https://t.co/FPQwkaSz4d
+date = Sat Aug 06 03:10:44 +0000 2016| user = ana_nera_bz| text = RT @danieltuita: PQPPP!!!! Que coisa mais incrível! To anestesiado ainda! Nunca vi nada tao lindo! #Rio2016 #CerimoniaDeAbertura
+date = Sat Aug 06 03:10:44 +0000 2016| user = JustBellah| text = RT @riquirico: Confesso que fiquei com medo do Brasil sediar as Olimpiadas do #Rio2016 , mas depois de hoje vejo que podemos sediar o que q…

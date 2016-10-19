@@ -1,0 +1,217 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sun Mar 06 03:06:19 +0000 2016| user = abascal2| text = RT @AUSOlympicTeam: VIDEO | Taekwondo team announced for Rio 2016!
+
+https://t.co/EeUnowzSFn
+
+#ComeWithUs https://t.co/RNCBmnqoBc
+date = Sun Mar 06 03:05:57 +0000 2016| user = amoravidayes| text = RT @almadebatera: Podiam passar tanta coisa no telão, mas adivinha o vídeo escolhido pra passar na cerimônia?😍
+ #Rio2016 #almadebatera http…
+date = Sun Mar 06 03:01:02 +0000 2016| user = AUSOlympicTeam| text = VIDEO | Taekwondo team announced for Rio 2016!
+
+https://t.co/EeUnowzSFn
+
+#ComeWithUs https://t.co/RNCBmnqoBc
+date = Sun Mar 06 02:55:22 +0000 2016| user = FemexNatacion| text = RT @rio2016_es: @ClaroSports @NuriaDiosdado @karemachach @Rio2016 
+Fuimos testigos! 😃👏👏 https://t.co/iZR02XmVJo
+date = Sun Mar 06 02:54:41 +0000 2016| user = valsaraceni| text = RT @thiagopereira: Após a vitória nos 200 m medley, eu falei sobre a expectativa de disputar a #Rio2016 em... https://t.co/xsecDg49c6
+date = Sun Mar 06 02:53:39 +0000 2016| user = jcnovaesrio| text = #Rio2016 #CidadeOlimpica na mira da #LavaJato https://t.co/jNnJKxTqdX
+date = Sun Mar 06 02:52:46 +0000 2016| user = itLuisinho| text = Fim. Até amanhã 💤 amanhã go Rio de Janeiro #training #tournament #judo #rio2016 #wod #saturday… https://t.co/yl54vF7jFi
+date = Sun Mar 06 02:52:13 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: Estádio da Natação para o @Rio2016 está quase pronto https://t.co/UGx5sUeSZA https://t.co/FGBSOUn3HF
+date = Sun Mar 06 02:52:10 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: O Brasil ganha três vagas na Luta Olímpica para o @Rio2016 https://t.co/ocARNpbAJp https://t.co/y02TW2jFNg
+date = Sun Mar 06 02:51:51 +0000 2016| user = ecfcoach| text = RT @thiagopereira: Após a vitória nos 200 m medley, eu falei sobre a expectativa de disputar a #Rio2016 em... https://t.co/xsecDg49c6
+date = Sun Mar 06 02:48:33 +0000 2016| user = alexpussieldi| text = RT @thiagopereira: Após a vitória nos 200 m medley, eu falei sobre a expectativa de disputar a #Rio2016 em... https://t.co/xsecDg49c6
+date = Sun Mar 06 02:48:27 +0000 2016| user = VelandiaBustos| text = RT @CariocaSarah: #brt #transoeste #riodejaneiro #cidadeolimpica #Rio2016 #glauciogil Essa é a situação das pistas exclusivas do BRT! https…
+date = Sun Mar 06 02:48:11 +0000 2016| user = thiagopereira| text = Após a vitória nos 200 m medley, eu falei sobre a expectativa de disputar a #Rio2016 em... https://t.co/xsecDg49c6
+date = Sun Mar 06 02:45:07 +0000 2016| user = garotakriok1| text = RT @gazetadopovo: Relatório do COI cita 'crise profunda' na organização da Olimpíada #Rio2016 https://t.co/xNY4AGD1BS https://t.co/XcfrH2pu…
+date = Sun Mar 06 02:43:20 +0000 2016| user = Roantiqueira| text = Thiago Pereira é ouro nos 200m medley nos EUA; Rodrigues fica com a prata https://t.co/N0yDMksTu2 via @UOLEsporte #Rio2016
+date = Sun Mar 06 02:23:23 +0000 2016| user = MALPENSANTE666| text = RT @CariocaSarah: #brt #transoeste #riodejaneiro #cidadeolimpica #Rio2016 #glauciogil Essa é a situação das pistas exclusivas do BRT! https…
+date = Sun Mar 06 02:18:47 +0000 2016| user = pagottyhenry| text = RT @CariocaSarah: #brt #transoeste #riodejaneiro #cidadeolimpica #Rio2016 #glauciogil Essa é a situação das pistas exclusivas do BRT! https…
+date = Sun Mar 06 02:16:26 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Estádio da Natação para o @Rio2016 está quase pronto https://t.co/UGx5sUeSZA https://t.co/FGBSOUn3HF
+date = Sun Mar 06 02:16:23 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: O Brasil ganha três vagas na Luta Olímpica para o @Rio2016 https://t.co/ocARNpbAJp https://t.co/y02TW2jFNg
+date = Sun Mar 06 02:11:24 +0000 2016| user = SurtoOlimpico| text = Estádio da Natação para o @Rio2016 está quase pronto https://t.co/UGx5sUeSZA https://t.co/FGBSOUn3HF
+date = Sun Mar 06 02:10:45 +0000 2016| user = SurtoOlimpico| text = O Brasil ganha três vagas na Luta Olímpica para o @Rio2016 https://t.co/ocARNpbAJp https://t.co/y02TW2jFNg
+date = Sun Mar 06 02:10:28 +0000 2016| user = PatiAlexandraa| text = RT @JogosOlimpicos: Faltam cinco meses para🎯🏀⚽⚾🎾🏉🚵⛳🚴🏇👯🏆!! @Rio2016 #VemAgosto! #RoadToRio https://t.co/9HmtB6Gb2A
+date = Sun Mar 06 02:09:02 +0000 2016| user = onairgab| text = RT @CariocaSarah: #brt #transoeste #riodejaneiro #cidadeolimpica #Rio2016 #glauciogil Essa é a situação das pistas exclusivas do BRT! https…
+date = Sun Mar 06 02:07:22 +0000 2016| user = nedicr56| text = RT @leocarjr: Thiago Pereira é ouro nos 200m medley nos EUA; Rodrigues fica com a prata https://t.co/O2OUaoAyED via @UOLEsporte #Rio2016
+date = Sun Mar 06 02:07:12 +0000 2016| user = Lilu_Alves| text = Muito orgulho!!!
+#vaiterolimpiadas #Rio2016 
+#Repost @deppedropaulo with repostapp
+・・・
+"Já há… https://t.co/8N5LDlFTsU
+date = Sun Mar 06 02:06:45 +0000 2016| user = GiordanoBrunoFi| text = RT @CariocaSarah: #brt #transoeste #riodejaneiro #cidadeolimpica #Rio2016 #glauciogil Essa é a situação das pistas exclusivas do BRT! https…
+date = Sun Mar 06 01:57:13 +0000 2016| user = leocarjr| text = Thiago Pereira é ouro nos 200m medley nos EUA; Rodrigues fica com a prata https://t.co/O2OUaoAyED via @UOLEsporte #Rio2016
+date = Sun Mar 06 01:49:43 +0000 2016| user = DetritoFederal1| text = RT @gazetadopovo: Relatório do COI cita 'crise profunda' na organização da Olimpíada #Rio2016 https://t.co/xNY4AGD1BS https://t.co/XcfrH2pu…
+date = Sun Mar 06 01:47:25 +0000 2016| user = lucenacepat| text = RT @gazetadopovo: Relatório do COI cita 'crise profunda' na organização da Olimpíada #Rio2016 https://t.co/xNY4AGD1BS https://t.co/XcfrH2pu…
+date = Sun Mar 06 01:35:44 +0000 2016| user = Round_Trip_Tur| text = #InRio The international airport in Rio de Janeiro is Antonio Carlos "Tom" Jobim (GIG) aka Galeão. #FlySmart #Rio2016 #RoadtoRio
+date = Sun Mar 06 01:31:56 +0000 2016| user = RPC_87| text = RT @ViniciusRio2016: Faltam só #5Meses para os #JogosOlímpicos! 😻😎🙋 #Rio2016 #5Months @Olympics #JuegosParalímpicos https://t.co/56CS9Ngfbz
+date = Sun Mar 06 01:30:21 +0000 2016| user = Round_Trip_Tur| text = RT @AqueceRio: Se no nosso #eventoteste de #Rugby7s já foi emocionante, imagina no @Rio2016? E amanhã tem mais! 🏉👊 https://t.co/xDGh13RMyH
+date = Sun Mar 06 01:28:05 +0000 2016| user = Round_Trip_Tur| text = RT @Rio2016: #5Meses para os melhores atletas do mundo desembarcarem no Rio! 5 meses para os @JogosOlimpicos ! 🎉🎉🎉 https://t.co/jQM2YsG6vG
+date = Sun Mar 06 01:20:31 +0000 2016| user = selfleck| text = RT @RSPARADESPORTO: #EventoTeste de #RugbyEmCR encanta atletas e conquista novos fãs: https://t.co/u2cuDL5wZk https://t.co/T5QCaAXMvn via @…
+date = Sun Mar 06 01:18:58 +0000 2016| user = RSPARADESPORTO| text = #EventoTeste de #RugbyEmCR encanta atletas e conquista novos fãs: https://t.co/u2cuDL5wZk https://t.co/T5QCaAXMvn via @AqueceRio
+date = Sun Mar 06 01:18:54 +0000 2016| user = selfleck| text = RT @RSPARADESPORTO: Grand Prix de Judô na Urca, no Rio! Transmissão ao vivo: https://t.co/iKHr26wCGk! Rumo ao @rio2016 https://t.co/sCwMHtY…
+date = Sun Mar 06 01:17:53 +0000 2016| user = zitameireles| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/zoSxZkonNC
+date = Sun Mar 06 01:17:52 +0000 2016| user = claudineteabner| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/l11iqYTcwF
+date = Sun Mar 06 01:15:30 +0000 2016| user = RSPARADESPORTO| text = Grand Prix de Judô na Urca, no Rio! Transmissão ao vivo: https://t.co/iKHr26wCGk! Rumo ao @rio2016 https://t.co/sCwMHtYwbc vai @cpboficial
+date = Sun Mar 06 01:14:56 +0000 2016| user = anabresil| text = RT @Rio2016: Faça uma audição especial para elenco das #CerimôniasRio2016! Hoje, entre 17h e 18h, no Baile Charme de Madureira! 💃 https://t…
+date = Sun Mar 06 01:12:51 +0000 2016| user = Guayopp| text = @fedenatsv @TeamESA_ que Alegria mas grande Marcelo Acosta clasifica @rio2016_es
+date = Sun Mar 06 01:11:43 +0000 2016| user = Seba_Pereira| text = RT @noticiascbj: Atletas de 7 países, além do Brasil, se inscreveram para Evento-Teste do Judô para @Rio2016: https://t.co/KsIkGq7byZ https…
+date = Sun Mar 06 00:51:13 +0000 2016| user = Round_Trip_Tur| text = RT @JogosOlimpicos: Faltam cinco meses para🎯🏀⚽⚾🎾🏉🚵⛳🚴🏇👯🏆!! @Rio2016 #VemAgosto! #RoadToRio https://t.co/9HmtB6Gb2A
+date = Sun Mar 06 00:51:06 +0000 2016| user = Round_Trip_Tur| text = RT @Rio2016: Faça uma audição especial para elenco das #CerimôniasRio2016! Hoje, entre 17h e 18h, no Baile Charme de Madureira! 💃 https://t…
+date = Sun Mar 06 00:49:54 +0000 2016| user = andrebarbosa_al| text = RT @alencarrafa: #timbeta Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de ... https://t.co…
+date = Sun Mar 06 00:37:47 +0000 2016| user = EdnaReis10| text = RT @moraesluciano: #BetaLab Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madu... https:…
+date = Sun Mar 06 00:31:10 +0000 2016| user = operfil2| text = RT @DanNeto: #betalab Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional... https://t.co/zKPcLNi…
+date = Sun Mar 06 00:31:05 +0000 2016| user = fernandotigp| text = RT @beta_lodonho: Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https:/…
+date = Sun Mar 06 00:27:29 +0000 2016| user = alexpussieldi| text = Última prova da competição 1500 livre masc 1o Marcelo Acosta (ESA) com novo rec nacional 15:13.09 e marca A para #rio2016 #ArenaProSwim
+date = Sun Mar 06 00:25:03 +0000 2016| user = cristianomcruz| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/gOiYeJ5FQo
+date = Sun Mar 06 00:24:35 +0000 2016| user = SOS_seguir| text = RT @portalbrasil: ✳ Brasil reforça nos EUA que é baixo o risco de zika na Olimpíada. @fiocruz #Rio2016 #ZikaZero https://t.co/eXGdWbktU5
+date = Sun Mar 06 00:24:10 +0000 2016| user = hiago_jordao| text = RT @assis_gomes: #rt1 Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureir... https://…
+date = Sun Mar 06 00:23:58 +0000 2016| user = felipebvisuals| text = @eduardopaes_ enquanto isso, a quadra da Escola Almeida Garret continua sem condições de uso para prática desportiva. @Rio2016 @OGlobo_Rio
+date = Sun Mar 06 00:23:52 +0000 2016| user = AmigoDoBode| text = RT @BodeOfWar: #B0DERULEZ Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Ma... https://t.…
+date = Sun Mar 06 00:23:25 +0000 2016| user = EllenBittenc| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/E7dIvgEtWX
+date = Sun Mar 06 00:21:47 +0000 2016| user = revista_lado_a| text = Cuidado para não se afogar vendo esses gatos #rio2016 #olimpiadas https://t.co/9KZ2trZfRI
+date = Sun Mar 06 00:21:08 +0000 2016| user = revista_lado_a| text = Olha os gatos da ginástica... #olimpiadas #rio2016 https://t.co/kJ8gSSfXnF
+date = Sun Mar 06 00:19:57 +0000 2016| user = rumplealencar| text = RT @jotapeah: #jpalencarbeta Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional d... https://t.c…
+date = Sun Mar 06 00:19:55 +0000 2016| user = fatimaalencar58| text = RT @jotapeah: #jpalencarbeta Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional d... https://t.c…
+date = Sun Mar 06 00:19:29 +0000 2016| user = SoNeews| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Mgx3yIMawu
+date = Sun Mar 06 00:19:10 +0000 2016| user = seguroprotecao| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de... https://t.co/TPOhoE1xpB #garraseguros
+date = Sun Mar 06 00:18:44 +0000 2016| user = cleberlab| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/qTgvKtaz4H
+date = Sun Mar 06 00:18:42 +0000 2016| user = joohbeta02| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Y7HE5KiVfY
+date = Sun Mar 06 00:18:37 +0000 2016| user = JhonnyConroe| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/IihxdMRKD8
+date = Sun Mar 06 00:18:35 +0000 2016| user = BotzinhoGalera| text = #News Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/3aKIjzg20W
+date = Sun Mar 06 00:18:32 +0000 2016| user = franklin_reuel1| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/XG6rTAkes4
+date = Sun Mar 06 00:18:28 +0000 2016| user = CleberAssuncao| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/wmtvFMPHk2
+date = Sun Mar 06 00:18:25 +0000 2016| user = Joan_Cleber| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/t6B53XSkii
+date = Sun Mar 06 00:18:21 +0000 2016| user = Sanderlon2| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/6mJsAlUWov
+date = Sun Mar 06 00:18:01 +0000 2016| user = aravisalencar| text = RT @jotapeah: #jpalencarbeta Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional d... https://t.c…
+date = Sun Mar 06 00:17:50 +0000 2016| user = jca_santos| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/KxFns54tZO
+date = Sun Mar 06 00:17:43 +0000 2016| user = ab_nandi| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/zCeorfYNB6
+date = Sun Mar 06 00:17:40 +0000 2016| user = filipeborges22| text = #Operaçãoretweet Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/OEWnyhhEOU #betalab
+date = Sun Mar 06 00:17:38 +0000 2016| user = LeoWasteny| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/ve8az5KHnF
+date = Sun Mar 06 00:17:33 +0000 2016| user = TimBetaJP| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/rzf9xt3w2a
+date = Sun Mar 06 00:17:29 +0000 2016| user = gabibeta11| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/ITHk4tm86r
+date = Sun Mar 06 00:17:26 +0000 2016| user = Nareelx| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/uE4FeC6Wjf
+date = Sun Mar 06 00:17:24 +0000 2016| user = josehbm| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/YM0JiNiwzk
+date = Sun Mar 06 00:17:22 +0000 2016| user = Saamantha01| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/GtzdYhqqeB
+date = Sun Mar 06 00:17:19 +0000 2016| user = LLSousa_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/2WWnbLdpt1
+date = Sun Mar 06 00:17:16 +0000 2016| user = BHVANS| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/FoKIy7kbFC
+date = Sun Mar 06 00:17:14 +0000 2016| user = TeleVansBH| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/0iNVrkX0vB
+date = Sun Mar /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+06 00:17:12 +0000 2016| user = GabiCaicara| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/FJVkvNPgGs
+date = Sun Mar 06 00:17:11 +0000 2016| user = 23h43min| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/rO6tbYExqx
+date = Sun Mar 06 00:17:11 +0000 2016| user = voufazr1leilaum| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/2lk36yz4nD
+date = Sun Mar 06 00:17:11 +0000 2016| user = iarafuckit| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/gUpzqr1vIk
+date = Sun Mar 06 00:17:11 +0000 2016| user = fuckyoufuktu| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/ZhqD5zerLB
+date = Sun Mar 06 00:17:11 +0000 2016| user = LisandraLira_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/V4xdnment1
+date = Sun Mar 06 00:17:11 +0000 2016| user = naldobaea| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/g4SbszPVZ8
+date = Sun Mar 06 00:17:11 +0000 2016| user = rogermaciel_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/1uvkGGIrD7
+date = Sun Mar 06 00:17:11 +0000 2016| user = JimmyAlvess| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/FcIKb9ByJ3
+date = Sun Mar 06 00:17:11 +0000 2016| user = carlametralha| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/nadfRC1BLk
+date = Sun Mar 06 00:17:10 +0000 2016| user = allohanation| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/xpDDSA7GST
+date = Sun Mar 06 00:17:10 +0000 2016| user = loucuradecha| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Sybab6QHGm
+date = Sun Mar 06 00:17:10 +0000 2016| user = JenniNatucci| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/OqfVBMtWj3
+date = Sun Mar 06 00:17:10 +0000 2016| user = bereschoffer| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/2jUHjNRGg9
+date = Sun Mar 06 00:17:10 +0000 2016| user = xandindin| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/NqbqaJSYIV
+date = Sun Mar 06 00:17:10 +0000 2016| user = negojow_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/qcn1mSgEd0
+date = Sun Mar 06 00:17:10 +0000 2016| user = briandosarrocha| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Qa3iaDRNwJ
+date = Sun Mar 06 00:17:10 +0000 2016| user = laribiancucchi| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/wiqAPNJixH
+date = Sun Mar 06 00:17:10 +0000 2016| user = isadosarrocha| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/BghsbkHown
+date = Sun Mar 06 00:17:10 +0000 2016| user = selmapae| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/KGpvTfNsTb
+date = Sun Mar 06 00:17:09 +0000 2016| user = mandscrazy_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/3lov3cxFuB
+date = Sun Mar 06 00:17:09 +0000 2016| user = mimimirela_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/LjWPmNJvYC
+date = Sun Mar 06 00:17:09 +0000 2016| user = renalata_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Yo8fEcSVKK
+date = Sun Mar 06 00:17:09 +0000 2016| user = biancarranca_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/wJl3aLRrbL
+date = Sun Mar 06 00:17:09 +0000 2016| user = pablofelizz| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/5OOKIo9dfH
+date = Sun Mar 06 00:17:09 +0000 2016| user = rofuckingerio| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/4Ocd3uEdLg
+date = Sun Mar 06 00:17:09 +0000 2016| user = annashinning| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/f3G3BsrtoP
+date = Sun Mar 06 00:17:08 +0000 2016| user = Fabricio_betala| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/y8ZF528eMI
+date = Sun Mar 06 00:17:06 +0000 2016| user = AlegriaKatia| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/3V3KfyHidQ
+date = Sun Mar 06 00:17:02 +0000 2016| user = juliobetatim| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/5msY7sp1YI
+date = Sun Mar 06 00:16:52 +0000 2016| user = AneilsonBeta| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Y59otNPTz2
+date = Sun Mar 06 00:16:50 +0000 2016| user = BmsMarques| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Q7wMFODf1K
+date = Sun Mar 06 00:16:49 +0000 2016| user = AneilsonBeta| text = #missãoBETA Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tra... https://t.co/lOD7aE1X9q #missãoBETA
+date = Sun Mar 06 00:16:43 +0000 2016| user = lbetamoraes| text = RT @moraesluciano: #BetaLab Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madu... https:…
+date = Sun Mar 06 00:16:39 +0000 2016| user = SamJazz13| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/UhP8IGvPcY
+date = Sun Mar 06 00:16:37 +0000 2016| user = tagsforbeta| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/JhPh10VzNX
+date = Sun Mar 06 00:16:35 +0000 2016| user = PedroAlvinho| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/yqHKD5YBH1
+date = Sun Mar 06 00:15:39 +0000 2016| user = lchixarobeta| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/ybCAKynwNb
+date = Sun Mar 06 00:15:36 +0000 2016| user = FilipeRgis| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/3f7oGal22d
+date = Sun Mar 06 00:15:32 +0000 2016| user = esteniosantos| text = RT @JessicaHelp: Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de ... https://t.co/PCJVyCAJ…
+date = Sun Mar 06 00:15:22 +0000 2016| user = anbbeta6| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/5Sp8m3twkL
+date = Sun Mar 06 00:15:17 +0000 2016| user = PublishingAll| text = #Globo Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/lp4ShRjo0R
+date = Sun Mar 06 00:15:15 +0000 2016| user = PublishingSite| text = #Globo Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/XZLcbnmmwn
+date = Sun Mar 06 00:15:11 +0000 2016| user = colguarapiranga| text = TAREFA 1 - NOTAS DA GALERA - Gincana Junina Rio2016 https://t.co/XgcPq1bCNp. Amanhã, TAREFA 2 no mesmo link. https://t.co/X0voOMZIXM
+date = Sun Mar 06 00:15:11 +0000 2016| user = AriciaSilvaDiva| text = @barraco_reality Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional... https://t.co/AWMQ8UL2qD
+date = Sun Mar 06 00:14:59 +0000 2016| user = MitoSirius| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/w0n8vqhDsl
+date = Sun Mar 06 00:14:52 +0000 2016| user = info4uguyz| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/kbjWJvCHa2
+date = Sun Mar 06 00:14:50 +0000 2016| user = tianokrazy| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/TSilEFtQmY
+date = Sun Mar 06 00:14:50 +0000 2016| user = currsedarena| text = RT @moraesluciano: #BetaLab Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madu... https:…
+date = Sun Mar 06 00:14:48 +0000 2016| user = izaiasbeta| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/0AnURvupF8
+date = Sun Mar 06 00:14:45 +0000 2016| user = alencarrafa| text = #timbeta Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de ... https://t.co/M2pIMr0FTH #rt
+date = Sun Mar 06 00:14:43 +0000 2016| user = whslonely| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/JsvTxN3ata
+date = Sun Mar 06 00:14:31 +0000 2016| user = eduardohsouza| text = #OperecaoBetaLab Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/JHGsla9u3z #OperecaoBetaLab
+date = Sun Mar 06 00:14:29 +0000 2016| user = felipe_deck1| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/J6Y2g0MBkD
+date = Sun Mar 06 00:14:25 +0000 2016| user = GuilhermeRosely| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional... https://t.co/Vdwth889Yr @guilhermerosely
+date = Sun Mar 06 00:14:22 +0000 2016| user = Elisabete_beta9| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/sC4IHQu91c
+date = Sun Mar 06 00:14:21 +0000 2016| user = esteniosantos| text = RT @joanahmoura: Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/vrtIEkSD6w #TIMBETA
+date = Sun Mar 06 00:14:19 +0000 2016| user = BodeOfWar| text = #B0DERULEZ Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Ma... https://t.co/V8ot54JYzF
+date = Sun Mar 06 00:14:14 +0000 2016| user = VejaTvOnlinePc| text = @TeleVansBH Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/pNG0MVXbQB #TeleVansBH #BHVans
+date = Sun Mar 06 00:14:05 +0000 2016| user = VerTvOnlinePc| text = @TeleVansBH Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/gbPHJhbUN5 #TeleVansBH #BHVans
+date = Sun Mar 06 00:13:27 +0000 2016| user = Wellington_Tour| text = @TeleVansBH Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/P3WUPVGlJp #TeleVansBH #BHVans
+date = Sun Mar 06 00:13:22 +0000 2016| user = Opulencio| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/XYOrPDc9h6
+date = Sun Mar 06 00:13:10 +0000 2016| user = InformeRJO| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/rRsMhKcB3B
+date = Sun Mar 06 00:12:59 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/ymOyYbkTdZ
+date = Sun Mar 06 00:12:58 +0000 2016| user = DesertEagleRJ| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/ACn6PH5MXq
+date = Sun Mar 06 00:12:57 +0000 2016| user = SindicoDoRio| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/3FAyKETIaO
+date = Sun Mar 06 00:12:56 +0000 2016| user = Bruno_Vida| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/LN5jxamzrQ
+date = Sun Mar 06 00:12:54 +0000 2016| user = Rio_Acontece| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/KUW7OqjR84
+date = Sun Mar 06 00:12:53 +0000 2016| user = televantv| text = @TeleVansBH Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/FeQIHdb7FT #TeleVansBH #BHVans
+date = Sun Mar 06 00:12:53 +0000 2016| user = Noticias_Rio| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/LOjQEwr35P
+date = Sun Mar 06 00:12:51 +0000 2016| user = viviane9655| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Ey1dUsYuSL
+date = Sun Mar 06 00:12:50 +0000 2016| user = juliamarine9| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/F2XjWtfmHv
+date = Sun Mar 06 00:12:49 +0000 2016| user = Ferrei17Matilde| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/Qxb7qCtjDV
+date = Sun Mar 06 00:12:48 +0000 2016| user = marcia_f3rreira| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/xZtv2InSKc
+date = Sun Mar 06 00:12:47 +0000 2016| user = jonatarn19| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/94KbANySpp
+date = Sun Mar 06 00:12:46 +0000 2016| user = CarlaLouysse| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/LPYeADrE5F
+date = Sun Mar 06 00:12:46 +0000 2016| user = dani3lly| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/KTY9IbnkmT
+date = Sun Mar 06 00:12:45 +0000 2016| user = DURANDU85065556| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/NjBlpcLQgO
+date = Sun Mar 06 00:12:43 +0000 2016| user = marl3nemarta| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/QxfeBduDeM
+date = Sun Mar 06 00:12:42 +0000 2016| user = lorenadrumont| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/TR9BO6bqee
+date = Sun Mar 06 00:12:41 +0000 2016| user = jaoaoliveira| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/1ab7hayJHM
+date = Sun Mar 06 00:12:38 +0000 2016| user = lauradiniz9655| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/KDt9ijR9mD
+date = Sun Mar 06 00:12:37 +0000 2016| user = joaquimpint0| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/ARmCCrtFMN
+date = Sun Mar 06 00:12:35 +0000 2016| user = juli0pereira| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/eGLq56bX75
+date = Sun Mar 06 00:12:33 +0000 2016| user = HeybetaXis| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/6hiMQvhs3J
+date = Sun Mar 06 00:12:33 +0000 2016| user = mariajoaq9655| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/NOD3Styd39
+date = Sun Mar 06 00:12:32 +0000 2016| user = alicekiara1| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/SleAkHdlV6
+date = Sun Mar 06 00:12:31 +0000 2016| user = leonadublyer| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/6U8AXNPMBf
+date = Sun Mar 06 00:12:30 +0000 2016| user = laurakelyn| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/nKvZflkrhh
+date = Sun Mar 06 00:12:29 +0000 2016| user = DiarioMacae| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/tJQnkzTZaP
+date = Sun Mar 06 00:12:28 +0000 2016| user = guuHFeliciano| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/kgOnx8aTt9
+date = Sun Mar 06 00:12:25 +0000 2016| user = adrianokmd_| text = Rio de Janeiro : Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional... https://t.co/uPgcayOh7T
+date = Sun Mar 06 00:12:22 +0000 2016| user = SPCRio| text = #Rio: Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madurei... https://t.co/iuRQ0bujsX
+date = Sun Mar 06 00:12:22 +0000 2016| user = Divulgary| text = Rio: Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/T6jKM2a7mp
+date = Sun Mar 06 00:12:18 +0000 2016| user = holandatimbeta| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/JkMRQhnd8i
+date = Sun Mar 06 00:12:14 +0000 2016| user = filipebetalab1| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/kUzWuQg9vW
+date = Sun Mar 06 00:12:09 +0000 2016| user = jotapeah| text = #jpalencarbeta Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional d... https://t.co/sfJaBoCX5l
+date = Sun Mar 06 00:12:07 +0000 2016| user = redlahremos_| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/TVaJ4hE00E
+date = Sun Mar 06 00:12:04 +0000 2016| user = lislee3| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/sx2LSWWYuj
+date = Sun Mar 06 00:12:02 +0000 2016| user = WesleyRoccha| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradici... https://t.co/XbU5IdLRV5 QueenGabyBoterkooper
+date = Sun Mar 06 00:11:57 +0000 2016| user = mhelenah57| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/GsBVdEsYy3
+date = Sun Mar 06 00:11:52 +0000 2016| user = palomahfeitosa| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/pHugFkAQUc
+date = Sun Mar 06 00:11:46 +0000 2016| user = thiago_nscmnt| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/3J5ow1q5IN
+date = Sun Mar 06 00:11:41 +0000 2016| user = glauberbeta1| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/TeVdcDoHTD
+date = Sun Mar 06 00:11:36 +0000 2016| user = jr140797| text = #betacaralhudosan Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016:... https://t.co/N2Md8Q7cdw #betacaralhudosan
+date = Sun Mar 06 00:11:32 +0000 2016| user = LucasBeta2014| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/FdfoSrRV60
+date = Sun Mar 06 00:11:07 +0000 2016| user = loucoedivertido| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/Gr6EFWPhjJ
+date = Sun Mar 06 00:10:59 +0000 2016| user = Qweryt2112| text = RT @Delta_233: #hu3b3t Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madur... https://t.…
+date = Sun Mar 06 00:10:51 +0000 2016| user = loucoedivertido| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/9elAS1eMGq
+date = Sun Mar 06 00:10:19 +0000 2016| user = juca337| text = RT @juca227: #jucamario27 Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de ... https://t.co…
+date = Sun Mar 06 00:09:09 +0000 2016| user = timbetanovo122| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/ZTKrGtcIpg
+date = Sun Mar 06 00:08:41 +0000 2016| user = FYIGente| text = RT @MTurismo: No ES, a tocha #Rio2016 passará por cidades como Cachoeira do Itapemirim, São Mateus e Vitória. https://t.co/n2mAvD7zFB
+date = Sun Mar 06 00:08:06 +0000 2016| user = leonardogru| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016 https://t.co/v2S35FduxN
+date = Sun Mar 06 00:07:22 +0000 2016| user = gstbeta1| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/KNjfnEy8Bb
+date = Sun Mar 06 00:07:14 +0000 2016| user = Binhojc21| text = Comitê Olímpico faz seletiva em baile charme para abertura dos Jogos 2016: Evento tradicional de Madureira pod... https://t.co/VWf7eXETnW

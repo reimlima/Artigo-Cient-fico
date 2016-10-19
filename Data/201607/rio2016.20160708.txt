@@ -1,0 +1,980 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Fri Jul 08 03:10:46 +0000 2016| user = SouOMaiorDoRS| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 03:10:40 +0000 2016| user = SouOMaiorDoRS| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 03:10:14 +0000 2016| user = JUBIRACY| text = @MichelTemer
+O @exercitooficial executou um apronto operacional dos meios que serão utilizados na #Rio2016 https://t.co/vgTjd3xOX3
+date = Fri Jul 08 03:09:38 +0000 2016| user = ac19162| text = @VEJA @ChamaOlimpica @Rio2016_en merecia a apagar mesmo
+date = Fri Jul 08 03:08:52 +0000 2016| user = JUBIRACY| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 03:08:17 +0000 2016| user = getuliosantana| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 03:08:06 +0000 2016| user = JohnnySette| text = #BomDia faltam 25 dias para o #TransNações #GodBless #Rio2016 #OnlyJesusSaves #SóJesusSalva #MissõesNaPrática #JUBAN #Betelinos #RoadToRio
+date = Fri Jul 08 03:07:42 +0000 2016| user = Colorado_CXS| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 03:07:36 +0000 2016| user = acsmatos84| text = @VEJA @ChamaOlimpica @Rio2016_en bela tentativa PARABÉNS para esse cidadão, chega de hipocrisia.
+date = Fri Jul 08 03:07:24 +0000 2016| user = SolarOso| text = RT @Luisa: .@Knaya e eu prontos pra quebrar tudo no #Rio2016 😂 #Stickers https://t.co/dVRliGq3JK
+date = Fri Jul 08 03:03:21 +0000 2016| user = jmiguelfneto| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 03:02:53 +0000 2016| user = boralaeventos| text = RT @CidadeOlimpica: Vem ver as Casas dos Países que ficarão disponíveis na Zona Oeste durante o @Rio2016. https://t.co/W3OoyHiTvz https://t…
+date = Fri Jul 08 03:01:13 +0000 2016| user = alinnebarros30| text = RT @EuCarolPaiixao: O Brasil não consegue nem sediar Educação, Saúde e Segurança, quem dira sediar um evento como as Olimpíadas. #Rio2016 #…
+date = Fri Jul 08 03:00:09 +0000 2016| user = _hudsonQ| text = 00:00h 28 Dias #Rio2016
+date = Fri Jul 08 02:59:51 +0000 2016| user = 7c4f20a789fe458| text = RT @ninomarcosassi1: @VEJA @ChamaOlimpica @Rio2016_en ele tá querendo apagar. ...pra não ter essa olimpíada, e o país não passar mais vergo…
+date = Fri Jul 08 02:59:32 +0000 2016| user = _Ouroboro| text = RT @dilmabr: Eu gostaria de ir às Olimpíadas pq fiz todas as tratativas, preparativos e obras. Sou a mãe e o Lula o pai dos Jogos Olímpicos…
+date = Fri Jul 08 02:57:24 +0000 2016| user = samisazi| text = RT @dilmabr: Eu gostaria de ir às Olimpíadas pq fiz todas as tratativas, preparativos e obras. Sou a mãe e o Lula o pai dos Jogos Olímpicos…
+date = Fri Jul 08 02:57:21 +0000 2016| user = pqpsoars| text = @Rio2016 tinha que vender colete ante bomba. Os terroristas tão no BR em
+date = Fri Jul 08 02:55:40 +0000 2016| user = rodVEVO| text = RT @dilmabr: Eu gostaria de ir às Olimpíadas pq fiz todas as tratativas, preparativos e obras. Sou a mãe e o Lula o pai dos Jogos Olímpicos…
+date = Fri Jul 08 02:50:03 +0000 2016| user = BFamborges| text = RT @iasd: Já leu essa: Pastor adventista participará das Olimpíadas #rio2016 como capelão voluntário. https://t.co/UeXhxTg6kG https://t.co/…
+date = Fri Jul 08 02:48:34 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 https://t.co/tPuOTu46RU Handebol: com 13 estreantes, seleção masculina é definida para a ...… https://t.co/olcUPZY2fZ
+date = Fri Jul 08 02:47:13 +0000 2016| user = PolyAnnaLima5| text = Ingressos Jogos Olímpicos Rio 2016 https://t.co/WC3fTjbx9q
+date = Fri Jul 08 02:46:52 +0000 2016| user = WeiberCastro| text = RT @cbf_imprensa: Convocação da #SeleçãoFeminina para #Rio2016 é nesta 3ª na sede da #CBF &gt;&gt; #ImprensaCBF &gt;&gt; https://t.co/JwLa8IRLHe
+date = Fri Jul 08 02:46:45 +0000 2016| user = linpaixao| text = RT @dilmabr: Eu gostaria de ir às Olimpíadas pq fiz todas as tratativas, preparativos e obras. Sou a mãe e o Lula o pai dos Jogos Olímpicos…
+date = Fri Jul 08 02:46:43 +0000 2016| user = silrobe10| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 02:46:17 +0000 2016| user = HoracioNoel| text = RT @CBF_Futebol: #SeleçãoOlímpica
+
+Reveja os convocados para os Jogos Olímpicos! Gostou da lista?
+
+#Rio2016 #EmBuscadoOuro https://t.co/m61…
+date = Fri Jul 08 02:46:01 +0000 2016| user = _xSCI| text = Não posso me esquecer do gol do tinga,
+Numa noite de alegria
+16 de agosto ooohh https://t.co/5x6nznWDt2
+date = Fri Jul 08 02:45:54 +0000 2016| user = EmySmtts| text = RT @dilmabr: Eu gostaria de ir às Olimpíadas pq fiz todas as tratativas, preparativos e obras. Sou a mãe e o Lula o pai dos Jogos Olímpicos…
+date = Fri Jul 08 02:45:17 +0000 2016| user = VitorFagundes18| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 02:44:48 +0000 2016| user = duarteluiza_| text = Para evitar zika, delegação olímpica de Hong Kong vai desembarcar no Brasil com esses mosquiteiros #Rio2016 https://t.co/R6kMUyfJAh
+date = Fri Jul 08 02:44:19 +0000 2016| user = evelozaf62| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Fri Jul 08 02:43:21 +0000 2016| user = Otelocom| text = RT @revistavoto: Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.co/MX…
+date = Fri Jul 08 02:40:21 +0000 2016| user = TaniraBL| text = Nível de energia depois de passar o dia atrás da tocha: fui buscar a pizza dentro da máquina de lavar roupa. #tevetocha #Rio2016
+date = Fri Jul 08 02:40:08 +0000 2016| user = revistavoto| text = Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.co/MXju7uQAuA
+date = Fri Jul 08 02:40:04 +0000 2016| user = anaelfahel| text = A multa não vai apagar da memória a morte de um animal tão raro...#Rio2016 #olimpiadas
+https://t.co/lNIuMR6PKh https://t.co/ZG16rGTjUt
+date = Fri Jul 08 02:39:43 +0000 2016| user = egloriaa| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 02:39:01 +0000 2016| user = antunesgisa| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 02:38:45 +0000 2016| user = sandrommaia| text = RT @portaljovempan: #EsportesJP Estrangeiros compram menos de 25% dos ingressos para os Jogos do @Rio2016: https://t.co/0Qp2OOFg5S https://…
+date = Fri Jul 08 02:38:14 +0000 2016| user = antunesgisa| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 02:37:37 +0000 2016| user = dllbeto| text = RT @CiscoDoBrasil: #Rio2016 em Números - #TeamCisco2016
+https://t.co/r9uOqHx69d
+date = Fri Jul 08 02:36:36 +0000 2016| user = CRIVELINI1970| text = @VEJA @Rio2016  essa tocha, como a olimpiada de mal gosto não deveriam acontecer. O Rio de Janeiro está falido.
+date = Fri Jul 08 02:36:26 +0000 2016| user = CntgLeo| text = RT @SamsungBrasil: A música tema do #Rio2016, Alma e Coração ficou sensacional. O que você achou? #DesafieBarreiras https://t.co/ILImvh7ovp
+date = Fri Jul 08 02:34:22 +0000 2016| user = DeMaridos| text = Força Nacional tem carro baleado em tiroteio na Av. Brasil, no Rio https://t.co/paanRnVk1f
+date = Fri Jul 08 02:30:42 +0000 2016| user = RainhaGelada_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 02:30:37 +0000 2016| user = jose_kayan| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Fri Jul 08 02:30:06 +0000 2016| user = AmauriAlves7| text = @VEJA @ChamaOlimpica @Rio2016_en tinha que jogar a tocha no lixo
+date = Fri Jul 08 02:29:19 +0000 2016| user = robertocavalhei| text = @VEJA @ChamaOlimpica @Rio2016_en se não quer, expõe opinião, não agressão!
+date = Fri Jul 08 02:28:07 +0000 2016| user = Wilistando| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 02:27:52 +0000 2016| user = Wilistando| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 02:27:14 +0000 2016| user = eddyank| text = Pequena notável
+https://t.co/atax84e4Za https://t.co/Z4xlA5fWvs
+date = Fri Jul 08 02:26:59 +0000 2016| user = opensadorsincer| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 02:26:58 +0000 2016| user = AMontuan| text = RT @CiscoDoBrasil: #Rio2016 em Números - #TeamCisco2016
+https://t.co/r9uOqHx69d
+date = Fri Jul 08 02:25:22 +0000 2016| user = renatopezzotti| text = RT @SurtoOlimpico: Destaques do Surto...o Guia do Hóquei na Grama para o @Rio2016 https://t.co/bnLqJnTIra https://t.co/AIYdU0PWLI
+date = Fri Jul 08 02:23:19 +0000 2016| user = ViviGGuimaraes| text = RT @ChildFundBrasil: Não deixe que o número de abusos sexuais aumente nessas Olimpíadas. #itsapenalty  #denuncie #disque100  #rio2016 https…
+date = Fri Jul 08 02:22:26 +0000 2016| user = DrMarceloMaia| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 02:22:17 +0000 2016| user = _xSCI| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 02:22:13 +0000 2016| user = PolidoroJunior| text = RT @Rio2016: Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t…
+date = Fri Jul 08 02:22:04 +0000 2016| user = Ramesojalves| text = RT @dilmabr: #DilmaNaTV Nunca alguém mereceu tanto estar na abertura das Olimpíadas #Rio2016 como eu.
+date = Fri Jul 08 02:21:32 +0000 2016| user = vic2almeida| text = RT @Rio2016: Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t…
+date = Fri Jul 08 02:19:46 +0000 2016| user = pdiegonogueira| text = RT @pickandrollbr: NOVOS UNIFORMES DA ARGENTINA! Versão dourada é a novidade para #Rio2016. Uniformes apresentados hoje. @cabboficial https…
+date = Fri Jul 08 02:19:04 +0000 2016| user = thaizamacedo| text = RT @SeuEsporteBR: Ídolo do @SCInternacional, Tinga conduziu a @chamaolimpica na frente do Beira Rio #ChamaOlimpica https://t.co/z4PzLZKnT4
+date = Fri Jul 08 02:17:26 +0000 2016| user = InterInvicto| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 02:17:20 +0000 2016| user = pmdb_nucleos| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 02:17:18 +0000 2016| user = pmdb_nucleos| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 02:17:00 +0000 2016| user = Ramesojalves| text = RT @dilmabr: Eu gostaria de ir às Olimpíadas pq fiz todas as tratativas, preparativos e obras. Sou a mãe e o Lula o pai dos Jogos Olímpicos…
+date = Fri Jul 08 02:16:32 +0000 2016| user = CiscoDoBrasil| text = #Rio2016 em Números - #TeamCisco2016
+https://t.co/r9uOqHx69d
+date = Fri Jul 08 02:16:24 +0000 2016| user = DarlanOliver| text = @VEJA @ChamaOlimpica @Rio2016_en que burro kkkk também iria gostar de apagar. Mas jogar água kkk
+date = Fri Jul 08 02:14:26 +0000 2016| user = AnaZambelli| text = Morcegada ativar #rio2016 #saporebrasil #gastronomia @ Vila Dos Atletas https://t.co/eFYXm4Wi5G
+date = Fri Jul 08 02:13:36 +0000 2016| user = _Daniellago| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 02:13:24 +0000 2016| user = EluamS| text = RT @Rio2016: Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t…
+date = Fri Jul 08 02:13:21 +0000 2016| user = Carlosan_lopes| text = RT @Rio2016: Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t…
+date = Fri Jul 08 02:13:09 +0000 2016| user = FabioLangbecker| text = @VEJA @ChamaOlimpica @Rio2016_en Mais um herói... Cadê a estátua de bronze? Essa olimpíada, se depender de mim, será um fracasso!
+date = Fri Jul 08 02:12:22 +0000 2016| user = annyyelitos| text = RT @JM_ROMO: Roster de Francia para #Rio2016 
+https://t.co/1H9yFD7LqX
+date = Fri Jul 08 02:11:55 +0000 2016| user = TSilvatres| text = RT @SeuEsporteBR: Ídolo do @SCInternacional, Tinga conduziu a @chamaolimpica na frente do Beira Rio #ChamaOlimpica https://t.co/z4PzLZKnT4
+date = Fri Jul 08 02:11:44 +0000 2016| user = josesolonh| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Fri Jul 08 02:10:01 +0000 2016| user = ma_andrericardo| text = @VEJA @ChamaOlimpica @Rio2016_en pena que ñ apagou. Vai ser uma vergonha depois das olimpíadas devido ao super faturamento das obras.
+date = Fri Jul 08 02:09:32 +0000 2016| user = my_friend1| text = @VEJA @ChamaOlimpica @Rio2016_en me desculpem,mais essa tocha tem trazido muito azar e cargas negativas pro país.
+date = Fri Jul 08 02:09:31 +0000 2016| user = adririo| text = Quem vc convocaria para o meio de rede? #Volei #Rio2016
+date = Fri Jul 08 02:09:20 +0000 2016| user = Bahianinho| text = @SurtoOlimpico @BrunoSoares82 @Rio2016 concordo com vc Bruno! São prima donas!
+date = Fri Jul 08 02:09:01 +0000 2016| user = LgTqr_Oficial| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Fri Jul 08 02:06:36 +0000 2016| user = CAPIFIRE_| text = @VEJA @Rio2016 essa mina ta virada num tartaruga ninja
+date = Fri Jul 08 02:05:57 +0000 2016| user = ninomarcosassi1| text = @VEJA @ChamaOlimpica @Rio2016_en ele tá querendo apagar. ...pra não ter essa olimpíada, e o país não passar mais vergonha!
+date = Fri Jul 08 02:04:06 +0000 2016| user = marciomacambira| text = Reserva de passagem aumenta 148% para a Rio 2016 https://t.co/NeTk4oGrPP
+date = Fri Jul 08 02:03:36 +0000 2016| user = owefron| text = #rio2016 não me mata garoto  https://t.co/wEnND3EekN
+date = Fri Jul 08 02:03:25 +0000 2016| user = saratavares| text = RT @Rio2016: Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t…
+date = Fri Jul 08 02:02:03 +0000 2016| user = gdordetto| text = Vou votar na tocha. Onde a tocha passa ta tudo bonito  #TochaOlimpica #olimPIADAS #Rio2016 #olimpiadas #Eleicoes2016
+date = Fri Jul 08 02:01:49 +0000 2016| user = lluusca| text = Agora vai sair dinheiro de onde? Inferno. Manda o @Rio2016 pagar essa merda. https://t.co/bNCVtniLTy
+date = Fri Jul 08 02:01:29 +0000 2016| user = Bahianinho| text = R/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+T @SurtoOlimpico: .@BrunoSoares82 critica atletas que desistem do @Rio2016 por causa do zika https://t.co/eV1ejTDSzA https://t.co/geAHUrrZ…
+date = Fri Jul 08 01:58:33 +0000 2016| user = AndreaToci13| text = RT @Rio2016: Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t…
+date = Fri Jul 08 01:57:19 +0000 2016| user = denisestarblue| text = @Rio2016 @ChamaOlimpica #DaianeDosSantos  linda, doce, Guerreira, vem Daiane, vem com a gente!! Você é o que o Brasil tem de melhor.
+date = Fri Jul 08 01:57:17 +0000 2016| user = reinaldoandrade| text = RT @SurtoOlimpico: Catalina Ponor será a porta-bandeira da Romênia no @Rio2016 https://t.co/7UdVMZLdsI https://t.co/P6Ye9uEqnh
+date = Fri Jul 08 01:55:34 +0000 2016| user = ronaldomatias5| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 01:55:26 +0000 2016| user = CamachoMoonTat2| text = Nova modalidade "chumbo trocado" #Rio2016 @brega_falcao https://t.co/0yyGwWWPEe
+date = Fri Jul 08 01:55:06 +0000 2016| user = ronaldopoa2012| text = Porto Alegre fazendo a sua parte. Olimpíadas é fator para inclusão. Todos nós temos os mesmos direitos.  #rio2016... https://t.co/sJbWHQo3w8
+date = Fri Jul 08 01:54:54 +0000 2016| user = denisestarblue| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 01:54:51 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: .@AnnaMeares é a porta-bandeira da Austrália no @Rio2016 https://t.co/dpDHrjZTxF https://t.co/g4x7js6Ymm
+date = Fri Jul 08 01:54:43 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Catalina Ponor será a porta-bandeira da Romênia no @Rio2016 https://t.co/7UdVMZLdsI https://t.co/P6Ye9uEqnh
+date = Fri Jul 08 01:54:20 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: .@BrunoSoares82 critica atletas que desistem do @Rio2016 por causa do zika https://t.co/eV1ejTDSzA https://t.co/geAHUrrZ…
+date = Fri Jul 08 01:54:13 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Aberto o Centro de Midia do @Rio2016 https://t.co/3OPuzb6hc8 https://t.co/Rpkb4SIMqo
+date = Fri Jul 08 01:54:03 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: O México divulga a convocação do futebol masculino para o @Rio2016 https://t.co/kmgsNlJGX9 https://t.co/0RouqWCHVO
+date = Fri Jul 08 01:53:55 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...o Guia do Hóquei na Grama para o @Rio2016 https://t.co/bnLqJnTIra https://t.co/AIYdU0PWLI
+date = Fri Jul 08 01:51:47 +0000 2016| user = SurtoOlimpico| text = .@AnnaMeares é a porta-bandeira da Austrália no @Rio2016 https://t.co/dpDHrjZTxF https://t.co/g4x7js6Ymm
+date = Fri Jul 08 01:51:36 +0000 2016| user = AliyaVik| text = RT @SurtoOlimpico: Catalina Ponor será a porta-bandeira da Romênia no @Rio2016 https://t.co/7UdVMZLdsI https://t.co/P6Ye9uEqnh
+date = Fri Jul 08 01:51:33 +0000 2016| user = Brendahh_B| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 01:50:46 +0000 2016| user = SurtoOlimpico| text = Catalina Ponor será a porta-bandeira da Romênia no @Rio2016 https://t.co/7UdVMZLdsI https://t.co/P6Ye9uEqnh
+date = Fri Jul 08 01:50:02 +0000 2016| user = Brendahh_B| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:49:34 +0000 2016| user = jonask_imortal| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 01:48:52 +0000 2016| user = paulazanelli| text = 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos https://t.co/Fj7rSHTd1q
+date = Fri Jul 08 01:48:16 +0000 2016| user = ronaldopoa2012| text = Porto Alegre fez a sua parte. Agora é correr para receber as medalhas. #rio2016 #olimpíadas2016 #superação https://t.co/Yh2Omjxqi2
+date = Fri Jul 08 01:47:20 +0000 2016| user = jesusflorescon| text = RT @SRgolazoo: Convocados de @miseleccionmx para @rio2016_es https://t.co/lFGXGzYR0J
+date = Fri Jul 08 01:46:39 +0000 2016| user = SurtoOlimpico| text = .@BrunoSoares82 critica atletas que desistem do @Rio2016 por causa do zika https://t.co/eV1ejTDSzA https://t.co/geAHUrrZwv
+date = Fri Jul 08 01:46:30 +0000 2016| user = goulart1622| text = @ChamaOlimpica @Prefeitura_POA @governo_rs @Brasil2016 @Rio2016 quase ouro!!!
+date = Fri Jul 08 01:45:20 +0000 2016| user = SurtoOlimpico| text = Aberto o Centro de Midia do @Rio2016 https://t.co/3OPuzb6hc8 https://t.co/Rpkb4SIMqo
+date = Fri Jul 08 01:44:54 +0000 2016| user = DavidIneia10| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 01:43:35 +0000 2016| user = CristianoBorb2| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:43:22 +0000 2016| user = SurtoOlimpico| text = O México divulga a convocação do futebol masculino para o @Rio2016 https://t.co/kmgsNlJGX9 https://t.co/0RouqWCHVO
+date = Fri Jul 08 01:41:26 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...o Guia do Hóquei na Grama para o @Rio2016 https://t.co/bnLqJnTIra https://t.co/AIYdU0PWLI
+date = Fri Jul 08 01:41:25 +0000 2016| user = lisiferlim| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 01:38:05 +0000 2016| user = pedrinhobritoh| text = RT @AugustoLima7: I love this game 🏀 mais um treino completo para nossa preparaçao 🇧🇷 #basketball #olimpiadas #timebrasil #rio2016 https://…
+date = Fri Jul 08 01:35:01 +0000 2016| user = Belcg| text = @delazeri_rafael @Rio2016 Só compro se for da Juma!
+date = Fri Jul 08 01:34:58 +0000 2016| user = Brasil2016| text = RT @Rio2016: Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t…
+date = Fri Jul 08 01:34:46 +0000 2016| user = idapont| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 01:34:43 +0000 2016| user = wagnermoraiss_| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 01:33:47 +0000 2016| user = julemanha| text = @Rio2016 se faltar alguém aqui em floripa pra carregar a tocha, tamo aqui disponível ó
+date = Fri Jul 08 01:33:04 +0000 2016| user = bibliotecaippur| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada
+Restrições no tráfego começam a ser implantadas em... https://t.co/zWvkl2v0sS
+date = Fri Jul 08 01:31:45 +0000 2016| user = cavleal| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:31:16 +0000 2016| user = RoseVega20| text = 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos #G1 https://t.co/fTwtQCf2zN
+date = Fri Jul 08 01:30:35 +0000 2016| user = RaphKnowles| text = RT @Rio2016: Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t…
+date = Fri Jul 08 01:30:27 +0000 2016| user = KeuneckeMarilia| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 01:30:25 +0000 2016| user = Ottoekern| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 01:30:22 +0000 2016| user = GuuHachmann| text = RT @SporTV: A ginasta russa Larissa Latynina conquistou 18 medalhas olímpicas, sendo 9 delas de ouro! #Rio2016noSporTV #Rio2016 https://t.c…
+date = Fri Jul 08 01:30:13 +0000 2016| user = viniciuxleite| text = RT @SeuEsporteBR: Ídolo do @SCInternacional, Tinga conduziu a @chamaolimpica na frente do Beira Rio #ChamaOlimpica https://t.co/z4PzLZKnT4
+date = Fri Jul 08 01:29:20 +0000 2016| user = Seba_Pereira| text = RT @agora_CP: Campeã mundial de judô Mayra Aguiar diz que chegará mais motivada ao @Rio2016 após conduzir #ChamaOlimpica https://t.co/DiyV2…
+date = Fri Jul 08 01:28:14 +0000 2016| user = Rio2016| text = Um nome histórico do esporte brasileiro acendendo a pira em Porto Alegre! Valeu Daiane dos Santos! 😍🔥🏅#ChamaOlimpica https://t.co/iFP5lQpIrB
+date = Fri Jul 08 01:27:52 +0000 2016| user = lisecosta| text = Ontem foi um dia super importante para nossa instalação... #ShootingTeam #Rio2016 #CentroOlímpicodeTiro #DeodoroLand https://t.co/UI7KRHYWbh
+date = Fri Jul 08 01:27:44 +0000 2016| user = carollmoraiss_| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 01:27:06 +0000 2016| user = robsonpavans| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 01:26:48 +0000 2016| user = cassiagontijo| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 01:25:54 +0000 2016| user = jauribelmonte| text = RT @SeuEsporteBR: Ídolo do @SCInternacional, Tinga conduziu a @chamaolimpica na frente do Beira Rio #ChamaOlimpica https://t.co/z4PzLZKnT4
+date = Fri Jul 08 01:25:48 +0000 2016| user = skysupers| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Fri Jul 08 01:25:46 +0000 2016| user = EuKemper| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 01:25:18 +0000 2016| user = fernandoferpa8| text = RT @SamsungBrasil: A música tema do #Rio2016, Alma e Coração ficou sensacional. O que você achou? #DesafieBarreiras https://t.co/ILImvh7ovp
+date = Fri Jul 08 01:24:57 +0000 2016| user = marcobampi3| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 01:24:48 +0000 2016| user = elietely| text = RT @SPFW: A estilista @LennyNiemeyer assina os uniformes da delegação brasileira para as cerimônias dos Jogos @Rio2016! https://t.co/n5Jrk0…
+date = Fri Jul 08 01:24:26 +0000 2016| user = sccpdemunique| text = #Rio2016 vem pra ca amor :(((( https://t.co/ihcZQHBDfb
+date = Fri Jul 08 01:24:15 +0000 2016| user = VictorMarkowski| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:24:10 +0000 2016| user = surfista7878| text = @ChamaOlimpica @marinapagno @Prefeitura_POA @governo_rs @Brasil2016 @Rio2016 Daiane do Santos ta carregada no bacon, jezuis.
+date = Fri Jul 08 01:23:53 +0000 2016| user = SeuEsporteBR| text = Ídolo do @SCInternacional, Tinga conduziu a @chamaolimpica na frente do Beira Rio #ChamaOlimpica https://t.co/z4PzLZKnT4
+date = Fri Jul 08 01:23:38 +0000 2016| user = GajHaj| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Fri Jul 08 01:23:31 +0000 2016| user = manoeladare| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Fri Jul 08 01:21:03 +0000 2016| user = Thiagobruno1984| text = RT @BancoCentralBR: Nossa #moedadodia homenageia o #golfe, que volta ao #Rio2016 depois de mais de um século fora dos Jogos. https://t.co/t…
+date = Fri Jul 08 01:20:48 +0000 2016| user = AnnuitWalk| text = Com o clima de Paraolimpíadas chegando é bom começar a se ligar nas equipes brasileiras que estarão competindo,... https://t.co/7IwjdOtA3N
+date = Fri Jul 08 01:19:21 +0000 2016| user = AAlinecolorada| text = RT @lucianoperico: Na mão!!! #TeMexeGigante #issoeouro @CocaCola_Br @VonparOficial #Rio2016 https://t.co/n7DZRY0sGP
+date = Fri Jul 08 01:19:14 +0000 2016| user = Crazesuplemento| text = Estoque renovado e abastecido.
+#maringa #curitiba #londrina #SaoPaulo #Rio2016 #olimpiadas #santacatarina #Parana https://t.co/d5Cm1Ml0dk
+date = Fri Jul 08 01:18:55 +0000 2016| user = juanromerotv| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Fri Jul 08 01:18:52 +0000 2016| user = RodrigopsSCI| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:18:25 +0000 2016| user = juanromerotv| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 01:17:27 +0000 2016| user = jabreucordeiro| text = @portaljovempan @Rio2016 se os gringos não vão pagar a conta, quem vai pagar?
+date = Fri Jul 08 01:17:27 +0000 2016| user = Brasil2016| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Fri Jul 08 01:17:22 +0000 2016| user = Brasil2016| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 01:17:14 +0000 2016| user = _tcheepa| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:16:49 +0000 2016| user = Seba_Pereira| text = RT @JogosOlimpicos: Já viu os uniformes do @timebrasil para a cerimônia de abertura @Rio2016? 👌 Todo mundo na beca! Lindões! 😍 https://t.co…
+date = Fri Jul 08 01:16:41 +0000 2016| user = Seba_Pereira| text = RT @JogosOlimpicos: Acredita-se que estes arcos olímpicos misteriosos sejam obra de 👽👽 empolgados que só faltam 2⃣9⃣ dias para @Rio2016 htt…
+date = Fri Jul 08 01:16:33 +0000 2016| user = marciodolzan| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 01:16:22 +0000 2016| user = dehdalbosco| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:16:06 +0000 2016| user = dehdalbosco| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 01:15:58 +0000 2016| user = lucasr_aguiar| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 01:15:43 +0000 2016| user = domingos_motta| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 01:14:52 +0000 2016| user = dioriv| text = RT @lucianoperico: Na mão!!! #TeMexeGigante #issoeouro @CocaCola_Br @VonparOficial #Rio2016 https://t.co/n7DZRY0sGP
+date = Fri Jul 08 01:14:42 +0000 2016| user = eucruzanderson| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 01:14:17 +0000 2016| user = henrique_way| text = Do jeito que o Rio anda... E quase certo que qualquer um fara o que quiser... #Rio2016 #CidadeOlimpica #WelcomeToHell
+date = Fri Jul 08 01:13:14 +0000 2016| user = gustavola| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 01:12:56 +0000 2016| user = Daniel_Patrick_| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Fri Jul 08 01:12:54 +0000 2016| user = ofeliagui| text = RT @portaljovempan: #EsportesJP Estrangeiros compram menos de 25% dos ingressos para os Jogos do @Rio2016: https://t.co/0Qp2OOFg5S https://…
+date = Fri Jul 08 01:12:36 +0000 2016| user = Beckezin_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:11:25 +0000 2016| user = whateleicoes| text = Olimpíadas #Rio2016... (Saiba+ na What: https://t.co/HhiJHPgry5)
+date = Fri Jul 08 01:11:16 +0000 2016| user = junckes62| text = @Rio2016_en curtam........https://t.co/8gcKIvFsQt
+date = Fri Jul 08 01:10:23 +0000 2016| user = machado_mil| text = 'Hospitais não estão prontos para a Rio 2016', dizem médicos https://t.co/SBN8BfD4JN
+date = Fri Jul 08 01:09:49 +0000 2016| user = edinhoalex| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:09:44 +0000 2016| user = fimdejogo| text = talvez não seja o local ideal, mas vai q ... no dia 18 de julho começam proibições de carga no rio de janeiro #rio2016
+date = Fri Jul 08 01:09:27 +0000 2016| user = RuanMuller| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 01:08:58 +0000 2016| user = machado_mil| text = Reserva de passagem aumenta 148% para a Rio 2016 https://t.co/yaDFVhn5ab
+date = Fri Jul 08 01:08:38 +0000 2016| user = Sr_Creisson| text = RT @GKellyGBernardo: 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos #G1 https://t.co/QXzQaGaIOq
+date = Fri Jul 08 01:08:22 +0000 2016| user = CavalinhoGremio| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 01:07:45 +0000 2016| user = Lucas_dasilva69| text = De hj #Rio2016 https://t.co/BH9bWhelpN
+date = Fri Jul 08 01:07:44 +0000 2016| user = junckes62| text = @Rio2016 @Brasil2016 @ChamaOlimpica @ChamaOlimpica curtam com essa imagem.....https://t.co/8gcKIvFsQt
+date = Fri Jul 08 01:07:32 +0000 2016| user = CrisantoGuedes| text = @portaljovempan @Rio2016 Que sucesso hein.. De fazer inveja ao primeiro mundo.
+date = Fri Jul 08 01:07:01 +0000 2016| user = Vandao_SPFC| text = lance_saopaulo: Argentina perde Vietto e convoca Calleri para os Jogos Olímpicos | LANCE! https://t.co/d6P1N5qvvq https://t.co/oDYJTARuHn
+date = Fri Jul 08 01:06:25 +0000 2016| user = junckes62| text = @ChamaOlimpica @mayraaguiarjudo @Brasil2016 @Rio2016 @governo_rs @Prefeitura_POA @mayraaguiarjudo  curtam......https://t.co/8gcKIvFsQt
+date = Fri Jul 08 01:06:22 +0000 2016| user = lucasuebel| text = Tocha iniciou a passagem por Porto Alegre em boas mãos #rio2016 #tochaolimpica #portoalegre #grêmio https://t.co/yElqYAO9XG
+date = Fri Jul 08 01:06:18 +0000 2016| user = iiagofranca| text = @Rio2016 enfia esses produtos no cu
+date = Fri Jul 08 01:06:05 +0000 2016| user = junckes62| text = @ChamaOlimpica @Prefeitura_POA @governo_rs @Brasil2016 @Rio2016 curtam.......https://t.co/8gcKIvFsQt
+date = Fri Jul 08 01:06:02 +0000 2016| user = edubandeira| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:04:23 +0000 2016| user = Kethysouzaaa| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 01:04:14 +0000 2016| user = AlmeidaAlzira| text = RT @portaljovempan: #EsportesJP Estrangeiros compram menos de 25% dos ingressos para os Jogos do @Rio2016: https://t.co/0Qp2OOFg5S https://…
+date = Fri Jul 08 01:04:05 +0000 2016| user = ansa_br| text = Porta-bandeira da Itália nas Olimpíadas passa por exame antidoping surpresa. Leia em: https://t.co/y9HFk4KxHa  #Rio2016 #FedericaPellegrini
+date = Fri Jul 08 01:03:49 +0000 2016| user = altemir_nunes| text = RT @portaljovempan: #EsportesJP Estrangeiros compram menos de 25/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+% dos ingressos para os Jogos do @Rio2016: https://t.co/0Qp2OOFg5S https://…
+date = Fri Jul 08 01:02:57 +0000 2016| user = LukazTG| text = The latest Aviação de hoje! https://t.co/N6vGA6qhx5 Thanks to @BoeingBrasil @sandrabeta0 @marly9655 #rio2016 #icms
+date = Fri Jul 08 01:02:35 +0000 2016| user = VerdeCiclista| text = Galera, não treina pra você ver! As olimpíadas tão aí!!! #Rio2016 #RioOlympics
+date = Fri Jul 08 01:01:56 +0000 2016| user = anabresil| text = RT @JogosOlimpicos: Já viu os uniformes do @timebrasil para a cerimônia de abertura @Rio2016? 👌 Todo mundo na beca! Lindões! 😍 https://t.co…
+date = Fri Jul 08 01:01:45 +0000 2016| user = Daniel_boycrazy| text = Quando a #ChamaOlimpica passar pela capital de SP, eu quero conduzi-la também @ChamaOlimpica 😄😙😄😙😄😙 #Rio2016
+date = Fri Jul 08 01:00:29 +0000 2016| user = portaljovempan| text = #EsportesJP Estrangeiros compram menos de 25% dos ingressos para os Jogos do @Rio2016: https://t.co/0Qp2OOFg5S https://t.co/ztjfFogKVh
+date = Fri Jul 08 01:00:10 +0000 2016| user = fotoclanovaes| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Fri Jul 08 00:59:24 +0000 2016| user = Cassiporeh| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 00:59:10 +0000 2016| user = eiitagabs| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:58:49 +0000 2016| user = Essa_Ste| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 00:58:20 +0000 2016| user = Wellington1961| text = @SergioSGTF @Rio2016 e quantos inocentes morrem no Brasil por ação dos bandidos 60000 mil , imagine com bandidos mortos por policiais vivos.
+date = Fri Jul 08 00:58:17 +0000 2016| user = ViniLimaF| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 00:58:04 +0000 2016| user = chameezer| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:57:53 +0000 2016| user = Mahalmeidam_| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:57:37 +0000 2016| user = ViniLimaF| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:57:35 +0000 2016| user = SergioSGTF| text = Esses são os fatores que contribuem para a impunidade de policiais que matam https://t.co/tTJHaSTmqG @Rio2016 #Rio2016
+date = Fri Jul 08 00:57:31 +0000 2016| user = ViniLimaF| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:56:47 +0000 2016| user = miguelitamarsil| text = RT @GKellyGBernardo: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo #G1 https://t.co/Rp8ku56lll
+date = Fri Jul 08 00:56:26 +0000 2016| user = Silicone_Molde| text = BORRACHA DE SILICONE P MOLDES
+R$29,90 KG C CATALISADOR (DINHEIRO)
+(21)2445-1929
+#RiodeJaneiro #Artesanato #Rio2016
+#Rio #RJ #errejota #Artes
+date = Fri Jul 08 00:56:04 +0000 2016| user = SergioSGTF| text = ONG diz que impunidade perpetua execuções cometidas por PMs no Rio https://t.co/oCR0not4Ti via @agenciabrasil @Rio2016 #Rio2016
+date = Fri Jul 08 00:55:44 +0000 2016| user = SergioSGTF| text = ONG aponta extorsão de traficantes e cultura do extermínio na polícia do Rio https://t.co/SwzhEtXB5j via @elpais_brasil @Rio2016 #Rio2016
+date = Fri Jul 08 00:55:40 +0000 2016| user = jmaurosilva| text = RT @jmaurosilva: #MafiaComMegaSdv
+E a contagem regressiva continua 
+#Rio2016 #28DiasParaPassarVergonha
+https://t.co/9uovZ6GVgj
+date = Fri Jul 08 00:55:35 +0000 2016| user = Estantes_RJ| text = ESTANTE DE AÇO C 6 PRATELEIRAS
+109,90 (DINHEIRO)
+PRODUTO NOVO
+#promoção #taquara #jacarepaguá #riodejaneiro #rio2016 https://t.co/jpxb11uAZn
+date = Fri Jul 08 00:55:05 +0000 2016| user = SergioSGTF| text = Para cada policial morto no Rio em 2015, 25 pessoas morreram em ações policiais https://t.co/aUtRxXFjyG via @Rio2016 #Rio2016
+date = Fri Jul 08 00:54:59 +0000 2016| user = SergioSGTF| text = Polícia do Rio matou 645 pessoas em 2015, diz relatório da Human Rights Watch https://t.co/hg74kR2Sto via @JornalExtra @Rio2016 #Rio2016
+date = Fri Jul 08 00:54:31 +0000 2016| user = andrepsf1| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:54:15 +0000 2016| user = BrBruno21| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:52:56 +0000 2016| user = JeanTorquato| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:52:10 +0000 2016| user = GKellyGBernardo| text = 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos #G1 https://t.co/QXzQaGaIOq
+date = Fri Jul 08 00:51:48 +0000 2016| user = GKellyGBernardo| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada #G1 https://t.co/sJc2MnCXUO
+date = Fri Jul 08 00:51:27 +0000 2016| user = GKellyGBernardo| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo #G1 https://t.co/Rp8ku56lll
+date = Fri Jul 08 00:51:24 +0000 2016| user = Dianaszc1| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Fri Jul 08 00:51:12 +0000 2016| user = fabianriv| text = RT @Rio2016: Tanzânia é 1° país a inscrever atletas no #Rio2016. Sejam bem-vindos aos Jogos Olímpicos! https://t.co/lglAXNlXkC https://t.co…
+date = Fri Jul 08 00:50:47 +0000 2016| user = GloriadObando| text = RT @iasd: Já leu essa: Pastor adventista participará das Olimpíadas #rio2016 como capelão voluntário. https://t.co/UeXhxTg6kG https://t.co/…
+date = Fri Jul 08 00:48:20 +0000 2016| user = glwyk1| text = RT @Rio2016: Já conhece a loja Rio 2016 no Shopping Leblon? Tem vários produtos imperdíveis para você levar #OsJogosComVoce! https://t.co/j…
+date = Fri Jul 08 00:48:00 +0000 2016| user = LisMarciano| text = RT @ZNHandebol: MINHA SELEÇÃO! M-I-N-H-A! #RaçaBRASIL #Rio2016 https://t.co/lqc5rbH2HH
+date = Fri Jul 08 00:47:50 +0000 2016| user = RaphKnowles| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:47:41 +0000 2016| user = CristanoRonaldu| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:47:20 +0000 2016| user = Rique_ramos| text = RT @Rio2016: A jornalista Patrícia Poeta e seu filho conduzem a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/Ch563JlRDm
+date = Fri Jul 08 00:46:23 +0000 2016| user = Brasil2016| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:46:17 +0000 2016| user = leonardop_k| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:46:12 +0000 2016| user = AtalesM| text = RT @rmedeirosrenata: Manifestante joga água na tocha e é imobilizada pela força nacional #Rio2016 https://t.co/zijK4tHhvW
+date = Fri Jul 08 00:45:10 +0000 2016| user = depoisdehj| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:44:29 +0000 2016| user = gabbiamoraiis| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:44:25 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:44:20 +0000 2016| user = niuracastrillon| text = RT @Rio2016: Tande fez questão de trazer sua medalha Olímpica para conduzir a @ChamaOlimpica. #RumoAoRio https://t.co/3Wr5Yu7rbN
+date = Fri Jul 08 00:44:05 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:43:59 +0000 2016| user = Rio2016| text = Patrícia Poeta e o "beijo" da @ChamaOlimpica com Daiane dos Santos. #RumoAoRio https://t.co/7JymuqoMc6
+date = Fri Jul 08 00:43:56 +0000 2016| user = heeymossmann| text = Eu vi, eu fui ❤️#Rio2016 #TimeBrasil https://t.co/dZ6d0TfvCY
+date = Fri Jul 08 00:43:49 +0000 2016| user = fotoclanovaes| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 00:43:42 +0000 2016| user = fotoclanovaes| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 00:43:39 +0000 2016| user = zoiloramuspe| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Fri Jul 08 00:43:21 +0000 2016| user = Maidjon| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:42:10 +0000 2016| user = marcoparatorres| text = RT @exercitooficial: Satélite para segurança dos Jogos #Rio2016 já está operacional https://t.co/H5rw80w6ex
+date = Fri Jul 08 00:42:02 +0000 2016| user = ReinaldoJ684| text = RT @Rio2016: A jornalista Patrícia Poeta e seu filho conduzem a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/Ch563JlRDm
+date = Fri Jul 08 00:41:58 +0000 2016| user = niuracastrillon| text = RT @Rio2016: Tanzânia é 1° país a inscrever atletas no #Rio2016. Sejam bem-vindos aos Jogos Olímpicos! https://t.co/lglAXNlXkC https://t.co…
+date = Fri Jul 08 00:41:49 +0000 2016| user = JPLopes17| text = Na expectativa de qual será a abertura da programação dos Jogos @Rio2016, menos que um "OEÁÁÁ", nem comemoro.
+date = Fri Jul 08 00:41:05 +0000 2016| user = LuisaSunol| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Fri Jul 08 00:40:50 +0000 2016| user = AmeLice| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:40:46 +0000 2016| user = Brasil2016| text = RT @Rio2016: A jornalista Patrícia Poeta e seu filho conduzem a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/Ch563JlRDm
+date = Fri Jul 08 00:40:18 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: A jornalista Patrícia Poeta e seu filho conduzem a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/Ch563JlRDm
+date = Fri Jul 08 00:39:52 +0000 2016| user = Rio2016| text = A jornalista Patrícia Poeta e seu filho conduzem a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/Ch563JlRDm
+date = Fri Jul 08 00:39:44 +0000 2016| user = mrkdefreitas| text = RT @InformeRJO: Senado aprova MP que fixa regras para controle de doping na Olimpíada: Texto cria tribunal para julgar atleta... https://t.…
+date = Fri Jul 08 00:39:13 +0000 2016| user = GFrondizi| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Fri Jul 08 00:38:15 +0000 2016| user = richardnardy| text = Faltam 28 dias!! 🇧🇷🏅 #olimpicgames #rio2016 @ Google Brazil https://t.co/0PeGKQVBW8
+date = Fri Jul 08 00:37:44 +0000 2016| user = zappedaniel| text = Tour da Tocha Olímpica em Porto Alegre com @jovaneguissone #tourdatocha #Rio2016 #mpixburn #cpb… https://t.co/eHKbJseBpG
+date = Fri Jul 08 00:37:18 +0000 2016| user = marcoparatorres| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 00:35:25 +0000 2016| user = fernandodacsant| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:35:20 +0000 2016| user = drigocbrito| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:35:14 +0000 2016| user = Rio2016| text = RT @Brasil2016: #TourDaTocha @_daianedosantos foi a 1ª ginasta do 🇧🇷 a se tornar campeã mundial! Em 2003, lembra? #ChamaOlimpica https://t.…
+date = Fri Jul 08 00:33:53 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: 🏆 Amistoso Feminino
+
+🔰 Brasil x Austrália 
+🏠 Fortaleza (CE)
+
+📅 23 de Julho 
+⏰ Às 16h30
+
+⏩ Preparação para a #Rio2016 http…
+date = Fri Jul 08 00:33:40 +0000 2016| user = elMiguel_| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:32:30 +0000 2016| user = ThiagoRD_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:31:55 +0000 2016| user = glwyk1| text = RT @Rio2016: Abriu! Venha conhecer a Megastore Rio 2016. Fica na Praia de Copacabana, em frente à rua Figueiredo Magalhães. https://t.co/Dv…
+date = Fri Jul 08 00:31:41 +0000 2016| user = scimanu| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:31:04 +0000 2016| user = Lucim4r4| text = RT @PersonalEscrito: Roubaram o caminhão de tour da tocha olímpica no RS. #fail #rio2016 #olimpiadaspraquem
+date = Fri Jul 08 00:30:47 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Campeão mundial do salto triplo em 2013, Teddy Tamgho fratura a perna e está fora dos Jogos #Rio2016 #RumoAoRio https://t…
+date = Fri Jul 08 00:30:24 +0000 2016| user = AlbertoSanttos| text = RT @alexpussieldi: Nenhum dos campeões olímpicos 2012 pelos USA se classificaram para o #Rio2016 e dos 19 já garantidos em provas individua…
+date = Fri Jul 08 00:29:37 +0000 2016| user = NelsonSager| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:29:25 +0000 2016| user = Wevertonssss| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:29:23 +0000 2016| user = eduardosusin| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:29:08 +0000 2016| user = OlympicRio016| text = RT @SeuEsporteBR: Olha aí pessoal!!!
+Uniformes dos nossos atletas nas Cerimônias de Abertura e Encerramento na #Rio2016 #RumoAoRio https://…
+date = Fri Jul 08 00:28:31 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Olha aí pessoal!!!
+Uniformes dos nossos atletas nas Cerimônias de Abertura e Encerramento na #Rio2016 #RumoAoRio https://…
+date = Fri Jul 08 00:28:15 +0000 2016| user = alexaguiarpoa| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:27:26 +0000 2016| user = TailaneDavid| text = 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos https://t.co/ByvVVtTl6f
+date = Fri Jul 08 00:27:00 +0000 2016| user = vinitr/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+isch| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:26:01 +0000 2016| user = CiscoDoBrasil| text = Orgulho e emoção ao receber a visita e depoimento de 2 estudantes do programa técnico da cidade olímpica! #Rio2016 https://t.co/WC69BNAVqV
+date = Fri Jul 08 00:25:56 +0000 2016| user = pires_jos| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 00:25:12 +0000 2016| user = forcaatletica| text = Preparado para torcer muito para o handebol brasileiro? 
+ #ForçaAtlética #Handebol #EuSouTimeBrasil #CBHb #Rio2016 https://t.co/hZPCMSTigB
+date = Fri Jul 08 00:24:34 +0000 2016| user = dougui_zin| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:24:16 +0000 2016| user = forever30dejunh| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:24:08 +0000 2016| user = Brasil2016| text = RT @Rio2016: Tande fez questão de trazer sua medalha Olímpica para conduzir a @ChamaOlimpica. #RumoAoRio https://t.co/3Wr5Yu7rbN
+date = Fri Jul 08 00:23:14 +0000 2016| user = gertabares| text = RT @AgenciaANSA: #Rusia apelará por presencia de 410 atletas en #Río2016
+https://t.co/vtCQKvGsv9
+date = Fri Jul 08 00:23:14 +0000 2016| user = GreiceJus1| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 00:23:01 +0000 2016| user = GreiceJus1| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:22:08 +0000 2016| user = GremioPlatino| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:21:58 +0000 2016| user = MaristelaCembra| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 00:21:45 +0000 2016| user = AlanTomazelli| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Fri Jul 08 00:21:36 +0000 2016| user = AlanTomazelli| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:21:31 +0000 2016| user = regisschuch| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:21:07 +0000 2016| user = marceloalmeid_a| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:21:05 +0000 2016| user = LilaDoWilson| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 00:21:00 +0000 2016| user = pqpdanieeel| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:20:58 +0000 2016| user = ian_Colorado29| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:20:51 +0000 2016| user = LilaDoWilson| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Fri Jul 08 00:20:50 +0000 2016| user = CiscoDoBrasil| text = 5.500 AP(s) em Londres, e aqui teremos 5.700! Rodrigo Uchôa direto do Comitê Organizador #Rio2016 #TeamCisco2016 https://t.co/dRpI2SXUae
+date = Fri Jul 08 00:20:36 +0000 2016| user = ulissesportela| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:20:33 +0000 2016| user = nessasci| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:20:20 +0000 2016| user = Bacalart| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:19:48 +0000 2016| user = sinfiltrobqto| text = "Alma e Coração" se titula el tema oficial de #Río2016 &gt;&gt;&gt;&gt;&gt; https://t.co/20XKYVDikn https://t.co/CJQp92nn07
+date = Fri Jul 08 00:18:33 +0000 2016| user = JudoTalk| text = RT @Brasil2016: Judoca @mayraaguiarjudo levou a #ChamaOlimpica na Praça das Armas da @marmilbr. No @Rio2016, vamos torcer por ela! https://…
+date = Fri Jul 08 00:18:20 +0000 2016| user = Erickmarlow| text = RT @SPFW: A estilista @LennyNiemeyer assina os uniformes da delegação brasileira para as cerimônias dos Jogos @Rio2016! https://t.co/n5Jrk0…
+date = Fri Jul 08 00:18:16 +0000 2016| user = cruzlucas1810| text = Alô Estado Islâmico!!! https://t.co/joPBAR1hM5
+date = Fri Jul 08 00:18:11 +0000 2016| user = 943moni| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:15:52 +0000 2016| user = djer1527| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Fri Jul 08 00:15:24 +0000 2016| user = pri_veloso| text = A gente compra mil ingressos... Depois perde a noção haha #Rio2016 https://t.co/3gwW85dkc9
+date = Fri Jul 08 00:15:14 +0000 2016| user = mateiqwerty| text = g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/t8ICGcjmo4 https://t.co/Sf3eQVDtS7
+date = Fri Jul 08 00:14:46 +0000 2016| user = rioinloco| text = Eita! https://t.co/UJNPKi84ZI
+date = Fri Jul 08 00:14:30 +0000 2016| user = arqmonicamendes| text = RT @OperacoesRio: #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.c…
+date = Fri Jul 08 00:14:04 +0000 2016| user = trattorebr| text = RT @BancoCentralBR: Nossa #moedadodia homenageia o #golfe, que volta ao #Rio2016 depois de mais de um século fora dos Jogos. https://t.co/t…
+date = Fri Jul 08 00:13:40 +0000 2016| user = sadsredx| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:13:40 +0000 2016| user = GuiiiPio| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:13:39 +0000 2016| user = Zeh_Carioca| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:13:29 +0000 2016| user = lucianoperico| text = Chama Olímpica vinda da Grécia em evento da @CocaCola_Br no Museu Iberê Camargo! #issoeouro #Rio2016 https://t.co/hnn5GegPLu
+date = Fri Jul 08 00:13:28 +0000 2016| user = lorenzo_pinzon| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:12:35 +0000 2016| user = sadsredx| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:12:16 +0000 2016| user = pri_veloso| text = Tá chegando ingresso que eu nem lembrava kkkk #Rio2016
+date = Fri Jul 08 00:11:59 +0000 2016| user = agoranotransito| text = A #ChamaOlimpica chega ao centro de Porto Alegre. #Rio2016 deixando a sua marca na capital gaúcha. Boa noite! https://t.co/ayQeCdSmw8
+date = Fri Jul 08 00:11:51 +0000 2016| user = Iwishyousaw| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:11:46 +0000 2016| user = charleshoberrek| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:10:47 +0000 2016| user = ogustavorocha| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:10:44 +0000 2016| user = nessasci| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:10:16 +0000 2016| user = marcelomsa73| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:10:03 +0000 2016| user = arqmonicamendes| text = RT @g1mundo: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/6Xwd4fyfnN
+date = Fri Jul 08 00:10:03 +0000 2016| user = GuilhermeSPM| text = Virando homem bomba! #partiuolimpiadas #rio2016 #allahuakbar #kabum #tacataca #SPMThai… https://t.co/Y9ZhPMFArC
+date = Fri Jul 08 00:10:02 +0000 2016| user = velasquezgui| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:09:47 +0000 2016| user = wilsonwilsonfs1| text = @GEdoBrasil @Rio2016 lindo
+date = Fri Jul 08 00:09:14 +0000 2016| user = marcao1959| text = RT @10gonzaga: Hospitais não estão prontos para a Olimpíada, dizem médicos https://t.co/E27RzKrmN5
+date = Fri Jul 08 00:08:14 +0000 2016| user = ikmkoji| text = RT g1 "Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/D8mGvMSN9E https://t.co/40cJ0S5DQG"#TimBeta
+date = Fri Jul 08 00:07:52 +0000 2016| user = CesarSilvaRasec| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 00:07:39 +0000 2016| user = NeivaDosSantos6| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Fri Jul 08 00:06:20 +0000 2016| user = Oliiver_k| text = @Brasil2016 @ChamaOlimpica @patriciapoetap @Rio2016 @JogosOlimpicos O que o Ken humano tá fazendo ali do lado?
+date = Fri Jul 08 00:06:18 +0000 2016| user = sustrindade| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:06:12 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Conheça a equipe olímpica da Rede Record R7 A Rede Record já fez a escalação do seu time para a… https://t.co/6alMTABwQa
+date = Fri Jul 08 00:06:11 +0000 2016| user = ChamberSierpins| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:06:11 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 https://t.co/kukX2SeHiZ Atual campeão, México divulga convocação para Rio 2016… https://t.co/eah7y9eiYL
+date = Fri Jul 08 00:06:02 +0000 2016| user = lucaarthur| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Fri Jul 08 00:05:54 +0000 2016| user = canaldoagente| text = #CanalDoAgente - Jeanine Pires analisa a expectativa para os Jogos Rio 2016: “30 dias, depende de que(m)?” https://t.co/bZuZ45OJzt
+date = Fri Jul 08 00:04:38 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Tanzânia é 1° país a inscrever atletas no #Rio2016. Sejam bem-vindos aos Jogos Olímpicos! https://t.co/lglAXNlXkC https://t.co…
+date = Fri Jul 08 00:04:37 +0000 2016| user = Tatocm| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:04:35 +0000 2016| user = gomes2730| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Fri Jul 08 00:04:28 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Tanzânia é 1° país a inscrever atletas no #Rio2016. Sejam bem-vindos aos Jogos Olímpicos! https://t.co/lglAXNlXkC https://t.co…
+date = Fri Jul 08 00:04:04 +0000 2016| user = tininhogirardi| text = ESSE MERECE TODAS AS PALMAS... https://t.co/kk2MWKzv46
+date = Fri Jul 08 00:03:42 +0000 2016| user = gg_zzoe| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:03:17 +0000 2016| user = marcelozandona| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:03:09 +0000 2016| user = jsmithklimber| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:03:08 +0000 2016| user = domingos_motta| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Fri Jul 08 00:02:51 +0000 2016| user = jailson_soarres| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:02:28 +0000 2016| user = leopoldocout10| text = https://t.co/cd7w0j4hF7 #Rio2016 #RioOlympics Tá chegando!!!! #RoadToRio
+date = Fri Jul 08 00:01:38 +0000 2016| user = mfalcirodrigues| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Fri Jul 08 00:01:37 +0000 2016| user = MarinoPicoli| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Fri Jul 08 00:00:41 +0000 2016| user = NitPortalSocial| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/BC65rsHBQf
+date = Fri Jul 08 00:00:28 +0000 2016| user = g1| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sk24d https://t.co/cxDSGowKlA
+date = Fri Jul 08 00:00:18 +0000 2016| user = Rio2016| text = Tanzânia é 1° país a inscrever atletas no #Rio2016. Sejam bem-vindos aos Jogos Olímpicos! https://t.co/lglAXNlXkC https://t.co/lIP1FSAtTW
+date = Fri Jul 08 00:00:16 +0000 2016| user = FernandoRechett| text = RT @BancoCentralBR: Nossa #moedadodia homenageia o #golfe, que volta ao #Rio2016 depois de mais de um século fora dos Jogos. https://t.co/t…
+date = Fri Jul 08 00:00:14 +0000 2016| user = pickandrollbr| text = NOVOS UNIFORMES DA ARGENTINA! Versão dourada é a novidade para #Rio2016. Uniformes apresentados hoje. @cabboficial https://t.co/m4k3T5MORW
+date = Fri Jul 08 00:00:11 +0000 2016| user = apaulinha_m| text = RT @Planalto: Confira a passagem da #ChamaOlimpica por Passo Fundo! Saiba mais: https://t.co/YkAYuP1EqE #Rio2016
+https://t.co/NRZ6klfHfM
+date = Thu Jul 07 23:59:45 +0000 2016| user = PlanetaPachuca| text = RT @carlos_armenta_: @FutbolElineasMx  
+
+5️⃣ @Tuzos presentes e la lista de @miseleccionmx 🇲🇽 para ir a #Rio2016 
+
+🐹🐹🐹🐹🐹🏆
+date = Thu Jul 07 23:59:36 +0000 2016| user = Bertoletti_Enzo| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:59:27 +0000 2016| user = galvanilima| text = #Rio2016, a violência não faz parte desse jogo! Assine a petição &gt;&gt; https://t.co/xqr76Nm6dP
+date = Thu Jul 07 23:59:04 +0000 2016| user = dgollin| text = O melhor do brasil é o brasileiro
+#Rio2016 https://t.co/V1HA4CaVar
+date = Thu Jul 07 23:58:17 +0000 2016| user = carlos_armenta_| text = @FutbolElineasMx  
+
+5️⃣ @Tuzos presentes e la lista de @miseleccionmx 🇲🇽 para ir a #Rio2016 
+
+🐹🐹🐹🐹🐹🏆
+date = Thu Jul 07 23:58:14 +0000 2016| user = EduardoMira| text = RT @Rio2016: Tande fez questão de trazer sua medalha Olímpica para conduzir a @ChamaOlimpica. #RumoAoRio https://t.co/3Wr5Yu7rbN
+date = Thu Jul 07 23:55:58 +0000 2016| user = baianissima48| text = ... #rio2016, realidade nua e crua ... 👍👍👍👍👍
+
+regrann from @kenjapa  -  Esse é o verdadeiro… https://t.co/CieOJAL2Xh
+date = Thu Jul 07 23:55:21 +0000 2016| user = daniel_braz| text = Anos atrás eu entrevistei a @lolojones e ela disse que se aposentaria no Rio2016. Agora faltam menos de 30 dias pra esse momento. Golden Grl
+date = Thu Jul 07 23:55:09 +0000 2016| user = LucaasSantiiago| text = @Rio2016 tenho uma duvida
+date = Thu Jul 07 23:54:27 +0000 2016| user = decri| text = RT @isabellns: Hell de Janeiro ta passando por uma bela maquiagem pros gringos ver. Não se iludam! #Rio2016
+date = Thu Jul 07 23:54:20 +0000 2016| user = jmaurosilva| text = #MafiaComMegaSdv
+E a contagem regressiva continua 
+#Rio2016 #28DiasParaPassarVergonha
+https://t.co/9uovZ6GVgj
+date = Thu Jul 07 23:53:38 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Tande fez questão de trazer sua medalha Olímpica para conduzir a @ChamaOlimpica. #RumoAoRio https://t.co/3Wr5Yu7rbN
+date = Thu Jul 07 23:53:34 +0000 2016| user = belo_koringa| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 23:53:29 +0000 2016| user = _matheuspraddo| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:53:15 +0000 2016| user = MagaJu_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:53:07 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Tande fez questão de trazer sua medalha Olímpica para conduzir a @ChamaOlimpica. #RumoAoRio https://t.co/3Wr5Yu7rbN
+date = Thu Jul 07 23:53:00 +0000 2016| user = Rio2016| text = Tande fez questão de trazer sua medalha Olímpica para conduzir a @ChamaOlimpica. #RumoAoRio https://t.co/3Wr5Yu7rbN
+date = Thu Jul 07 23:52:58 +0000 2016| user = Luiscarloslima| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:52:16 +0000 2016| user = AMonegalha| text = 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos https://t.co/imW35jt0IH
+date = Thu Jul 07 23:51:07 +0000 2016| user = m_joseoliveira| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/4zTcVlvXFQ
+date = Thu Jul 07 23:50:26 +0000 2016| user = ketlyribeiro| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:49:36 +0000 2016| user = Altai_Armande| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Thu Jul 07 23:49:09 +0000 2016| user = Rio2016| text = RT @Brasil2016: Já com a #ChamaOlimpica, Tande participou de 5 Olimpíadas, 3 como jogador e 2 como comentarista! #TourDaTocha https://t.co/…
+date = Thu Jul 07 23:48:55 +0000 2016| user = fraternit123| text = RT @10gonzaga: Hospitais não estão prontos para a Olimpíada, dizem médicos https://t.co/E27RzKrmN5
+date = Thu Jul 07 23:47:31 +0000 2016| user = mtsferreira| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:46:01 +0000 2016| user = licavergara| text = EU TE AMOO! https://t.co/EWAqpOXTHb
+date = Thu Jul 07 23:45:24 +0000 2016| user = severo_v| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Thu Jul 07 23:45:24 +0000 2016| user = Yanzitomemo| text = RT @Rio2016: Tinga, ídolo do @SCInternacio/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+nal, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:42:52 +0000 2016| user = sleppingmuke| text = RT @httpbrunno: @Rio2016 muda de lugar essa olimpíadas que aqui nao tem condições nao. Avisa logo pros gringo q vao ser roubados e chegar a…
+date = Thu Jul 07 23:42:31 +0000 2016| user = promovidea| text = Alguem avisa ao PMDB e ao PV que a Lagarde e a Yelen as duas tem peru a Paes não? Não existe outra solução pra crise no Brasil que  #Rio2016
+date = Thu Jul 07 23:42:26 +0000 2016| user = sleppingmuke| text = RT @erickfaro: @Rio2016 para de promover olimpíadas!!!!!!!! ninguém liga pra isso!!!! olhem a situação do rio seus lixos.
+date = Thu Jul 07 23:42:11 +0000 2016| user = sleppingmuke| text = RT @Angelqu66n: @Rio2016 comprem bastante pra pagar as dívidas que essa merda causou
+date = Thu Jul 07 23:41:46 +0000 2016| user = joanamelloss| text = To ficando bem animada para as Olimpíadas, não vou mentir...torcer pra tudo dar certo! :) #Rio2016 #AmooRio
+date = Thu Jul 07 23:41:40 +0000 2016| user = dedecow| text = RT @radiobandnewsfm: Dona de três medalhas de ouro, a ginasta Catalina Ponor (@CPonor) será a porta-bandeira da Romênia na @Rio2016. https:…
+date = Thu Jul 07 23:41:19 +0000 2016| user = globalmusic_fm| text = “Alma e Coração” se titula el tema oficial de #Río2016
+date = Thu Jul 07 23:41:16 +0000 2016| user = nathynhaa22| text = RT @OperacoesRio: #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.c…
+date = Thu Jul 07 23:41:12 +0000 2016| user = rafaocordeiro| text = @Rio2016 queria saber qual a pagina oficial dos voluntários rio 2016 no facebook
+date = Thu Jul 07 23:41:03 +0000 2016| user = Chaxa_Farias| text = RT @g1rio: Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/LmnvQ375yu
+date = Thu Jul 07 23:40:50 +0000 2016| user = manugzffilho1| text = RT @g1: Paes diz que turistas da Rio 2016 não devem esperar 'Londres ou Nova York' https://t.co/DHe0Fw197e #G1 https://t.co/47gWd7JNsW
+date = Thu Jul 07 23:40:48 +0000 2016| user = cassita| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Thu Jul 07 23:40:31 +0000 2016| user = leopoldocout10| text = https://t.co/5ZpbAXXwNa Pegando ritmo para a #DavisCup e para a #Rio2016 ! Isso aí... Tamo junto e de olho! @BellucciOficial #RoadToRio
+date = Thu Jul 07 23:40:16 +0000 2016| user = ivanilsonsant0s| text = 1 min. de silêncio para PAZ em homenagem as vítimas de Hiroshima e Nagasaki no #Rio2016 https://t.co/GvzwbJZ6WY via @change_br
+date = Thu Jul 07 23:39:54 +0000 2016| user = sleppingmuke| text = @Rio2016 vocês estão de parabéns, aproveita e pega a tocha olímpica e faz uma fogueira com tanta hipocrisia
+date = Thu Jul 07 23:39:31 +0000 2016| user = _Magaah| text = RT @TaironyMendes: Até o Tinga carregando a tocha e o Breno nada https://t.co/VT6ADsdJVc
+date = Thu Jul 07 23:39:11 +0000 2016| user = danicolorado9| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 23:39:07 +0000 2016| user = marcos_magela| text = RT @Rio2016: Abriu! Venha conhecer a Megastore Rio 2016. Fica na Praia de Copacabana, em frente à rua Figueiredo Magalhães. https://t.co/Dv…
+date = Thu Jul 07 23:39:00 +0000 2016| user = swimsuit1010| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Thu Jul 07 23:38:55 +0000 2016| user = charleshoberrek| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:37:43 +0000 2016| user = JoaquimDias1980| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:36:58 +0000 2016| user = leodaspolar| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:35:21 +0000 2016| user = rk70534| text = RT @PersonalEscrito: ♪ 1% é político, 99 é nós ♬ https://t.co/zizyvN8BM7 #olimpiadaspraquem #rio2016 https://t.co/02598BQgqt
+date = Thu Jul 07 23:35:15 +0000 2016| user = EduMoreira15| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:35:08 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 Tanzânia é primeiro país a inscrever atletas no Rio 2016 Rio 2016 O Rio 2016 celebrou… https://t.co/kSOrkNJN0x
+date = Thu Jul 07 23:35:07 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Scheidt vê rivais melhorarem e avisa: 'Rio-2016 vai ser muito mais ... Istoe Dono de cinco… https://t.co/eMcOAnhiF3
+date = Thu Jul 07 23:35:07 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 JC Online TCU critica falta de planejamento de órgãos federais na segurança ... JC Online TCU… https://t.co/MVgGaaChnV
+date = Thu Jul 07 23:34:51 +0000 2016| user = sleppingmuke| text = tempo pra abrir loja todo mundo tem, tempo pra pagar os colégios estaduais e tirar a ocupação a uns meses atrás,,,,, https://t.co/mcvfaP7L4u
+date = Thu Jul 07 23:34:28 +0000 2016| user = ar7urn| text = Arremesso de Corpos, modalidade preferida do #EI. Torcendo para não termos na #Rio2016 pois o #Brasil não tem estrutura para tal modalidade.
+date = Thu Jul 07 23:33:22 +0000 2016| user = EduarrdoAdrian| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:33:21 +0000 2016| user = lrpvargas| text = RT @agenciapublica: Falta de transparência nos gastos: medalha de ouro na #Rio2016. Leia a reportagem: https://t.co/rS8SC2pQv0 https://t.co…
+date = Thu Jul 07 23:33:19 +0000 2016| user = igovisk_| text = @JogosOlimpicos @Rio2016  a onde está localizado?
+date = Thu Jul 07 23:33:13 +0000 2016| user = izaac_martins04| text = RT @martins_izaac: Senado aprova criar tribunal para julgar doping na Olimpíada https://t.co/0NUD0Ou5Y1
+date = Thu Jul 07 23:33:00 +0000 2016| user = igovisk_| text = RT @JogosOlimpicos: Acredita-se que estes arcos olímpicos misteriosos sejam obra de 👽👽 empolgados que só faltam 2⃣9⃣ dias para @Rio2016 htt…
+date = Thu Jul 07 23:32:28 +0000 2016| user = Jeanine48446349| text = RT @Rio2016: O ídolo Tande e suas duas relíquias Olímpicas na mão: "Uma complementa a outra". #RumoAoRio https://t.co/kbGE4QJY1d
+date = Thu Jul 07 23:32:16 +0000 2016| user = AndreaAlRos| text = RT @Rio2016: O ídolo Tande e suas duas relíquias Olímpicas na mão: "Uma complementa a outra". #RumoAoRio https://t.co/kbGE4QJY1d
+date = Thu Jul 07 23:32:15 +0000 2016| user = luizarg_| text = Gratidão por fazer parte dessa organização, desse evento, dessa história!! #EquipePrefPoa #TochaOlimpica #Rio2016 https://t.co/JcERtbWd7X
+date = Thu Jul 07 23:32:13 +0000 2016| user = SutjeskaRiot| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:32:13 +0000 2016| user = izaac_martins04| text = RT @martins_izaac: Reserva de passagem aumenta 148% para a Rio 2016 https://t.co/kVAPZWk0qd
+date = Thu Jul 07 23:32:10 +0000 2016| user = breakinglefty| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:32:03 +0000 2016| user = breakinglefty| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:31:55 +0000 2016| user = SutjeskaRiot| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:31:49 +0000 2016| user = cacia_graziela| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:31:41 +0000 2016| user = SutjeskaRiot| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 23:31:27 +0000 2016| user = mendoncito_oX| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:31:17 +0000 2016| user = TaironyMendes| text = Até o Tinga carregando a tocha e o Breno nada https://t.co/VT6ADsdJVc
+date = Thu Jul 07 23:30:45 +0000 2016| user = Luise1909| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:30:30 +0000 2016| user = hypolito_miryam| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Thu Jul 07 23:30:18 +0000 2016| user = iarauxos| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:30:16 +0000 2016| user = AndreSousa__| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:30:14 +0000 2016| user = iarauxos| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:30:13 +0000 2016| user = mendoncito_oX| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:30:06 +0000 2016| user = Agnespmo| text = RT @SPFW: A estilista @LennyNiemeyer assina os uniformes da delegação brasileira para as cerimônias dos Jogos @Rio2016! https://t.co/n5Jrk0…
+date = Thu Jul 07 23:30:00 +0000 2016| user = HenriDanieli| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:29:40 +0000 2016| user = ALEXANDREKOM| text = 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos #G1 https://t.co/IuVGSt9n7K
+date = Thu Jul 07 23:29:19 +0000 2016| user = OlympicRio016| text = RT @VEJA: Caminhão de tour da tocha olímpica é furtado no RS #rio2016
+https://t.co/8v1RjIf7rM https://t.co/cFMgfv7RpD
+date = Thu Jul 07 23:29:12 +0000 2016| user = counterOlympics| text = RT @geostadia: Torcha acadêmica in front of maracana.  R$ for #Rio2016 crisis for everything else. Dedo no ferido https://t.co/XFGQIi9vNo
+date = Thu Jul 07 23:29:08 +0000 2016| user = brunnodecampos| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:28:26 +0000 2016| user = jucilenedasil20| text = RT @VEJA: Caminhão de tour da tocha olímpica é furtado no RS #rio2016
+https://t.co/8v1RjIf7rM https://t.co/cFMgfv7RpD
+date = Thu Jul 07 23:28:23 +0000 2016| user = GylldeAbreu| text = @JogosOlimpicos @volei @Rio2016 mal posso esperar véio..... :)
+date = Thu Jul 07 23:27:52 +0000 2016| user = igovisk_| text = RT @cpboficial: Bom dia! Faltam 62 dias para os #JogosParalímpicos @Rio2016! https://t.co/uAdiR6e11Q
+date = Thu Jul 07 23:27:51 +0000 2016| user = DuduCordovil| text = Esclarecimentos @Rio2016 @eduardopaes_ @NiteroiPref @NITTRANS @_RodrigoNeves_ ?? https://t.co/PWuBdfCC51
+date = Thu Jul 07 23:27:49 +0000 2016| user = lucasmenger_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:27:33 +0000 2016| user = j0liana_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:27:00 +0000 2016| user = nandoafonso| text = .@Rio2016_en @Brasil2016 Pula fora! Povo não quer Olimpíadas!
+date = Thu Jul 07 23:26:57 +0000 2016| user = Amilnyleve| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:26:54 +0000 2016| user = Ronmennig| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:25:40 +0000 2016| user = britoo_eduarda| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:24:30 +0000 2016| user = ArimendesCosta| text = RT @iasd: Já leu essa: Pastor adventista participará das Olimpíadas #rio2016 como capelão voluntário. https://t.co/UeXhxTg6kG https://t.co/…
+date = Thu Jul 07 23:24:13 +0000 2016| user = Marlilazaretti| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:24:10 +0000 2016| user = Sou_camisa7| text = Tenho orgulho desse cara, merece todo respeito https://t.co/xyCm4pdlxi
+date = Thu Jul 07 23:24:10 +0000 2016| user = PaolaWSilveira| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:23:55 +0000 2016| user = sergiosmacedo| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:23:48 +0000 2016| user = Rio2016| text = RT @Brasil2016: Nos @JogosOlimpicos de Pequim, Fernanda foi a 1ª brasileira a conquistar uma medalha (bronze) na vela! #TourDaTocha https:/…
+date = Thu Jul 07 23:23:47 +0000 2016| user = luccacsouza| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:23:43 +0000 2016| user = mariajo66360450| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:23:33 +0000 2016| user = mariajo66360450| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:23:00 +0000 2016| user = moniquesci| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 23:22:50 +0000 2016| user = cassimolossi| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:22:46 +0000 2016| user = RENATARO| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Thu Jul 07 23:22:11 +0000 2016| user = Gabryel_PS| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:22:05 +0000 2016| user = LeBarbaNegra| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:22:00 +0000 2016| user = _CarolisNunes| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:21:58 +0000 2016| user = claudinhaloch| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:21:53 +0000 2016| user = tatsch| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 23:21:41 +0000 2016| user = liaramon_| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:21:27 +0000 2016| user = liaramon_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:20:54 +0000 2016| user = JadeGuerra_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:20:37 +0000 2016| user = silveira_cesar| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:20:35 +0000 2016| user = InterJogos1909| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 23:20:29 +0000 2016| user = laremoreira| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:20:24 +0000 2016| user = JacqueInter| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:20:21 +0000 2016| user = InterJogos1909| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:20:02 +0000 2016| user = InterJogos1909| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:19:59 +0000 2016| user = Arthur_SS_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:19:54 +0000 2016| user = igorvms| text = @Rio2016 @SCInternacional @ChamaOlimpica "de vermelho"
+date = Thu Jul 07 23:19:47 +0000 2016| user = Guicdossantos| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:19:47 +0000 2016| user = GrolGm| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:19:47 +0000 2016| user = oalyssu_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:19:35 +0000 2016| user = silveira_cesar| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:19:28 +0000 2016| user = f0davcs_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:19:21 +0000 2016| user = prejuizo_| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:19:14 +0000 2016| user = wesley_moraes_| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:19:10 +0000 2016| user = Paulawbloved| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:19:08 +0000 2016| user = kleisonzanella| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:19:02 +0000 2016| user = Gabuzela| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:19:02 +0000 2016| user = AnttonioElias| text = SCInternacional: Valeu, PauloCesarTinga ! Orgulho da nação colorada! https://t.co/J8jVeubCCC
+date = Thu Jul 07 23:19:01 +0000 2016| user = laiss_rodrigues| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:18:53 +0000 2016| user = Daniell_limma| text = RT @SCInternacional: Valeu, @PauloCesarTinga !/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:18:52 +0000 2016| user = MottaG_| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:18:51 +0000 2016| user = ninacarolina6| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:18:48 +0000 2016| user = alexdias_98| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:18:43 +0000 2016| user = olvvju| text = RT @SCInternacional: Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:18:38 +0000 2016| user = AndreaAlRos| text = RT @GEdoBrasil: Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t…
+date = Thu Jul 07 23:18:28 +0000 2016| user = SCInternacional| text = Valeu, @PauloCesarTinga ! Orgulho da nação colorada! https://t.co/GEywR31INz
+date = Thu Jul 07 23:17:48 +0000 2016| user = GEdoBrasil| text = Qual sua expectativa para os Jogos Olímpicos @Rio2016? Descubra aqui: https://t.co/S7ZqbOdFBY #OsJogosJáComeçaram https://t.co/IN8Ds43EdV
+date = Thu Jul 07 23:17:45 +0000 2016| user = cacotimaotimao| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:17:25 +0000 2016| user = Douglas86014152| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:17:19 +0000 2016| user = de_sidclay| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 23:15:25 +0000 2016| user = Hic76| text = Eu como morador do Rio não estou mais preocupado que o habitual com a violência durante a #Rio2016 . Estou preocupado com o terrorismo.
+date = Thu Jul 07 23:15:09 +0000 2016| user = ultrasdaarena| text = #Rio2016 - Relembre a última apresentação da seleção brasileira em BH: https://t.co/jc3R41z7FE
+date = Thu Jul 07 23:15:09 +0000 2016| user = JM_ROMO| text = Roster de Francia para #Rio2016 
+https://t.co/1H9yFD7LqX
+date = Thu Jul 07 23:13:23 +0000 2016| user = dndturismo| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:12:47 +0000 2016| user = nine_janine| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:12:46 +0000 2016| user = Edmilsonmm| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:12:16 +0000 2016| user = NelsonLambach| text = RT @Brasil2016: Familia da Graciele Herrmann, da natação, já prepara a torcida para os Jogos @Rio2016 aqui no #TourDaTocha! https://t.co/ek…
+date = Thu Jul 07 23:10:40 +0000 2016| user = andyallnews| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:10:39 +0000 2016| user = andyallnews| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Thu Jul 07 23:10:32 +0000 2016| user = andyallnews| text = RT @Rio2016: O ídolo Tande e suas duas relíquias Olímpicas na mão: "Uma complementa a outra". #RumoAoRio https://t.co/kbGE4QJY1d
+date = Thu Jul 07 23:10:31 +0000 2016| user = andyallnews| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 23:10:15 +0000 2016| user = Edmilsonmm| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:10:07 +0000 2016| user = andyallnews| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 23:09:14 +0000 2016| user = jairolog| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:08:46 +0000 2016| user = BBmenos| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:08:12 +0000 2016| user = martins_izaac| text = Reserva de passagem aumenta 148% para a Rio 2016 https://t.co/kVAPZWk0qd
+date = Thu Jul 07 23:07:48 +0000 2016| user = carlosscom| text = @ChamaOlimpica @mayraaguiarjudo @Brasil2016 @Rio2016 @governo_rs @Prefeitura_POA @mayraaguiarjudo  rumo ao rio https://t.co/lY2tM72td0
+date = Thu Jul 07 23:06:46 +0000 2016| user = edinhoalex| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 23:06:43 +0000 2016| user = aliinesci| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:06:39 +0000 2016| user = LFernandoGFPA| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 23:06:00 +0000 2016| user = ptozatti| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:04:54 +0000 2016| user = TaisVale_| text = RT @RedeGlobo: Muita "Alma e Coração" na música-tema do @Rio2016! @thiaguinhocomth e @Projota! 👊 #SomosTodosOlímpicos
+https://t.co/IHjCG4vU…
+date = Thu Jul 07 23:04:25 +0000 2016| user = josefortunati| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Thu Jul 07 23:04:20 +0000 2016| user = reneferracioli| text = RT @lily_ellen: Que venham as olimpíadas #Rio2016 https://t.co/gsyba8EJS4
+date = Thu Jul 07 23:04:19 +0000 2016| user = goxtosaxim| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 23:03:46 +0000 2016| user = 10gonzaga| text = Hospitais não estão prontos para a Olimpíada, dizem médicos https://t.co/E27RzKrmN5
+date = Thu Jul 07 23:03:27 +0000 2016| user = PiresLcia| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 23:03:20 +0000 2016| user = profclaudioneis| text = Nossa judoca Mayra Aguiar, que tem grandes chances de medalha nas Olimpíadas! https://t.co/SnxVHRW6UL
+date = Thu Jul 07 23:03:20 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Thu Jul 07 23:03:11 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:02:57 +0000 2016| user = GutoSchlee| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 23:02:46 +0000 2016| user = Claudio_Salles7| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:02:26 +0000 2016| user = ruggeronreis| text = RT @g1: 'Barbie humana' vai carregar tocha olímpica em Santa Catarina https://t.co/CXa7DhS8dP #G1 #Rio2016 https://t.co/gmlokowRbl
+date = Thu Jul 07 23:02:23 +0000 2016| user = jannettepaz58| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Thu Jul 07 23:02:18 +0000 2016| user = jannettepaz58| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 23:02:11 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 Vila dos Atletas recebe todas as religiões no Rio 2016 Rio 2016 A Vila dos Atletas está… https://t.co/wK4VL8gwwm
+date = Thu Jul 07 23:02:10 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 'Falhas foram suprimidas', diz ministro após TCU criticar segurança ... Istoe Após reportagem do… https://t.co/Zx7NcDOxXE
+date = Thu Jul 07 23:02:09 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 UOL Estouro no orçamento da Rio 2016 soma US$ 1,6 bi, aponta Oxford UOL Embora o estouro do… https://t.co/APC1C414rS
+date = Thu Jul 07 23:01:21 +0000 2016| user = luizinhogranza| text = Já pensou que louco seria o Fábio Costa aparecesse do nada dando uma voadora e depois apagasse a tocha! https://t.co/tyXQXbBLD2
+date = Thu Jul 07 23:00:49 +0000 2016| user = leozinhoclash| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 23:00:45 +0000 2016| user = giovanicordioli| text = Ipanema, Rio ☀️#rio2016 @ Ipanema, Rio De Janeiro, Brazil https://t.co/N7qWHzfclP
+date = Thu Jul 07 23:00:21 +0000 2016| user = AgenciaANSA| text = #Rusia apelará por presencia de 410 atletas en #Río2016
+https://t.co/vtCQKvGsv9
+date = Thu Jul 07 23:00:09 +0000 2016| user = ChildFundBrasil| text = Não deixe que o número de abusos sexuais aumente nessas Olimpíadas. #itsapenalty  #denuncie #disque100  #rio2016 https://t.co/1kNZQXxcHa
+date = Thu Jul 07 22:59:52 +0000 2016| user = ahm2001ed| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Thu Jul 07 22:59:29 +0000 2016| user = bielelias| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 22:59:20 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/u…
+date = Thu Jul 07 22:59:05 +0000 2016| user = ferndogg11| text = RT @TheBlurBarbosa: Foco no detalhe, vamos 🇧🇷🏀🔥 #TimeBrasil @rio2016 @jogosolimpicos https://t.co/Dv7bWDpjHO
+date = Thu Jul 07 22:59:01 +0000 2016| user = Rio2016| text = Tinga, ídolo do @SCInternacional, conduziu a @chamaolimpica na frente do Beira Rio, todo iluminado da vermelho. https://t.co/uKqFA0XOm2
+date = Thu Jul 07 22:58:29 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Aquela foto que retrata uma amizade verdadeira! 😊 @mayraaguiarjudo 😘😘😘 #ChamaNoRS #ChamaOlimpica #RumoAoRio https://t.co…
+date = Thu Jul 07 22:57:18 +0000 2016| user = PaolaWSilveira| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:57:17 +0000 2016| user = coalacroata| text = RT @PersonalEscrito: ♪ 1% é político, 99 é nós ♬ https://t.co/zizyvN8BM7 #olimpiadaspraquem #rio2016 https://t.co/02598BQgqt
+date = Thu Jul 07 22:56:44 +0000 2016| user = pastormesquita| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:56:38 +0000 2016| user = metiuksta| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:56:12 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Thu Jul 07 22:55:21 +0000 2016| user = Rio2016| text = Olha a @mayraaguiarjudo conduzindo a @ChamaOlimpica em Porto Alegre. #RumoAoRio https://t.co/MCqxZUEIGp
+date = Thu Jul 07 22:55:13 +0000 2016| user = Rio2016| text = Tá preparado para os #JogosParalímpicos? Faltam #2Meses! https://t.co/diptfJzVR6
+date = Thu Jul 07 22:55:02 +0000 2016| user = ovasco71| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:55:00 +0000 2016| user = BarbosaVasco197| text = RT @g1rio: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/MoIIFyh34i
+date = Thu Jul 07 22:54:59 +0000 2016| user = BarbosaVasco197| text = RT @g1rio: Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/LmnvQ375yu
+date = Thu Jul 07 22:54:43 +0000 2016| user = marceloagliardi| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 22:54:42 +0000 2016| user = celesttes64| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:53:52 +0000 2016| user = breno_campos7| text = Eu vou para um jogo nas olimpíadas!!!!!!!!!!!! 😁😎😎😎😎🏟✌🇧🇷 #Rio2016 #euvou #agoraeaqui
+date = Thu Jul 07 22:53:36 +0000 2016| user = DereiaSilva| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:52:58 +0000 2016| user = real_billy100| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 22:52:56 +0000 2016| user = semrasevimli44| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Thu Jul 07 22:51:10 +0000 2016| user = AdriParanhos| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:49:08 +0000 2016| user = CavalinhoGremio| text = RT @alexandresalda: Força Nacional de coque. https://t.co/UrTi0zUsVS
+date = Thu Jul 07 22:48:21 +0000 2016| user = el_fabao| text = RT @lily_ellen: Que venham as olimpíadas #Rio2016 https://t.co/gsyba8EJS4
+date = Thu Jul 07 22:48:21 +0000 2016| user = sanchez_arthurr| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 22:47:57 +0000 2016| user = Jackeline_Motta| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:47:47 +0000 2016| user = ThomazAAFonseca| text = Petition - #Rio2016, a violência não faz parte desse jogo! Assine a petição &gt;&gt; https://t.co/xG6QhhdJmx
+date = Thu Jul 07 22:47:23 +0000 2016| user = EtreBr| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:47:13 +0000 2016| user = edinho_dorgas| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:47:01 +0000 2016| user = EtreBr| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:46:13 +0000 2016| user = APhoenix13| text = Pelo menos as Vadias (/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+bitchs) da #Rio2016 serão bem limpinhas, hahaha.
+E, por favor depois do Programa (R$40,00... https://t.co/YbspIQBYBo
+date = Thu Jul 07 22:46:07 +0000 2016| user = Barrazine| text = BarraShopping recebe a exposição 'Super Atletas'! #BarraShopping #Rio2016 https://t.co/uBDFcqyibK
+date = Thu Jul 07 22:46:04 +0000 2016| user = o_pauloricardo| text = Acredito que muitos amigos aqui já desejaram estar em algum game, hoje todos nós estamos no GTA Rio de Janeiro!
+#Rio2016 #CidadeOlímpica
+date = Thu Jul 07 22:45:50 +0000 2016| user = Liezer_santos| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:45:44 +0000 2016| user = BiTaiss| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 22:45:32 +0000 2016| user = tcassia7| text = RT @Brasil2016: Quem vai passar a @ChamaOlimpica ao Jovane é o Guilherme Toldo, também esgrimista que vai pro @Rio2016! #TourDaTocha https:…
+date = Thu Jul 07 22:45:31 +0000 2016| user = marcelmerguizo| text = Em evento no Pacaembu, revezamento da @ChamaOlimpica em SP terá homenagem aos 'sem tocha' #RumoaoRio #Rio2016 https://t.co/pebAwFTQX5
+date = Thu Jul 07 22:45:30 +0000 2016| user = hellenbaarradas| text = RT @leandrooacosta: Olha os cara em Porto Alegre jogando água tentando apagar a tocha, o povo brasileiro é o melhor  😂😂😂 #Rio2016
+date = Thu Jul 07 22:44:55 +0000 2016| user = BrunooLqz| text = Uhuu!
+#horadetreinar #Rio2016 #Voluntarios https://t.co/SUl84sDBgw
+date = Thu Jul 07 22:44:45 +0000 2016| user = americantrired| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:44:23 +0000 2016| user = marioveloso2010| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:44:17 +0000 2016| user = marcolin09| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:43:58 +0000 2016| user = critico_lost| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:43:45 +0000 2016| user = alexandresalda| text = Força Nacional de coque. https://t.co/UrTi0zUsVS
+date = Thu Jul 07 22:43:40 +0000 2016| user = jugfbpa_| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 22:43:28 +0000 2016| user = ksahione| text = QUE COMECEM OS JOGOS !!! @g1 @LeiSecaRJ @BlogDoPim #Rio2016 #RioOlimpiada2016 #ChegadeViolencia #QueremosPaz https://t.co/gMaQlqM8Vn
+date = Thu Jul 07 22:43:17 +0000 2016| user = EduardoMoura25| text = @josefortunati @Rio2016 @papasdalingua Leva essa porcaria para o Rio. Ainda causando caos na cidade.
+date = Thu Jul 07 22:42:59 +0000 2016| user = Edu_campeao| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 22:42:58 +0000 2016| user = Estephanie_esna| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:42:28 +0000 2016| user = EduardoMoura25| text = @josefortunati @Rio2016 @papasdalingua Vai para o inferno com essa tocha maldita, hospitais sucateados,  assaltos toda hora. Ai a tocha.
+date = Thu Jul 07 22:42:14 +0000 2016| user = adrianomendes50| text = Marcelo negrão é gaúcho de onde? https://t.co/mnrQfS4qRC
+date = Thu Jul 07 22:41:49 +0000 2016| user = csyuri7| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:41:18 +0000 2016| user = DanielPechin| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:40:27 +0000 2016| user = ana_ana0420| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:40:27 +0000 2016| user = JairPagno| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:39:49 +0000 2016| user = JudoSogipa| text = RT @Brasil2016: Judoca @mayraaguiarjudo levou a #ChamaOlimpica na Praça das Armas da @marmilbr. No @Rio2016, vamos torcer por ela! https://…
+date = Thu Jul 07 22:39:38 +0000 2016| user = morato_edu| text = A grande verdade que as autoridades estão "nem aí" pro povo . Vao "mascarar" a cidade pra gringo . E só #Rio2016
+date = Thu Jul 07 22:38:56 +0000 2016| user = veranimer| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:38:44 +0000 2016| user = veranimer| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:38:21 +0000 2016| user = ester_abrahao| text = RT @Rio2016: Este é o Roger, foi atleta de sucesso pelo @Gremio, e hoje é técnico do Imortal. #RumoAoRio https://t.co/kXeLn0UpCg
+date = Thu Jul 07 22:38:07 +0000 2016| user = Duran_spfc| text = Calleri é convocado para disputar os jogos Olímpicos pela Seleção Argentina #Rio2016 https://t.co/a7Kou0OUfP
+date = Thu Jul 07 22:37:52 +0000 2016| user = AlmeidaKilaed| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:37:30 +0000 2016| user = _lukowski| text = RT @g1: 'Barbie humana' vai carregar tocha olímpica em Santa Catarina https://t.co/CXa7DhS8dP #G1 #Rio2016 https://t.co/gmlokowRbl
+date = Thu Jul 07 22:37:22 +0000 2016| user = _Kaleb| text = RT @g1: 'Barbie humana' vai carregar tocha olímpica em Santa Catarina https://t.co/CXa7DhS8dP #G1 #Rio2016 https://t.co/gmlokowRbl
+date = Thu Jul 07 22:36:44 +0000 2016| user = miriancastro| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:36:02 +0000 2016| user = felipebs27| text = @SamsungBrasil Se fosse um famoso tivesse no @Rio2016 ganharia um melhor com certeza neh https://t.co/pngeuwpDkM
+date = Thu Jul 07 22:36:02 +0000 2016| user = minesporte| text = Ministério do Esporte passa a ter perfil em rede social chinesa para divulgar os Jogos #Rio2016 . https://t.co/TjCYa7qR59
+date = Thu Jul 07 22:36:01 +0000 2016| user = Elenpinto| text = Jura? https://t.co/NLcHMYqfhQ
+date = Thu Jul 07 22:35:31 +0000 2016| user = xdarkentriesx| text = RT @lily_ellen: Que venham as olimpíadas #Rio2016 https://t.co/gsyba8EJS4
+date = Thu Jul 07 22:34:58 +0000 2016| user = Brasil2016| text = Judoca @mayraaguiarjudo levou a #ChamaOlimpica na Praça das Armas da @marmilbr. No @Rio2016, vamos torcer por ela! https://t.co/RAGZF6OP40
+date = Thu Jul 07 22:34:43 +0000 2016| user = facadanagoela| text = RT @lily_ellen: Que venham as olimpíadas #Rio2016 https://t.co/gsyba8EJS4
+date = Thu Jul 07 22:33:21 +0000 2016| user = lily_ellen| text = Que venham as olimpíadas #Rio2016 https://t.co/gsyba8EJS4
+date = Thu Jul 07 22:32:40 +0000 2016| user = tcassia7| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:32:34 +0000 2016| user = tominhaaz| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:32:30 +0000 2016| user = canteiro_hugo| text = RT @Brasil2016: Quem vai passar a @ChamaOlimpica ao Jovane é o Guilherme Toldo, também esgrimista que vai pro @Rio2016! #TourDaTocha https:…
+date = Thu Jul 07 22:32:07 +0000 2016| user = RafaellaLeeh1| text = RT @SamsungBrasil: A música tema do #Rio2016, Alma e Coração ficou sensacional. O que você achou? #DesafieBarreiras https://t.co/ILImvh7ovp
+date = Thu Jul 07 22:31:24 +0000 2016| user = gabielguy| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:31:13 +0000 2016| user = correio_dopovo| text = RT @agora_CP: Campeã mundial de judô Mayra Aguiar diz que chegará mais motivada ao @Rio2016 após conduzir #ChamaOlimpica https://t.co/DiyV2…
+date = Thu Jul 07 22:31:04 +0000 2016| user = Dr_Bacamarte| text = @josefortunati @Rio2016 @papasdalingua cadê a folha suplementar imediata @josefortunati ? Virou desfile da tocha?
+date = Thu Jul 07 22:29:27 +0000 2016| user = BLira_RN| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:29:14 +0000 2016| user = BLira_RN| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:29:01 +0000 2016| user = Oohh_Henriques| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:28:57 +0000 2016| user = jucilenesilvaOl| text = RT @RedeGlobo: Vai que é tuuuuua, Rosangela!!! #Faltam29Dias pro @Rio2016! #SomosTodosOlímpicos https://t.co/a0YtTdbCBN
+date = Thu Jul 07 22:28:37 +0000 2016| user = Rio2016| text = RT @Brasil2016: Olha aí a @mayraaguiarjudo, nossa campeã mundial e medalhista olímpica, com a @ChamaOlimpica no #TourDaTocha! https://t.co/…
+date = Thu Jul 07 22:28:19 +0000 2016| user = _RenataTeixeira| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:28:16 +0000 2016| user = OperacoesRio| text = RT @OperacoesRio: #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.c…
+date = Thu Jul 07 22:28:13 +0000 2016| user = mcleodabaixada| text = RT @SamsungBrasil: A música tema do #Rio2016, Alma e Coração ficou sensacional. O que você achou? #DesafieBarreiras https://t.co/ILImvh7ovp
+date = Thu Jul 07 22:27:11 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio-2016 notifica operadora inglesa da loja de produtos dos Jogos ... Istoe Alvo de reclamações… https://t.co/yFKdOki1Fy
+date = Thu Jul 07 22:27:10 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Atual campeão, México divulga convocação para o Rio 2016 Gazeta Esportiva A Federação Mexicana… https://t.co/s8jyyBBDNG
+date = Thu Jul 07 22:27:09 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016 Reta final das classificações Rio 2016: a disputa no golfe Rio 2016 Ausente desde St.… https://t.co/iJIfEpqkVJ
+date = Thu Jul 07 22:26:19 +0000 2016| user = josiel_dias| text = @g1 Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/1aZd3lRA79 https://t.co/Tm7FHy4Cyc
+date = Thu Jul 07 22:26:11 +0000 2016| user = ArajoDarcy| text = RT @Brasil2016: Quem vai passar a @ChamaOlimpica ao Jovane é o Guilherme Toldo, também esgrimista que vai pro @Rio2016! #TourDaTocha https:…
+date = Thu Jul 07 22:26:03 +0000 2016| user = Rio2016| text = RT @Brasil2016: Quem vai passar a @ChamaOlimpica ao Jovane é o Guilherme Toldo, também esgrimista que vai pro @Rio2016! #TourDaTocha https:…
+date = Thu Jul 07 22:25:43 +0000 2016| user = Brasil2016| text = Quem vai passar a @ChamaOlimpica ao Jovane é o Guilherme Toldo, também esgrimista que vai pro @Rio2016! #TourDaTocha https://t.co/KbRfVrdQ92
+date = Thu Jul 07 22:25:37 +0000 2016| user = caahsays| text = Ladrões do #Rio fugindo de barco, não me espanto com mais nada!! 👀#WelcomeToBrazil #Rio2016
+date = Thu Jul 07 22:24:47 +0000 2016| user = lisiane_cardoso| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:23:47 +0000 2016| user = RuanMuller| text = @m_baldo @Rio2016 @ChamaOlimpica Medalha de ouro pra Rainha da Globo
+date = Thu Jul 07 22:23:40 +0000 2016| user = AndreaAlRos| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:23:38 +0000 2016| user = martinewski_| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:23:34 +0000 2016| user = ju__bittencourt| text = E hoje as olímpiadas passaram aqui! ❤️ #rio2016 foto marisstrege 
+
+#olimpiadas2016 #olimpicgames… https://t.co/izEAx7cb3Y
+date = Thu Jul 07 22:23:21 +0000 2016| user = m_baldo| text = @RuanMuller @Rio2016 @ChamaOlimpica SOCORRO COM A DONAAAAAAAA
+date = Thu Jul 07 22:23:11 +0000 2016| user = anilarocca| text = RT @PersonalEscrito: ♪ 1% é político, 99 é nós ♬ https://t.co/zizyvN8BM7 #olimpiadaspraquem #rio2016 https://t.co/02598BQgqt
+date = Thu Jul 07 22:23:04 +0000 2016| user = m_baldo| text = RT @RuanMuller: Rainha Olímpica... Socorro @m_baldo !! https://t.co/7yGYM4NVoe
+date = Thu Jul 07 22:22:55 +0000 2016| user = RuanMuller| text = Rainha Olímpica... Socorro @m_baldo !! https://t.co/7yGYM4NVoe
+date = Thu Jul 07 22:22:55 +0000 2016| user = eerikadasilva| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:22:41 +0000 2016| user = Gabriel_Knabach| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:22:26 +0000 2016| user = FutFoot_ball| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:22:20 +0000 2016| user = ninacarolina6| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:22:15 +0000 2016| user = PersonalEscrito| text = ♪ 1% é político, 99 é nós ♬ https://t.co/zizyvN8BM7 #olimpiadaspraquem #rio2016 https://t.co/02598BQgqt
+date = Thu Jul 07 22:22:10 +0000 2016| user = aledarin| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:21:59 +0000 2016| user = intelog| text = Paranaenses apoiados pela CCR RodoNorte vivem expectativa por convocação ao Rio2016 - Divulgação dos convocados... https://t.co/Hso7ezKZMT
+date = Thu Jul 07 22:21:52 +0000 2016| user = leandrooacosta| text = Olha os cara em Porto Alegre jogando água tentando apagar a tocha, o povo brasileiro é o melhor  😂😂😂 #Rio2016
+date = Thu Jul 07 22:21:39 +0000 2016| user = jrobert86333851| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:21:36 +0000 2016| user = jwmirisola| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:21:35 +0000 2016| user = liima_luaana| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:21:33 +0000 2016| user = jp_dutra1909| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:21:30 +0000 2016| user = rosaqueabre1| text = RT @RedeGlobo: Vai que é tuuuuua, Rosangela!!! #Faltam29Dias pro @Rio2016! #SomosTodosOlímpicos https://t.co/a0YtTdbCBN
+date = Thu Jul 07 22:21:26 +0000 2016| user = thiagomourao| text = Vai ter Olimpíadas. Se reclamar, vai ter duas. #Rio16 #Rio2016 #JO #Handebol #Basquete #Futebol… https://t.co/OjuMOoRfZg
+date = Thu Jul 07 22:20:54 +0000 2016| user = sadsredx| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:20:51 +0000 2016| user = jrobert86333851| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:20:47 +0000 2016| user = josefortunati| text = RT @josefortunati: Para acompanhar a Tocha Olímpica você não vai precisar ter fôlego de atleta. 
+#ChamaOlimpica #Rio2016 #TochaOlimpica htt…
+date = Thu Jul 07 22:19:51 +0000 2016| user = privatizou| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:19:41 +0000 2016| user = ahamalveszn| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:19:28 +0000 2016| user = Luu_lu| text = Mas ela tá tão magra, vai aguentar conduzir a tocha... Eita 🙈
+Essa tocha já deu o que tinha que dar ... 😏 https://t.co/YDnvmhnkfZ
+date = Thu Jul 07 22:19:15 +0000 2016| user = _Victjoao| text = RT @Rio2016: O ídolo Tande e suas duas relíquias Olímpicas na mão: "Uma complementa a outra". #RumoAoRio https://t.co/kbGE4QJY1d
+date = Thu Jul 07 22:19:06 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: O ídolo Tande e suas duas relíquias Olímpicas na mão: "Uma complementa a outra". #RumoAoRio https://t.co/kbGE4QJY1d
+date = Thu Jul 07 22:19:05 +0000 2016| user = agora_CP| text = Campeã mundial de judô Mayra Aguiar diz que chegará mais motivada ao @Rio2016 após conduzir #ChamaOlimpica https://t.co/DiyV2Rrwbm
+date = Thu Jul 07 22:18:57 +0000 2016| user = Brasil2016| text = RT @Rio2016: O ídolo Tande e suas duas relíquias Olímpicas na mão: "Uma complementa a outra". #RumoAoRio https://t.co/kbGE4QJY1d
+date = Thu Jul 07 22:18:53 +0000 2016| user = DereiaSilva| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:18:48 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: O ídolo Tande e suas duas relíquias Olímpicas na mão: "Uma complementa a outra". #RumoAoRio https://t.co/kbGE4QJY1d
+date = Thu Jul 07 22:18:41 +0000 2016| user = Rio2016| text = O ídolo Tande e suas duas relíquias Olímpicas na mão: "Uma complementa a outra". #RumoAoRio https://t.co/kbGE4QJY1d
+date = Thu Jul 07 22:18:11 +0000 2016| user = judancer27| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:18:08 +0000 2016| user = chaianyy| text = RT @JogosOlimpicos: Entrando no clima dos Jogos @Rio2016 com @Giba7 @meligeni @FabiAlvim14 #tbt #RumoAoRio
+https://t.co/r53yK5tZYT
+date = Thu Jul 07 22:17:59 +0000 2016| user = ContraporIdeias| text = 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos #G1 https://t.co/Ib6YwHgvxe
+date = Thu Jul 07 22:17:55 +0000 2016| user = clarabfraga| text = Olha a tocha. #Rio2016 https://t.co/IrYOX4dKj4
+date = Thu Jul 07 22:17:49 +0000 2016| user = charleshoberrek| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:17:37 +0000 2016| user = MichelTemer_| text = RT @MichelTemer: (AI) Militares da Aviação do @exerci/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+tooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:17:36 +0000 2016| user = JacqueInter| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:17:33 +0000 2016| user = MichelTemer_| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:17:19 +0000 2016| user = Yascastro_29| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:17:11 +0000 2016| user = AnttonioElias| text = SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/0xYMCnWK60
+date = Thu Jul 07 22:17:05 +0000 2016| user = zillena| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:17:04 +0000 2016| user = gremistaperola| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:16:55 +0000 2016| user = becaa_08| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:16:52 +0000 2016| user = kleisonzanella| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:16:32 +0000 2016| user = thimllr| text = Um guri foi preso tentando apagar a Tocha Olímpica na frente da ufrgs centro. #rio2016
+date = Thu Jul 07 22:16:28 +0000 2016| user = lucasddenardi| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:16:23 +0000 2016| user = arthurnory| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:16:20 +0000 2016| user = garciaccaio| text = Nao queria estragar a surpresa, mas descobrimos a pira olimpica. #Rio2016 #TochaOlimpica  https://t.co/oWmShxulGe https://t.co/VKf6o9igqm
+date = Thu Jul 07 22:16:19 +0000 2016| user = vittoriasci| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:16:14 +0000 2016| user = umloiroae| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:16:12 +0000 2016| user = Luizinhoomp_| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:16:03 +0000 2016| user = alexdias_98| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:59 +0000 2016| user = AndreSousa__| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:57 +0000 2016| user = GabrielBianki| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:55 +0000 2016| user = agora_CP| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:52 +0000 2016| user = feturquete| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:47 +0000 2016| user = LCruuz| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:45 +0000 2016| user = _karenboff| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:15:41 +0000 2016| user = Mayaaa_| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:32 +0000 2016| user = Brasil2016| text = RT @SCInternacional: Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:31 +0000 2016| user = jorgeroriz| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:15:14 +0000 2016| user = SCInternacional| text = Colorados aguardam a passagem da tocha olímpica pelo Beira-Rio. Falta pouco!  #Rio2016 https://t.co/aXMQp3KdOZ
+date = Thu Jul 07 22:15:06 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:15:02 +0000 2016| user = FCGLOBORIO| text = RT @RedeGlobo: Vai que é tuuuuua, Rosangela!!! #Faltam29Dias pro @Rio2016! #SomosTodosOlímpicos https://t.co/a0YtTdbCBN
+date = Thu Jul 07 22:14:58 +0000 2016| user = ariesprm| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:14:58 +0000 2016| user = marlidzdz59| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:14:55 +0000 2016| user = Brasil2016| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:14:38 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/f…
+date = Thu Jul 07 22:14:30 +0000 2016| user = Rio2016| text = Patricia Poeta vai entregar a @ChamaOlimpica para Daiane dos Santos, que encerra o revezamento em Porto Alegre. https://t.co/fZVEfGtW3V
+date = Thu Jul 07 22:14:21 +0000 2016| user = Guijan3| text = RT @GEdoBrasil: @Brasil2016 @Rio2016 Na expectativa para ver nossos atletas em ação! 😍 #OsJogosJácomeçaram #Falta1mês #RumoaoRio
+date = Thu Jul 07 22:14:16 +0000 2016| user = Emeferr| text = RT @marinhogalvao: Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.co/…
+date = Thu Jul 07 22:14:13 +0000 2016| user = _gusmacedo| text = @maguinago @Rio2016 doi mesmo eh a expulsao contra o sp na final da libertadores, só por um "jesus te amo"
+date = Thu Jul 07 22:14:08 +0000 2016| user = Guijan3| text = RT @GEdoBrasil: @timebrasil @Rio2016 Nossos atletas estão brilhando com este uniforme! Não vemos a hora da Cerimônia de Abertura! 😍 #OsJogo…
+date = Thu Jul 07 22:14:05 +0000 2016| user = Guijan3| text = RT @GEdoBrasil: @cpboficial @Rio2016 Estamos na expectativa para ver nossos atletas em ação! #OsJogosJáComeçaram
+date = Thu Jul 07 22:13:13 +0000 2016| user = SaporeBrasil| text = Restaurante Workforce em preparação. Onde nossa “delegação” vai repor as energias. #saporerio #saporebrasil #rio2016 https://t.co/ZG6HCL2gHy
+date = Thu Jul 07 22:12:57 +0000 2016| user = Guijan3| text = RT @GEdoBrasil: 1 mês do início dos Jogos Olímpicos @Rio2016 e #DiadaSaúde. Como essas datas estão ligadas? https://t.co/3bMcDQzzgR https:/…
+date = Thu Jul 07 22:12:42 +0000 2016| user = luizatrajano| text = E ficaram lindos os uniformes do #TimeBrasil para as cerimônias de abertura e encerramento da #Rio2016! Olha só! https://t.co/whjkhp7eyu
+date = Thu Jul 07 22:11:57 +0000 2016| user = temerfollowback| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:11:52 +0000 2016| user = temerfollowback| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:10:44 +0000 2016| user = emici_mateuzin| text = #rio2016 revezamento da tocha olímpica em Porto Alegre @ Parcão - Parque Moinhos de Vento https://t.co/jOImedT1Ge
+date = Thu Jul 07 22:07:59 +0000 2016| user = Esterbr1| text = RT @g1rio: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/MoIIFyh34i
+date = Thu Jul 07 22:06:17 +0000 2016| user = ElianaCapuano| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:04:52 +0000 2016| user = GilvanBezerrad1| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:04:31 +0000 2016| user = NewsPortugal| text = [+Futebol] Benfica: México ainda tentou Jiménez na véspera da lista para o Rio: 
+
+Emblema português n... https://t.co/u1LtSIUYqB
+date = Thu Jul 07 22:04:24 +0000 2016| user = SelColombiafem| text = #RoadToRio A menos de 1 mes de #Rio2016 https://t.co/EBkv6gjil1
+date = Thu Jul 07 22:04:16 +0000 2016| user = ariesprm| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:04:04 +0000 2016| user = Tiago_Prestes| text = #batebolanaveia @SPFC #bbbauza @rio2016. 
+Nada de paulista
+Nada de libertadores 
+Nada de brasileiro.  
+WhatsApp Palmeiras Apiaí-SP
+date = Thu Jul 07 22:03:19 +0000 2016| user = albertofro3| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:03:02 +0000 2016| user = joeltomc_p| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:03:00 +0000 2016| user = LuizMaia2009| text = RT @VEJA: Caminhão de tour da tocha olímpica é furtado no RS #rio2016
+https://t.co/8v1RjIf7rM https://t.co/cFMgfv7RpD
+date = Thu Jul 07 22:02:49 +0000 2016| user = joeltomc_p| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:02:49 +0000 2016| user = GilvanBezerrad1| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:02:38 +0000 2016| user = albertofro3| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:02:30 +0000 2016| user = glauco_st_andre| text = Ao q parece as vagas de 🏀 do #Rio2016 vão ficar pra: Servia ou Porto Rico / Itália ou Grécia e França ou Canadá. Um vem pro grupo do Brasil
+date = Thu Jul 07 22:01:50 +0000 2016| user = rafae_jonatas| text = RT @DesportoeEsport: Foi detetada a presença de uma 'super bactéria' resistente a antibióticos nas praias do Rio de Janeiro #Rio2016 https:…
+date = Thu Jul 07 22:00:36 +0000 2016| user = sigadilean| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 22:00:28 +0000 2016| user = SaudeMG| text = #Rio2016 Treinamento contra ataques químicos e terroristas reúne 250 agentes no Mineirão https://t.co/MMSqsKh9ok https://t.co/CrzcMla5nu
+date = Thu Jul 07 22:00:22 +0000 2016| user = Sylviacn| text = RT @acaciolimarp: Vão adiar o vestibular da @UERJ? #Rio2016 #educação
+date = Thu Jul 07 22:00:20 +0000 2016| user = AnaCerqueira1| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 22:00:10 +0000 2016| user = ilobur_news| text = #Benfica #ベンフィカ Mais Futebol Benfica: México ainda tentou Jiménez na véspera da lista para o Rio… https://t.co/FrYYkl3j5Y #carregabenfica
+date = Thu Jul 07 21:59:59 +0000 2016| user = AnaCerqueira1| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:59:28 +0000 2016| user = crispassinato| text = RT @g1rio: Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/LmnvQ375yu
+date = Thu Jul 07 21:58:52 +0000 2016| user = dgttechnicolor| text = A tocha passou por Porto Alegre. #revezamentodatocha #tocha #rio2016 @ Porto Alegre, Brazil https://t.co/v9yQTXyQnZ
+date = Thu Jul 07 21:57:44 +0000 2016| user = Planalto| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:57:29 +0000 2016| user = Planalto| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:57:09 +0000 2016| user = AdrianoLourenco| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:56:55 +0000 2016| user = markesrunning| text = E contando... #rio2016 #olimpiadas #olimpiadas2016 #olimpicgames #enosnaovamosparar… https://t.co/vRwQtV8jDi
+date = Thu Jul 07 21:56:53 +0000 2016| user = sergio07leite| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:56:26 +0000 2016| user = migueldiasba| text = RT @maisfutebol: Jogos Olímpicos: convocatória mexicana sem «portugueses»
+https://t.co/jG1KKkxbWK https://t.co/ZZm7cKfa3j
+date = Thu Jul 07 21:56:01 +0000 2016| user = brunodanielTv| text = RT @InformeRJO: Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.…
+date = Thu Jul 07 21:55:35 +0000 2016| user = RicardoVolunta| text = RT @OperacoesRio: #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.c…
+date = Thu Jul 07 21:55:14 +0000 2016| user = TatiThau| text = RT @BancoCentralBR: Nossa #moedadodia homenageia o #golfe, que volta ao #Rio2016 depois de mais de um século fora dos Jogos. https://t.co/t…
+date = Thu Jul 07 21:54:45 +0000 2016| user = fimdejogo| text = na frente do bellini agora #maracanã #rio2016 https://t.co/GTkJV21042
+date = Thu Jul 07 21:53:54 +0000 2016| user = Esterbr1| text = RT @g1rio: Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/LmnvQ375yu
+date = Thu Jul 07 21:52:38 +0000 2016| user = AgustinBulfon| text = RT @BorgesHand18: #Guerreiros treinando  para os jogos @rio2016_es ! 🍀👍🏼☀️🇧🇷 https://t.co/LVPrhr5slC
+date = Thu Jul 07 21:52:16 +0000 2016| user = PlantillaDepor1| text = Todo listo para #Rio2016. @Potropegaso21 presenta a sus convocados https://t.co/DrestaHLPt #RumboARio https://t.co/nR0kgRbxd9
+date = Thu Jul 07 21:51:58 +0000 2016| user = PrJoelBSerra| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:51:42 +0000 2016| user = renataclaudiabp| text = RT @OperacoesRio: #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.c…
+date = Thu Jul 07 21:51:35 +0000 2016| user = edson_pf25| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:51:19 +0000 2016| user = Tiago_Prestes| text = #batebolanaveia @spfc está preparado para rio2016. 
+Nada de paulista
+Nada de libertadores 
+Nada de brasileiro.  
+WhatsApp Palmeiras Apiaí-SP
+date = Thu Jul 07 21:51:04 +0000 2016| user = 10gonzaga| text = Acesso à Ilha do Fundão será limitado para os Jogos Olímpicos https://t.co/zaBGKIqIiR
+date = Thu Jul 07 21:50:45 +0000 2016| user = seguroambiental| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:50:11 +0000 2016| user = roborofino| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:49:53 +0000 2016| user = BorgesHand18| text = #Guerreiros treinando  para os jogos @rio2016 ! 󾀼󾮗🏼☀️󾓪󾓮 https://t.co/4WrnYITwpG
+date = Thu Jul 07 21:49:38 +0000 2016| user = WwwCesargomes| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:49:01 +0000 2016| user = BorgesHand18| text = #Guerreiros treinando  para os jogos @rio2016_es ! 🍀👍🏼☀️🇧🇷 https://t.co/LVPrhr5slC
+date = Thu Jul 07 21:48:40 +0000 2016| user = Marcio_sz| text = Vai ter Olimpíada sim! 🇧🇷
+
+#vivaoesporte #rio2016 @ Florianópolis, Brazil https://t.co/xX1Ic5SFko
+date = Thu Jul 07 21:48:24 +0000 2016| user = annamagagnin| text = A tocha passou por aqui  ❤️ #Chamaolímpica #Rio2016 😍😀🇧🇷 https://t.co/m9MMmqvwcK
+date = Thu Jul 07 21:48:15 +0000 2016| user = epauepedra| text = RT @AlejandraOCon11: Got to meet Rocinha Sem Fronteiras #Favelamedia #Rio2016 @RioOnWatch https://t.co/in1d02ESmA
+date = Thu Jul 07 21:48:12 +0000 2016| user = TransitoRioRJ| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser impl https://t.co/Q2dTjs8JTc (@InformeRJO)
+date = Thu Jul 07 21:48:02 +0000 2016| user = InformeRJO| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/uvk6fBKCsN
+date = Thu Jul 07 21:48:02 +0000 2016| user = InformeRJO| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria compara me... https://t.co/GCTb08p8o8
+date = Thu Jul 07 21:48:00 +0000 2016| user = Geands| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/M4tkNSGObJ
+date = Thu Jul 07 21:48:00 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/gt14cv6W6Q
+date = Thu Jul 07 21:47:59 +0000 2016| user = BomDiaRio| text = Veja no @G1Rio: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/zsw3cTQ3Il
+date = Thu Jul 07 21:47:59 +0000 2016| user = DesertEagleRJ| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/5nBJy2y9Iq
+date = Thu Jul 07 21:47:59 +0000 2016| user = DesertEagleRJ| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria compara me... https://t.co/JSxC9VSBE9
+date = Thu Jul 07 21:47:58 +0000 2016| user = SindicoDoRio| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/tXuFOf2Je5
+date = Thu Jul 07 21:47:58 +0000 2016| user = SindicoDoRio| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria c/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ompara me... https://t.co/tkoDeoLq0w
+date = Thu Jul 07 21:47:57 +0000 2016| user = yagog| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/jVyHvtnsMG
+date = Thu Jul 07 21:47:57 +0000 2016| user = Bruno_Vida| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/BWVxMOaBhp
+date = Thu Jul 07 21:47:57 +0000 2016| user = Bruno_Vida| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria compara me... https://t.co/r7IclKIv8j
+date = Thu Jul 07 21:47:56 +0000 2016| user = Noticiasdopovo_| text = #RJ Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/60HhSSLBIY
+date = Thu Jul 07 21:47:55 +0000 2016| user = Rio_Acontece| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/7hmi5XZw0v
+date = Thu Jul 07 21:47:55 +0000 2016| user = Rio_Acontece| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria compara me... https://t.co/3Dw4d3nV6E
+date = Thu Jul 07 21:47:53 +0000 2016| user = JornalUniversal| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/yi8y2L8K2W
+date = Thu Jul 07 21:47:50 +0000 2016| user = LuLucasFla| text = @VEJA @Rio2016 Quando essa palhaçada vai acabar?
+date = Thu Jul 07 21:47:38 +0000 2016| user = marl3nemarta| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/PLUrmbNz9u
+date = Thu Jul 07 21:47:38 +0000 2016| user = marl3nemarta| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria compara me... https://t.co/LrGKrNbV1S
+date = Thu Jul 07 21:47:29 +0000 2016| user = mariajoaq9655| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/Xw5IWMp510
+date = Thu Jul 07 21:47:29 +0000 2016| user = mariajoaq9655| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria compara me... https://t.co/ejp6UxD151
+date = Thu Jul 07 21:47:25 +0000 2016| user = laurakelyn| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/4c75xFmNdf
+date = Thu Jul 07 21:47:25 +0000 2016| user = laurakelyn| text = Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria compara me... https://t.co/Z9hPVrI6ef
+date = Thu Jul 07 21:47:23 +0000 2016| user = guuHFeliciano| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/Qxn9jTrucY
+date = Thu Jul 07 21:47:21 +0000 2016| user = rj_noticia| text = #G1 - Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/lxsKXDpKaO
+date = Thu Jul 07 21:47:20 +0000 2016| user = nytimesBrasil| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser implantadas... https://t.co/BxkbWxfqk5
+date = Thu Jul 07 21:47:12 +0000 2016| user = SPCRio| text = #Rio: Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada: Restrições no tráfego começam a ser impla... https://t.co/2e9Y16OojM
+date = Thu Jul 07 21:47:11 +0000 2016| user = SPCRio| text = #Rio: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo: Levantamento de consultoria comp... https://t.co/XD9MVcXGOp
+date = Thu Jul 07 21:47:04 +0000 2016| user = nave_BBB| text = RT @OperacoesRio: #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.c…
+date = Thu Jul 07 21:46:56 +0000 2016| user = CaiqueAmorim21| text = Obrigado Rio, foi um prazer me apaixonar por você ♥️🌄 #RJ #rio2016 #bomdia #turistandonobondinho https://t.co/n142EPWwhA
+date = Thu Jul 07 21:46:38 +0000 2016| user = bandnewsfmrio| text = RT @OperacoesRio: #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.c…
+date = Thu Jul 07 21:46:30 +0000 2016| user = Alfredosborba| text = RT @JogosOlimpicos: Acredita-se que estes arcos olímpicos misteriosos sejam obra de 👽👽 empolgados que só faltam 2⃣9⃣ dias para @Rio2016 htt…
+date = Thu Jul 07 21:46:26 +0000 2016| user = pressrtvnews| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:45:46 +0000 2016| user = Marcio_sz| text = Vai ter Olimpíada sim! #vivaoesporte #rio2016 #tochaolimpica @ Florianópolis, Brazil https://t.co/xX1Ic5SFko
+date = Thu Jul 07 21:45:37 +0000 2016| user = sergioflevy2012| text = Acesso à Ilha do Fundão, Rio, será limitado para a Olimpíada https://t.co/H2VRcwRryU
+date = Thu Jul 07 21:45:37 +0000 2016| user = DigiSeaSky24| text = @iocmedia @rio2016_en RIO FOR AYRTON SENNA
+date = Thu Jul 07 21:45:19 +0000 2016| user = Gabriel_DV07| text = RT @AuthenticGames: Galera #Falta1Mês para os @JogosOlimpicos . Chega logo @Rio2016 https://t.co/lPRNISIOOo
+date = Thu Jul 07 21:45:02 +0000 2016| user = number_two_| text = RT @OperacoesRio: #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.c…
+date = Thu Jul 07 21:44:55 +0000 2016| user = profclaudioneis| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:44:44 +0000 2016| user = mbartolomei| text = É tempo de #Olimpíada #Rio2016 Mas em São Paulo! 🇧🇷🇧🇷🇧🇷 https://t.co/ODeZtcW1jF
+date = Thu Jul 07 21:44:23 +0000 2016| user = Alfredosborba| text = RT @Brasil2016: #TourDaTocha Graciele e Felipe, nossa torcida nos Jogos @Rio2016 estará com vocês! https://t.co/xbh7SYUAFd
+date = Thu Jul 07 21:44:13 +0000 2016| user = TransitoRioRJ| text = #RIO2016 LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t. co/Tm https://t.co/unD5feAuLh (@OperacoesRio)
+date = Thu Jul 07 21:44:05 +0000 2016| user = hiellima| text = RT @RedeGlobo: Vai que é tuuuuua, Rosangela!!! #Faltam29Dias pro @Rio2016! #SomosTodosOlímpicos https://t.co/a0YtTdbCBN
+date = Thu Jul 07 21:43:54 +0000 2016| user = OperacoesRio| text = #RIO2016 - LINHA AMARELA | Alguns acessos serão fechados a partir do dia 25 de julho: https://t.co/pC6vEVdBJ5 https://t.co/Tm1sAAdHua
+date = Thu Jul 07 21:43:46 +0000 2016| user = diegojeleilate| text = Mais um pra conta... Rumo a medalha... #timebrasil #rio2016 #jogajunto #foconamedalha @ Clube… https://t.co/41cLtQXFkL
+date = Thu Jul 07 21:42:47 +0000 2016| user = Alfredosborba| text = RT @Rio2016: A jornalista e apresentadora @crisdiass conduz a @ChamaOlimpica  em Porto Alegre. #RumoAoRio https://t.co/jqvqrjuJmy
+date = Thu Jul 07 21:42:46 +0000 2016| user = marinhogalvao| text = Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.co/rNa6zr4mWh
+date = Thu Jul 07 21:41:54 +0000 2016| user = joaopssouza| text = #Rio2016, a violência não faz parte desse jogo! Assine a petição &gt;&gt; https://t.co/MDKeQaNSin
+date = Thu Jul 07 21:41:27 +0000 2016| user = Aline_Timbo_| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:41:24 +0000 2016| user = RIO450CAOS| text = RT @sau_ivani: @RIO450CAOS @Rio2016  parabéns corruptos  https://t.co/iwiT6EjXYg
+date = Thu Jul 07 21:40:52 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:40:51 +0000 2016| user = DonnaTroyy| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:40:27 +0000 2016| user = EnriqueBerista7| text = RT @loculobo: CONVOCATORIA 
+
+@miseleccionmx A @rio2016_es https://t.co/qMHA75wRj1
+date = Thu Jul 07 21:40:06 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:40:04 +0000 2016| user = DonnaTroyy| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:39:19 +0000 2016| user = critico_lost| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:39:18 +0000 2016| user = CristanoRonaldu| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:39:17 +0000 2016| user = rodrigoaffranco| text = @samuelslm @globoesporte @marianajudo @Rio2016 valeu demais, Samuel. Obrigado pela força
+date = Thu Jul 07 21:38:47 +0000 2016| user = CCzarss| text = RedeGlobo Globo! A gente ver por aqui!! Vai que é tuuuuua, Rosangela!!! #Faltam29Dias pro Rio2016! #SomosTodosOlím… https://t.co/7c7ZirgFZa
+date = Thu Jul 07 21:38:40 +0000 2016| user = marianajudo| text = RT @rodrigoaffranco: Terceira reportagem da série "Meu Sonho" do @globoesporte MG com @marianajudo @Rio2016 https://t.co/FfSiFDqQ9H https:/…
+date = Thu Jul 07 21:37:43 +0000 2016| user = pascoalzarzoso| text = RT @RedeGlobo: Vai que é tuuuuua, Rosangela!!! #Faltam29Dias pro @Rio2016! #SomosTodosOlímpicos https://t.co/a0YtTdbCBN
+date = Thu Jul 07 21:37:22 +0000 2016| user = RudelRavasco| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:37:22 +0000 2016| user = MENOTTISTA1| text = RT @gonbonadeo1963: Se ve bonito @rio2016_es https://t.co/bxurpvfBEG
+date = Thu Jul 07 21:36:55 +0000 2016| user = geostadia| text = Torcha acadêmica in front of maracana.  R$ for #Rio2016 crisis for everything else. Dedo no ferido https://t.co/XFGQIi9vNo
+date = Thu Jul 07 21:36:38 +0000 2016| user = tiagocosta_7| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:36:31 +0000 2016| user = PauloRo49195361| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:36:28 +0000 2016| user = tiagocosta_7| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:35:48 +0000 2016| user = LGCamelier| text = RT @Rio2016: A jornalista e apresentadora @crisdiass conduz a @ChamaOlimpica  em Porto Alegre. #RumoAoRio https://t.co/jqvqrjuJmy
+date = Thu Jul 07 21:35:40 +0000 2016| user = kellymatos| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:35:38 +0000 2016| user = IveteiroAr| text = RT @Rio2016: A jornalista e apresentadora @crisdiass conduz a @ChamaOlimpica  em Porto Alegre. #RumoAoRio https://t.co/jqvqrjuJmy
+date = Thu Jul 07 21:35:08 +0000 2016| user = stellabarros13| text = conheci um austríaco hoje :3 ^^ #rio2016
+date = Thu Jul 07 21:34:30 +0000 2016| user = IveteiroAr| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:33:53 +0000 2016| user = brunodanielTv| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:33:50 +0000 2016| user = julianarommar| text = RT @TheBlurBarbosa: Foco no detalhe, vamos 🇧🇷🏀🔥 #TimeBrasil @rio2016 @jogosolimpicos https://t.co/Dv7bWDpjHO
+date = Thu Jul 07 21:33:42 +0000 2016| user = AlvaromoreiraV| text = RT @exercitooficial: Satélite para segurança dos Jogos #Rio2016 já está operacional https://t.co/H5rw80w6ex
+date = Thu Jul 07 21:33:19 +0000 2016| user = Brasil2016| text = RT @Rio2016: Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:33:05 +0000 2016| user = Rio2016| text = Paulão com os filhos Pedro Henrique e Pietra e marcelo negrão logo atrás! https://t.co/r0GyMC6iTq
+date = Thu Jul 07 21:32:40 +0000 2016| user = MMoooggg| text = RT @avozdobrasil: .@minesporte passa a ter perfil em rede social chinesa p/ divulgar os Jogos #Rio2016  https://t.co/E5FzplBUMk
+date = Thu Jul 07 21:32:20 +0000 2016| user = MacielEnes| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:32:10 +0000 2016| user = avozdobrasil| text = .@minesporte passa a ter perfil em rede social chinesa p/ divulgar os Jogos #Rio2016  https://t.co/E5FzplBUMk
+date = Thu Jul 07 21:32:04 +0000 2016| user = marcelmaieda| text = meu chute: alguém da família Senna acendendo a Pira Olímpica com o tema da vitória ao fundo. #Rio2016 #Olimpíada #Olympics2016
+date = Thu Jul 07 21:32:00 +0000 2016| user = mateiqwerty| text = g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/t8ICGcjmo4 https://t.co/Sf3eQVDtS7
+date = Thu Jul 07 21:31:55 +0000 2016| user = gnuniao| text = RT @Rio2016: Graciele Herrmann conquistou a prata nos 50 metros livres e no 4x100 livre dos Jogos Pan-Americanos de 2011. https://t.co/P8Iy…
+date = Thu Jul 07 21:31:41 +0000 2016| user = gnuniao| text = RT @Rio2016: Diva Corrêa foi da Seleção Brasileira de Vôlei e criadora das equipes de vôlei master do Grêmio Náutico União. https://t.co/iP…
+date = Thu Jul 07 21:31:39 +0000 2016| user = ana_ana0420| text = RT @MichelTemer: (AI) Militares da Aviação do @exercitooficial partem para missão nos Jogos Olímpicos do Rio de Janeiro #Rio2016 https://t.…
+date = Thu Jul 07 21:31:26 +0000 2016| user = vivigreice20| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sBDsN https://t.co/cxDSGowKlA
+date = Thu Jul 07 21:31:22 +0000 2016| user = profa_analucia| text = RT @CaosNoRio: RT CristianeGSNN: "CaosNoRio: 'Hospitais do Rio não estão prontos para a Olimpíada', dizem médicos https://t.co/rWtA18p5Vn"
+date = Thu Jul 07 21:30:45 +0000 2016| user = andyallnews| text = RT @Rio2016: Primeira medalhista da vela feminina brasileira,ao lado de Isabel Swan,Fernanda Oliveira conduz a @ChamaOlimpica hj! https://t…
+date = Thu Jul 07 21:30:25 +0000 2016| user = andyallnews| text = RT @Rio2016: A jornalista e apresentadora @crisdiass conduz a @ChamaOlimpica  em Porto Alegre. #RumoAoRio https://t.co/jqvqrjuJmy
+date = Thu Jul 07 21:30:00 +0000 2016| user = SamsungBrasil| text = A música tema do #Rio2016, Alma e Coração ficou sensacional. O que você achou? #DesafieBarreiras https://t.co/ILImvh7ovp
+date = Thu Jul 07 21:29:50 +0000 2016| user = jsmithklimber| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sBDsN https://t.co/cxDSGowKlA
+date = Thu Jul 07 21:29:42 +0000 2016| user = Rafaelmachry| text = Ja fazia algum tempo que tanta gente não atravessava a redenção de noite #Rio2016
+date = Thu Jul 07 21:29:41 +0000 2016| user = rafaelstoppa| text = RT @MichelTemer: (AI) Nesta manhã, o @exercitooficial executou um apronto operacional dos meios q serão utilizados na #Rio2016 https://t.co…
+date = Thu Jul 07 21:29:30 +0000 2016| user = georgetpinheiro| text = RT @g1: Reserva de passagem aumenta 148% para o Rio durante Jogos, diz estudo https://t.co/gt6r3sBDsN https://t.co/cxDSGowKlA

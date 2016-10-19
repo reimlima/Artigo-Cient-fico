@@ -1,0 +1,1194 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Mon May 30 03:10:05 +0000 2016| user = Rio2016HQ| text = Faltam #100Dias para os #JogosParalímpicos! Não dá pra explicar, #TemQueIr: https://t.co/O0wn1kbgr0 https://t.co/tScnihvDvD
+date = Mon May 30 03:08:35 +0000 2016| user = alissandralucen| text = Tocha Olímpica em São Sebastião/AL @ChamaOlimpica @Rio2016 https://t.co/ePWEPPD8Vl
+date = Mon May 30 03:08:00 +0000 2016| user = cacandidos| text = r$ 7.40 numa coxinha (inha mesmo) #rio2016!
+date = Mon May 30 03:06:13 +0000 2016| user = anaid190967| text = RT @Rio2016: Faltam #100Dias para os #JogosParalímpicos! Não dá pra explicar, #TemQueIr: https://t.co/VKwh5Vu2oW https://t.co/ARy71oRIzG
+date = Mon May 30 03:05:28 +0000 2016| user = ZauzinMatos| text = @Rio2016 @Rio2016 Artistas internacionais podem tocar nas cerimônias das Olimpíadas e Paralimpíadas? Ou apenas artistas nacionais?
+date = Mon May 30 03:05:11 +0000 2016| user = PattycoMontoya| text = RT @Rio2016: Faltam #100Dias para os #JogosParalímpicos! Não dá pra explicar, #TemQueIr: https://t.co/VKwh5Vu2oW https://t.co/ARy71oRIzG
+date = Mon May 30 03:04:52 +0000 2016| user = alissandralucen| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Mon May 30 03:04:15 +0000 2016| user = zipojnoticias| text = os atletas sem bandeira dos jogos @Rio2016
+https://t.co/l1mGPvXsgp
+via @cartacapital
+date = Mon May 30 03:03:22 +0000 2016| user = Clauxic| text = RT @Rio2016: Faltam #100Dias para os #JogosParalímpicos! Não dá pra explicar, #TemQueIr: https://t.co/VKwh5Vu2oW https://t.co/ARy71oRIzG
+date = Mon May 30 03:02:28 +0000 2016| user = JonhnathanGomes| text = RT @RockestarCRF: Quebrou o Flamengo também https://t.co/IgA6YyRB5j
+date = Mon May 30 03:00:10 +0000 2016| user = Rio2016| text = Faltam #100Dias para os #JogosParalímpicos! Não dá pra explicar, #TemQueIr: https://t.co/VKwh5Vu2oW https://t.co/ARy71oRIzG
+date = Mon May 30 02:59:16 +0000 2016| user = selftestok| text = @CARLOSNEVESSS @VEJA @rio2016_es @BlogOlhoNaMira @SakaSakamori @letrasLTDA esse pais ta doido mesmo
+date = Mon May 30 02:56:15 +0000 2016| user = AdoryJ| text = @Rio2016 @JogosOlimpicos @PrefMaceio @maceio câncer do Flamengo!
+date = Mon May 30 02:55:12 +0000 2016| user = nandomatera| text = RT @minesporte: Veja o design dos ingressos dos Jogos Olímpicos e Paralímpicos #Rio2016 . https://t.co/ham0fMTFQm https://t.co/TLfWXDR7Jx
+date = Mon May 30 02:53:56 +0000 2016| user = rondisouza91| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:51:53 +0000 2016| user = MareanaFonseca| text = RT @CRVGBernardo: @Rio2016 @JogosOlimpicos RT @MareanaFonseca essa me da orgulho
+date = Mon May 30 02:50:47 +0000 2016| user = gabyrcrf| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:50:30 +0000 2016| user = CRVGBernardo| text = @Rio2016 @JogosOlimpicos RT @MareanaFonseca essa me da orgulho
+date = Mon May 30 02:50:20 +0000 2016| user = CARLOSNEVESSS| text = @VEJA @rio2016_es Que eu saiba Lampião foi um assassino cruel,homenagearam ele porque @BlogOlhoNaMira @SakaSakamori @letrasLTDA ?
+date = Mon May 30 02:49:37 +0000 2016| user = HgHugo95| text = Durmam com essa, hahahaha https://t.co/EPJEceE8yc
+date = Mon May 30 02:49:27 +0000 2016| user = MareanaFonseca| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:48:41 +0000 2016| user = RockestarCRF| text = Quebrou o Flamengo também https://t.co/IgA6YyRB5j
+date = Mon May 30 02:48:12 +0000 2016| user = RockestarCRF| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:45:55 +0000 2016| user = langmarina| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Mon May 30 02:45:44 +0000 2016| user = langmarina| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #F4F @tvfloripa @channel100TV #RT @Photoxscape https://t.co/…
+date = Mon May 30 02:45:23 +0000 2016| user = vitortova| text = Kkkkkkkkkkkkkk poladoful é foda!!! https://t.co/KIamq7nb1L
+date = Mon May 30 02:45:01 +0000 2016| user = GeronimoBear| text = @VEJA @danielamercury @thiaguinhocomth @popofreitas @magaviiilha @giovanegavio @brunavieira @Rio2016 não temos nem aspirinas nos hospitais
+date = Mon May 30 02:43:56 +0000 2016| user = JRWmengo| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:43:35 +0000 2016| user = thespaceant| text = RT @AndreiRib_: @Rio2016 Quebrou outras coisas também
+date = Mon May 30 02:43:27 +0000 2016| user = thespaceant| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:43:13 +0000 2016| user = titaguerra| text = RT @COM_Mexico: Multimedia COM invita:Conferencia de Prensa martes 31,Auditorio ODEPA 11 hrs
+se conocerá deportista que portará lábaro patr…
+date = Mon May 30 02:43:11 +0000 2016| user = Luans7| text = RT @abzayat: Patty sempre quebrando mtas coisas  https://t.co/YUhWSRagpM
+date = Mon May 30 02:42:39 +0000 2016| user = KingRuckFules| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:42:07 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Sarosi chamou a atenção. A Federação Alemã de Badminton solicitou que a húngara recebesse um convite (previsto em regulam…
+date = Mon May 30 02:42:07 +0000 2016| user = Janianecastro13| text = RT @SeuEsporteBR: Piccinini anuncia aposentadoria da Seleção a dois meses dos Jogos Olímpicos  #Rio2016 #vôlei #Itália #Azzurra https://t.c…
+date = Mon May 30 02:42:04 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Mas graças ao remanejamento de vagas nas duplas, o convite não será necessário: Laura Sarosi vem SIM para #Rio2016! https…
+date = Mon May 30 02:41:57 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Piccinini anuncia aposentadoria da Seleção a dois meses dos Jogos Olímpicos  #Rio2016 #vôlei #Itália #Azzurra https://t.c…
+date = Mon May 30 02:39:52 +0000 2016| user = Lilia_AW| text = Gente  😂😂😂😂😂😂😂 https://t.co/yKEfIUBBW9
+date = Mon May 30 02:39:51 +0000 2016| user = juan_jacare| text = ACABOU COM O FLAMENGO ESSA RIDÍCULA https://t.co/fHhSUWtuq8
+date = Mon May 30 02:39:27 +0000 2016| user = RogerLoureiro_| text = RT @abzayat: Patty sempre quebrando mtas coisas  https://t.co/YUhWSRagpM
+date = Mon May 30 02:39:25 +0000 2016| user = julianov14| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:38:39 +0000 2016| user = milaacrf| text = RT @vergiliosob: @Rio2016 @JogosOlimpicos @PrefMaceio @maceio e em 3 anos quebrou o Flamengo!
+date = Mon May 30 02:38:34 +0000 2016| user = LeoFernandesCRF| text = RT @daniel_bonn: E quebrou o Flamengo https://t.co/Dk7kYJH0Nf
+date = Mon May 30 02:38:27 +0000 2016| user = hiagoaraujocrf| text = Tanta mulher importante por aí e dão a tocha pra essa bruxa aí. Devia ter dado pra mamãe, ela merece mais kkkkkkk https://t.co/EvzxZ3SSGP
+date = Mon May 30 02:38:18 +0000 2016| user = margin_walk3r| text = RT @abzayat: Patty sempre quebrando mtas coisas  https://t.co/YUhWSRagpM
+date = Mon May 30 02:37:54 +0000 2016| user = daniel_bonn| text = E quebrou o Flamengo https://t.co/Dk7kYJH0Nf
+date = Mon May 30 02:37:43 +0000 2016| user = Arthur_CRF| text = E conseguiu quebrar o Flamengo em 3 anos https://t.co/yrLbp9z2c9
+date = Mon May 30 02:37:29 +0000 2016| user = LeoFernandesCRF| text = Fodeu! Brasil não vai ganhar uma medalha de ouro kkkk https://t.co/8uhSUrlGkB
+date = Mon May 30 02:37:06 +0000 2016| user = duduucrf| text = Pqp agora temos a confirmação q essa Olimpiadas vai ser um fracasso https://t.co/jOFF0wRjue
+date = Mon May 30 02:37:03 +0000 2016| user = PaoloG09| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:36:58 +0000 2016| user = crfjr_| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:36:58 +0000 2016| user = LeoFernandesCRF| text = RT @abzayat: Patty sempre quebrando mtas coisas  https://t.co/YUhWSRagpM
+date = Mon May 30 02:36:19 +0000 2016| user = gunnior| text = A DÍVIDA EXTERNA DISPARA SÓ COM ESSA IMAGEM https://t.co/PbpZtUZOtm
+date = Mon May 30 02:36:16 +0000 2016| user = thuliom_| text = Olha ela  https://t.co/0NVMp6yB77
+date = Mon May 30 02:36:10 +0000 2016| user = TioBooBooDepre| text = RT @abzayat: Patty sempre quebrando mtas coisas  https://t.co/YUhWSRagpM
+date = Mon May 30 02:36:10 +0000 2016| user = danielvsc365| text = A a #rio2016 tem q ter uma musiquinha daquelas tipo 🎶pan pan na mericano 🎶
+date = Mon May 30 02:35:55 +0000 2016| user = abzayat| text = Patty sempre quebrando mtas coisas  https://t.co/YUhWSRagpM
+date = Mon May 30 02:35:14 +0000 2016| user = marcelaelaela| text = RT @vergiliosob: @Rio2016 @JogosOlimpicos @PrefMaceio @maceio e em 3 anos quebrou o Flamengo!
+date = Mon May 30 02:33:35 +0000 2016| user = palhacoimortal| text = Cuidado q estora @lucianoperico.  Chegou meu tênis para o revezamento da tocha! #Rio2016 #TeMexeGigante @CocaCola_Br https://t.co/O9MqIz6GMX
+date = Mon May 30 02:33:13 +0000 2016| user = drimagia| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:33:04 +0000 2016| user = LucasCRF26| text = Quebrou foi o Flamengo,essa não vale nada. https://t.co/wbtnBvqBIn
+date = Mon May 30 02:32:08 +0000 2016| user = VamosCRFlamengo| text = RT @vergiliosob: @Rio2016 @JogosOlimpicos @PrefMaceio @maceio e em 3 anos quebrou o Flamengo!
+date = Mon May 30 02:31:31 +0000 2016| user = nnan_leta| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:31:11 +0000 2016| user = AndrepXavier| text = RT @lorencao: Vão perguntar sobre isso kkkk @AndrepXavier https://t.co/EEx95FSgn3
+date = Mon May 30 02:31:07 +0000 2016| user = Ingressodofla| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:29:33 +0000 2016| user = lorencao| text = Vão perguntar sobre isso kkkk @AndrepXavier https://t.co/EEx95FSgn3
+date = Mon May 30 02:29:15 +0000 2016| user = AndreiRib_| text = @Rio2016 Quebrou outras coisas também
+date = Mon May 30 02:28:00 +0000 2016| user = lucianoperico| text = Chegou hoje meu tênis para o revezamento da tocha! #Rio2016 #TeMexeGigante @CocaCola_Br https://t.co/aAK2YsFkhi
+date = Mon May 30 02:25:57 +0000 2016| user = CRFMauricio| text = RT @vergiliosob: @Rio2016 @JogosOlimpicos @PrefMaceio @maceio e em 3 anos quebrou o Flamengo!
+date = Mon May 30 02:24:26 +0000 2016| user = CarolOliveira6| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:24:10 +0000 2016| user = paminongas| text = Saudades da eterna presidente do Império do Mal! https://t.co/8iQSsFWfmI
+date = Mon May 30 02:20:13 +0000 2016| user = Cissa_Morena| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:19:44 +0000 2016| user = ray_souzas| text = RT @vergiliosob: @Rio2016 @JogosOlimpicos @PrefMaceio @maceio e em 3 anos quebrou o Flamengo!
+date = Mon May 30 02:19:41 +0000 2016| user = ADNANARDI| text = Sonhe, busque, conquiste! #Rio2016 #ChamaOlimpica #TochaOlimpica https://t.co/VrbDyheEJL
+date = Mon May 30 02:17:05 +0000 2016| user = gunevesduarte| text = RT @vergiliosob: @Rio2016 @JogosOlimpicos @PrefMaceio @maceio e em 3 anos quebrou o Flamengo!
+date = Mon May 30 02:16:49 +0000 2016| user = CassioUrubu| text = A Tocha quase apagou! https://t.co/qWc3DB4hEv
+date = Mon May 30 02:16:48 +0000 2016| user = Gleydiomar| text = @timebrasil @Rio2016 EU!  E todos os sergipanos. Ela é muito simpática.
+date = Mon May 30 02:15:12 +0000 2016| user = vitorbruno__| text = RT @vergiliosob: @Rio2016 @JogosOlimpicos @PrefMaceio @maceio e em 3 anos quebrou o Flamengo!
+date = Mon May 30 02:15:10 +0000 2016| user = evpcosta_73| text = RT @DiogoS2Michele: @evpcosta_73 @VEJA @ViniciusRio2016 @Rio2016 O pior é que nem justiceiro ele pode ser considerado, pois ele não roubava…
+date = Mon May 30 02:14:00 +0000 2016| user = yurisreis10| text = RT @timebrasil: Desistir não é com a Flávia Saraiva! Quem torce pela caçula da equipe feminina que se classificou para @Rio2016?! https://t…
+date = Mon May 30 02:13:42 +0000 2016| user = instaipanema| text = Another pôr do sol🌅 #rio #riodejaneiro #rio021 #rio2016 #brasil #brazil #бразилия #рио #ри… https://t.co/bxsqfGqmo1 https://t.co/LAn2DEvtbq
+date = Mon May 30 02:13:38 +0000 2016| user = lcolodetti| text = @VEJA @ViniciusRio2016 @Rio2016 não concordo, culto a bandidagem!
+date = Mon May 30 02:13:26 +0000 2016| user = 1Mulambinha| text = Nunca critiquei https://t.co/anRlgcvr24
+date = Mon May 30 02:13:14 +0000 2016| user = loxstupids| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:12:44 +0000 2016| user = Gleydiomar| text = https://t.co/WeYYOmPou8 Em Aracaju - Sergipe
+date = Mon May 30 02:12:40 +0000 2016| user = vergiliosob| text = @Rio2016 @JogosOlimpicos @PrefMaceio @maceio e em 3 anos quebrou o Flamengo!
+date = Mon May 30 02:09:52 +0000 2016| user = RenatoBarbosa77| text = @Rio2016 qual o dia que a #ChamaOlimpica vai passar por São José dos Campos/SP?
+date = Mon May 30 02:09:03 +0000 2016| user = oitecladeonde| text = RT @Rio2016: Olha o fim de tarde que recebe a @ChamaOlimpica  em Paulo Afonso. Não é lindo? 😍❤😎👏 https://t.co/bnom1orA8a
+date = Mon May 30 02:08:26 +0000 2016| user = viioliveira7| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:07:47 +0000 2016| user = edu_smith17| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:07:28 +0000 2016| user = luizphilipe| text = @Rio2016 Qual o valor gasto pelas cidades para o desfile da #ChamaOlimpica ?
+date = Mon May 30 02:07:15 +0000 2016| user = caahcrf_fut| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:06:57 +0000 2016| user = gutomoraes| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:06:32 +0000 2016| user = zitaellen| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:06:30 +0000 2016| user = Teteu_CR7| text = RT @GuerreroDaMassa: Nunca criticada por esse @ que vos fala https://t.co/K4wCUq2KBU
+date = Mon May 30 02:06:15 +0000 2016| user = christian934| text = RT @SamirLuizz: Nunca critiquei https://t.co/avsKEFjUtZ
+date = Mon May 30 02:05:55 +0000 2016| user = silvano_fla| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:05:49 +0000 2016| user = anaid190967| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos J/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ogos de #Seul88 https://t…
+date = Mon May 30 02:05:17 +0000 2016| user = artturfilho| text = @Rio2016 quando passa em fortaleza bicho ?
+date = Mon May 30 02:05:15 +0000 2016| user = juli_meloc2| text = RT @timebrasil: Desistir não é com a Flávia Saraiva! Quem torce pela caçula da equipe feminina que se classificou para @Rio2016?! https://t…
+date = Mon May 30 02:05:08 +0000 2016| user = FlaDoBrasil| text = RT @georgesmalta: Que Mulher!!!! https://t.co/BTVAr6m5mn
+date = Mon May 30 02:05:07 +0000 2016| user = ricardo201611| text = RT @GuerreroDaMassa: Nunca criticada por esse @ que vos fala https://t.co/K4wCUq2KBU
+date = Mon May 30 02:04:35 +0000 2016| user = Rio2016| text = Amanhã a #ChamaOlimpica passa pelas cidades de:
+📍 Murici
+📍 União dos Palmares
+📍 Garanhuns
+📍 Lajedo
+📍 Caruaru
+date = Mon May 30 02:04:24 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Rússia convoca Maria Sharapova para a equipe de tênis do @Rio2016 https://t.co/1DTdaNuNZX https://t.co/GSVCPQw9CS
+date = Mon May 30 02:04:21 +0000 2016| user = georgesmalta| text = Que Mulher!!!! https://t.co/BTVAr6m5mn
+date = Mon May 30 02:04:20 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: As vagas da Europa no Tiro com Arco do @Rio2016 https://t.co/S8cvdes1PK https://t.co/VlHDZLkmEm
+date = Mon May 30 02:04:17 +0000 2016| user = wickky_k| text = RT @Rio2016: Nem a chuva parou o ex-atleta Darlan de Oliveira, maior ídolo do #Basquete no estado, no revezamento #ChamaOlimpica https://t.…
+date = Mon May 30 02:04:16 +0000 2016| user = srndwca| text = Não foi só a ausência feminina que ela quebrou né rsrsrs https://t.co/6k8GS43LHr
+date = Mon May 30 02:04:01 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Brasil consegue quatro vagas na Esgrima em Cadeira de Rodas do @Rio2016 https://t.co/uJ4UVuDiFl https://t.co/oiQExrOx1H
+date = Mon May 30 02:03:35 +0000 2016| user = bracruz_| text = RT @SamirLuizz: Nunca critiquei https://t.co/avsKEFjUtZ
+date = Mon May 30 02:02:47 +0000 2016| user = rkiedis| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:02:36 +0000 2016| user = hcrazevedo| text = É a Paty na sua Timeline! https://t.co/o1vNrOTm1A
+date = Mon May 30 02:02:20 +0000 2016| user = crfmaryzz| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:02:12 +0000 2016| user = hjamaraba| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:02:08 +0000 2016| user = hjamaraba| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 02:01:30 +0000 2016| user = ZicoRei10| text = Lindaaa https://t.co/FvvxeIBfxS
+date = Mon May 30 02:01:14 +0000 2016| user = LimaRanilson| text = A tocha deve ter apagado quando ela pegou. 😂😂😂😂😂 https://t.co/E8Fre0U3y2
+date = Mon May 30 02:01:02 +0000 2016| user = Rio2016| text = Teve ☀️, teve ☔, mas nada parou a #ChamaOlimpica. A pira da celebração foi acesa em @Maceio, fechando nosso #Dia27
+https://t.co/CbWiwFsC1w
+date = Mon May 30 02:00:59 +0000 2016| user = Ninhodanacao| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:00:51 +0000 2016| user = timebrasil| text = Desistir não é com a Flávia Saraiva! Quem torce pela caçula da equipe feminina que se classificou para @Rio2016?! https://t.co/wtUMW9sdEX
+date = Mon May 30 02:00:28 +0000 2016| user = AndreL89| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:00:15 +0000 2016| user = chegaluan| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:00:07 +0000 2016| user = _raonesilva| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 02:00:03 +0000 2016| user = whoanie| text = RT @_TayaneAlves: Tia Paty, aquela que nunca ninguém criticou! https://t.co/EotHBi0NxY
+date = Mon May 30 01:59:57 +0000 2016| user = tiagobotini| text = RT @allicedimello: Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 01:59:56 +0000 2016| user = SurtoOlimpico| text = Rússia convoca Maria Sharapova para a equipe de tênis do @Rio2016 https://t.co/1DTdaNuNZX https://t.co/GSVCPQw9CS
+date = Mon May 30 01:59:44 +0000 2016| user = allicedimello| text = Quebrou o Flamengo também, esse satanás. https://t.co/yjWDI2Y21b
+date = Mon May 30 01:59:40 +0000 2016| user = marcelojuniorr_| text = Olha aí a Patty 😂 https://t.co/qTSYQt52RI
+date = Mon May 30 01:59:27 +0000 2016| user = SurtoOlimpico| text = As vagas da Europa no Tiro com Arco do @Rio2016 https://t.co/S8cvdes1PK https://t.co/VlHDZLkmEm
+date = Mon May 30 01:59:23 +0000 2016| user = _TayaneAlves| text = Tia Paty, aquela que nunca ninguém criticou! https://t.co/EotHBi0NxY
+date = Mon May 30 01:59:12 +0000 2016| user = Kaio_ttk| text = RT @SamirLuizz: Nunca critiquei https://t.co/avsKEFjUtZ
+date = Mon May 30 01:59:08 +0000 2016| user = Davimiranda01| text = Nunca critiquei https://t.co/TVGAMfWvQg
+date = Mon May 30 01:59:06 +0000 2016| user = Kaio_ttk| text = Vagabunda desgraçada acabou com meu Flamengo quando era presidente https://t.co/y45YkR6yEv
+date = Mon May 30 01:59:05 +0000 2016| user = ByC1994| text = RT @SamirLuizz: Nunca critiquei https://t.co/avsKEFjUtZ
+date = Mon May 30 01:58:54 +0000 2016| user = fla_hepta| text = Minha filha vai se chamar Patrícia Amorim. Que mulher https://t.co/Knkl7pKFJQ
+date = Mon May 30 01:58:43 +0000 2016| user = GuerreroDaMassa| text = Nunca criticada por esse @ que vos fala https://t.co/K4wCUq2KBU
+date = Mon May 30 01:58:41 +0000 2016| user = Davimiranda01| text = RT @SamirLuizz: Nunca critiquei https://t.co/avsKEFjUtZ
+date = Mon May 30 01:58:20 +0000 2016| user = ramonteo09| text = E trouxe o Ronaldinho  https://t.co/gJHFWn981o
+date = Mon May 30 01:58:03 +0000 2016| user = RaphaelCorte_s| text = nunca antes criticada por este perfil https://t.co/dtDWu5nSpg
+date = Mon May 30 01:57:45 +0000 2016| user = Adrianodamassa| text = RT @SamirLuizz: Nunca critiquei https://t.co/avsKEFjUtZ
+date = Mon May 30 01:57:17 +0000 2016| user = luizphilipe| text = @Rio2016 @JogosOlimpicos @PrefMaceio Só por curiosidade quanto a prefeitura de Maceió gastou para a passagem da tocha olímpica?
+date = Mon May 30 01:57:17 +0000 2016| user = TiberioCesar18| text = Ela quase quebra um certo Clube carioca tbm. https://t.co/Ur8M3gKXvQ
+date = Mon May 30 01:57:03 +0000 2016| user = rtdiogo| text = RT @Rio2016: E o momento que Gabriel (@MrPoladoful) passa a #ChamaOlimpica para Ana Rafaela (@AnaRafaelaO) em @Maceio 🚶🔥🚶 https://t.co/L9iL…
+date = Mon May 30 01:56:56 +0000 2016| user = SamirLuizz| text = Nunca critiquei https://t.co/avsKEFjUtZ
+date = Mon May 30 01:56:18 +0000 2016| user = FWeslleyPS| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 01:56:01 +0000 2016| user = SurtoOlimpico| text = Brasil consegue quatro vagas na Esgrima em Cadeira de Rodas do @Rio2016 https://t.co/uJ4UVuDiFl https://t.co/oiQExrOx1H
+date = Mon May 30 01:55:28 +0000 2016| user = AndreLBSantos| text = Olha ela aí, viúvas  ! https://t.co/X1S8kiErbG
+date = Mon May 30 01:55:09 +0000 2016| user = Rio2016HQ| text = Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul… https://t.co/N2zea410Ni
+date = Mon May 30 01:54:43 +0000 2016| user = LinekerAmaral| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 01:54:15 +0000 2016| user = igorsiqueira| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 01:53:46 +0000 2016| user = lianavidigal| text = RT @Rio2016: Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t…
+date = Mon May 30 01:53:26 +0000 2016| user = Rio2016| text = Ex-nadadora, Patricia Amorim foi 28x campeã brasileira e quebrou a ausência feminina de 16 anos nos Jogos de #Seul88 https://t.co/bDt6JxLjaV
+date = Mon May 30 01:51:28 +0000 2016| user = LeoJulioS2| text = Amanhã vou no Museu dos Jogos Rio2016, Alguém vai também? Vamos juntos ?
+date = Mon May 30 01:50:34 +0000 2016| user = gerciodias| text = @Rio2016_en nossa como chove no nordeste...
+date = Mon May 30 01:43:25 +0000 2016| user = JavierFCPyS| text = RT @COM_Mexico: Multimedia COM invita:Conferencia de Prensa martes 31,Auditorio ODEPA 11 hrs
+se conocerá deportista que portará lábaro patr…
+date = Mon May 30 01:42:21 +0000 2016| user = lupiizzZ| text = RT @COM_Mexico: Multimedia COM invita:Conferencia de Prensa martes 31,Auditorio ODEPA 11 hrs
+se conocerá deportista que portará lábaro patr…
+date = Mon May 30 01:41:35 +0000 2016| user = otero_rj| text = RT @COM_Mexico: Multimedia COM invita:Conferencia de Prensa martes 31,Auditorio ODEPA 11 hrs
+se conocerá deportista que portará lábaro patr…
+date = Mon May 30 01:41:32 +0000 2016| user = pablovazquezr1| text = RT @COM_Mexico: Multimedia COM invita:Conferencia de Prensa martes 31,Auditorio ODEPA 11 hrs
+se conocerá deportista que portará lábaro patr…
+date = Mon May 30 01:41:10 +0000 2016| user = COM_Mexico| text = Multimedia COM invita:Conferencia de Prensa martes 31,Auditorio ODEPA 11 hrs
+se conocerá deportista que portará lábaro patrio en @rio2016_es
+date = Mon May 30 01:40:35 +0000 2016| user = RodriMaher| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Mon May 30 01:37:52 +0000 2016| user = mgracinha23| text = RT @Rio2016: Lasanha de siri, churros de batata doce e outras iguarias direto de @Maceio. Confira: https://t.co/oz3MJkwId1
+https://t.co/VTu…
+date = Mon May 30 01:37:41 +0000 2016| user = mgracinha23| text = RT @JogosOlimpicos: Uhmmmm! 😍 Bate uma fominha só de olhar! https://t.co/kLdcxVDzT0
+date = Mon May 30 01:33:50 +0000 2016| user = uaiteve| text = Já preparando a galera pra @Rio2016 né.  https://t.co/fhc8wpJcwB
+date = Mon May 30 01:33:25 +0000 2016| user = P_Roberto21| text = RT @raphaelplay_: Esperando as montagens com o placar RIO2016 X PAN2007
+date = Mon May 30 01:32:41 +0000 2016| user = raphaelplay_| text = Esperando as montagens com o placar RIO2016 X PAN2007
+date = Mon May 30 01:25:46 +0000 2016| user = MeloGongoni| text = RT @DefesaGovBr: Veja como tropas realizaram exercícios integrados e técnicas de entrada em ambientes fechados para a #Rio2016: https://t.c…
+date = Mon May 30 01:24:59 +0000 2016| user = tz_tiago| text = 100 reais o mascote das #olimpiadasrio2016 é para vender o rim nessa crise. @Rio2016 quero um ! 😅
+date = Mon May 30 01:21:59 +0000 2016| user = ReporterCult| text = #Rio2016 Esportes e baladas: https://t.co/r1s32NJNAj
+date = Mon May 30 01:19:20 +0000 2016| user = MTurismo| text = RT @Rio2016: Nem a chuva parou o ex-atleta Darlan de Oliveira, maior ídolo do #Basquete no estado, no revezamento #ChamaOlimpica https://t.…
+date = Mon May 30 01:19:00 +0000 2016| user = junior15blues| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 01:16:50 +0000 2016| user = RansesCabrera| text = RT @Rio2016: Nem a chuva parou o ex-atleta Darlan de Oliveira, maior ídolo do #Basquete no estado, no revezamento #ChamaOlimpica https://t.…
+date = Mon May 30 01:15:38 +0000 2016| user = sigagus| text = @Rio2016 @JogosOlimpicos @PrefMaceio @maceio Milhões jogado fora e milhões de brasileiros passando fome, sem hospitais, sem escolas.... :-(
+date = Mon May 30 01:14:49 +0000 2016| user = JorgeMcFarlane| text = RT @Rio2016: Nem a chuva parou o ex-atleta Darlan de Oliveira, maior ídolo do #Basquete no estado, no revezamento #ChamaOlimpica https://t.…
+date = Mon May 30 01:14:04 +0000 2016| user = poolpelaezdp17| text = #Santos 0-1 #Internacional - #Brasileirao #Parabéns 
+
+#Brasil #JJOO #rio2016 @ Estádio Vila… https://t.co/HZX2XRKfND
+date = Mon May 30 01:13:32 +0000 2016| user = LH_luanHenrique| text = A Tocha vai passar em União dos Palmares-Al amanhã, minha cidade @Rio2016 
+#TourDaTocha
+date = Mon May 30 01:12:53 +0000 2016| user = FCGLOBORIO| text = RT @Rio2016: Nem a chuva parou o ex-atleta Darlan de Oliveira, maior ídolo do #Basquete no estado, no revezamento #ChamaOlimpica https://t.…
+date = Mon May 30 01:12:37 +0000 2016| user = Rio2016HQ| text = Nem a chuva parou o ex-atleta Darlan de Oliveira, maior ídolo do #Basquete no estado, no revezamento #ChamaOlimpica https://t.co/OLD7iX0Ggh
+date = Mon May 30 01:12:31 +0000 2016| user = Rio2016| text = Nem a chuva parou o ex-atleta Darlan de Oliveira, maior ídolo do #Basquete no estado, no revezamento #ChamaOlimpica https://t.co/lvD45IdJhU
+date = Mon May 30 01:08:53 +0000 2016| user = maxmillerbr| text = Quem é esse doido? https://t.co/dGoXPNLjKH
+date = Mon May 30 01:01:49 +0000 2016| user = luis_gus| text = @Seba_Pereira Tomar que O Buza va para o Rio2016. Fez luta dura contra o frances. Perdeu no detalhe, esta mto competitivo. Ja o Luciano...
+date = Mon May 30 01:00:27 +0000 2016| user = Brasil2016| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:59:14 +0000 2016| user = Teix_edu| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Mon May 30 00:58:22 +0000 2016| user = StarKikastar| text = RT @Lua1311: Agora esperar as olimpíadas. Pq vamos ter muito @AndreMOficial #TimeOlympikus ⚡ #rio2016 https://t.co/ax2PzTKSZX
+date = Mon May 30 00:57:38 +0000 2016| user = AJjollsocerr| text = RT @DefesaGovBr: Veja como tropas realizaram exercícios integrados e técnicas de entrada em ambientes fechados para a #Rio2016: https://t.c…
+date = Mon May 30 00:57:09 +0000 2016| user = tiagomarcelinno| text = RT @portalbrasil: 🔥 Confira como será a festa nas ruas alagoanas: https://t.co/DuRfx2vGbE #TourDaTocha #Rio2016 https://t.co/5Vne1TN8uL
+date = Mon May 30 00:47:05 +0000 2016| user = PoladoNews| text = 🎥 | Apresentação do Polado no SnapChat da cobertura da Tocha Olímpica 2016::: Rio2016 (29/Mai/2016). https://t.co/htelZsYT7T
+date = Mon May 30 00:47:03 +0000 2016| user = blauzinho| text = @Rio2016 @ChamaOlimpica Quero sim! Stefano, parabéns pela cobertura, vc manda muito! Muito bom poder acompanhar esse momento. Valeu, cara!👏🏼
+date = Mon May 30 00:44:54 +0000 2016| user = Rio2016HQ| text = Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/cQ7eQTm2nH
+date = Mon May 30 00:43:54 +0000 2016| user = AdaptadoSport| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:43:08 +0000 2016| user = leandroporth| text = Foi incrível!!!! #TochaRio2016 #TochaOlímpica #QuemSeAtreve #Rio2016 #Olimpíadas2016 #Alagoas… https://t.co/QEkfoBXycz
+date = Mon May 30 00:41:09 +0000 2016| user = anaid190967| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:38:09 +0000 2016| user = salgadoww| text = Olha a responsabilidade pros atletas olímpicos #rio2016 https://t.co/ib4YCFMlWj
+date = Mon May 30 00:36:16 +0000 2016| user = lucasfelix| text = @Leo_Balmant @Rio2016 @JogosOlimpicos Opa! Vou fingir que o dentista estará na minha frente! haha
+date = Mon May 30 00:35:50 +0000 2016| user = benuza9| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:35:14 +0000 2016| user = yeshualcb| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:35:01 +0000 2016| user = Leo_Balmant| text = @Rio2016 @JogosOlimpicos @MrPoladoful @AnaRafaelaO @PrefMaceio  ja sabe como fazer pra sair na foto né @lucasfelix ???
+date = Mon May 30 00:34:55 +0000 2016| user = malburez| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:34:40 +0000 2016| user = Leo_Balmant| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:34:37 +0000 2016| user = Duda_B3ar165| text = RT @Rio2016: Fãs do @LucasRanngel ansiosas para vê-lo no revezamento da #TochaOlímpica e da @ChamaOlimpica! 🙌 https://t.co/NCKqw7zUrs
+date = Mon May 30 00:34:19 +0000 2016| user = 2Saopaulo| text = RT @SeuEsporteBR: Piccinini anuncia aposentadoria da Seleção a dois meses dos Jogos Olímpicos  #Rio2016 #vôlei #Itália #Azzurra https://t.c…
+date = Mon May 30 00:33:51 +0000 2016| user = trezeano| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:32:52 +0000 2016| user = FapsSilva| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:32:46 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:32:22 +0000 2016| user = Rio2016| text = Sorrisos marcantes no nosso #Dia27 do revezamento #ChamaOlimpica . Tá bonito de ver 😍 https://t.co/vGPxH6QrdO
+date = Mon May 30 00:30:16 +0000 2016| user = brenobarros| text = o judô brasileiro voltou da principal competição antes do Rio 2016 com duas pratas. Com @sarahjudoca e @mayraaguiarjudo . #judô #Rio2016
+date = Mon May 30 00:23:59 +0000 2016| user = FranciomarB10| text = RT @Rio2016: Gabriel (@MrPoladoful) mandou um recado sobre a sensação de conduzir a @ChamaOlimpica para os fãs. Olha só: https://t.co/wn3k1…
+date = Mon May 30 00:22:26 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: E o momento que Gabriel (@MrPoladoful) passa a #ChamaOlimpica para Ana Rafaela (@AnaRafaelaO) em @Maceio 🚶🔥🚶 https://t.co/L9iL…
+date = Mon May 30 00:21:14 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Assistir no #Periscope: Conversando com um trio de inventores muito especial, vem ver! #ChamaOlimpica #save https://t.co…
+date = Mon May 30 00:20:27 +0000 2016| user = Rio2016| text = @blauzinho @ChamaOlimpica O nome dele é Stefano! Quer mandar um recado pra ele?
+date = Mon May 30 00:18:29 +0000 2016| user = diraholanda| text = RT @Brasil2016: Curso de observação de comportamentos suspeitos capacita agentes para prevenção ao terrorismo nos Jogos #Rio2016. https://t…
+date = Mon May 30 00:10:57 +0000 2016| user = glblfitwrldwide| text = minhas nega #tapioca #fitness #rio2016 by lekao77 https://t.co/2dykeGpzC8
+date = Mon May 30 00:09:45 +0000 2016| user = FernandesFight| text = Olimpíadas Rio2016
+#Rio2016 
+@FernandesFight https://t.co/br2S1j8qGX
+date = Mon May 30 00:08:15 +0000 2016| user = Rio2016HQ| text = E o momento que Gabriel (MrPoladoful) passa a #ChamaOlimpica para Ana Rafaela (AnaRafaelaO) em Maceio 🚶🔥🚶 https://t.co/Ddk1c7xWD3
+date = Mon May 30 00:07:20 +0000 2016| user = atletasmxof| text = RT @AleOrozcoLoza: Cada vez falta menos para #Río2016 #SueñoOlímpico #SinParar 🇲🇽🇧🇷 https://t.co/4gMjyLYr4b
+date = Mon May 30 00:05:18 +0000 2016| user = muitossorrisos| text = @Esp_Interativo @Rio2016 BRASIL
+date = Mon May 30 00:02:11 +0000 2016| user = DiogoS2Michele| text = @evpcosta_73 @VEJA @ViniciusRio2016 @Rio2016 O pior é que nem justiceiro ele pode ser considerado, pois ele não roubava só os coronéis.
+date = Sun May 29 23:56:53 +0000 2016| user = Rodrigo_boss_xd| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 23:56:34 +0000 2016| user = ROCHELLEVIP2015| text = PAIS CHECAR OS CELULARES  DOS FILHOS EVITARÃO NOVOS ESTUPROS NO PAÍS SEDE DAS #OLIMPÍADAS2016 #RIO2016
+date = Sun May 29 23:53:25 +0000 2016| user = LeonorMoraes| text = RT @Lua1311: Agora esperar as olimpíadas. Pq vamos ter muito @AndreMOficial #TimeOlympikus ⚡ #rio2016 https://t.co/ax2PzTKSZX
+date = Sun May 29 23:53:08 +0000 2016| user = Lua1311| text = Agora esperar as olimpíadas. Pq vamos ter muito @AndreMOficial #TimeOlympikus ⚡ #rio2016 https://t.co/ax2PzTKSZX
+date = Sun May 29 23:46:30 +0000 2016| user = FapsSilva| text = RT @Rio2016: E o momento que Gabriel (@MrPoladoful) passa a #ChamaOlimpica para Ana Rafaela (@AnaRafaelaO) em @Maceio 🚶🔥🚶 https://t.co/L9iL…
+date = Sun May 29 23:46:29 +0000 2016| user = Flyashi2015| text = @Rio2016 @MrPoladoful @AnaRafaelaO @maceio @JogosOlimpicos @ChamaOlimpica que foda mano!
+date = Sun May 29 23:44:36 +0000 2016| user = fabriciofo| text = Independente dos problemas, é uma emoção muito grande conduzir a tocha olímpica. Grande honra! #TourDaTocha #Rio2016 #maceió
+date = Sun May 29 23:42:53 +0000 2016| user = Rio2016| text = E o momento que Gabriel (@MrPoladoful) passa a #ChamaOlimpica para Ana Rafaela (@AnaRafaelaO) em @Maceio 🚶🔥🚶 https://t.co/L9iLTlmXMq
+date = Sun May 29 23:40:25 +0000 2016| user = Rio2016| text = Gabriel Dantas @MrPoladoful conduzindo a @ChamaOlimpica em @Maceio, um dos momentos mais engraçados do revezamento!
+https://t.co/dWLR2Wicvv
+date = Sun May 29 23:37:59 +0000 2016| user = gledsonkruger| text = RT @kikorsjudo: Parabéns Mayra Aguiar BRA OI SOGIPA Medalha de Prata no Master World 2016. Agora foco para o RIO2016,ajustes e foco!
+date = Sun May 29 23:37:39 +0000 2016| user = Edmilson_Sa| text = É Maravilhoso Conduzir a Tocha Olimpica... #Rio2016 #RumoAoRio #TochaOlimpica https://t.co/Qw3SJhvc6A
+date = Sun May 29 23:36:02 +0000 2016| user = portalfab| text = RT @DefesaGovBr: Veja como tropas realizaram exercícios integrados e técnicas de entrada em ambientes fechados para a #Rio2016: https://t.c…
+date = Sun May 29 23:36:02 +0000 2016| user = Mallowbr7| text = RT @portaljovempan: Efeito zika: governo Temer tenta conter pressão de cientistas contra @Rio2016
+
+https://t.co/ZWNYlvPyfJ https://t.co/Y5k…
+date = Sun May 29 23:34:13 +0000 2016| user = blauzinho| text = @ChamaOlimpica Chaminha, qual é o nome do rapaz que faz os snaps do  @Rio2016?
+date = Sun May 29 23:33:52 +0000 2016| user = kikorsjudo| text = RT @joaoderly: Mais um excelente resultado da Mayra antes dos Jogos @Rio2016. E a revanche será lá... #VaiMayrao  
+
+ https://t.co/k6br8XSUzL
+date = Sun May 29 23:31:51 +0000 2016| user = oagra| text = Já tô fazendo a Sandra Annenberg! #TochaOlimpica #tochaemmaceio #rio2016 #quemseatreve #nissan https://t.co/i4w5tedOn7
+date = Sun May 29 23:31:05 +0000 2016| user = kikorsjudo| text = Parabéns Mayra Aguiar BRA OI SOGIPA Medalha de Prata no Master World 2016. Agora foco para o RIO2016,ajustes e foco!
+date = Sun May 29 23:30:29 +0000 2016| user = CardozoCarlos5| text = RT @Rio2016: A cantora @AnaRafaelaO está muito empolgada e aproveitou pra agradecer aos fãs. https://t.co/aTor74Nf4p
+date = Sun May 29 23:26:30 +0000 2016| user = alexpussieldi| text = Eu prefiro correr o risco, disse a nadadora Fiona Doyle da Irlanda em nadar  #Rio2016 Sem medo do Zika! https://t.co/4chMkHOgBX
+date = Sun May 29 23:21:35 +0000 2016| user = Mankool_Rio| text = Vários tons de azul... #leme #rj  #riodejaneiro  #rio #rio2016 #despedidadafla #mar  #praia #sol by ivinha_olive https://t.co/GXTd2wTw7n
+date = Sun May 29 23:21:26 +0000 2016| user = JrWandeir| text = Retweeted Rio 2016 (@Rio2016):
+
+O modelo de inclusão sócio produtiva é a bandeira erguida pelo engenheiro de... https://t.co/8AIjgrXCQa
+date = Sun May 29 23:21:21 +0000 2016| user = JrWandeir| text = RT @Rio2016: O modelo de inclusão sócio produtiva é a bandeira erguida pelo engenheiro de pesca José Roberto da Fonseca e Silva.💪 https://t…
+date = Sun May 29 23:20:07 +0000 2016| user = martars64| text = Rio2016 - Ele quer dar a primeira medalha olímpica à Palestina https://t.co/bt1LIJUmP3
+date = Sun May 29 23:18:07 +0000 2016| user = jusiruffo| text = Boa noite!!! Domingão dia de trabalhar󾆶🏻 Vamos dançar aqui em Maceió. #tourdatocha #tochaolimpica2016 #rio2016... https://t.co/LJoUoaA6Lm
+date = Sun May 29 23:12:42 +0000 2016| user = ADDesporte| text = RT @minesporte: #Novidade A partir de 3/6, as figurinhas dos atletas olímpicos e paralímpicos @Rio2016 estarão nas bancas! https://t.co/QVr…
+date = Sun May 29 23:10:43 +0000 2016| user = swissando_| text = RT @Rio2016: Os palhaços Mixuruca e Tapioca vieram prestigiar o companheiro Biribinha, que conduz a @ChamaOlimpica, em Arapiraca. https://t…
+date = Sun May 29 23:08:01 +0000 2016| user = Seba_Pereira| text = RT @joaoderly: Mais um excelente resultado da Mayra antes dos Jogos @Rio2016. E a revanche será lá... #VaiMayrao  
+
+ https://t.co/k6br8XSUzL
+date = Sun May 29 23:04:59 +0000 2016| user = MiguelOffL| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:59:11 +0000 2016| user = JudoSogipa| text = RT @joaoderly: Mais um excelente resultado da Mayra antes dos Jogos @Rio2016. E a revanche será lá... #VaiMayrao  
+
+ https://t.co/k6br8XSUzL
+date = Sun May 29 22:59:05 +0000 2016| user = teamocaruaru| text = E amanhã #Rio2016 #TeAmoCaruaru https://t.co/px62joJ1wD
+date = Sun May 29 22:56:01 +0000 2016| user = JudoTalk| text = RT @joaoderly: Mais um excelente resultado da Mayra antes dos Jogos @Rio2016. E a revanche será lá... #VaiMayrao  
+
+ https://t.co/k6br8XSUzL
+date = Sun May 29 22:55:22 +0000 2016| user = joaoderly| text = Mais um excelente resultado da Mayra antes dos Jogos @Rio2016. E a revanche será lá... #VaiMayrao  
+
+ https://t.co/k6br8XSUzL
+date = Sun May 29 22:55:00 +0000 2016| user = fbarido| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:54:23 +0000 2016| user = DanielaEsquina| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:50:10 +0000 2016| user = gomyde| text = RT @minesporte: Veja o design dos ingressos dos Jogos Olímpicos e Paralímpicos #Rio2016 . https://t.co/ham0fMTFQm https://t.co/TLfWXDR7Jx
+date = Sun May 29 22:48:39 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Melhor jogador brasileiro da história se anima com tabela do ...
+Rio 2016
+A Arena do Futuro, na… https://t.co/Fc2kSXLRmr
+date = Sun May 29 22:48:08 +0000 2016| user = DefesaGovBr| text = Veja como tropas realizaram exercícios integrados e técnicas de entrada em ambientes fechados para a #Rio2016: https://t.co/gYH22aDQiz
+date = Sun May 29 22:45:28 +0000 2016| user = paulomendox| text = seguindo a tocha olimpica ao lado do meu amor. de baixo de chuva. rosetatyanne #Rio2016 #Maceió… https://t.co/QCn0ql5g6L
+date = Sun May 29 22:45:27 +0000 2016| user = gongas2001| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:43:17 +0000 2016| user = lucasfelix| text = @Leo_Balmant @ChamaOlimpica @Rio2016 Devem trabalhar pacas, mas se tiver um espaço para "trocar figurinhas", seria demais o/
+date = Sun May 29 22:43:00 +0000 2016| user = jpmfigueiredo98| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:41:29 +0000 2016| user = Leo_Balmant| text = @lucasfelix @ChamaOlimpica @Rio2016   tb seria legal..
+date = Sun May 29 22:41:06 +0000 2016| user = Rio2016HQ| text = O modelo de inclusão sócio produtiva é a bandeira erguida pelo engenheiro de pesca José Roberto da Fonseca e Silva… https://t.co/bhyiTGRXni
+date = Sun May 29 22:40:50 +0000 2016| user = CCardosinho| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:40:32 +0000 2016| user = du_oliveiraaa| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:38:42 +0000 2016| user = lucasfelix| text = @Leo_Balmant @ChamaOlimpica Quero procurar o pessoal do Twitter! rs Alô, @Rio2016 :) Seria show encontrar com vocês aí da arroba.
+date = Sun May 29 22:38:30 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: O modelo de inclusão sócio produtiva é a bandeira erguida pelo engenheiro de pesca José Roberto da Fonseca e Silva.💪 https://t…
+date = Sun May 29 22:36:31 +0000 2016| user = DicasDaThatynha| text = RT @twiterdathais: Snap da Rio2016 é Android.
+Imagem ruim do kct
+date = Sun May 29 22:36:25 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: O modelo de inclusão sócio produtiva é a bandeira erguida pelo engenheiro de pesca José Roberto da Fonseca e Silva.💪 https://t…
+date = Sun May 29 22:35:58 +0000 2016| user = RitaRedPT| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:33:57 +0000 2016| user = EliCarlos_8| text = RT @Rio2016: O modelo de inclusão sócio produtiva é a bandeira erguida pelo engenheiro de pesca José Roberto da Fonseca e Silva.💪 https://t…
+date = Sun May 29 22:33:28 +0000 2016| user = Rio2016| text = O modelo de inclusão sócio produtiva é a bandeira erguida pelo engenheiro de pesca José Roberto da Fonseca e Silva.💪 https://t.co/qvtFG2CgOC
+date = Sun May 29 22:32:47 +0000 2016| user = tcassia7| text = RT @portalbrasil: 🎫 Você viu? Mais de 4 milhões de ingressos já foram vendidos p/ os Jogos Olímpicos https://t.co/Ut9iKnV721 #Rio2016 https…
+date = Sun May 29 22:31:58 +0000 2016| user = Pedge21| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:30:56 +0000 2016| user = joanagameiro92| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:28:46 +0000 2016| user = fabriciofo| text = @monguimaraes @Rio2016 valeu, querida!! 😘😘
+date = Sun May 29 22:27:46 +0000 2016| user = AndreSeverino98| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:23:49 +0000 2016| user = twiterdathais| text = Snap da Rio2016 é Android.
+Imagem ruim do kct
+date = Sun May 29 22:20:17 +0000 2016| user = Lu_R_Moreira| text = Poxa #chateada..ia ver a #tochaolímpica @Rio2016  na orla mas o tempo não deixou. #ChuvaemMaceió
+date = Sun May 29 22:20:06 +0000 2016| user = hrmt15| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:19:45 +0000 2016| user = Bastos45Grace| text = RT @Brasil2016: Plataforma online capacita profissionais para o #Rio2016. https://t.co/JGZrnfgCM7 https://t.co/E4mogYa5YJ
+date = Sun May 29 22:17:22 +0000 2016| user = Nepia_Slut| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:16:18 +0000 2016| user = turbo_k9| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:10:55 +0000 2016| user = s_ashn| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:10:05 +0000 2016| user = SorayaLee| text = RT @Brasil2016: Plataforma online capacita profissionais para o #Rio2016. https:///usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+t.co/JGZrnfgCM7 https://t.co/E4mogYa5YJ
+date = Sun May 29 22:09:34 +0000 2016| user = martammachado11| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:08:36 +0000 2016| user = _danielaa_01| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:08:27 +0000 2016| user = RicardoLeyser| text = RT @Brasil2016: Faltam menos de três meses para os Jogos Olímpicos e Paralímpicos do #Rio2016. https://t.co/inWYgXlbo4 https://t.co/JHLTKvz…
+date = Sun May 29 22:08:20 +0000 2016| user = marianaccmelo| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:08:04 +0000 2016| user = Brasil2016| text = Faltam menos de três meses para os Jogos Olímpicos e Paralímpicos do #Rio2016. https://t.co/inWYgXlbo4 https://t.co/JHLTKvzHID
+date = Sun May 29 22:07:37 +0000 2016| user = mahlimax| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:06:48 +0000 2016| user = fabriciofo| text = E vamos lá participar do #TourDaTocha . @Rio2016 #maceió https://t.co/GFl8aPIWjx
+date = Sun May 29 22:05:01 +0000 2016| user = danielasantos05| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:04:03 +0000 2016| user = joao76francisco| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:02:23 +0000 2016| user = EliCarlos_8| text = RT @Rio2016: Lasanha de siri, churros de batata doce e outras iguarias direto de @Maceio. Confira: https://t.co/oz3MJkwId1
+https://t.co/VTu…
+date = Sun May 29 22:01:39 +0000 2016| user = PT_NW_Sports| text = Rio2016: Kaminskaya bate recorde nacional dos 400 m estilos e faz mínimo olímpico https://t.co/Fvyg8ze5Ec
+date = Sun May 29 22:00:28 +0000 2016| user = RapazesDaLuz92| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 22:00:05 +0000 2016| user = portalbrasil| text = 🎫 Você viu? Mais de 4 milhões de ingressos já foram vendidos p/ os Jogos Olímpicos https://t.co/Ut9iKnV721 #Rio2016 https://t.co/YyfhJMC6lD
+date = Sun May 29 21:57:12 +0000 2016| user = mariakikas13| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:56:53 +0000 2016| user = xi_co_2| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:55:14 +0000 2016| user = picmartins02| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:54:51 +0000 2016| user = MartaPrata02| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:54:24 +0000 2016| user = PT_NewsWaver| text = Rio2016: Kaminskaya bate recorde nacional dos 400 m estilos e faz mínimo olímpico https://t.co/2KbFODJhr7
+date = Sun May 29 21:53:44 +0000 2016| user = joaombpaulino| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:53:02 +0000 2016| user = obscure_killer| text = RT @Rio2016: Gabriel (@MrPoladoful) mandou um recado sobre a sensação de conduzir a @ChamaOlimpica para os fãs. Olha só: https://t.co/wn3k1…
+date = Sun May 29 21:52:00 +0000 2016| user = obscure_killer| text = RT @Rio2016: E olha quem vai conduzir a #ChamaOlimpica em @Maceio: Gabriel Dantas (@MrPoladoful) e Ana Rafaela (@AnaRafaelaO) https://t.co/…
+date = Sun May 29 21:51:32 +0000 2016| user = Rafa_macao_uks| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:51:14 +0000 2016| user = Bamarques16| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:50:59 +0000 2016| user = ricardo98a| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:50:52 +0000 2016| user = Barbara9817| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:49:55 +0000 2016| user = persieG1904| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:49:25 +0000 2016| user = junior15blues| text = RT @Rio2016: Gabriel (@MrPoladoful) mandou um recado sobre a sensação de conduzir a @ChamaOlimpica para os fãs. Olha só: https://t.co/wn3k1…
+date = Sun May 29 21:49:22 +0000 2016| user = alanamarialinda| text = #tocha2016_#Rio2016_#tocha_em_São_Sebastião.💟
+date = Sun May 29 21:49:05 +0000 2016| user = Magda_16| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:48:57 +0000 2016| user = MiguelMendinhas| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:48:46 +0000 2016| user = tiagommg| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:48:41 +0000 2016| user = ValterFidalgo9| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:47:57 +0000 2016| user = filhodopogba| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:47:19 +0000 2016| user = acarolinaroldao| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:47:15 +0000 2016| user = andremiguelseq1| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:46:55 +0000 2016| user = SaraLuisSLB| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:46:55 +0000 2016| user = ins_malcata| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:46:02 +0000 2016| user = diiiogoalmeida| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:45:58 +0000 2016| user = a_tuaamiga| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:45:38 +0000 2016| user = titolasartolas| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:45:12 +0000 2016| user = Leonorcg_10| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:44:59 +0000 2016| user = JogosOlimpicos| text = Uhmmmm! 😍 Bate uma fominha só de olhar! https://t.co/kLdcxVDzT0
+date = Sun May 29 21:44:20 +0000 2016| user = MafaldaPalmela| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:44:17 +0000 2016| user = lipaandrade| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:44:10 +0000 2016| user = MadalenaPires9| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:43:52 +0000 2016| user = Bolt31Pedro| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:43:48 +0000 2016| user = nlopes952| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:43:42 +0000 2016| user = cardosomarcia1| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:43:23 +0000 2016| user = franciscacm5| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:43:20 +0000 2016| user = Isco_70| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:43:14 +0000 2016| user = lol_adeus_lol| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:43:10 +0000 2016| user = CatalogP| text = RT @Rio2016: Lasanha de siri, churros de batata doce e outras iguarias direto de @Maceio. Confira: https://t.co/oz3MJkwId1
+https://t.co/VTu…
+date = Sun May 29 21:43:08 +0000 2016| user = official_m_a| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:43:03 +0000 2016| user = ANEGLAC| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:42:57 +0000 2016| user = tiago_sardo| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:42:57 +0000 2016| user = guicsc2000| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:42:56 +0000 2016| user = elmago1904| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:42:51 +0000 2016| user = tohxicalit| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:42:49 +0000 2016| user = miguelfarinha2| text = RT @SLBenfica: Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:42:34 +0000 2016| user = SLBenfica| text = Nuno Saraiva vai juntar-se a @telmamonteiro57 e @celiodias08 no @Rio2016! #BenficaOlímpico https://t.co/VpoWVGhhjU
+date = Sun May 29 21:42:08 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Lasanha de siri, churros de batata doce e outras iguarias direto de @Maceio. Confira: https://t.co/oz3MJkwId1
+https://t.co/VTu…
+date = Sun May 29 21:42:02 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Lasanha de siri, churros de batata doce e outras iguarias direto de @Maceio. Confira: https://t.co/oz3MJkwId1
+https://t.co/VTu…
+date = Sun May 29 21:41:26 +0000 2016| user = vsmith1660| text = RT @Rio2016: Lasanha de siri, churros de batata doce e outras iguarias direto de @Maceio. Confira: https://t.co/oz3MJkwId1
+https://t.co/VTu…
+date = Sun May 29 21:41:10 +0000 2016| user = McKenrene| text = RT @Rio2016: Lasanha de siri, churros de batata doce e outras iguarias direto de @Maceio. Confira: https://t.co/oz3MJkwId1
+https://t.co/VTu…
+date = Sun May 29 21:41:09 +0000 2016| user = Rio2016HQ| text = Lasanha de siri, churros de batata doce e outras iguarias direto de Maceio. Confira: https://t.co/7ZUWmDHeJt
+https://t.co/dJnVNTI0Ve
+date = Sun May 29 21:40:45 +0000 2016| user = SorayaLee| text = RT @Rio2016: Recepção bonita para a #ChamaOlimpica . Igreja ⛪ de Santo Antônio em Aracaju pronta pra receber o revezamento. https://t.co/Wk…
+date = Sun May 29 21:40:36 +0000 2016| user = Rio2016| text = Lasanha de siri, churros de batata doce e outras iguarias direto de @Maceio. Confira: https://t.co/oz3MJkwId1
+https://t.co/VTugdYVtjy
+date = Sun May 29 21:39:49 +0000 2016| user = SorayaLee| text = RT @Rio2016: Nem a ☔ impediu Alexandro da Conceição, ou Palhaço Soneca, de ver o revezamento da #ChamaOlimpica em Aracaju. https://t.co/iaq…
+date = Sun May 29 21:39:34 +0000 2016| user = SorayaLee| text = RT @Rio2016: Revezamento oficialmente iniciado em Aracaju. Veja o momento da #ChamaOlimpica com a primeira condutora Roberta Leal https://t…
+date = Sun May 29 21:38:53 +0000 2016| user = fuckam16| text = @Rio2016 nada melhor do que um pão com ovo...
+date = Sun May 29 21:38:50 +0000 2016| user = SorayaLee| text = Conhecidíssimo aqui na cidade. Faz um belo trabalho.** https://t.co/v790DP4GPB
+date = Sun May 29 21:37:57 +0000 2016| user = SorayaLee| text = RT @Rio2016: Almir faz trabalho social desde 1990 e é conhecido como "Almir do Picolé". Conta aí, Almir, qual o melhor sabor? https://t.co/…
+date = Sun May 29 21:37:28 +0000 2016| user = SorayaLee| text = RT @Rio2016: A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.c…
+date = Sun May 29 21:37:11 +0000 2016| user = SorayaLee| text = @Rio2016 @ChamaOlimpica Sim, foi na Orla da Atalaia, aqui em Aracaju.
+date = Sun May 29 21:36:47 +0000 2016| user = SorayaLee| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 21:36:36 +0000 2016| user = SorayaLee| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 21:34:12 +0000 2016| user = jrobertoce| text = RT @Brasil2016: Curso de observação de comportamentos suspeitos capacita agentes para prevenção ao terrorismo nos Jogos #Rio2016. https://t…
+date = Sun May 29 21:33:25 +0000 2016| user = SorayaLee| text = RT @Rio2016: A primeira condutora de Aracaju, Roberta Leal, já está em frente a igreja ⛪ de Santo Antônio. Vem #ChamaOlimpica https://t.co/…
+date = Sun May 29 21:26:48 +0000 2016| user = timaokle| text = @Rio2016 pq só artistas da globo participa não vi nenhum de outra emissora vc pode me dizer o pq disso
+date = Sun May 29 21:25:56 +0000 2016| user = Rio2016HQ| text = A cantora AnaRafaelaO está muito empolgada e aproveitou pra agradecer aos fãs. https://t.co/b2YypmYdCF
+date = Sun May 29 21:25:56 +0000 2016| user = Rio2016HQ| text = Gabriel (MrPoladoful) mandou um recado sobre a sensação de conduzir a ChamaOlimpica para os fãs. Olha só: https://t.co/HdsRwxohbM
+date = Sun May 29 21:24:47 +0000 2016| user = AmoTenisOficial| text = #tennis
+#Rio2016 pode não ter #SerenaWilliams
+#WTA #Sports #Maislidas #AmoTenis
+https://t.co/esXBsE8TD0 https://t.co/MqBjjDgjaJ
+date = Sun May 29 21:24:21 +0000 2016| user = alem_do_futebol| text = RT @remoemvoga: 'Olímpicos' brilham na Copa do Mundo de #remo rumo à #Rio2016 https://t.co/u7DoOTZd4w via @remoemvoga #WRCLucerne https://t…
+date = Sun May 29 21:24:10 +0000 2016| user = JodmanGusmao| text = Kaminskaya bate recorde nacional dos 400 m estilos e apura-se para o Rio2016: Nadadora portuguesa fez mínimo ... https://t.co/th1DUOayCZ
+date = Sun May 29 21:24:05 +0000 2016| user = IolandaLimaBeze| text = Kaminskaya bate recorde nacional dos 400 m estilos e apura-se para o Rio2016: Nadadora portuguesa fez mínimo ... https://t.co/IiqUYRXtzN
+date = Sun May 29 21:23:15 +0000 2016| user = COPPORTUGAL| text = Sobe para 75 o nr. de atletas da #EquipaOlímpicaPortugal apurados para o @Rio2016 com Victoria Kaminskaya (Natação): https://t.co/ssXdG5pB9B
+date = Sun May 29 21:23:01 +0000 2016| user = SynKnut| text = Sua mão tava pegando fogo🔥?? Hahaha https://t.co/6pvtWmsKcn
+date = Sun May 29 21:22:49 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: A cantora @AnaRafaelaO está muito empolgada e aproveitou pra agradecer aos fãs. https://t.co/aTor74Nf4p
+date = Sun May 29 21:21:45 +0000 2016| user = AndCamps| text = RT @Rio2016: A cantora @AnaRafaelaO está muito empolgada e aproveitou pra agradecer aos fãs. https://t.co/aTor74Nf4p
+date = Sun May 29 21:20:10 +0000 2016| user = DosGilcinea| text = @ViniciusRio2016 @ChamaOlimpica @Rio2016 agorem
+date = Sun May 29 21:18:59 +0000 2016| user = AndCamps| text = RT @Rio2016: Gabriel (@MrPoladoful) mandou um recado sobre a sensação de conduzir a @ChamaOlimpica para os fãs. Olha só: https://t.co/wn3k1…
+date = Sun May 29 21:18:24 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Cada Minuto (liberação de imprensa)
+Tocha Olímpica dos Jogos Rio 2016 já chegou no interior de … https://t.co/fpz0fwexsX
+date = Sun May 29 21:18:23 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio2016: Kaminskaya bate recorde nacional dos 400 m estilos e faz ...
+Correio da Manhã
+Victoria… https://t.co/bQ016shNSP
+date = Sun May 29 21:17:41 +0000 2016| user = dois_min| text = RT @Rio2016: A cantora @AnaRafaelaO está muito empolgada e aproveitou pra agradecer aos fãs. https://t.co/aTor74Nf4p
+date = Sun May 29 21:15:44 +0000 2016| user = Rio2016| text = A cantora @AnaRafaelaO está muito empolgada e aproveitou pra agradecer aos fãs. https://t.co/aTor74Nf4p
+date = Sun May 29 21:15:08 +0000 2016| user = AdaByronKing| text = RT @Rio2016: Gabriel (@MrPoladoful) mandou um recado sobre a sensação de conduzir a @ChamaOlimpica para os fãs. Olha só: https://t.co/wn3k1…
+date = Sun May 29 21:14:45 +0000 2016| user = FaDelarici| text = @Rio2016 Acho errado artista e pessoas que não tem nada haver levar a tocha olímpica.Principalmente esses caras da @RedeGlobo @lobaoeletrico
+date = Sun May 29 21:14:28 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Gabriel (@MrPoladoful) mandou um recado sobre a sensação de conduzir a @ChamaOlimpica para os fãs. Olha só: https://t.co/wn3k1…
+date = Sun May 29 21:14:23 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Gabriel (@MrPoladoful) mandou um recado sobre a sensação de conduzir a @ChamaOlimpica para os fãs. Olha só: https://t.co/wn3k1…
+date = Sun May 29 21:14:04 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: E olha quem vai conduzir a #ChamaOlimpica em @Maceio: Gabriel Dantas (@MrPoladoful) e Ana Rafaela (@AnaRafaelaO) https://t.co/…
+date = Sun May 29 21:13:59 +0000 2016| user = Rio2016| text = Gabriel (@MrPoladoful) mandou um recado sobre a sensação de conduzir a @ChamaOlimpica para os fãs. Olha só: https://t.co/wn3k12NXEj
+date = Sun May 29 21:12:57 +0000 2016| user = JoaoNYCPR| text = RT @Rio2016: E olha quem vai conduzir a #ChamaOlimpica em @Maceio: Gabriel Dantas (@MrPoladoful) e Ana Rafaela (@AnaRafaelaO) https://t.co/…
+date = Sun May 29 21:12:24 +0000 2016| user = joaovitorperesm| text = @Rio2016 @maceio  @AnaRafaelaO @ChamaOlimpica @JogosOlimpicos  aí sim hein @MrPoladoful sou mt teu fã krl #ChamaOlimpica
+date = Sun May 29 21:11:47 +0000 2016| user = Rio2016HQ| text = E olha quem vai conduzir a #ChamaOlimpica em Maceio: Gabriel Dantas (MrPoladoful) e Ana Rafaela (AnaRafaelaO) https://t.co/7m6pCrnmzi
+date = Sun May 29 21:11:47 +0000 2016| user = Rio2016HQ| text = Landeylka Silva, de Maceio, tem uma linda historia de dedicação, que você confere em https://t.co/7ZUWmD/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+HeJt https://t.co/AwH2KcyCtJ
+date = Sun May 29 21:11:11 +0000 2016| user = piggles87| text = RT @Rio2016: E olha quem vai conduzir a #ChamaOlimpica em @Maceio: Gabriel Dantas (@MrPoladoful) e Ana Rafaela (@AnaRafaelaO) https://t.co/…
+date = Sun May 29 21:10:19 +0000 2016| user = Rio2016| text = E olha quem vai conduzir a #ChamaOlimpica em @Maceio: Gabriel Dantas (@MrPoladoful) e Ana Rafaela (@AnaRafaelaO) https://t.co/clNl7s61pJ
+date = Sun May 29 21:10:09 +0000 2016| user = rocha122jr| text = @portaljovempan @Rio2016 quando a casa tá bagunçada não se convida visita! Manda pra outro país mesmo
+date = Sun May 29 21:06:40 +0000 2016| user = rafaellirajc| text = RT @Rio2016: Landeylka Silva, de @Maceio, tem uma linda historia de dedicação, que você confere em https://t.co/oz3MJkf7lt https://t.co/tog…
+date = Sun May 29 21:02:34 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Landeylka Silva, de @Maceio, tem uma linda historia de dedicação, que você confere em https://t.co/oz3MJkf7lt https://t.co/tog…
+date = Sun May 29 21:01:20 +0000 2016| user = Rio2016| text = Landeylka Silva, de @Maceio, tem uma linda historia de dedicação, que você confere em https://t.co/oz3MJkf7lt https://t.co/togdJo8c5p
+date = Sun May 29 20:58:39 +0000 2016| user = mgracinha23| text = RT @Rio2016: Os palhaços Mixuruca e Tapioca vieram prestigiar o companheiro Biribinha, que conduz a @ChamaOlimpica, em Arapiraca. https://t…
+date = Sun May 29 20:56:33 +0000 2016| user = ThalitaZumpy| text = @PanteneBrasil vocês podiam chamar a @jaquelinevolei pra ser garota pantene outra vez nessas olimpíadas. 😋 #Rio2016 #olimpiadasrio2016
+date = Sun May 29 20:55:04 +0000 2016| user = remoemvoga| text = 'Olímpicos' brilham na Copa do Mundo de #remo rumo à #Rio2016 https://t.co/u7DoOTZd4w via @remoemvoga #WRCLucerne https://t.co/ChmoDYsdUJ
+date = Sun May 29 20:54:58 +0000 2016| user = fabinho_011| text = @Rio2016 Faltam 68 dias para as Olimpíadas 2016...BOLO SALGADO DE CARNE SECA E FRIOS(DECORAÇÃO: RIO 2016)...Eu fiz! https://t.co/x9URbfJyUX
+date = Sun May 29 20:50:46 +0000 2016| user = fabinho_011| text = @Rio2016  Faltam 68 dias para as Olimpíadas 2016...BOLO SALGADO DE CARNE SECA E FRIOS(DECORAÇÃO: RIO 2016)...Eu fiz! https://t.co/InlobEBIiT
+date = Sun May 29 20:49:47 +0000 2016| user = parsonsandrew| text = RT @minesporte: #Novidade A partir de 3/6, as figurinhas dos atletas olímpicos e paralímpicos @Rio2016 estarão nas bancas! https://t.co/QVr…
+date = Sun May 29 20:43:39 +0000 2016| user = SorGusta| text = @VEJA @ViniciusRio2016 @Rio2016 no quando a toxa chegar no Rio vamos idolatrar o Fernandinho Beira-Mar.
+date = Sun May 29 20:38:12 +0000 2016| user = MarceloNeto13| text = RT @Brasil2016: O nadador @leogdeus assume a condução da #ChamaOlimpica em Valença. Ele é esperança de pódio nos Jogos @Rio2016 https://t.c…
+date = Sun May 29 20:37:24 +0000 2016| user = manucaduarte79| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:36:03 +0000 2016| user = bellephn| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:35:49 +0000 2016| user = diegokrvalho| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:35:45 +0000 2016| user = cacambitoeu| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:35:37 +0000 2016| user = sarubo| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:35:09 +0000 2016| user = Bonilha| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:34:34 +0000 2016| user = BenitoAlarconR| text = Segue o meu apoio às Olimpíadas! #fodase #boanoite #olimpiadas #rio2016 #mutreta #vemprarua #protesto #foradilma #f… https://t.co/iLu30xCSQ4
+date = Sun May 29 20:34:26 +0000 2016| user = BenitoAlarconR| text = ⚠ ajudem ae, não confundam as coisas 🚫
+#brasil #brasilia #rio2016 #sociedade #root #humanity #planet #funny https://t.co/Fri5CSqHIy
+date = Sun May 29 20:33:21 +0000 2016| user = Elizajheamor| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Sun May 29 20:33:10 +0000 2016| user = Andre_Ceretta| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:32:53 +0000 2016| user = meliodetuti| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:32:30 +0000 2016| user = gimenezrodrigo| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:32:28 +0000 2016| user = heitorfacini| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:32:16 +0000 2016| user = naty_tricoloor| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:31:59 +0000 2016| user = ClaytonNovaes_| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:31:45 +0000 2016| user = jean_miranda| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:31:30 +0000 2016| user = silmarapipo| text = RT @portaljovempan: Efeito zika: governo Temer tenta conter pressão de cientistas contra @Rio2016
+
+https://t.co/ZWNYlvPyfJ https://t.co/Y5k…
+date = Sun May 29 20:30:53 +0000 2016| user = Joao_M_Nogueira| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:30:52 +0000 2016| user = JrSilvaBR| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:30:35 +0000 2016| user = pesoria| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:30:25 +0000 2016| user = justdu| text = RT @FChiorino: De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:30:17 +0000 2016| user = FChiorino| text = De touca, talvez Denis encontre sua real vocação: a natação #SPFC #Rio2016
+date = Sun May 29 20:30:15 +0000 2016| user = portaljovempan| text = Efeito zika: governo Temer tenta conter pressão de cientistas contra @Rio2016
+
+https://t.co/ZWNYlvPyfJ https://t.co/Y5kbpmTqYK
+date = Sun May 29 20:27:46 +0000 2016| user = JornalDestak| text = Rio2016: Kaminskaya bate recorde nacional dos 400 m estilos e faz mínimo olímpico https://t.co/zclh53V2gp
+date = Sun May 29 20:27:26 +0000 2016| user = ficobr| text = RT @Brasil2016: Curso de observação de comportamentos suspeitos capacita agentes para prevenção ao terrorismo nos Jogos #Rio2016. https://t…
+date = Sun May 29 20:26:48 +0000 2016| user = YasminPeccini| text = Tá uma chuva danada aqui em Maceió.. Desculpa aí Tocha Olímpica, mas a gente só vai se ver no RJ mesmo #TochaOlimpica #Rio2016
+date = Sun May 29 20:24:16 +0000 2016| user = MaelScotty| text = Mais um e hj é em Recife-AL 
+
+#dia27de95 
+#Rio2016 #agoraébra 
+#malighting #MA2
+date = Sun May 29 20:19:05 +0000 2016| user = Brasil2016| text = Curso de observação de comportamentos suspeitos capacita agentes para prevenção ao terrorismo nos Jogos #Rio2016. https://t.co/OwQBgJDaM8
+date = Sun May 29 20:15:58 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Laboratório da Rio 2016 fará teste antidoping fora de jogo no ...
+Brasileiros
+Numa manhã de dez… https://t.co/nwUI6a2a5i
+date = Sun May 29 20:15:58 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 O POVO Online
+Organização dos Jogos Olímpicos Rio 2016 divulga trajeto da ...
+O POVO Online
+A n… https://t.co/Owi2Z1P5T5
+date = Sun May 29 20:08:32 +0000 2016| user = apborgesmartins| text = Quero ir à festa da delegação britânica no Parque Lage. Me convidem, please! @Rio2016 #BritishHouseRio
+date = Sun May 29 20:03:33 +0000 2016| user = Edden2623| text = .AGuardado18 ve difícil ir a #Río2016 
+https://t.co/hiFZitMc71
+date = Sun May 29 20:00:55 +0000 2016| user = VitoriaGSouza| text = RT @portalbrasil: 🔥 Confira como será a festa nas ruas alagoanas: https://t.co/DuRfx2vGbE #TourDaTocha #Rio2016 https://t.co/5Vne1TN8uL
+date = Sun May 29 19:57:38 +0000 2016| user = mischaa_27| text = RT @minesporte: #Novidade A partir de 3/6, as figurinhas dos atletas olímpicos e paralímpicos @Rio2016 estarão nas bancas! https://t.co/QVr…
+date = Sun May 29 19:54:08 +0000 2016| user = morganafrutal| text = Pedagogia-UEMG-2014 já saiu! https://t.co/Go8TmVVh0j Graças a @portalbrasil #zikazero #rio2016
+date = Sun May 29 19:51:12 +0000 2016| user = SHEILASAINTCLA1| text = RT @Rio2016: ⛅Tempo nublado mas nem isso assustou o povo de São Miguel, que veio ansioso ver a chegada da #ChamaOlimpica https://t.co/8RLfb…
+date = Sun May 29 19:48:40 +0000 2016| user = GleyceAlcantara| text = @Rio2016 
+Alagoas 🌞🌴🌊
+#TochaOlimpica
+date = Sun May 29 19:45:39 +0000 2016| user = pauloinouei| text = The latest  Diário Paulo Inoue ! https://t.co/HCZlzo4bk2 Thanks to @japonesbaiano @RoyLunaS @alvesalessandra #israelnews #rio2016
+date = Sun May 29 19:45:07 +0000 2016| user = imparcialonline| text = Especialistas recomendam suspensão de Jogos por causa do zika vírus https://t.co/E8a4XZVgjf #oimparcial #rio2016 https://t.co/yVmzqsWl8y
+date = Sun May 29 19:38:25 +0000 2016| user = AndrePessoa2012| text = RT @Rio2016: ⛅Tempo nublado mas nem isso assustou o povo de São Miguel, que veio ansioso ver a chegada da #ChamaOlimpica https://t.co/8RLfb…
+date = Sun May 29 19:36:47 +0000 2016| user = sadia| text = @luisbutti Dá uma olhada no site da nossa promoção, Luis. Lá tem todas as informações: https://t.co/A3famRYwnd ;)
+date = Sun May 29 19:33:13 +0000 2016| user = MTurismo| text = RT @Rio2016: ⛅Tempo nublado mas nem isso assustou o povo de São Miguel, que veio ansioso ver a chegada da #ChamaOlimpica https://t.co/8RLfb…
+date = Sun May 29 19:28:04 +0000 2016| user = hilnto| text = RT @Rio2016: Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/7rYOeWXy7N
+date = Sun May 29 19:24:36 +0000 2016| user = joesilecordeiro| text = Olha elas!!! 
+#QuemSeAtreve #joesilecordeiro #nissan #tochaolimpica #rio2016 @ Maceió, Brazil https://t.co/WyDs50A6m0
+date = Sun May 29 19:24:21 +0000 2016| user = Rio2016HQ| text = ⛅Tempo nublado mas nem isso assustou o povo de São Miguel, que veio ansioso ver a chegada da #ChamaOlimpica https://t.co/NUcI0cJ4rD
+date = Sun May 29 19:20:53 +0000 2016| user = samuelcasanova| text = RT @Rio2016: Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/7rYOeWXy7N
+date = Sun May 29 19:19:37 +0000 2016| user = MuzkSlb| text = RT @Rio2016: Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/7rYOeWXy7N
+date = Sun May 29 19:19:11 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: ⛅Tempo nublado mas nem isso assustou o povo de São Miguel, que veio ansioso ver a chegada da #ChamaOlimpica https://t.co/8RLfb…
+date = Sun May 29 19:16:26 +0000 2016| user = unamorparamw| text = RT @Rio2016: ⛅Tempo nublado mas nem isso assustou o povo de São Miguel, que veio ansioso ver a chegada da #ChamaOlimpica https://t.co/8RLfb…
+date = Sun May 29 19:14:04 +0000 2016| user = DjalmaBeraldo| text = RT @Brasil2016: Plataforma online capacita profissionais para o #Rio2016. https://t.co/JGZrnfgCM7 https://t.co/E4mogYa5YJ
+date = Sun May 29 19:13:28 +0000 2016| user = Rio2016| text = ⛅Tempo nublado mas nem isso assustou o povo de São Miguel, que veio ansioso ver a chegada da #ChamaOlimpica https://t.co/8RLfbzCO5C
+date = Sun May 29 19:12:07 +0000 2016| user = Brasil2016| text = Plataforma online capacita profissionais para o #Rio2016. https://t.co/JGZrnfgCM7 https://t.co/E4mogYa5YJ
+date = Sun May 29 19:09:00 +0000 2016| user = Rio2016HQ| text = Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/HXtVm8n6m7
+date = Sun May 29 19:09:00 +0000 2016| user = Rio2016HQ| text = Fanfarra Desembargador José Fernando Lima Souza, de São Miguel, já está preparada para receber a #ChamaOlimpica https://t.co/nZEr5c8JSV
+date = Sun May 29 19:08:59 +0000 2016| user = Rio2016HQ| text = "Tratratratratra a ChamaOlimpica eu vou levar" - Em São Miguel, condutores inventaram uma 🎶 para a #ChamaOlimpica https://t.co/QDo7STsWHG
+date = Sun May 29 19:08:13 +0000 2016| user = vaicoriinthians| text = RT @Rio2016: Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/7rYOeWXy7N
+date = Sun May 29 19:07:52 +0000 2016| user = Laurafwx| text = @cpboficial @Rio2016 @parsonsandrew obrigada!
+date = Sun May 29 19:06:38 +0000 2016| user = Laurafwx| text = RT @cpboficial: @Laurafwx @Rio2016 @parsonsandrew a partir do dia 3/6!
+date = Sun May 29 19:05:22 +0000 2016| user = Pee4Pius| text = RT @Rio2016: Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/7rYOeWXy7N
+date = Sun May 29 19:04:37 +0000 2016| user = pequenaruiva07| text = RT @Rio2016: Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/7rYOeWXy7N
+date = Sun May 29 19:03:08 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/7rYOeWXy7N
+date = Sun May 29 19:02:43 +0000 2016| user = Rio2016| text = Jacozinho, condutor em São Miguel, mostrando sua habilidade ⚽ antes da chegada da #ChamaOlimpica https://t.co/7rYOeWXy7N
+date = Sun May 29 19:01:13 +0000 2016| user = patrulheirojon| text = Indo verificar se foram usadas penas sintéticas para confecção das fantasias dessa festa conagiante! #ChamaOlimpica  https://t.co/Bx6Ur4Q1mE
+date = Sun May 29 19:00:45 +0000 2016| user = RJardimimoveis| text = Borges 3647 - Lagoa - Rio de Janeiro - RJ - Lagoa - Rio de Janeiro https://t.co/anONDkqtsX #Rio2016
+date = Sun May 29 18:59:20 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: "Tratratratratra a @ChamaOlimpica eu vou levar" - Em São Miguel, condutores inventaram uma 🎶 para a #ChamaOlimpica https://t.c…
+date = Sun May 29 18:59:14 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Fanfarra Desembargador José Fernando Lima Souza, de São Miguel, já está preparada para receber a #ChamaOlimpica https://t.co/B…
+date = Sun May 29 18:59:00 +0000 2016| user = Rio2016| text = Fanfarra Desembargador José Fernando Lima Souza, de São Miguel, já está preparada para receber a #ChamaOlimpica https://t.co/BsDILxxp8c
+date = Sun May 29 18:58:15 +0000 2016| user = edgar85jimenez| text = RT @Rio2016: "Tratratratratra a @ChamaOlimpica eu vou levar" - Em São Miguel, condutores inventaram uma 🎶 para a #ChamaOlimpica https://t.c…
+date = Sun May 29 18:56:56 +0000 2016| user = ivanbarata| text = @Rio2016 @ChamaOlimpica Que vergonhoso, isso sim!!!!
+date = Sun May 29 18:55:47 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: "Tratratratratra a @ChamaOlimpica eu vou levar" - Em São Miguel, condutores inventaram uma 🎶 para a #ChamaOlimpica https://t.c…
+date = Sun May 29 18:53:44 +0000 2016| user = Rio2016| text = "Tratratratratra a @ChamaOlimpica eu vou levar" - Em São Miguel, condutores inventaram uma 🎶 para a #ChamaOlimpica https://t.co/RwYBcXwTEU
+date = Sun May 29 18:46:24 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Blasting News
+Comitê Rio 2016 não vê motivos para que Olimpíada não aconteça
+Blasting News
+O Co… https://t.co/NiRYdZ92F1
+date = Sun May 29 18:46:24 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Brasileiros
+Comitê Rio 2016 aguarda ansioso pelo aporte do COI
+Jornal O Globo
+Com o orçamento a… https://t.co/AmBdwZZgxI
+date = Sun May 29 18:46:03 +0000 2016| user = jhJoaoHelder| text = Maceió/Rio.Ontem no #B-day Xuxu @isaacmesmo e Rafa Lins. Música boa e alegrias. 🎂✌💃#MCZ #Rio2016 #music #friends https://t.co/mT3CqzkRQz
+date = Sun May 29 18:44:44 +0000 2016| user = zidruxXx| text = 68 dias pras Olimpíadas
+#Rio2016 #68days
+date = Sun May 29 18:43:27 +0000 2016| user = Virtuamigtec| text = RT @minesporte: Veja o design dos ingressos dos Jogos Olímpicos e Paralímpicos #Rio2016 . https://t.co/ham0fMTFQm https://t.co/TLfWXDR7Jx
+date = Sun May 29 18:40:11 +0000 2016| user = EduardoJonis| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 18:37:36 +0000 2016| user = Sintertesnews| text = Diário Sintertes  já saiu! https://t.co/xMAuJSRT66 #tst #rio2016
+date = Sun May 29 18:32:52 +0000 2016| user = ostanapaula| text = RT @RSPARADESPORTO: RT @cpboficial Brasil domina Regional d Américas de esgrima e garante 4 atletas no @Rio2016 https://t.co/Qgug2vlxJp htt…
+date = Sun May 29 18:28:04 +0000 2016| user = igframos_rc9| text = @minesporte A Terezinha com certeza conquistará medalhas pro Brasilzão nessas olimpíadas. #Rio2016
+date = Sun May 29 18:25:42 +0000 2016| user = leosabino| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 18:19:11 +0000 2016| user = udmelpit| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 18:16:21 +0000 2016| user = CJVercelli| text = #Rio2016 sou contra... quem sabe isso não seja um aviso... https://t.co/26gKxjc5AZ
+date = Sun May 29 18:15:51 +0000 2016| user = DepLeopicciani| text = RT @minesporte: Veja o design dos ingressos dos Jogos Olímpicos e Paralímpicos #Rio2016 . https://t.co/ham0fMTFQm https://t.co/TLfWXDR7Jx
+date = Sun May 29 18:14:23 +0000 2016| user = KarenGaby1991| text = RT @portalbrasil: 🔥 Confira como será a festa nas ruas alagoanas: https://t.co/DuRfx2vGbE #TourDaTocha #Rio2016 https://t.co/5Vne1TN8uL
+date = Sun May 29 18:12:29 +0000 2016| user = luciana201066| text = RT @Click_Arapiraca: Passagem da Tocha Olímpica em Arapiraca!! #esporte #olimpíadas #rio2016 #clicks #tonoclick 🏐⚽️󾟖🏉󾟝⚾️󾟓🏓🏸🏏🏹󾟞🏻⛹🏼🏋🏿🚣🏽🏇󾟛🏅🎖 h…
+date = Sun May 29 18:12:09 +0000 2016| user = Click_Arapiraca| text = Passagem da Tocha Olímpica em Arapiraca!! #esporte #olimpíadas #rio2016 #clicks #tonoclick 🏐⚽️󾟖🏉󾟝⚾️󾟓🏓🏸🏏🏹󾟞🏻⛹🏼🏋🏿🚣🏽🏇󾟛🏅🎖 https://t.co/9WYX7QQTbw
+date = Sun May 29 18:11:27 +0000 2016| user = igor_henrique| text = Volta ao mundo no #Rio2016 : casas dos países agitam a cidade durante os Jogos https://t.co/RkDP0nmmRz
+date = Sun May 29 18:11:09 +0000 2016| user = guiguis_17| text = O melhor de ver os @snapchat do @Rio2016 é que mesmo em serviço, se divertem e levam diversão pros seguidores da #chamaolimpica
+date = Sun May 29 18:09:06 +0000 2016| user = TodaylandBr| text = Qual é o seu Dj preferido? Conta para gente, talvez ele possa tocar no #TodaylandBR #Rio2016 https://t.co/M9Hra78NpM
+date = Sun May 29 18:08:35 +0000 2016| user = Rio2016HQ| text = Que lindo o sorriso do Luiz Felipe conduzindo a ChamaOlimpica em Arapiraca. https://t.co/zRckvYrYRT
+date = Sun May 29 18:08:34 +0000 2016| user = Rio2016HQ| text = Os palhaços Mixuruca e Tapioca vieram prestigiar o companheiro Biribinha, que conduz a ChamaOlimpica, em Arapiraca. https://t.co/6WoXJXNlp2
+date = Sun May 29 18:07:02 +0000 2016| user = RicardoLeyser| text = RT @minesporte: #Novidade A partir de 3/6, as figurinhas dos atletas olímpicos e paralímpicos @Rio2016 estarão nas bancas! https://t.co/QVr…
+date = Sun May 29 18:06:28 +0000 2016| user = ivanbr| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 18:04:37 +0000 2016| user =/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ JrWandeir| text = Retweeted Rio 2016 (@Rio2016):
+
+Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o... https://t.co/O4C3GVVIYZ
+date = Sun May 29 18:04:37 +0000 2016| user = JrWandeir| text = Retweeted Rio 2016 (@Rio2016):
+
+O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação... https://t.co/xbEvaqEImR
+date = Sun May 29 18:04:33 +0000 2016| user = JrWandeir| text = RT @Rio2016: O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.c…
+date = Sun May 29 18:04:33 +0000 2016| user = JrWandeir| text = RT @Rio2016: Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o revezamento da @ChamaOlimpica. https://t.co/aNgY18W…
+date = Sun May 29 18:00:13 +0000 2016| user = minesporte| text = #Novidade A partir de 3/6, as figurinhas dos atletas olímpicos e paralímpicos @Rio2016 estarão nas bancas! https://t.co/QVrYWjqp8G
+date = Sun May 29 17:59:53 +0000 2016| user = patriciaamanda| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 17:58:58 +0000 2016| user = jailsonicorreia| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 17:58:49 +0000 2016| user = FapsSilva| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 17:57:54 +0000 2016| user = raphaelplay_| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 17:57:40 +0000 2016| user = leticiarobert31| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 17:57:39 +0000 2016| user = Pedro_aagra| text = @Esp_Interativo manda um abraço aqui pra Maceió a galera vai a loucura com esse handebol. imagine na #Rio2016
+date = Sun May 29 17:57:37 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Luiz Felipe faz da música uma ligação com o 🌍! E o nosso passeio será digno de um grande show 😀 #HistóriaDeOuro
+https://…
+date = Sun May 29 17:57:19 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 17:57:14 +0000 2016| user = Rio2016| text = Que lindo o sorriso do Luiz Felipe conduzindo a @ChamaOlimpica em Arapiraca. https://t.co/shwc0CbOXu
+date = Sun May 29 17:56:47 +0000 2016| user = AndCamps| text = RT @Rio2016: Os palhaços Mixuruca e Tapioca vieram prestigiar o companheiro Biribinha, que conduz a @ChamaOlimpica, em Arapiraca. https://t…
+date = Sun May 29 17:56:17 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Os palhaços Mixuruca e Tapioca vieram prestigiar o companheiro Biribinha, que conduz a @ChamaOlimpica, em Arapiraca. https://t…
+date = Sun May 29 17:56:10 +0000 2016| user = Rio2016| text = Os palhaços Mixuruca e Tapioca vieram prestigiar o companheiro Biribinha, que conduz a @ChamaOlimpica, em Arapiraca. https://t.co/9doMwUX4Co
+date = Sun May 29 17:54:08 +0000 2016| user = Pedro_aagra| text = @Esp_Interativo #AindaTemChampions loucura aqui em Maceió a galera assistindo esse jogão de handebol. Imagine na #Rio2016
+date = Sun May 29 17:51:43 +0000 2016| user = paulinhokbral| text = @VEJA @ViniciusRio2016 @Rio2016 viva o Lampilula e a MariaDilma os verdadeiros bandidos do Brasil... Lampião e Maria bonita eram fichinha
+date = Sun May 29 17:50:22 +0000 2016| user = CADAB90| text = RT @Rio2016: #FutebolRio2016 &gt; os grupos do #Futebol Feminino 👩🏻⚽ https://t.co/8vpvhVrNpg
+date = Sun May 29 17:49:40 +0000 2016| user = CADAB90| text = RT @Rio2016: #FutebolRio2016 &gt; os grupos do #Futebol Masculino 👨🏻⚽ https://t.co/3IDjXyv7Kr
+date = Sun May 29 17:49:30 +0000 2016| user = poetafernandes| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 17:45:53 +0000 2016| user = instaipanema| text = Sobre ontem
+#voltasabado #voltaSamy #praia #sol #curticao #Bh #errejota #rio2016 #ipanemab… https://t.co/ah1NL5cVei https://t.co/4shZoOY7vr
+date = Sun May 29 17:39:36 +0000 2016| user = madsonbr2| text = Quais as expectativas do handebol masculino nos jogos Rio2016? E a seleção feminina, ainda está entre as favoritas? #AindaTemChampions
+date = Sun May 29 17:39:18 +0000 2016| user = Rio2016HQ| text = E o ViniciusRio2016 vai aproveitando o revezamento da ChamaOlimpica para conhecer São Miguel dos Campos. https://t.co/84FzxZclJe
+date = Sun May 29 17:33:00 +0000 2016| user = EFeij| text = RT @ReceitaFederal: Jogos Olímpicos 2016: Receita divulga guia também em inglês e espanhol
+https://t.co/2bj0cd1hca
+#rio2016 https://t.co/37…
+date = Sun May 29 17:31:48 +0000 2016| user = konnyemp| text = RT @Rio2016: E o @ViniciusRio2016 vai aproveitando o revezamento da @ChamaOlimpica para conhecer São Miguel dos Campos. https://t.co/PC0RtB…
+date = Sun May 29 17:31:24 +0000 2016| user = Jogo_Extra| text = Rivalidade só em campo:Ingrid Oliveira e Giovanna Pedroso fazem @FluminenseFC e @BotafogoOficial aliados na @Rio2016.https://t.co/21uaGjGBJs
+date = Sun May 29 17:28:13 +0000 2016| user = ArturoDeLarrea| text = RT @Rio2016: E o @ViniciusRio2016 vai aproveitando o revezamento da @ChamaOlimpica para conhecer São Miguel dos Campos. https://t.co/PC0RtB…
+date = Sun May 29 17:26:53 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: E o @ViniciusRio2016 vai aproveitando o revezamento da @ChamaOlimpica para conhecer São Miguel dos Campos. https://t.co/PC0RtB…
+date = Sun May 29 17:26:45 +0000 2016| user = Rio2016| text = E o @ViniciusRio2016 vai aproveitando o revezamento da @ChamaOlimpica para conhecer São Miguel dos Campos. https://t.co/PC0RtBd5Sw
+date = Sun May 29 17:23:03 +0000 2016| user = RicardoLeyser| text = RT @Brasil2016: Durante os Jogos #Rio2016, o Esquadrão Antibomba vai ter um reforço de peso: o iRobot. https://t.co/u5YiOnBKSB https://t.co…
+date = Sun May 29 17:22:03 +0000 2016| user = sra_perola| text = RT @Brasil2016: Durante os Jogos #Rio2016, o Esquadrão Antibomba vai ter um reforço de peso: o iRobot. https://t.co/u5YiOnBKSB https://t.co…
+date = Sun May 29 17:16:37 +0000 2016| user = BahiaClub| text = RT @EstadaoEsporte: Brasil faz campanha para conter pressão de cientistas contra os Jogos @Rio2016 - https://t.co/QFprsWCvPM https://t.co/D…
+date = Sun May 29 17:15:47 +0000 2016| user = isidrommoreno86| text = RT @Rio2016: Quelma Pereira tem 11 anos e é aluna da Escola Pedro Correa da Graça,em Arapiraca. Olha o desenho lindo que ela fez! https://t…
+date = Sun May 29 17:14:05 +0000 2016| user = EstadaoEsporte| text = Brasil faz campanha para conter pressão de cientistas contra os Jogos @Rio2016 - https://t.co/QFprsWCvPM https://t.co/DDQcg4l0GL
+date = Sun May 29 17:13:51 +0000 2016| user = cventurinha1963| text = RT @Brasil2016: Durante os Jogos #Rio2016, o Esquadrão Antibomba vai ter um reforço de peso: o iRobot. https://t.co/u5YiOnBKSB https://t.co…
+date = Sun May 29 17:10:01 +0000 2016| user = Brasil2016| text = Durante os Jogos #Rio2016, o Esquadrão Antibomba vai ter um reforço de peso: o iRobot. https://t.co/u5YiOnBKSB https://t.co/VnSRoKv7gn
+date = Sun May 29 17:08:57 +0000 2016| user = antonels| text = RT by rio2016_es: #Día27 ¡Con o sin lluvia la #LlamaOlímpica es alegría y color! 🔥☀🌧 🎉
+📍São Sebastião https://t.co/5Dh2uVJvNA
+date = Sun May 29 17:08:47 +0000 2016| user = Rio2016HQ| text = Quelma Pereira tem 11 anos e é aluna da Escola Pedro Correa da Graça,em Arapiraca. Olha o desenho lindo que ela fe… https://t.co/jntNsJiKYx
+date = Sun May 29 17:03:30 +0000 2016| user = MuriloFBorges| text = Buzacarini só depende dele para estar na @Rio2016 . Mas a tarefa é dificílima contra um francês, quinto do mundo.
+date = Sun May 29 17:00:20 +0000 2016| user = cidade_maravilh| text = RT @rafaelabdala18: EU Sei que a caminhada é muito longa, também sei que no final a vitória vem #hipismo #rio2016 #bbb17 #riodejaneiro http…
+date = Sun May 29 17:00:19 +0000 2016| user = cidade_maravilh| text = RT @rafaelabdala18: Viver é não ter a vergonha de ser FELIZ 👊🏻 #hipismo #rio2016 #bbb17 #RiodeJaneiro #adidas #brasil #rj #twitter https://…
+date = Sun May 29 16:59:21 +0000 2016| user = LalazinhaFerry| text = RT @danielaonline: O registro mais lindo de todos os tempos. @danielamercury e sua magnitude. #Rio2016 ✨🇧🇷⛹🏽⚽️🌧🙏🏽 https://t.co/99nLbVHYQP
+date = Sun May 29 16:59:14 +0000 2016| user = cventurinha1963| text = RT @Rio2016: Quelma Pereira tem 11 anos e é aluna da Escola Pedro Correa da Graça,em Arapiraca. Olha o desenho lindo que ela fez! https://t…
+date = Sun May 29 16:58:49 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Quelma Pereira tem 11 anos e é aluna da Escola Pedro Correa da Graça,em Arapiraca. Olha o desenho lindo que ela fez! https://t…
+date = Sun May 29 16:58:44 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Assim que eu gosto! Muito amor e muito beijo por aí 😍💗😘 #ChamaOlimpica #RumoAoRio https://t.co/xZTvUTyjuI
+date = Sun May 29 16:58:40 +0000 2016| user = Rio2016| text = Quelma Pereira tem 11 anos e é aluna da Escola Pedro Correa da Graça,em Arapiraca. Olha o desenho lindo que ela fez! https://t.co/q7ZWxi5UeQ
+date = Sun May 29 16:55:37 +0000 2016| user = rafaelabdala18| text = Viver é não ter a vergonha de ser FELIZ 👊🏻 #hipismo #rio2016 #bbb17 #RiodeJaneiro #adidas #brasil #rj #twitter https://t.co/SmOuPuEibK
+date = Sun May 29 16:52:34 +0000 2016| user = rafaelabdala18| text = EU Sei que a caminhada é muito longa, também sei que no final a vitória vem #hipismo #rio2016 #bbb17 #riodejaneiro https://t.co/CDo4jBiAZO
+date = Sun May 29 16:49:57 +0000 2016| user = RicardoLeyser| text = RT @minesporte: Veja o design dos ingressos dos Jogos Olímpicos e Paralímpicos #Rio2016 . https://t.co/ham0fMTFQm https://t.co/TLfWXDR7Jx
+date = Sun May 29 16:49:06 +0000 2016| user = cidade_maravilh| text = RT @rafaelabdala18: Que a vitória sempre esteja em seu caminho . #hipismo #rio2016 #bbb17 #RiodeJaneiro #olimpiadasrio2016 #adidas https://…
+date = Sun May 29 16:46:06 +0000 2016| user = rafaelabdala18| text = Que a vitória sempre esteja em seu caminho . #hipismo #rio2016 #bbb17 #RiodeJaneiro #olimpiadasrio2016 #adidas https://t.co/6ckPwtzK5a
+date = Sun May 29 16:43:24 +0000 2016| user = CaroldoBasquete| text = Leitores mostram seu talento e compartilham jogadas no basquetebol... https://t.co/o2oIL8Slg8
+date = Sun May 29 16:38:22 +0000 2016| user = antonels| text = RT by rio2016_es: #Día27 Grecia y Brasil juntos en São Sebastião. 🇬🇷🇧🇷
+🔥 #RumboARio https://t.co/Qo6LOEuNA7
+date = Sun May 29 16:34:46 +0000 2016| user = JJakciel| text = RT @minesporte: Veja o design dos ingressos dos Jogos Olímpicos e Paralímpicos #Rio2016 . https://t.co/ham0fMTFQm https://t.co/TLfWXDR7Jx
+date = Sun May 29 16:33:29 +0000 2016| user = fckznormani| text = RT @Rio2016: Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a @ChamaOlimpica. https://t.co/xfkamEEjju
+date = Sun May 29 16:32:03 +0000 2016| user = sra_perola| text = RT @Rio2016: O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.c…
+date = Sun May 29 16:31:19 +0000 2016| user = TorcidaBrasil2| text = Uma pena que nossa dupla não teve calma para fechar o jogo. Mas estamos na briga. Somos favoritos ao ouro na @Rio2016
+date = Sun May 29 16:31:04 +0000 2016| user = rio2016_es| text = #Día27 Grecia y Brasil juntos en São Sebastião. 🇬🇷🇧🇷
+🔥 #RumboARio https://t.co/kuWJObgtWq
+date = Sun May 29 16:30:11 +0000 2016| user = minesporte| text = Veja o design dos ingressos dos Jogos Olímpicos e Paralímpicos #Rio2016 . https://t.co/ham0fMTFQm https://t.co/TLfWXDR7Jx
+date = Sun May 29 16:28:01 +0000 2016| user = rlvalves| text = RT @Brasil2016: .@leogdeus mira medalha no #Rio2016.  https://t.co/ZYZDqnPEku https://t.co/x5Xl0aQfcC
+date = Sun May 29 16:23:51 +0000 2016| user = JJakciel| text = RT @Brasil2016: .@leogdeus mira medalha no #Rio2016.  https://t.co/ZYZDqnPEku https://t.co/x5Xl0aQfcC
+date = Sun May 29 16:23:02 +0000 2016| user = peterkonnecke| text = RT Rio2016_en "The Karapotó Terra Nova tribe performs at the celebration of the #OlympicFlame in 📍 São Sebastião https://t.co/WVr1AsnJFw"
+date = Sun May 29 16:22:48 +0000 2016| user = leonardoune| text = RT @Brasil2016: .@leogdeus mira medalha no #Rio2016.  https://t.co/ZYZDqnPEku https://t.co/x5Xl0aQfcC
+date = Sun May 29 16:22:04 +0000 2016| user = Brasil2016| text = .@leogdeus mira medalha no #Rio2016.  https://t.co/ZYZDqnPEku https://t.co/x5Xl0aQfcC
+date = Sun May 29 16:20:06 +0000 2016| user = cpboficial| text = @Laurafwx @Rio2016 @parsonsandrew a partir do dia 3/6!
+date = Sun May 29 16:15:32 +0000 2016| user = apiedras66| text = RT @Estadao: Não existe justificativa para adiar os Jogos Olímpicos, diz OMS https://t.co/FxVD92vvI5 https://t.co/Rtkk9ngDzK
+date = Sun May 29 16:00:10 +0000 2016| user = portalbrasil| text = ✳ Você viu? Centro de Treinamento Paralímpico inicia suas operações https://t.co/daHPrZNt34 #Rio2016 @cpboficial https://t.co/YmhNcE4weX
+date = Sun May 29 15:53:33 +0000 2016| user = Rio2016HQ| text = Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a ChamaOlimpica. https://t.co/CuNvydtuAZ
+date = Sun May 29 15:52:18 +0000 2016| user = costajoilson| text = RT @Rio2016: Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a @ChamaOlimpica. https://t.co/xfkamEEjju
+date = Sun May 29 15:50:42 +0000 2016| user = MTurismo| text = RT @Rio2016: Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a @ChamaOlimpica. https://t.co/xfkamEEjju
+date = Sun May 29 15:50:07 +0000 2016| user = KaovLOL| text = @Rio2016 @ChamaOlimpica Meninas e Meninas. Justo. :)
+date = Sun May 29 15:50:02 +0000 2016| user = JJakciel| text = RT @Rio2016: Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a @ChamaOlimpica. https://t.co/xfkamEEjju
+date = Sun May 29 15:48:35 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a @ChamaOlimpica. https://t.co/xfkamEEjju
+date = Sun May 29 15:48:15 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Thiago Pereira vence primeira prova da preparação para o Rio-2016
+A Tarde On Line
+Thiago Pereir… https://t.co/9HEeZSEp3C
+date = Sun May 29 15:47:13 +0000 2016| user = saogoncalo_RJ| text = RT @Rio2016: Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a @ChamaOlimpica. https://t.co/xfkamEEjju
+date = Sun May 29 15:45:46 +0000 2016| user = umtaldesbragia| text = @Rio2016 meninas e meninas, ue
+date = Sun May 29 15:44:50 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a @ChamaOlimpica. https://t.co/xfkamEEjju
+date = Sun May 29 15:44:40 +0000 2016| user = Rio2016| text = Meninas e meninas da banda de fanfarra Mario César Fontes, em Arapiraca, aguardam a @ChamaOlimpica. https://t.co/xfkamEEjju
+date = Sun May 29 15:43:24 +0000 2016| user = _juliabon| text = Surtando 😍🇧🇷 #Rio2016 https://t.co/Cc9IaJ90kq
+date = Sun May 29 15:41:40 +0000 2016| user = Brhueueh| text = Ok já entendi que a tocha olímpica viaja muito mais do que eu https://t.co/c1wKAqhab4
+date = Sun May 29 15:40:29 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Quase que levo um golpe de caratê na cabeça 😂😂😂 #ChamaOlimpica #ChamaEmSE https://t.co/pYjZztfuXr
+date = Sun May 29 15:40:24 +0000 2016| user = Luaudosonho| text = Se o Brasil quiser contar com Sheilla nas olimpíadas Rio2016, vai ter que por a atleta na quadra. Excelente jogadora + tá sem ritimo de jogo
+date = Sun May 29 15:40:05 +0000 2016| user = DjalmaBeraldo| text = RT @SeuEsporteBR: As medalhas olímpicas e paralímpicas #Rio2016 só serão divulgadas no dia 16/06. Só em Sidney (2000) houve "atraso". https…
+date = Sun May 29 15:40:04 +0000 2016| user = Rio2016| text = Teve passeio de barco, apresentação de xaxado e muito mais. Veja como foi o sábado (28.05) da @ChamaOlimpica:
+https://t.co/VGI227dvZZ
+date = Sun May 29 15:37:26 +0000 2016| user = rdsj84| text = RT @PRF191SERGIPE: Bom dia!
+
+Estamos em Propriá. Essa é a última cidade onde ocorre o revezamento da tocha olímpica em Sergipe. 
+
+#Rio2016
+date = Sun May 29 15:35:57 +0000 2016| user = WendellBws12| text = RT @cpboficial: Bom dia, domingão! Faltam apenas 101 dias para os #JogosParalímpicos @Rio2016! https://t.co/LR8bZFTvr0
+date = Sun May 29 15:34:06 +0000 2016| user = EstadaoEsporte| text = Judocas Rafael Silva e David Moura travam última disputa por vaga nos Jogos @Rio2016 - https://t.co/Ip4Cvn0bJk https://t.co/zNiJIGA8ik
+date = Sun May 29 15:32:15 +0000 2016| user = FCGLOBORIO| text = RT @minesporte: Mas quem vocês acham que são as maiores esperanças de medalha do país na competição? #Rio2016 https://t.co/YrmLIiIew7
+date = Sun May 29 15:31:17 +0000 2016| user = AnneBrasiil| text = Prevejo mais aposentadorias este ano... Agora do lado brasileiro. Que seja fechado com chave de ouro! E medalha tbm... 🏐🇧🇷🏆🏅 #vôlei #Rio2016
+date = Sun May 29 15:30:48 +0000 2016| user = Dr_Gerson_Leite| text = RT @minesporte: Mas quem vocês acham que são as maiores esperanças de medalha do país na competição? #Rio2016 https://t.co/YrmLIiIew7
+date = Sun May 29 15:30:18 +0000 2016| user = elringdeportivo| text = .@AGuardado18 ve difícil ir a #Río2016 
+https://t.co/4pR0nKsVVS
+date = Sun May 29 15:30:12 +0000 2016| user = minesporte| text = Mas quem vocês acham que são as maiores esperanças de medalha do país na competição? #Rio2016 https://t.co/YrmLIiIew7
+date = Sun May 29 15:24:47 +0000 2016| user = Rio2016HQ| text = Estudantes de São Sebastião se vestiram de gregas para a passagem da ChamaOlimpica. 👏👏👏 https://t.co/6hRQSFtiof
+date = Sun May 29 15:19:31 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Estudantes de São Sebastião se vestiram de gregas para a passagem da @ChamaOlimpica. 👏👏👏 https://t.co/VRSAkH3qmr
+date = Sun May 29 15:19:25 +0000 2016| user = marcelmouta| text = The latest Diário Marcel Mouta! https://t.co/JHy6GvEFIZ Thanks to @marciokonfide @lilianeferrari #old #rio2016
+date = Sun May 29 15:19:08 +0000 2016| user = DiscoverBrazil1| text = #Lourival Quirino: o sertanejo que nadou contra a corrente para dominar as águas abertas!
+
+https://t.co/IkjaOxG4hK https://t.co/vezAIqG2su
+date = Sun May 29 15:19:07 +0000 2016| user = DiscoverRio1| text = #Lourival Quirino: o sertanejo que nadou contra a corrente para dominar as águas abertas!
+
+https://t.co/ip6Ikf41q4 https://t.co/ZNaicfIBc1
+date = Sun May 29 15:19:01 +0000 2016| user = Rio2016| text = Estudantes de São Sebastião se vestiram de gregas para a passagem da @ChamaOlimpica. 👏👏👏 https://t.co/VRSAkH3qmr
+date = Sun May 29 15:18:35 +0000 2016| user = Laurafwx| text = Fui comprar o Álbum do @rio2016 e nem chegou ainda! @parsonsandrew  @cpboficial
+date = Sun May 29 15:18:24 +0000 2016| user = HRodrigues91| text = Bom dia pessoal! Já praticaram a atividade física do dia??? Eu já! 󾟞🏻😎 #swimming #top #underwater #rio2016... https://t.co/zprKpDoFZE
+date = Sun May 29 15:13:32 +0000 2016| user = dioted| text = @EstelaFarah @Rio2016_en Parabéns.. Que legal.. Ainda bem que alguma coisa estão fazendo corretamente para o @Rio2016_en
+date = Sun May 29 15:11:59 +0000 2016| user = carlitostweets| text = @Linarubirio1 no fica de mal con a gente #Somosnossotros em #Rio2016 https://t.co/DURP1x8RxH
+date = Sun May 29 15:05:42 +0000 2016| user = BrunoDTV| text = @ChamaOlimpica me desbloqueia la no periscope por favor. Não fiz nem falei nada para ser bloqueado lá no periscope. #TourDaTocha #Rio2016
+date = Sun May 29 15:05:37 +0000 2016| user = pires_alex| text = Bom dia galera, Terminando a semana com 120 km600m na 💼! ☔🏃💪😂👊 #Paralimpíada #Rio2016 #RoadTo/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Rio #OrgulhoDeSerSogipa https://t.co/Q4tNETsm4v
+date = Sun May 29 15:05:01 +0000 2016| user = BrunoDTV| text = @ChamaOlimpica @Rio2016 me desbloqueia la no periscope por favor. Não fiz nem falei nada para ser bloqueado lá no periscope. #TourDaTocha
+date = Sun May 29 15:00:11 +0000 2016| user = pires_alex| text = RT @cpboficial: Bom dia, domingão! Faltam apenas 101 dias para os #JogosParalímpicos @Rio2016! https://t.co/LR8bZFTvr0
+date = Sun May 29 14:59:13 +0000 2016| user = Dr_Gerson_Leite| text = RT @minesporte: Brasil assegura três vagas para mountain bike nos Jogos Olímpicos #Rio2016. https://t.co/pVfXDuZfHd https://t.co/o8LEs0Rd4F
+date = Sun May 29 14:56:50 +0000 2016| user = HUMBHIPOLITO| text = Promoção Samsung Você no Rio 2016 https://t.co/mhGVwJQW6j
+date = Sun May 29 14:54:29 +0000 2016| user = ngelakirchner| text = RT @minesporte: Brasil assegura três vagas para mountain bike nos Jogos Olímpicos #Rio2016. https://t.co/pVfXDuZfHd https://t.co/o8LEs0Rd4F
+date = Sun May 29 14:50:21 +0000 2016| user = pritisaha12| text = RT @Brasil2016: Com três pratas, americano tem a música como aliada rumo ao ouro no #Rio2016. https://t.co/boJoaNXh02 https://t.co/KixUBWPf…
+date = Sun May 29 14:49:57 +0000 2016| user = pritisaha12| text = RT @Rio2016: O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.c…
+date = Sun May 29 14:46:23 +0000 2016| user = 7_chalegre| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Sun May 29 14:45:59 +0000 2016| user = Djalexojuaras| text = @Nissan_Oficial  #ChamaOlimpica em João Pessoa #QuemSeAtreve @Rio2016 https://t.co/Aq1PlAVK6r
+date = Sun May 29 14:45:19 +0000 2016| user = CaosNoRio| text = RT TorreKkktorre: E qdo ele vai acordar? CaosNoRio LeiSecaRJ TransitoRioRJ AlertaRio Rio2016 PassageiroRJ _ecoponte https://t.co/YeNQjO0IBi
+date = Sun May 29 14:44:51 +0000 2016| user = Djalexojuaras| text = #ChamaOlimpica em João Pessoa #QuemSeAtreve @Rio2016 https://t.co/XKxTpZcc9N
+date = Sun May 29 14:38:11 +0000 2016| user = SEMETULERJAPERI| text = RT @minesporte: Plataforma online capacita profissionais para a #Rio2016 . https://t.co/omoFvch6va https://t.co/dfGxK9EF0k
+date = Sun May 29 14:37:41 +0000 2016| user = SEMETULERJAPERI| text = RT @minesporte: Ingrid Oliveira e Giovanna Pedroso conquistaram vaga nos saltos ornamentais para o #Rio2016 https://t.co/oEAqvQs6of https:/…
+date = Sun May 29 14:37:03 +0000 2016| user = minesporte| text = Brasil assegura três vagas para mountain bike nos Jogos Olímpicos #Rio2016. https://t.co/pVfXDuZfHd https://t.co/o8LEs0Rd4F
+date = Sun May 29 14:36:02 +0000 2016| user = JaneClair14| text = RT @minesporte: Ingrid Oliveira e Giovanna Pedroso conquistaram vaga nos saltos ornamentais para o #Rio2016 https://t.co/oEAqvQs6of https:/…
+date = Sun May 29 14:34:35 +0000 2016| user = joesilecordeiro| text = É hoje!!!
+
+#reversamentodatocha  #nissan #QuemSeAtreve  #rio2016 #tochaolimpica #maceio #alagoas… https://t.co/QXD18JRryQ
+date = Sun May 29 14:31:23 +0000 2016| user = AlineReginadeP1| text = RT @portalbrasil: 🔥 Confira como será a festa nas ruas alagoanas: https://t.co/DuRfx2vGbE #TourDaTocha #Rio2016 https://t.co/5Vne1TN8uL
+date = Sun May 29 14:24:23 +0000 2016| user = cpboficial| text = Vem ver o show dos meninos do futebol de 7 de perto! Garanta seu ingresso: https://t.co/l9Tz1Iwvv8 :)
+https://t.co/aryWqOSdbD
+date = Sun May 29 14:24:21 +0000 2016| user = Ah_Dri| text = Joga muito essa seleção! #Vôlei #Rio2016
+date = Sun May 29 14:09:25 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Estou na cidade de Propriá e conheci a simpática Eloyza, que me contou uma linda #HistóriaDeOuro 😃👏 #ChamaEmSE
+https://t…
+date = Sun May 29 14:09:09 +0000 2016| user = luc4s_andre| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = VitorBatata3| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = NeetoMoraes96| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = stebozza| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = roberto_kza| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = PedroSilveira7| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = leo_fernandes_9| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = RodriMaher| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = MatheusGarzon| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = ismahsantos| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = LuigiLouco999| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = Fred_Metro2002| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = imastargirl| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = gabrielantony_| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = fantastico_scr| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = Edumaya7| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = cesareboralli| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = BorjaFrancisco_| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = biapessoaguiar| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = _cassiagouvea| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = _lefiguereedo| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = _SiilvaSCFC| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = acfmarcelo| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = AtletiCorneta| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = _MFreitas9_| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:09:09 +0000 2016| user = _guigoluis| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:07:55 +0000 2016| user = lsouza73| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:07:45 +0000 2016| user = ismacedo_| text = RT @SiteLF: Confira o caminho do futebol brasileiro até o ouro Olímpico || https://t.co/S2bHWNQzH9 || Por @imastargirl #Rio2016 https://t.c…
+date = Sun May 29 14:05:16 +0000 2016| user = itineralma| text = Alô, @ChamaOlimpica! Seja bem vinda a Alagoas! Mais tarde estarei no Jaraguá pra te ver! #ChamaOlimpica #Rio2016
+date = Sun May 29 14:04:41 +0000 2016| user = citizenslate| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Sun May 29 14:01:39 +0000 2016| user = gilsonmanfio| text = RT @BRF_Brasil: A BRF está orgulhosa das estações @Sadia, com equipamentos adaptados para cadeirantes em dez pontos do Rio! #Rio2016 https:…
+date = Sun May 29 13:57:17 +0000 2016| user = Bradesco| text = @arquiversatil  Começa por volta das 7:00 da manhã. Vc pode verificar mais informações nesse link: https://t.co/9eEUy358UU. ;)
+date = Sun May 29 13:53:51 +0000 2016| user = Coraline_Lyn| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Sun May 29 13:51:12 +0000 2016| user = cleide_mariana| text = RT @Brasil2016: Brasil assegura três vagas para mountain bike nos Jogos #Rio2016. https://t.co/jJjSzMh3Wo https://t.co/4wz9FsMHU3
+date = Sun May 29 13:47:50 +0000 2016| user = AnaVidana| text = RT @Rio2016: O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.c…
+date = Sun May 29 13:45:15 +0000 2016| user = ShoppingDaBahia| text = Confira o regulamento - https://t.co/i3nELvDMmV
+#PromoçãoCampeã #ShoppingDaBahia #DiaDosNamorados #Rio2016 https://t.co/7ZeuNTjJ2B
+date = Sun May 29 13:43:24 +0000 2016| user = GlaucianeDiniz| text = RT @radiobandnewsfm: A OMS rejeita o pedido de 150 médicos para que a @Rio2016 seja adiada ou mude de cidade-sede por causa da epidemia de…
+date = Sun May 29 13:41:13 +0000 2016| user = gilvan_lucas_aj| text = Minha cidade ❤ MACEIÓ-AL https://t.co/1SRjMYcrBG
+date = Sun May 29 13:38:09 +0000 2016| user = antonels| text = RT by rio2016_es: #Día27 ¡#FelizDomingo!  Hoy en la ruta de la #LlamaOlímpica 🔥 (2/2):
+📍São Miguel dos Campos
+📍Mac… https://t.co/CoRrERfQrr
+date = Sun May 29 13:38:09 +0000 2016| user = antonels| text = RT by rio2016_es: #Día27 ¡#FelizDomingo! ☀ Hoy en la ruta de la #LlamaOlímpica 🔥 (1/2):
+📍Propiá
+📍São Sebastião
+📍Ar… https://t.co/xKoyOFLdM6
+date = Sun May 29 13:37:05 +0000 2016| user = abellabaiana| text = fabiana e carol titulares rio2016
+date = Sun May 29 13:36:58 +0000 2016| user = roomaanaa_| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 13:36:52 +0000 2016| user = thikos| text = ai que emossaum sheilla jogandooooo ❤️❤️❤️ vem #Rio2016
+date = Sun May 29 13:32:56 +0000 2016| user = cleide_mariana| text = RT @instacopacabana: Bom dia Rio! ❤️ #021 #rj #RioEuTEAmo #Copacabana #Rio2016 #domingo #sundays #praia #beach … https://t.co/zmuepW0ofF ht…
+date = Sun May 29 13:30:50 +0000 2016| user = PRF191SERGIPE| text = Bom dia!
+
+Estamos em Propriá. Essa é a última cidade onde ocorre o revezamento da tocha olímpica em Sergipe. 
+
+#Rio2016
+date = Sun May 29 13:26:28 +0000 2016| user = giselaBoezio| text = RT @Rio2016: O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.c…
+date = Sun May 29 13:26:20 +0000 2016| user = rio2016_es| text = #Día27 ¡#FelizDomingo! ☀ Hoy en la ruta de la #LlamaOlímpica 🔥 (1/2):
+📍Propiá
+📍São Sebastião
+📍Arapiraca https://t.co/O0g0hpgExT
+date = Sun May 29 13:26:11 +0000 2016| user = miltaopaiva| text = Corremos o risco de ficar sem Rafael Nadal no torneio olímpico de tênis no #Rio2016 @alvarojosetv e @chiquinholm ? #rolandgarrosnobandsports
+date = Sun May 29 13:23:07 +0000 2016| user = giselaBoezio| text = RT @Rio2016: Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o revezamento da @ChamaOlimpica. https://t.co/aNgY18W…
+date = Sun May 29 13:18:20 +0000 2016| user = RioBusOficial| text = RT @portalbrasil: 🔥 Confira como será a festa nas ruas alagoanas: https://t.co/DuRfx2vGbE #TourDaTocha #Rio2016 https://t.co/5Vne1TN8uL
+date = Sun May 29 13:18:19 +0000 2016| user = portalbrasil| text = 🔥 Confira como será a festa nas ruas alagoanas: https://t.co/DuRfx2vGbE #TourDaTocha #Rio2016 https://t.co/5Vne1TN8uL
+date = Sun May 29 13:18:15 +0000 2016| user = cidade_maravilh| text = RT @instacopacabana: Bom dia Rio! ❤️ #021 #rj #RioEuTEAmo #Copacabana #Rio2016 #domingo #sundays #praia #beach … https://t.co/zmuepW0ofF ht…
+date = Sun May 29 13:17:18 +0000 2016| user = maycon_SCCP1910| text = RT @Esp_Interativo: Brasil e Russia se enfrentarão novamente nos Jogos Olímpicos @Rio2016! Quem vai vencer?
+
+Brasil = RT
+Rússia = ❤ https:/…
+date = Sun May 29 13:13:58 +0000 2016| user = instacopacabana| text = Bom dia Rio! ❤️ #021 #rj #RioEuTEAmo #Copacabana #Rio2016 #domingo #sundays #praia #beach … https://t.co/zmuepW0ofF https://t.co/hW9vlZUqIj
+date = Sun May 29 13:11:08 +0000 2016| user = msardim| text = RT @Brasil2016: Brasil assegura três vagas para mountain bike nos Jogos #Rio2016. https://t.co/jJjSzMh3Wo https://t.co/4wz9FsMHU3
+date = Sun May 29 13:10:07 +0000 2016| user = Brasil2016| text = Brasil assegura três vagas para mountain bike nos Jogos #Rio2016. https://t.co/jJjSzMh3Wo https://t.co/4wz9FsMHU3
+date = Sun May 29 13:09:18 +0000 2016| user = Agencia_Andina| text = Brasil no postergará olimpiadas de #Río2016 porque no ve riesgo de #Zika https://t.co/670QvHeAX4 https://t.co/UuamIDu6Xt
+date = Sun May 29 13:08:46 +0000 2016| user = peterkonnecke| text = RT Rio2016_en "Happy Sunday everyone! ☀️ Today the #OlympicFlame will visit: 
+📍 Propriá
+📍 São Sebastião
+📍 Arapiraca
+📍 São Miguel dos Campos…
+date = Sun May 29 13:07:53 +0000 2016| user = atsocaeb| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sun May 29 13:02:18 +0000 2016| user = Rio2016_en| text = Happy Sunday everyone! ☀️ Today the #OlympicFlame will visit: 
+📍 Propriá
+📍 São Sebastião
+📍 Arapiraca
+📍 São Miguel dos Campos
+📍 Maceió
+date = Sun May 29 13:02:02 +0000 2016| user = flaviorgn| text = @VEJA @ViniciusRio2016 @Rio2016 salve Tenente João Bezerra, verdadeiro heroí nordestino.
+date = Sun May 29 13:01:39 +0000 2016| user = RicardoLeyser| text = RT @minesporte: Ingrid Oliveira e Giovanna Pedroso co/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+nquistaram vaga nos saltos ornamentais para o #Rio2016 https://t.co/oEAqvQs6of https:/…
+date = Sun May 29 13:00:35 +0000 2016| user = MTurismo| text = RT @Rio2016: O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.c…
+date = Sun May 29 13:00:17 +0000 2016| user = minesporte| text = Ingrid Oliveira e Giovanna Pedroso conquistaram vaga nos saltos ornamentais para o #Rio2016 https://t.co/oEAqvQs6of https://t.co/tQC2971Q2l
+date = Sun May 29 12:54:02 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Aquela foto em que o seu cabelo sai perfeito 😂😂😂 #ChamaOlimpica #RumoAoRio https://t.co/ehGD7CDNIE
+date = Sun May 29 12:45:54 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio-2016 usará marca de 50 dias para lançar medalhas dos Jogos
+UOL
+O Comitê Organizador Rio-201… https://t.co/91LqDwN327
+date = Sun May 29 12:45:45 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.c…
+date = Sun May 29 12:45:40 +0000 2016| user = Sangue_Latino| text = https://t.co/7xckgG4DlB
+0 #Rio2016 tb precisa de um lembret desses
+nas escadas rolantes do #Metrô e + #respeito
+aos turistas!
+#Olympics
+date = Sun May 29 12:41:35 +0000 2016| user = Lauraap30609071| text = @ChamaOlimpica @Rio2016 cabelo de fogo!!rsrs
+date = Sun May 29 12:41:32 +0000 2016| user = amaurij0708| text = RT @Rio2016: Equipe do colégio Pedro VI,de Jaguarari, ensaiou por meses a coreografia que usa hoje na passagem da @ChamaOlimpica. https://t…
+date = Sun May 29 12:39:07 +0000 2016| user = osorio_pereira| text = RT @Brasil2016: Com três pratas, americano tem a música como aliada rumo ao ouro no #Rio2016. https://t.co/boJoaNXh02 https://t.co/KixUBWPf…
+date = Sun May 29 12:38:35 +0000 2016| user = Rio2016HQ| text = O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.co/BNAVgnB6E4
+date = Sun May 29 12:38:35 +0000 2016| user = Rio2016HQ| text = Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o revezamento da ChamaOlimpica. https://t.co/cEEE1fUQCT
+date = Sun May 29 12:38:31 +0000 2016| user = abls6| text = RT @cpboficial: Bom dia, domingão! Faltam apenas 101 dias para os #JogosParalímpicos @Rio2016! https://t.co/LR8bZFTvr0
+date = Sun May 29 12:37:32 +0000 2016| user = osorio_pereira| text = RT @Rio2016: Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o revezamento da @ChamaOlimpica. https://t.co/aNgY18W…
+date = Sun May 29 12:37:21 +0000 2016| user = jorgeaugustodeo| text = @VEJA @ViniciusRio2016 @Rio2016 Bom dia esse casal era ficha limpa.
+date = Sun May 29 12:36:29 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.c…
+date = Sun May 29 12:36:23 +0000 2016| user = Rio2016| text = O condutor número 1 de hoje não é um condutor, e sim dez. Alunos da Fundação Bradesco Propriá abrem o revezamento. https://t.co/xHXFFuwXGF
+date = Sun May 29 12:35:35 +0000 2016| user = Gleydiomar| text = RT @Rio2016: Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o revezamento da @ChamaOlimpica. https://t.co/aNgY18W…
+date = Sun May 29 12:35:14 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o revezamento da @ChamaOlimpica. https://t.co/aNgY18W…
+date = Sun May 29 12:34:42 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o revezamento da @ChamaOlimpica. https://t.co/aNgY18W…
+date = Sun May 29 12:34:33 +0000 2016| user = Rio2016| text = Mesmo debaixo de chuva, a Associação Amigos do Pedal de Propriá veio ver o revezamento da @ChamaOlimpica. https://t.co/aNgY18WnZN
+date = Sun May 29 12:32:26 +0000 2016| user = OlympicsReTweet| text = RT @blogdoesporte1: Blog do Esporte News já saiu! https://t.co/7qGLQhhnrC #rio2016 #uolesporte
+date = Sun May 29 12:29:57 +0000 2016| user = Marion_Ab| text = RT @FranceOlympique: Le Club France @Rio2016 ouvrira le 4 août. 
+O clube França @Rio2016 será aberto em 4 de agosto. 
+#espritbleu https://t…
+date = Sun May 29 12:29:11 +0000 2016| user = cherepovOK| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Sun May 29 12:28:03 +0000 2016| user = tvfloripa| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Sun May 29 12:27:50 +0000 2016| user = tvfloripa| text = RT @TheNewYokohamar: “@tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa …… https://t.co/3wP56e8Yce”
+date = Sun May 29 12:27:34 +0000 2016| user = blogdoesporte1| text = Blog do Esporte News já saiu! https://t.co/7qGLQhhnrC #rio2016 #uolesporte
+date = Sun May 29 12:25:03 +0000 2016| user = tvfloripa| text = RT @channel100TV: Welcome Rio de Janeiro #RT @MarcariYuste 
+@tvfloripa @kentkristensen1 @channel100TV @tvmercure #Rio2016
+date = Sun May 29 12:24:54 +0000 2016| user = tvfloripa| text = RT @TheNewYokohamar: “@tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 …… https://t.co/3S6n…
+date = Sun May 29 12:21:36 +0000 2016| user = soubhuai| text = RT @YasminPeccini: @Rio2016 @ChamaOlimpica chegando aqui na minha Alagoas!! 😍
+date = Sun May 29 12:18:40 +0000 2016| user = RicardoLeyser| text = RT @Brasil2016: Com três pratas, americano tem a música como aliada rumo ao ouro no #Rio2016. https://t.co/boJoaNXh02 https://t.co/KixUBWPf…
+date = Sun May 29 12:18:02 +0000 2016| user = Brasil2016| text = Com três pratas, americano tem a música como aliada rumo ao ouro no #Rio2016. https://t.co/boJoaNXh02 https://t.co/KixUBWPf6r
+date = Sun May 29 12:14:55 +0000 2016| user = ananda_xtina| text = RT @cpboficial: Bom dia, domingão! Faltam apenas 101 dias para os #JogosParalímpicos @Rio2016! https://t.co/LR8bZFTvr0
+date = Sun May 29 12:14:21 +0000 2016| user = RitaJambeiro| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Sun May 29 12:13:23 +0000 2016| user = TransitoUrbano| text = (+) #MaratonaDoRio,quando passa no #AsfaltoOlímpico,da Orla do #Leblon: Cuidado,atletas!
+#Rio2016 #CidadeOlímpica https://t.co/KhOmGGo5lz
+date = Sun May 29 12:13:09 +0000 2016| user = cpboficial| text = Bom dia, domingão! Faltam apenas 101 dias para os #JogosParalímpicos @Rio2016! https://t.co/LR8bZFTvr0
+date = Sun May 29 12:11:25 +0000 2016| user = TransitoUrbano| text = #MaratonaDoRio,quando passa no #AsfaltoOlímpico,da Orla do #Leblon: Cuidado, atletas!
+#Rio2016 #CidadeOlímpica https://t.co/9f2XhODgzj
+date = Sun May 29 12:08:22 +0000 2016| user = CharlesLCastro| text = RT @agenciabrasil: Zika: OMS nega pedido de cientistas para adiar Olimpíada @Rio2016  https://t.co/1SCx6u3sNz https://t.co/xWWfuYH6YY
+date = Sun May 29 12:01:45 +0000 2016| user = cidade_maravilh| text = RT @Mitty2011: Cientistas pedem que #Rio2016 seja adiada ou transferida por causa do #Zika #RiodeJaneiro https://t.co/BTs5RosxO5
+date = Sun May 29 12:01:38 +0000 2016| user = cidade_maravilh| text = RT @GervDav: @opovoonline Essa será a pior de todas as #olimpíadas: OLIMPÍADAS DO #LULA, deprimente, humilhante é inapropriada. #Rio2016 #R…
+date = Sun May 29 11:46:28 +0000 2016| user = guiguis_17| text = Só o @Rio2016 pra me deixar encantado com esses sotaques no Snapchat.
+date = Sun May 29 11:31:57 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Multinacional trará grupo de convidados com tudo pago para a Rio ...
+Jornal O Globo
+Uma multina… https://t.co/VNAopDFTVT
+date = Sun May 29 11:31:57 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Modalidades abrem mão da Vila Olímpica para garantir o sucesso ...
+A Tarde On Line
+Segundo Mari… https://t.co/Sa190IWCmD
+date = Sun May 29 11:30:07 +0000 2016| user = minesporte| text = Plataforma online capacita profissionais para a #Rio2016 . https://t.co/omoFvch6va https://t.co/dfGxK9EF0k
+date = Sun May 29 11:29:49 +0000 2016| user = Aparecidatimbe2| text = RT @Rio2016: Leo Cunha e Luisa Vianna, no Museu Mariano Procópio: estamos representando D. Pedro II prestigiando a #TochaOlímpica https://t…
+date = Sun May 29 11:29:13 +0000 2016| user = marianagalacha| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sun May 29 11:26:42 +0000 2016| user = DiogoCMoreira| text = Duas nadadoras portuguesas bateram recordes nacionais e vão aos Jogos Olímpicos https://t.co/cUMoFkhWsW
+date = Sun May 29 11:22:44 +0000 2016| user = Aparecidatimbe2| text = RT @CocaCola_Br: Quer saber tudo da viagem do Urso e seus amigos atrás da #TochaOlímpica #Rio2016? Dê RT e receba conteúdos em 1ª mão! #Con…
+date = Sun May 29 11:19:17 +0000 2016| user = redegeraisradio| text = Moisés o rei do pedal nos visitou e trouxe a tocha olímpica na Rádio Gerais. #rio2016 #rio2016olympics #olympicgames2016
+date = Sun May 29 11:12:26 +0000 2016| user = gambutasmiguel| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sun May 29 11:10:56 +0000 2016| user = bret_ka| text = #cidadeolimpica #rio2016 #bretsadventuresinbrasil #goodtimes @ Museu do Amanhã https://t.co/TnwfyG3L1f
+date = Sun May 29 11:06:16 +0000 2016| user = ademirmatiello| text = @VEJA @ViniciusRio2016 @Rio2016 E DEPOIS O POVO ACHA RUIM QUANDO HOMENAGEAR BRILHANTE; VÁ ENTENDER!!!!
+date = Sun May 29 11:04:13 +0000 2016| user = Luizao_Band| text = RT @alvarojosetv: Já,já na @radioesportesfm  com @MuriloFBorges  e a CONQUISTA DO OURO.Tudo sobre os Jogos do #Rio2016 https://t.co/0bR9CJX…
+date = Sun May 29 11:00:48 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Blasting News
+Mais uma estrela do futebol mundial nos jogos do Rio 2016
+Blasting News
+Neymar, a… https://t.co/VVfaMqUUx6
+date = Sun May 29 11:00:23 +0000 2016| user = alvarojosetv| text = Já,já na @radioesportesfm  com @MuriloFBorges  e a CONQUISTA DO OURO.Tudo sobre os Jogos do #Rio2016 https://t.co/0bR9CJXQ9Q
+date = Sun May 29 10:51:09 +0000 2016| user = willianesporte| text = RT @Rio2016: Dona Maria é atleta e artesã, cheia de energia. Encontrou na corrida um alívio para o stress diário.#ChamaOlimpica https://t.c…
+date = Sun May 29 10:45:51 +0000 2016| user = instaipanema| text = Solteira no Rio de Janeiro... 🎶🎵 #rj #ipanemabeach #rio2016 #brazil #praia #errejota by jo… https://t.co/cOx9dDrHuV https://t.co/FNo0b2mwmY
+date = Sun May 29 10:38:57 +0000 2016| user = vlasyuk_carina| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sun May 29 10:23:14 +0000 2016| user = marcoamil| text = RT @portalbrasil: .@ReceitaFederal divulga guia aduaneiro em três idiomas https://t.co/vM7hzaAaW7 #Rio2016 https://t.co/hyVX3VZfLl
+date = Sun May 29 09:55:06 +0000 2016| user = INESQUECIVEL333| text = RT @SuzyCortez_: Nota no site da TV @FoxSports_br https://t.co/Bj33QsPAyH #missbumbumbrasil #foxsportsbrasil #rio2016 #tochaolimpica https:…
+date = Sun May 29 09:25:27 +0000 2016| user = RussiaPT| text = #Rio2016: Maria #Sharapova que está banida pelo Comité, está na equipa Olímpica da #Russia!
+
+https://t.co/iMbSjgp9qs https://t.co/YegrX24orQ
+date = Sun May 29 09:25:27 +0000 2016| user = DiscoverBrazil1| text = #Rio2016: Maria #Sharapova que está banida pelo Comité, está na equipa Olímpica da #Russia!
+
+https://t.co/ATf5tiArM8 https://t.co/xv9OBEFdav
+date = Sun May 29 09:25:27 +0000 2016| user = DiscoverRio1| text = #Rio2016: Maria #Sharapova que está banida pelo Comité, está na equipa Olímpica da #Russia!
+
+https://t.co/E0IDprhVjD https://t.co/wqXJ6D5CGr
+date = Sun May 29 09:20:48 +0000 2016| user = STANGHERLIN1| text = @VEJA @ViniciusRio2016 @Rio2016 Tipico do Brasil homenagear bandido.
+date = Sun May 29 09:17:04 +0000 2016| user = agenciabrasil| text = Zika: OMS nega pedido de cientistas para adiar Olimpíada @Rio2016  https://t.co/1SCx6u3sNz https://t.co/xWWfuYH6YY
+date = Sun May 29 09:10:41 +0000 2016| user = RodriguezIsotta| text = #ZikaVirus: le #Olimpiadi non si fermano! #Rio2016 não para! #zika #Brasile #brasil #Brazil  https://t.co/VCQ8JRwhFC
+date = Sun May 29 09:09:35 +0000 2016| user = Thunderind| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 09:09:30 +0000 2016| user = Thunderind| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 09:09:09 +0000 2016| user = Thunderind| text = RT @Rio2016: A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.c…
+date = Sun May 29 09:08:00 +0000 2016| user = Thunderind| text = RT @Rio2016: O condutor Byron Virgílio dos Santos é policial, praticante de bodyboard tem um projeto de inclusão muito especial. https://t.…
+date = Sun May 29 09:07:58 +0000 2016| user = Thunderind| text = RT @Rio2016: Almir faz trabalho social desde 1990 e é conhecido como "Almir do Picolé". Conta aí, Almir, qual o melhor sabor? https://t.co/…
+date = Sun May 29 09:07:55 +0000 2016| user = Thunderind| text = RT @Rio2016: Almir Paixão é vendendo de picolés e dedica parte dos lucros para ajudar comunidades carentes. #ChamaOlimpica https://t.co/iie…
+date = Sun May 29 09:07:55 +0000 2016| user = Thunderind| text = RT @Rio2016: A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.…
+date = Sun May 29 09:01:45 +0000 2016| user = FollowCultura| text = #Rio2016 Esportes e baladas: https://t.co/Snxb3bO0rH
+date = Sun May 29 09:01:45 +0000 2016| user = CulturaDrops| text = #Rio2016 Esportes e baladas: https://t.co/KDF4ajwvP1
+date = Sun May 29 09:01:45 +0000 2016| user = OlharDaCultura| text = #Rio2016 Esportes e baladas: https://t.co/H0VTkFG5Kw
+date = Sun May 29 09:01:45 +0000 2016| user = TextoCultura| text = #Rio2016 Esportes e baladas: https://t.co/yiuHaeeu0S
+date = Sun May 29 09:01:45 +0000 2016| user = TopCultura| text = #Rio2016 Esportes e baladas: https://t.co/LnlgBXbel2
+date = Sun May 29 09:01:45 +0000 2016| user = SouCultura| text = #Rio2016 Esportes e baladas: https://t.co/75c0ee82qQ
+date = Sun May 29 09:01:45 +0000 2016| user = SeuCultura| text = #Rio2016 Esportes e baladas: https://t.co/r5ymVlRfZp
+date = Sun May 29 09:01:45 +0000 2016| user = PalcoCultura| text = #Rio2016 Esportes e baladas: https://t.co/IStZjdPEO1
+date = Sun May 29 09:01:45 +0000 2016| user = EuCultura| text = #Rio2016 Esportes e baladas: https://t.co/0prN6k1Ijw
+date = Sun May 29 09:01:45 +0000 2016| user = CulturaDicas| text = #Rio2016 Esportes e baladas: https://t.co/oXmjgir660
+date = Sun May 29 09:01:45 +0000 2016| user = CulturaWorld| text = #Rio2016 Esportes e baladas: https://t.co/rTNJ2T4M1X
+date = Sun May 29 09:01:45 +0000 2016| user = culturasnarede| text = #Rio2016 Esportes e baladas: https://t.co/iUeXbEbS6V
+date = Sun May 29 09:01:45 +0000 2016| user = CulturaeDicas| text = #Rio2016 Esportes e baladas: https://t.co/5Ny674lR5Q
+date = Sun May 29 09:01:45 +0000 2016| user = DicasCultura| text = #Rio2016 Esportes e baladas: https://t.co/BZRiPZlXhS
+date = Sun May 29 09:01:45 +0000 2016| user = SegCultura| text = #Rio2016 Esportes e baladas: https://t.co/T1tShQaHIu
+date = Sun May 29 09:01:45 +0000 2016| user = CulturasMix| text = #Rio2016 Esportes e baladas: https://t.co/lRy906u5e5
+date = Sun May 29 09:01:45 +0000 2016| user = HojeCultura| text = #Rio2016 Esportes e baladas: https://t.co/YiUYxI90Pz
+date = Sun May 29 09:01:45 +0000 2016| user = CoisasCinco| text = #Rio2016 Esportes e baladas: https://t.co/kkjlf8Xn56
+date = Sun May 29 09:01:45 +0000 2016| user = CulturaDeHoje| text = #Rio2016 Esportes e baladas: https://t.co/wfs50gj6Yr
+date = Sun May 29 09:01:45 +0000 2016| user = CulturaAgora| text = #Rio2016 Esportes e baladas: https://t.co/ZHEjTF2Q4Z
+date = Sun May 29 09:01:45 +0000 2016| user = CaixaDeCultura| text = #Rio2016 Esportes e baladas: https://t.co/rwtBJIRqJU
+date = Sun May 29 09:01:45 +0000 2016| user = 140Culturas| text = #Rio2016 Esportes e baladas: https://t.co/8LWhSTXQtt
+date = Sun May 29 08:56:56 +0000 2016| user = instaipanema| text = E a beca tá montada pra mais um espetáculo #maratona #meiamaratona #rio2016 #personaltrain… https://t.co/ETmzjbxTGy https://t.co/6f7edZ036v
+date = Sun May 29 08:51:34 +0000 2016| user = GervDav| text = @opovoonline Essa será a pior de todas as #olimpíadas: OLIMPÍADAS DO #LULA, deprimente, humilhante é inapropriada. #Rio2016 #RiodeJaneiro
+date = Sun May 29 08:21:31 +0000 2016| user = casluvesaljo_| text = Amanha eh aquiii! #tochaarapiraca https://t.co/QfOWf5I5JW
+date = Sun May 29 08:14:20 +0000 2016| user = Mankool_Rio| text = E a beca tá montada pra mais um espetáculo #maratona #meiamaratona #rio2016 #personaltrainer #facanacaveira #crossg… https://t.co/5OVLSoB7jS
+date = Sun May 29 07:34:38 +0000 2016| user = BeaFofiPower| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sun May 29 06:48:56 +0000 2016| user = fencingHQ| text = #fencing Escrime - Colmar - #TargetTio Rio2016 -Sarah Daninthe Fencing ... - https://t.co/KYibwc3U9z #RT #Retweet https://t.co/VpQgFdohNs
+date = Sun May 29 05:57:06 +0000 2016| user = JReminisce| text = RT @CBF_Futebol: #Rio2016: Veja as convocadas da #SeleçãoFeminina para amistosos contra o Canadá &gt;&gt; https://t.co/HBljlwgFAo https://t.co/QL…
+date = Sun May 29 05:20:04 +0000 2016| user = Im_Senju| text = #Rio2016 india https://t.co/6OzXxqJuP9
+date = Sun May 29 04:48:09 +0000 2016| user = rscristiane| text = @Rio2016 Podemos pegar o credenciamento e o uniforme no dia do treinamento presencial?
+date = Sun May 29 04:36:24 +0000 2016| user = igorsausmikat| text = RT @SurtoOlimpico: A qualificação da Europa para o Tiro com Arco no @Rio2016 https://t.co/S8cvdes1PK https://t.co/r6xnPEIgP7
+date = Sun May 29 04:30:55 +0000 2016| user = Renata_padovani| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 04:18:48 +0000 2016| user = Mitty2011| text = Cientistas pedem que #Rio2016 seja adiada ou transferida por causa do #Zika #RiodeJaneiro https://t.co/BTs5RosxO5
+date = Sun May 29 03:45:07 +0000 2016| user = mischaa_27| text = RT @BFratus: Olha que demais!! Dia 03/06 já tem album nas bancas!! @Rio2016 https://t.co/D95UFGVgER
+date = Sun May 29 03:44:04 +0000 2016| user = ULTIMAS_| text = ÚLTIMAS NOTÍCIA - ESPORTES já saiu! https://t.co/eOIXliPkxu Graças a @EstadaoEsporte #rio2016 #nbbnosportv
+date = Sun May 29 03:43:08 +0000 2016| user = rogerdealmeida| text = @VEJA @ViniciusRio2016 @Rio2016 Como assim? O lampião foi homenageado? Um bandido? A que ponto chegamos. Povo não sabe a sua história.
+date = Sun May 29 03:41:39 +0000 2016| user = ssejlohan| text = KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK OLHA EU https://t.co/9nRGFA5Juf
+date = Sun May 29 03:41:17 +0000 2016| user = ssejlohan| text = Gente, eu sou essa do lado. https://t.co/YlvHTaTFfn
+date = Sun May 29 03:23:06 +0000 2016| user = DavidsonGomes9| text = RT @Rio2016: O condutor Byron Virgílio dos Santos é policial, praticante de bodyboard tem um projeto de inclusão muito especial. https://t.…
+date = Sun May 29 03:12:30 +0000 2016| user = lilianacannavin| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Sun May 29 03:08:31 +0000 2016| user = Vanishing_60| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvflori/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+pa https://t.co/S…
+date = Sun May 29 03:04:48 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: O Maracanã se preparando para receber a cerimônia de abertura do @Rio2016 https://t.co/TWx7gYOU3b https://t.co/gL0xDqGSUs
+date = Sun May 29 03:04:39 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: Anunciadas as datas da apresentação das medalhas do @Rio2016 https://t.co/HmReiluEI3 https://t.co/7UiWmkUliO
+date = Sun May 29 03:03:26 +0000 2016| user = PaulinhoFilhoF1| text = RT @Rio2016: Aqui em Canindé de São Francisco, Edielson Avelino da silva  é só alegria com a @ChamaOlimpica. https://t.co/jWgDKdSpVK
+date = Sun May 29 03:02:09 +0000 2016| user = TorcidaBrasil2| text = A #FIBA decidiu manter a #Espanha no torneio de #Basquete da @Rio2016. Portanto teremos #Brasil x #Espanha (masc), no dia 09/08, às 14h15.
+date = Sun May 29 02:58:31 +0000 2016| user = mcarmocaldas| text = @VEJA @Rio2016. O cangaço nunca deveria se quer ser lembrado. Nunca passou de uma forma de banditismo num Nodeste sem lei. Sem cabimento!
+date = Sun May 29 02:55:01 +0000 2016| user = Anandraaj04| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 02:49:50 +0000 2016| user = fernandesjess| text = Às vezes a gente tenta coisas e nem acredita que elas podem realmente acontecer #Rio2016 https://t.co/fs0ca9l6pI
+date = Sun May 29 02:37:59 +0000 2016| user = Blendinha_B| text = RT @Rio2016: Final do revezamento da #ChamaOlimpica em Nossa Senhora das Dores, mas antes uma passada na Praça da Matriz ⛪ https://t.co/FSy…
+date = Sun May 29 02:37:41 +0000 2016| user = Airamecila| text = RT @SeuEsporteBR: Mas graças ao remanejamento de vagas nas duplas, o convite não será necessário: Laura Sarosi vem SIM para #Rio2016! https…
+date = Sun May 29 02:37:35 +0000 2016| user = Airamecila| text = RT @SeuEsporteBR: Sarosi chamou a atenção. A Federação Alemã de Badminton solicitou que a húngara recebesse um convite (previsto em regulam…
+date = Sun May 29 02:35:17 +0000 2016| user = TextoCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/yiuHaeeu0S
+date = Sun May 29 02:35:17 +0000 2016| user = FollowCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/Snxb3bO0rH
+date = Sun May 29 02:35:17 +0000 2016| user = CulturasMix| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/lRy906u5e5
+date = Sun May 29 02:35:17 +0000 2016| user = CulturaeDicas| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/5Ny674lR5Q
+date = Sun May 29 02:35:17 +0000 2016| user = CulturaWorld| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/rTNJ2T4M1X
+date = Sun May 29 02:35:17 +0000 2016| user = CulturaDrops| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/KDF4ajwvP1
+date = Sun May 29 02:35:17 +0000 2016| user = culturasnarede| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/iUeXbEbS6V
+date = Sun May 29 02:35:17 +0000 2016| user = DicasCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/BZRiPZlXhS
+date = Sun May 29 02:35:17 +0000 2016| user = CoisasCinco| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/kkjlf8Xn56
+date = Sun May 29 02:35:17 +0000 2016| user = TopCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/LnlgBXbel2
+date = Sun May 29 02:35:17 +0000 2016| user = SeuCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/r5ymVlRfZp
+date = Sun May 29 02:35:17 +0000 2016| user = SouCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/75c0ee82qQ
+date = Sun May 29 02:35:17 +0000 2016| user = CaixaDeCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/rwtBJJ91Bs
+date = Sun May 29 02:35:17 +0000 2016| user = CulturaDeHoje| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/wfs50gj6Yr
+date = Sun May 29 02:35:17 +0000 2016| user = PalcoCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/IStZjdPEO1
+date = Sun May 29 02:35:17 +0000 2016| user = CulturaAgora| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/ZHEjTF2Q4Z
+date = Sun May 29 02:35:17 +0000 2016| user = CulturaDicas| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/oXmjgir660
+date = Sun May 29 02:35:17 +0000 2016| user = SegCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/T1tShQaHIu
+date = Sun May 29 02:35:17 +0000 2016| user = OlharDaCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/H0VTkFG5Kw
+date = Sun May 29 02:35:17 +0000 2016| user = 140Culturas| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/8LWhSTXQtt
+date = Sun May 29 02:35:17 +0000 2016| user = HojeCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/YiUYxI90Pz
+date = Sun May 29 02:35:17 +0000 2016| user = EuCultura| text = -&gt; #Rio2016 Esportes e baladas: https://t.co/0prN6k1Ijw
+date = Sun May 29 02:29:21 +0000 2016| user = pritisaha12| text = RT @Rio2016: Almir faz trabalho social desde 1990 e é conhecido como "Almir do Picolé". Conta aí, Almir, qual o melhor sabor? https://t.co/…
+date = Sun May 29 02:28:27 +0000 2016| user = claudiafanaia| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 02:27:52 +0000 2016| user = NascimentoKunis| text = RT @SeuEsporteBR: Piccinini anuncia aposentadoria da Seleção a dois meses dos Jogos Olímpicos  #Rio2016 #vôlei #Itália #Azzurra https://t.c…
+date = Sun May 29 02:27:01 +0000 2016| user = pritisaha12| text = RT @Rio2016: A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.c…
+date = Sun May 29 02:26:28 +0000 2016| user = pritisaha12| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 02:26:25 +0000 2016| user = pritisaha12| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 02:25:50 +0000 2016| user = SeuEsporteBR| text = Piccinini anuncia aposentadoria da Seleção a dois meses dos Jogos Olímpicos  #Rio2016 #vôlei #Itália #Azzurra https://t.co/pqisAA7LOA
+date = Sun May 29 02:24:11 +0000 2016| user = YasminPeccini| text = @Rio2016 @ChamaOlimpica chegando aqui na minha Alagoas!! 😍
+date = Sun May 29 02:04:02 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: O Maracanã se preparando para receber a cerimônia de abertura do @Rio2016 https://t.co/TWx7gYOU3b https://t.co/gL0xDqGSUs
+date = Sun May 29 02:03:59 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Anunciadas as datas da apresentação das medalhas do @Rio2016 https://t.co/HmReiluEI3 https://t.co/7UiWmkUliO
+date = Sun May 29 02:03:55 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A China espera levar 400 atletas para o @Rio2016 https://t.co/6djrciY13X https://t.co/NzZlpKv8Ug
+date = Sun May 29 02:03:42 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A Rússia inclui Maria Sharapova na equipe de tênis do @Rio2016 https://t.co/1DTdaNuNZX https://t.co/yeS7Q6FjQP
+date = Sun May 29 02:03:33 +0000 2016| user = michelpinho| text = @robbiepamplona @VEJA @ViniciusRio2016 @Rio2016 absurdo.
+date = Sun May 29 02:03:30 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A qualificação da Europa para o Tiro com Arco no @Rio2016 https://t.co/S8cvdes1PK https://t.co/r6xnPEIgP7
+date = Sun May 29 02:02:31 +0000 2016| user = Insulano171| text = @VEJA @Rio2016_en Legal vocês tem a Toxa!!Mais e a transposição...Saúde...educação...Segurança??Vocês já tem?ACORDA POVO!!!!
+date = Sun May 29 01:57:03 +0000 2016| user = SurtoOlimpico| text = O Maracanã se preparando para receber a cerimônia de abertura do @Rio2016 https://t.co/TWx7gYOU3b https://t.co/gL0xDqGSUs
+date = Sun May 29 01:56:23 +0000 2016| user = SurtoOlimpico| text = Anunciadas as datas da apresentação das medalhas do @Rio2016 https://t.co/HmReiluEI3 https://t.co/7UiWmkUliO
+date = Sun May 29 01:55:49 +0000 2016| user = SurtoOlimpico| text = A China espera levar 400 atletas para o @Rio2016 https://t.co/6djrciY13X https://t.co/NzZlpKv8Ug
+date = Sun May 29 01:53:28 +0000 2016| user = SurtoOlimpico| text = A Rússia inclui Maria Sharapova na equipe de tênis do @Rio2016 https://t.co/1DTdaNuNZX https://t.co/yeS7Q6FjQP
+date = Sun May 29 01:50:51 +0000 2016| user = SurtoOlimpico| text = A qualificação da Europa para o Tiro com Arco no @Rio2016 https://t.co/S8cvdes1PK https://t.co/r6xnPEIgP7
+date = Sun May 29 01:50:07 +0000 2016| user = cathiaalves2013| text = RT @Rio2016: "Sensação inexplicável. Um misto de felicidade e realização" - Maria Gilda, campeã brasileira de parabadminton https://t.co/HS…
+date = Sun May 29 01:49:59 +0000 2016| user = heliobleite| text = Retweeted Exército Brasileiro (@exercitooficial):
+
+Exército amplia sistema de drenagem da Vila Militar #Rio2016... https://t.co/et0W8LWJMD
+date = Sun May 29 01:49:54 +0000 2016| user = heliobleite| text = RT @exercitooficial: Exército amplia sistema de drenagem da Vila Militar #Rio2016 https://t.co/yR0VdVsR8g https://t.co/VhGcYzXPFp
+date = Sun May 29 01:44:05 +0000 2016| user = BBlaezer| text = RT @aarrio2016: Início do pré olímpico de volei masculino no Japão: Irã x Austrália. Acho q o Irã vem e Austrália não. #rio2016
+date = Sun May 29 01:34:30 +0000 2016| user = saraharbaugh11| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 01:30:57 +0000 2016| user = junior15blues| text = Seria bem interessante jogar Água na tocha ...
+@NelsinhoA9 @Dudu0029 @Igor_Cardoso99 @JotaRoquini @Bruno_scontre https://t.co/3nRYrFPCMa
+date = Sun May 29 01:29:51 +0000 2016| user = saraharbaugh11| text = RT @Rio2016: A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.c…
+date = Sun May 29 01:27:26 +0000 2016| user = KnautMeli| text = RT @sheillacastro: Bom dia!!! 💪🏼💪🏼💪🏼👊🏼👊🏼👊🏼😘😘😘 #vamoquevamo #rio2016 #saquarema https://t.co/j3W2qHf3Nn
+date = Sun May 29 01:26:42 +0000 2016| user = donas_da_bola| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 01:26:09 +0000 2016| user = JakeAlmeiy| text = RT @Rio2016: O pequeno cangaceiro Ítalo Davi tem apenas seis anos e já fez amizade com o @ViniciusRio2016. https://t.co/bpIilJJ6DY
+date = Sun May 29 01:26:02 +0000 2016| user = guiguis_17| text = Vontade de levar ela embora pra minha casa @rio2016_es. Bom descanso aí e que amanhã estejamos… https://t.co/GBhDjk3nsM
+date = Sun May 29 01:25:28 +0000 2016| user = JakeAlmeiy| text = RT @Rio2016: Nem a ☔ impediu Alexandro da Conceição, ou Palhaço Soneca, de ver o revezamento da #ChamaOlimpica em Aracaju. https://t.co/iaq…
+date = Sun May 29 01:25:06 +0000 2016| user = JakeAlmeiy| text = RT @Rio2016: O condutor Byron Virgílio dos Santos é policial, praticante de bodyboard tem um projeto de inclusão muito especial. https://t.…
+date = Sun May 29 01:24:43 +0000 2016| user = JakeAlmeiy| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 01:23:15 +0000 2016| user = Rio2016HQ| text = E o grande momento do revezamento: pira de celebração acesa e a ChamaOlimpica agitando o público. Olha a energia! https://t.co/srgNWj4Qo6
+date = Sun May 29 01:23:15 +0000 2016| user = Rio2016HQ| text = Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/kqbEMVuw8q
+date = Sun May 29 01:20:17 +0000 2016| user = Rio2016| text = Amanhã o revezamento da @ChamaOlimpica estará em:
+🔥Propriá
+🔥São Sebastião 
+🔥Arapiraca
+🔥São Miguel dos Campos
+🔥Maceió
+
+Até amanhã 💞
+date = Sun May 29 01:18:46 +0000 2016| user = AndreMaravilha1| text = @Rio2016 @ChamaOlimpica rio de janeiro numa draga desgracada saude seguranca educacao servidores sem receber enfia toxa cu do governo
+date = Sun May 29 01:18:28 +0000 2016| user = raphaelplay_| text = Para quem tem minhas redes sociais, já está lá a minha foto com a Tocha Olímpica do Rio2016
+date = Sun May 29 01:18:10 +0000 2016| user = caiomontes11| text = @Rio2016 @ChamaOlimpica poxaaa
+date = Sun May 29 01:17:04 +0000 2016| user = ifadeliawtv| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sun May 29 01:16:14 +0000 2016| user = panqueiroz| text = @VEJA @ViniciusRio2016 @Rio2016 lampião n era estuprador? N está rolando um assunto sobre estupro?
+date = Sun May 29 01:14:17 +0000 2016| user = AndCamps| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 01:13:34 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 01:13:27 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.c…
+date = Sun May 29 01:13:04 +0000 2016| user = Rio2016| text = E o grande momento do revezamento: pira de celebração acesa e a @ChamaOlimpica agitando o público. Olha a energia! https://t.co/AaGoGRTdpm
+date = Sun May 29 01:11:43 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 01:11:42 +0000 2016| user = cravelar| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 01:11:24 +0000 2016| user = FCGLOBORIO| text = RT @Rio2016: Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 01:11:06 +0000 2016| user = Rio2016| text = Última condutora da noite, a cantora Sandyalê ficou com o acendimento da pira de celebração em Aracaju. https://t.co/niNNsoOzq3
+date = Sun May 29 01:09:42 +0000 2016| user = aarrio2016| text = Irã x Canadá pela 2 rodada do pré olímpico de volei masculino #rio2016 #RoadToRio2016 #RoadToRio https://t.co/GHJEq4KwrB
+date = Sun May 29 01:08:48 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.c…
+date = Sun May 29 01:03:12 +0000 2016| user = cmjornal| text = Rio2016: Tamila Holub bate recorde nacional dos 800 m livres e faz minímos https://t.co/qRIEh91xcG
+date = Sun May 29 01:00:52 +0000 2016| user = MultiRio| text = Os Jogos #Rio2016 estão chegando e você já pode entrar no clima! Curiosidades sobre esportes e atletas no dia 30, às 14h45, na @BandRio.
+date = Sun May 29 01:00:08 +0000 2016| user = HTE__Sports| text = Saiba quem serão os representantes brasileiros no Mountain Bike https://t.co/G2Er8i4ebC #RIO2016 https://t.co/MhexBzSnKV
+date = Sun May 29 00:55:23 +0000 2016| user = flaachuss| text = RT @Rio2016: Revezamento oficialmente iniciado em Aracaju. Veja o momento da #ChamaOlimpica com a primeira condutora Roberta Leal https://t…
+date = Sun May 29 00:53:07 +0000 2016| user = Rio2016HQ| text = A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.co/4jLQFkwma9
+date = Sun May 29 00:52:46 +0000 2016| user = CEZARBOLZAN| text = MOEDAS AUSTRALIANS RIO2016 https://t.co/UjScDTSP8E
+date = Sun May 29 00:49:25 +0000 2016| user = simoneira| text = Velejadores flagram TV boiando na Baía de Guanabara e criticam brasileiros https://t.co/lHBw3r33bU via @UOLEsporte @UOL #Rio2016
+date = Sun May 29 00:48:46 +0000 2016| user = vinnysacramento| text =/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ chupa @raphaelplay_  https://t.co/0RC4uIPL8K
+date = Sun May 29 00:48:08 +0000 2016| user = FCGLOBORIO| text = RT @Rio2016: A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.c…
+date = Sun May 29 00:47:11 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.c…
+date = Sun May 29 00:47:05 +0000 2016| user = Rio2016| text = A ☔ não espantou o povo que está na Praça de Eventos de Aracaju aguardando a chegada da #ChamaOlimpica . Tá bonito https://t.co/ZoBkv2A2LB
+date = Sun May 29 00:43:40 +0000 2016| user = Gleydiomar| text = Cenário mais lindo até agora no #TourDaTocha @Rio2016 #ChamaOlimpica https://t.co/B0YTFUooql
+date = Sun May 29 00:39:45 +0000 2016| user = hicaro_maciel| text = RT @ViniciusRio2016: O lugar da mulher é onde ela quiser, inclusive dentro de campo! Vem torcer cmg ao vivo: https://t.co/KZ7RRuR369 🎫 http…
+date = Sun May 29 00:37:57 +0000 2016| user = Antonia94213868| text = @VEJA @ViniciusRio2016 @Rio2016 homenagear um cangaceiro, assassino. 
+Têm coisas que acontecem no Brasil que dá nojo!
+date = Sun May 29 00:37:36 +0000 2016| user = antonioalvesele| text = @nntclayton @VEJA @Rio2016_en e vc ganhando quanto pra defender essa raça do PT...se não querem nomes divulgados não deixe o fato acontecer
+date = Sun May 29 00:36:33 +0000 2016| user = GGV7710| text = @VEJA @ViniciusRio2016 @Rio2016 Este é o Brasil, homenagem a bandidos. Vem a tempos
+date = Sun May 29 00:35:40 +0000 2016| user = OlympicsReTweet| text = RT @blogdoesporte1: OMS nega risco de epidemia de Zika em turistas e aprova #Olimpíada no Rio https://t.co/IfV4EO3TNu #esporte #rio2016
+date = Sun May 29 00:30:48 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Sapo Desporto
+Victoria Kaminskaya bate recorde nos 200m estilos e deve ir ao Rio ...
+Sapo Despo… https://t.co/SB0fPO8IdM
+date = Sun May 29 00:27:53 +0000 2016| user = Gleydiomar| text = Interessante o protesto solitário em Aracaju,  durante o revezamento da #TochaOlimpica @Rio2016 #ChamaOlimpica https://t.co/d4WXy3DmC2
+date = Sun May 29 00:27:43 +0000 2016| user = flaviohmlima| text = Revezamento da Tocha Olímpica Ontem - Rota Rio 2016 https://t.co/mw6QRHuOIi
+date = Sun May 29 00:19:38 +0000 2016| user = AntonioRegueraF| text = @VEJA @ViniciusRio2016 @Rio2016 mais marginal sendo idolatrado,prova que o povo tem memória curta ou é ignorante mesmo!
+date = Sun May 29 00:19:12 +0000 2016| user = stingersonn| text = @VEJA @Rio2016 Que  cultura , brasil  brasileiro  terra do cangaço de pessoas  rebaixadas ao ridículo , que droga   .
+date = Sun May 29 00:18:23 +0000 2016| user = denisestarblue| text = RT @Rio2016: Olha o fim de tarde que recebe a @ChamaOlimpica  em Paulo Afonso. Não é lindo? 😍❤😎👏 https://t.co/bnom1orA8a
+date = Sun May 29 00:15:22 +0000 2016| user = denisestarblue| text = @ChamaOlimpica @Rio2016 lindo demais!! Que paisagem!!! #ChamaOlimpica
+date = Sun May 29 00:15:16 +0000 2016| user = anaclaudialot| text = RT @Rio2016: Almir faz trabalho social desde 1990 e é conhecido como "Almir do Picolé". Conta aí, Almir, qual o melhor sabor? https://t.co/…
+date = Sun May 29 00:15:10 +0000 2016| user = k_kevenj| text = Vai ter Wesley Safadão na abertura do #Rio2016 ? Acho Digno. #WS
+date = Sun May 29 00:14:05 +0000 2016| user = cibele_paixao| text = A tocha olímpica vai passar no Acre? @Rio2016
+date = Sun May 29 00:13:59 +0000 2016| user = vera_sake| text = @Rio2016 E os milhares de voluntários para os eventos que não receberam carta convite? Decepção com a falta de respeito conosco
+date = Sun May 29 00:11:06 +0000 2016| user = daniellimas| text = RT @agenciabrasil: Zika: OMS nega pedido de cientistas para adiar Olimpíada @Rio2016  https://t.co/1SCx6ul4c9 https://t.co/xWWfuYH6YY
+date = Sun May 29 00:10:38 +0000 2016| user = Rio2016| text = E Byron é exemplo! Ele tem um projeto de inclusão para crianças com síndrome de down e PCD todos os sábados na praia
+https://t.co/3h2P4TH9CU
+date = Sun May 29 00:09:52 +0000 2016| user = Rio2016| text = E Byron é exemplo! Ele tem um projeto de inclusão para crianças com síndrome de down e PCD todos os sábados na praia
+https://t.co/Ms8q2kyfOt
+date = Sun May 29 00:08:43 +0000 2016| user = Rio2016HQ| text = O condutor Byron Virgílio dos Santos é policial, praticante de bodyboard tem um projeto de inclusão muito especial. https://t.co/fNX60a05DV
+date = Sun May 29 00:08:13 +0000 2016| user = AndCamps| text = RT @Rio2016: Final do revezamento da #ChamaOlimpica em Nossa Senhora das Dores, mas antes uma passada na Praça da Matriz ⛪ https://t.co/FSy…
+date = Sun May 29 00:07:34 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: O condutor Byron Virgílio dos Santos é policial, praticante de bodyboard tem um projeto de inclusão muito especial. https://t.…
+date = Sun May 29 00:07:18 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: O condutor Byron Virgílio dos Santos é policial, praticante de bodyboard tem um projeto de inclusão muito especial. https://t.…
+date = Sun May 29 00:07:08 +0000 2016| user = Rio2016| text = O condutor Byron Virgílio dos Santos é policial, praticante de bodyboard tem um projeto de inclusão muito especial. https://t.co/KmmBO64erP
+date = Sun May 29 00:06:49 +0000 2016| user = Iraldirsilva| text = Aguardando com a familia a chegada da #tochaolimpica em orla de atalaia. @Rio2016 @minesporte @AdilsonJuniorse https://t.co/2VYBppw9UL
+date = Sun May 29 00:02:23 +0000 2016| user = Gleydiomar| text = RT @Rio2016: Almir Paixão é vendendo de picolés e dedica parte dos lucros para ajudar comunidades carentes. #ChamaOlimpica https://t.co/iie…
+date = Sun May 29 00:01:53 +0000 2016| user = Gleydiomar| text = Parabéns, grande jornalista de Sergipe. @Rio2016 https://t.co/ZbgJR7MnRd
+date = Sun May 29 00:00:40 +0000 2016| user = JoaozinhoZika28| text = RT @g1: Rio 2016 terá distribuição recorde: 450 mil camisinhas e 175 mil sachês de lubrificante https://t.co/7nUvv1paPt https://t.co/8MtVcx…
+date = Sun May 29 00:00:18 +0000 2016| user = Gleydiomar| text = RT @Rio2016: Almir faz trabalho social desde 1990 e é conhecido como "Almir do Picolé". Conta aí, Almir, qual o melhor sabor? https://t.co/…
+date = Sat May 28 23:59:49 +0000 2016| user = blogdoesporte1| text = OMS nega risco de epidemia de Zika em turistas e aprova #Olimpíada no Rio https://t.co/IfV4EO3TNu #esporte #rio2016
+date = Sat May 28 23:58:54 +0000 2016| user = Pereira_Joca| text = RT @Rio2016: Almir Paixão é vendendo de picolés e dedica parte dos lucros para ajudar comunidades carentes. #ChamaOlimpica https://t.co/iie…
+date = Sat May 28 23:58:46 +0000 2016| user = Gleydiomar| text = @VEJA @Rio2016_en Para orgulho dos sergipanos.
+date = Sat May 28 23:57:14 +0000 2016| user = doug_hand| text = RT @SeuEsporteBR: Mas graças ao remanejamento de vagas nas duplas, o convite não será necessário: Laura Sarosi vem SIM para #Rio2016! https…
+date = Sat May 28 23:57:10 +0000 2016| user = doug_hand| text = RT @SeuEsporteBR: Sarosi chamou a atenção. A Federação Alemã de Badminton solicitou que a húngara recebesse um convite (previsto em regulam…
+date = Sat May 28 23:56:21 +0000 2016| user = Gleydiomar| text = Nós e o revezamento da tocha em #Aracaju @Rio2016 #ChamaOlimpica https://t.co/CVatZDpIFL
+date = Sat May 28 23:55:59 +0000 2016| user = RitinhaaCosta| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sat May 28 23:55:26 +0000 2016| user = Cbrusch2| text = @VEJA @ViniciusRio2016 @Rio2016 tem, tudo haver com a cultura brasileira,a bandidagem hj, em Brasília,sao venerados pela classe média,e alta
+date = Sat May 28 23:54:06 +0000 2016| user = curimim| text = @VEJA @Rio2016_en VAI RETWITANDO AÍ !  #AvanteTemer #foraDilma #foraPTcomunista #LulaNuncaMais
+date = Sat May 28 23:54:05 +0000 2016| user = Rio2016HQ| text = Almir faz trabalho social desde 1990 e é conhecido como "Almir do Picolé". Conta aí, Almir, qual o melhor sabor? https://t.co/aMnxVzdLpG
+date = Sat May 28 23:54:05 +0000 2016| user = Rio2016HQ| text = Almir Paixão é vendendo de picolés e dedica parte dos lucros para ajudar comunidades carentes. #ChamaOlimpica https://t.co/OOUdGl7Zcb
+date = Sat May 28 23:53:29 +0000 2016| user = SeuEsporteBR| text = Mas graças ao remanejamento de vagas nas duplas, o convite não será necessário: Laura Sarosi vem SIM para #Rio2016! https://t.co/Hsb62Dyl8S
+date = Sat May 28 23:50:38 +0000 2016| user = SeuEsporteBR| text = Sarosi chamou a atenção. A Federação Alemã de Badminton solicitou que a húngara recebesse um convite (previsto em regulamento) para #Rio2016
+date = Sat May 28 23:50:10 +0000 2016| user = DutraCampos| text = @Rio2016 O #exoesquisito do #Nicolulas não vai carregar a tocha olímpica? Se chutou a bola em 2014, consegue erguer a tocha em 2016, não?!?
+date = Sat May 28 23:48:02 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Almir faz trabalho social desde 1990 e é conhecido como "Almir do Picolé". Conta aí, Almir, qual o melhor sabor? https://t.co/…
+date = Sat May 28 23:47:35 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Almir Paixão é vendendo de picolés e dedica parte dos lucros para ajudar comunidades carentes. #ChamaOlimpica https://t.co/iie…
+date = Sat May 28 23:47:34 +0000 2016| user = Rio2016| text = Almir faz trabalho social desde 1990 e é conhecido como "Almir do Picolé". Conta aí, Almir, qual o melhor sabor? https://t.co/Lc5ahmAZia
+date = Sat May 28 23:44:00 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Almir Paixão é vendendo de picolés e dedica parte dos lucros para ajudar comunidades carentes. #ChamaOlimpica https://t.co/iie…
+date = Sat May 28 23:43:53 +0000 2016| user = Rio2016| text = Almir Paixão é vendendo de picolés e dedica parte dos lucros para ajudar comunidades carentes. #ChamaOlimpica https://t.co/iiexD9ujta
+date = Sat May 28 23:32:42 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Blasting News
+Rio 2016: as Olimpíadas implacáveis contra o doping
+Blasting News
+O Comitê Olímpi… https://t.co/ueNPGHlVMN
+date = Sat May 28 23:32:10 +0000 2016| user = MarkinhosSouz13| text = RT @Rio2016: A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.…
+date = Sat May 28 23:31:33 +0000 2016| user = CarlosRManfroni| text = RT @Picharillo77: Velejadores flagram TV boiando na Baía de Guanabara e criticam brasileiros https://t.co/N5cgx42CRW Turistas, sejam bem-vi…
+date = Sat May 28 23:22:39 +0000 2016| user = Gleydiomar| text = RT @Rio2016: Revezamento oficialmente iniciado em Aracaju. Veja o momento da #ChamaOlimpica com a primeira condutora Roberta Leal https://t…
+date = Sat May 28 23:19:19 +0000 2016| user = HojeNaIgreja| text = RT @Rio2016: Recepção bonita para a #ChamaOlimpica . Igreja ⛪ de Santo Antônio em Aracaju pronta pra receber o revezamento. https://t.co/Wk…
+date = Sat May 28 23:19:18 +0000 2016| user = HojeNaIgreja| text = RT @Rio2016: A primeira condutora de Aracaju, Roberta Leal, já está em frente a igreja ⛪ de Santo Antônio. Vem #ChamaOlimpica https://t.co/…
+date = Sat May 28 23:19:12 +0000 2016| user = rafaelabdala18| text = Esse é meu esporte e o seu ??? #esporte #hipismo #rio2016 #brasil #adidas https://t.co/fqFLY5Ly3L
+date = Sat May 28 23:18:57 +0000 2016| user = evpcosta_73| text = @VEJA @ViniciusRio2016 @Rio2016 brasileiro é um bicho interessante. O que faz um povo homenagear um cangaceiro "justiceiro" (bandido)?
+date = Sat May 28 23:18:53 +0000 2016| user = miguellb1983| text = RT @Rio2016: A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.…
+date = Sat May 28 23:17:52 +0000 2016| user = Gleydiomar| text = E nós lá. https://t.co/Rru0GgHEXu
+date = Sat May 28 23:17:30 +0000 2016| user = Gleydiomar| text = RT @Rio2016: Reisado de Guerreiros da Vitória, em frente ao primeiro condutor da @ChamaOlimpica  em Aracaju 🚶🔥🚶🔥 https://t.co/BOa4ICNvAR
+date = Sat May 28 23:17:12 +0000 2016| user = Gleydiomar| text = Este palhaço foi um show à parte. Ele passou correndo e todo mundo pensou q fosse a tocha mesmo. Kkk #ChamaOlimpica https://t.co/1LpXwX2mph
+date = Sat May 28 23:10:30 +0000 2016| user = anaid190967| text = RT @Rio2016: A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.…
+date = Sat May 28 23:08:24 +0000 2016| user = Rio2016HQ| text = A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.co/tsTJibjC59
+date = Sat May 28 23:00:17 +0000 2016| user = oscar_schmidt| text = Só uma semana para correr com a tocha dos jogos olímpicos de 2016! Está chegando a hora! #rio2016 #jogosolimpicos... https://t.co/ffWeu433Lt
+date = Sat May 28 22:58:57 +0000 2016| user = EdnaColicigno| text = Top story: @Rio2016: 'A primeira condutora de Aracaju, Roberta Leal, já está em… https://t.co/lG88rZ0fIY, see more https://t.co/uomLGxLQfy
+date = Sat May 28 22:55:58 +0000 2016| user = vfreire11| text = RT @Rio2016: A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.…
+date = Sat May 28 22:55:23 +0000 2016| user = giselaBoezio| text = RT @Rio2016: Bom dia! A banda marcial de Ecos e Santos de São Francisco já anima o dia da @ChamaOlimpica. https://t.co/dPQ7GUhDdG
+date = Sat May 28 22:55:07 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.…
+date = Sat May 28 22:54:52 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.…
+date = Sat May 28 22:54:45 +0000 2016| user = Rio2016| text = A alegria da atleta Paralímpica Maria Gilda, campeã brasileira de parabadminton e agora condutora da #ChamaOlimpica https://t.co/JKg71TlDz1
+date = Sat May 28 22:49:43 +0000 2016| user = Rio2016| text = Eliton Siqueira sempre lutou para realizar seus objetivos. Hoje ele conduziu a @ChamaOlimpica e mandou uma mensagem:
+https://t.co/AfoEiAYpLs
+date = Sat May 28 22:46:33 +0000 2016| user = LUCIANO25167767| text = @VEJA @ViniciusRio2016 @Rio2016 Pelo andar da carruagem, um dia Marcola também será herói.
+date = Sat May 28 22:46:31 +0000 2016| user = LuiizMota17| text = Não é atoa que é 4x campeão mundial kkkk top demais😱😎👏✊ @nschurter @Rio2016 @vemparaoBrasillogo kkkk https://t.co/kGX0a3Zdct
+date = Sat May 28 22:46:03 +0000 2016| user = Carlosan_lopes| text = RT @Rio2016: Revezamento oficialmente iniciado em Aracaju. Veja o momento da #ChamaOlimpica com a primeira condutora Roberta Leal https://t…
+date = Sat May 28 22:42:38 +0000 2016| user = Primteixeira| text = @VEJA @ViniciusRio2016 @Rio2016 - Bandido é homenageado no Brasil.  Medeeees
+date = Sat May 28 22:42:33 +0000 2016| user = Elhombredelsour| text = https://t.co/x3eqFQDACV Eu quero #RIO2016 nao!!!!!!! Fujiiiiiiiiiii #SalomeDeBahia #OutroLugar
+date = Sat May 28 22:42:25 +0000 2016| user = MeloGongoni| text = RT @RSPARADESPORTO: RT @cpboficial Brasil domina Regional d Américas de esgrima e garante 4 atletas no @Rio2016 https://t.co/Qgug2vlxJp htt…
+date = Sat May 28 22:41:28 +0000 2016| user = Primteixeira| text = @nntclayton @VEJA @Rio2016_en -Mas o Temer não dividiu o palanque com o PT?  Kkkkk
+date = Sat May 28 22:40:59 +0000 2016| user = Jaam_Brandao| text = @VEJA @ViniciusRio2016 @Rio2016 só aq que são cultuados bandidos
+date = Sat May 28 22:39:13 +0000 2016| user = Thunderind| text = RT @Rio2016: "Sensação inexplicável. Um misto de felicidade e realização" - Maria Gilda, campeã brasileira de parabadminton https://t.co/HS…
+date = Sat May 28 22:38:58 +0000 2016| user = Thunderind| text = RT @Rio2016: Revezamento oficialmente iniciado em Aracaju. Veja o momento da #ChamaOlimpica com a primeira condutora Roberta Leal https://t…
+date = Sat May 28 22:38:52 +0000 2016| user = caiomontes11| text = RT @Rio2016: Revezamento oficialmente iniciado em Aracaju. Veja o momento da #ChamaOlimpica com a primeira condutora Roberta Leal https://t…
+date = Sat May 28 22:38:38 +0000 2016| user = Picharillo77| text = Polícia do Rio busca australiano desaparecido no Aeroporto do Galeão https://t.co/K7xsIscb5S Turistas, bem-vindos a Gaza! Digo, ao #Rio2016!
+date = Sat May 28 22:38:04 +0000 2016| user = Thunderind| text = RT @Rio2016: Nem a ☔ impediu Alexandro da Conceição, ou Palhaço Soneca, de ver o revezamento da #ChamaOlimpica em Aracaju. https://t.co/iaq…
+date = Sat May 28 22:37:54 +0000 2016| user = Thunderind| text = RT @Rio2016: A primeira condutora de Aracaju, Roberta Leal, já está em frente a igreja ⛪ de Santo Antônio. Vem #ChamaOlimpica https://t.co/…
+date = Sat May 28 22:37:52 +0000 2016| user = Thunderind| text = RT @Rio2016: Reisado de Guerreiros da Vitória, em frente ao primeiro condutor da @ChamaOlimpica  em Aracaju 🚶🔥🚶🔥 https://t.co/BOa4ICNvAR
+date = Sat May 28 22:37:17 +0000 2016| user = carlosff1984| text = @VEJA @ViniciusRio2016 @Rio2016 puta q o pariu este lampião foi um assassino brutal e o tratam como uma celebridade
+date = Sat May 28 22:35:25 +0000 2016| user = Picharillo77| text = Velejadores flagram TV boiando na Baía de Guanabara e criticam brasileiros https://t.co/N5cgx42CRW Turistas, sejam bem-vindos ao #Rio2016 !!
+date = Sat May 28 22:30:23 +0000 2016| user = mluciares| text = RT @minesporte: Brasil assegura três vagas para mountain bike nos Jogos Olímpicos #Rio2016. https://t.co/pVfXDuZfHd https://t.co/LXrwXok3ib
+date = Sat May 28 22:29:10 +0000 2016| user = rafaelabdala18| text = Busque sabedoria para sua vida. Porque em breve os Seus objetivos vão se Realizar 🇧🇷🐎 #hipismo #Rio2016 #brasil https://t.co/obO7B43hI7
+date = Sat May 28 22:26:44 +0000 2016| user = HugoMachadoJr| text = Fechando a Série hoje.
+#WeAreThunder #NBA #Rio2016 https://t.co/2n33iswDHw
+date = Sat May 28 22:26:05 +0000 2016| user = JeffersonBocci| text = @VEJA @ViniciusRio2016 @Rio2016 Desculpem..o erro.. estuprador...
+date = Sat May 28 22:25:50 +0000 2016| user = MiAsFez| text = Eo Rio2016? Só falta agora Federer n aparecer tb :( https://t.co/enCQYZigV4
+date = Sat May 28 22:25:24 +0000 2016| user = _luisa_guerra_| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sat May 28 22:25:11 +0000 2016| user = andreluigi01| text = @VEJA @ViniciusRio2016 @Rio2016 culto a assassinos
+date = Sat May 28 22:23:31 +0000 2016| user = JeffersonBocci| text = @VEJA @ViniciusRio2016 @Rio2016 homenagem a um assassino e estrupador..Viva o Brasil
+date = Sat May 28 22:21:00 +0000 2016| user = rafaelabdala18| text = Esse amor é verdadeiro 🇧🇷🐎 #hipismo #brasil #olimpidas #Rio2016 #rj #Adidas #haraspegasus #brasilhipismo https://t.co/4N0bvunKbR
+date = Sat May 28 22:19:56 +0000 2016| user = jennyfercruz76| text = @VEJA @ViniciusRio2016 @Rio2016 Lampião e Maria Bonita não eram criminosos cangaceiros assassinos e ladrões?  Homenageados? Ñ entendi.
+date = Sat May 28 22:16:04 +0000 2016| user = jurandyr_alves| text = RT @ViniciusRio2016: Minha pelúcia entrou de cabeça (e roupa) na cultura nordestina! hehehe @ChamaOlimpica @Rio2016 https://t.co/LOydNTvjgF
+date = Sat May 28 22:15:17 +0000 2016| user = beapinto0| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sat May 28 22:14:58 +0000 2016| user = RSPARADESPORTO| text = RT @cpboficial Brasil domina Regional d Américas de esgrima e garante 4 atletas no @Rio2016 https://t.co/Qgug2vlxJp https://t.co/4gSfAduOtN
+date = Sat May 28 22:14:30 +0000 2016| user = accardoso| text = Faltam 71 dias para o mundo inteiro ouvir o #Maracanã chamar @MichelTemer de #Golpista na abertura da @Rio2016
+date = Sat May 28 22:13:46 +0000 2016| user = JulianaCampos12| text = RT @minesporte: Brasil assegura três vagas para mountain bike nos Jogos Olímpicos #Rio2016. https://t.co/pVfXDuZfHd https://t.co/LXrwXok3ib
+date = Sat May 28 22:11:51 +0000 2016| user = martavirginia18| text = RT @MMonteiiroo: Vitória e Tamila com mínimos para o #Rio2016 !!!! #RoadToRio
+date = Sat May 28 22:09:50 +0000 2016| user = DepLeopicciani| text = RT @minesporte: Brasil assegura três vagas para mountain bike nos Jogos Olímpicos #Rio2016. https://t.co/pVfXDuZfHd https://t.co/LXrwXok3ib
+date = Sat May 28 22:09:11 +0000 2016| user = DepLeopicciani| text = @minesporte @YouTube Maravilha. Fica de legado. #Rio2016
+date = Sat May 28 22:09:09 +0000 2016| user = DaniAcioli2| text = @VEJA @ViniciusRio2016 @Rio2016 Brasileiro e sua mania cbata em cultuar bandido e torna-los santos e heróis do Brasil aff

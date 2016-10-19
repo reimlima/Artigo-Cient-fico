@@ -1,0 +1,410 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Wed Apr 13 03:05:58 +0000 2016| user = RECOPILATOR| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Wed Apr 13 03:03:55 +0000 2016| user = ELIDAT5| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Wed Apr 13 03:03:31 +0000 2016| user = channel100TV| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Wed Apr 13 02:50:05 +0000 2016| user = LuizCamargoufc| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Wed Apr 13 02:23:33 +0000 2016| user = sigagus| text = RT @fatoonline: Técnico da seleção confia na presença de Cielo na Olimpíada #Rio2016 . https://t.co/lrtMOI5BbT https://t.co/VjSz8sMnLm
+date = Wed Apr 13 02:21:30 +0000 2016| user = BParvez45| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Wed Apr 13 02:16:11 +0000 2016| user = pedropontual| text = RT @Brasil2016: Oficialmente INAUGURADO o Live Site dos Jogos #Rio2016 @RicardoLeyser https://t.co/RtI8BeGtR9
+date = Wed Apr 13 02:14:22 +0000 2016| user = dricoevedeen| text = Vou atuar na Vila Olímpica e Paralimpica fdurante os Jogos auxiliando os atletas e suas delegações... #voluntário #rio2016
+date = Wed Apr 13 02:12:17 +0000 2016| user = dricoevedeen| text = Recebi minha Carta Convite para ser um #voluntário dos Jogos Olímpicos #Rio2016.
+#somostodosolimpicos
+date = Wed Apr 13 02:08:33 +0000 2016| user = Rodrigo_Justo15| text = RT @alexpussieldi: Em meio a crise no país, o caminho não poderia ser outro. https://t.co/TE3Si1F238 #rio2016
+date = Wed Apr 13 02:06:56 +0000 2016| user = yurigirardi| text = 😱😱😱😱 #cidadeolimpica #riodejaneiro #museudoamanha #instaboy #ffw #rio2016 #brazil @ Museu do Amanhã https://t.co/SY6lkz6EC1
+date = Wed Apr 13 02:05:44 +0000 2016| user = pabloamorim27| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Wed Apr 13 02:05:07 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Japonês numero 2 do ranking mundial do badminton está fora do @Rio2016 https://t.co/SvVGRn0cBs https://t.co/VRU9q1xFml
+date = Wed Apr 13 02:04:44 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Relembrando que ginasta grego será o primeiro carregador da Tocha Olímpuca do @Rio2016 https://t.co/Sq3mTqeqhV https://t…
+date = Wed Apr 13 02:04:37 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Gamova e Sokolova são pré-convocadas para a seleção da Rússia visando o @Rio2016 https://t.co/NvgLhkcgRN https://t.co/cl…
+date = Wed Apr 13 02:04:16 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Destaques do Surto...Bernardinho faz a pré-convocação do vôlei masculino para o @Rio2016 https://t.co/jEYMIV83gx https:/…
+date = Wed Apr 13 02:02:08 +0000 2016| user = fatoonline| text = Técnico da seleção confia na presença de Cielo na Olimpíada #Rio2016 . https://t.co/lrtMOI5BbT https://t.co/VjSz8sMnLm
+date = Wed Apr 13 02:00:50 +0000 2016| user = SurtoOlimpico| text = Japonês numero 2 do ranking mundial do badminton está fora do @Rio2016 https://t.co/SvVGRn0cBs https://t.co/VRU9q1xFml
+date = Wed Apr 13 01:58:48 +0000 2016| user = alexpussieldi| text = Em meio a crise no país, o caminho não poderia ser outro. https://t.co/TE3Si1F238 #rio2016
+date = Wed Apr 13 01:57:59 +0000 2016| user = SurtoOlimpico| text = Relembrando que ginasta grego será o primeiro carregador da Tocha Olímpuca do @Rio2016 https://t.co/Sq3mTqeqhV https://t.co/OfSeDjPRvp
+date = Wed Apr 13 01:54:40 +0000 2016| user = SurtoOlimpico| text = Gamova e Sokolova são pré-convocadas para a seleção da Rússia visando o @Rio2016 https://t.co/NvgLhkcgRN https://t.co/cl0nJpvAAS
+date = Wed Apr 13 01:52:44 +0000 2016| user = CharlesTersolo| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Wed Apr 13 01:50:39 +0000 2016| user = SurtoOlimpico| text = Destaques do Surto...Bernardinho faz a pré-convocação do vôlei masculino para o @Rio2016 https://t.co/jEYMIV83gx https://t.co/giXvaag7DY
+date = Wed Apr 13 01:50:08 +0000 2016| user = Brasil_2016News| text = Turismo Rio 2016: voluntários trilham a segunda rota do Passaporte Verde:  https://t.co/FfIPs1v23c
+date = Wed Apr 13 01:50:08 +0000 2016| user = Brasil_2016News| text = Seu desenho preferido pode estampar os selos oficiais do Rio 2016:  https://t.co/NTtoiTimlI
+date = Wed Apr 13 01:48:28 +0000 2016| user = yurigirardi| text = #cidadeolimpica #rio2016 #riodejaneiro #museudoamanha @ Museu do Amanhã https://t.co/pjISFdGDDe
+date = Wed Apr 13 01:45:04 +0000 2016| user = luizacordova| text = RT @CBW_Oficial: A luta de Eduard Soghomonyan para se naturalizar e defender o Brasil no Rio2016 foi matéria do @DiarioSP desta terça https…
+date = Wed Apr 13 01:44:45 +0000 2016| user = KarolCavanellas| text = "...a floresta guarda em seu silêncio os maiores segredos." #Rio2016 #riobambas… https://t.co/Ng1nv6oYTf
+date = Wed Apr 13 01:29:46 +0000 2016| user = paolarpaiva| text = #RIO2016 campeã na modalidade ignorada em todos os grupos do whatsapp
+date = Wed Apr 13 01:20:15 +0000 2016| user = tenilsonmissin1| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Wed Apr 13 01:19:17 +0000 2016| user = WederASilva1| text = @Rio2016 @neymarjr @JogosOlimpicos @timebrasil @FIFAcom  para poder fazer mais feio nas olimpiadas
+date = Wed Apr 13 01:18:00 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Planejamento para crises e aglomerações na Rio 2016 passa por ...
+EBC
+O planejamento para geren… https://t.co/MBCrufSMsW
+date = Wed Apr 13 01:18:00 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 UOL
+Metrô para Rio-2016 terá operação restrita e cartão olímpico, dizem ...
+UOL
+A obra de expan… https://t.co/oQJM3tP36C
+date = Wed Apr 13 01:14:10 +0000 2016| user = jair83462397| text = @Rio2016 @JogosOlimpicos @timebrasil bom esportes
+date = Wed Apr 13 01:08:11 +0000 2016| user = FuruchoLuiz| text = Bernardinho aposta em experiência e convoca Serginho aos 40 anos https://t.co/dECxenQYGc via @UOLEsporte #Rio2016
+date = Wed Apr 13 01:07:39 +0000 2016| user = FuruchoLuiz| text = Capitã do vôlei brasileiro tem preparação VIP para chegar bem à Rio-2016 https://t.co/5aw5uLoMPN via @UOLEsporte #Rio2016
+date = Wed Apr 13 01:02:39 +0000 2016| user = fabriciosgomes| text = RT @pedroivoalmeida: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/95F22Sapz9 @UOL #Rio2016
+date = Wed Apr 13 00:59:40 +0000 2016| user = deusdamiao| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Wed Apr 13 00:49:37 +0000 2016| user = amadeumerelles| text = RT @Picharillo77: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/aQ61ZrgJ6V #Rio2016 Não tenham dúv…
+date = Wed Apr 13 00:47:58 +0000 2016| user = cesinho_| text = Ver o Parque Olímpico do RJ da orgulho de ser brasileiro &lt;3 #Rio2016
+date = Wed Apr 13 00:46:55 +0000 2016| user = Mulher_Noticia| text = RT @Brasil2016: Giovane Gávio será o primeiro brasileiro a conduzir a tocha olímpica do #Rio2016: https://t.co/zuLj0mT0Af https://t.co/VVYl…
+date = Wed Apr 13 00:46:41 +0000 2016| user = paulalake| text = RT @Brasil2016: Giovane Gávio será o primeiro brasileiro a conduzir a tocha olímpica do #Rio2016: https://t.co/zuLj0mT0Af https://t.co/VVYl…
+date = Wed Apr 13 00:44:46 +0000 2016| user = katiapafo| text = Faltam 115 dias para as Olimpíadas do Rio de Janeiro! #rio2016 #tochaolimpica
+date = Wed Apr 13 00:42:31 +0000 2016| user = AlexDionB| text = RT @JogosOlimpicos: Vai ter evento-teste de ginástica, então vamos lembrar dessa brasileirinha incrível. @aquecerio @rio2016
+https://t.co/O…
+date = Wed Apr 13 00:41:52 +0000 2016| user = lubeltrame5| text = RT @minesporte: Amanhã, a partir das 9h, o min @RicardoLeyser participa do Bom Dia, Ministro na @TVNBR pra falar dos Jogos #Rio2016 https:/…
+date = Wed Apr 13 00:36:52 +0000 2016| user = andre_vitral| text = RT @minesporte: Amanhã, a partir das 9h, o min @RicardoLeyser participa do Bom Dia, Ministro na @TVNBR pra falar dos Jogos #Rio2016 https:/…
+date = Wed Apr 13 00:35:52 +0000 2016| user = celioataide| text = @MAMBRU17 Faço isto de olhos fechados! Jajajaja! Foco Rio2016 com escala no Japão! Estarei lhe aguardando! Beijos no coração!
+date = Wed Apr 13 00:34:08 +0000 2016| user = minesporte| text = Amanhã, a partir das 9h, o min @RicardoLeyser participa do Bom Dia, Ministro na @TVNBR pra falar dos Jogos #Rio2016 https://t.co/UrWJXnZiGU
+date = Wed Apr 13 00:30:49 +0000 2016| user = fwallina| text = RT @minesporte: O min @RicardoLeyser segue na última reunião do Cocom, discutindo detalhes operacionais dos Jogos #Rio2016 https://t.co/6nj…
+date = Wed Apr 13 00:30:03 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016
+Turismo Rio 2016: voluntários trilham a segunda rota
+Rio 2016
+Que tal sair do roteiro … https://t.co/iSnEoOGmxs
+date = Wed Apr 13 00:28:51 +0000 2016| user = channel100TV| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Wed Apr 13 00:24:57 +0000 2016| user = JSkinheadYork| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Wed Apr 13 00:21:18 +0000 2016| user = Picharillo77| text = Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/aQ61ZrgJ6V #Rio2016 Não tenham dúvidas, há maracutaia
+date = Wed Apr 13 00:17:00 +0000 2016| user = channel100TV| text = RT @TheNewYokohamar: “@tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 …… https://t.co/3S6n…
+date = Wed Apr 13 00:10:32 +0000 2016| user = pgamafilho| text = RT @Brasil2016: Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016: https://t.co/z5AFZp34rj https://t.co/gsK…
+date = Wed Apr 13 00:01:33 +0000 2016| user = TorcidaBrasil2| text = Quem acima dos 23 anos vai pra #Rio2016? Jornalista tem palpite. Veja qual é
+https://t.co/FeQbaBpjHx
+#Neymar https://t.co/3Zt06IG8WR
+date = Wed Apr 13 00:00:18 +0000 2016| user = van_lages| text = RT @SurtoOlimpico: Este é o uniforme que o Canadá irá usar no @Rio2016 https://t.co/VoM92dADy9
+date = Tue Apr 12 23:59:11 +0000 2016| user = _pedroborges_| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 23:57:52 +0000 2016| user = lsouza73| text = Olá @MaliaESPN, escrevi sobre um pouco da #Rio2016, se puder dar uma moral Aquecimento Olímpico: #Atletismo || https://t.co/sm1ZCXzO9B
+date = Tue Apr 12 23:57:16 +0000 2016| user = lsouza73| text = Olá @joannadeassis, escrevi sobre um pouco da #Rio2016, se puder dar uma moral Aquecimento Olímpico: #Atletismo || https://t.co/sm1ZCXzO9B
+date = Tue Apr 12 23:56:37 +0000 2016| user = Melyssaalvaren| text = RT @Rio2016: Suécia completa lista de #classificados do handebol masculino dos Jogos: https://t.co/aT1xEsDZox https://t.co/1VJhWPtPzc
+date = Tue Apr 12 23:55:49 +0000 2016| user = lsouza73| text = Aquecimento Olímpico: #Atletismo || https://t.co/sm1ZCXzO9B || Por @lsouza73 #Rio2016 #Olimpíadas https://t.co/tLONAPZM9h
+date = Tue Apr 12 23:47:22 +0000 2016| user = SurtoOlimpico| text = Este é o uniforme que o Canadá irá usar no @Rio2016 https://t.co/VoM92dADy9
+date = Tue Apr 12 23:40:41 +0000 2016| user = Esportessencial| text = RT @soudoesporte: Katie Ledecky tem tudo para ser um dos maiores destaques dos Jogos: https://t.co/e0TCXJ4F81
+#FiquedeOlho no #Rio2016 http…
+date = Tue Apr 12 23:40:40 +0000 2016| user = gefersonpaiva32| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 23:40:03 +0000 2016| user = DelegacionVzla| text = Brutal amigos @TeamCanada @Rio2016 @hudsonsbay @CDNParalympics 😁
+date = Tue Apr 12 23:40:00 +0000 2016| user = soudoesporte| text = Katie Ledecky tem tudo para ser um dos maiores destaques dos Jogos: https://t.co/e0TCXJ4F81
+#FiquedeOlho no #Rio2016 https://t.co/3ob6SHQV15
+date = Tue Apr 12 23:30:44 +0000 2016| user = obuFawkedD8| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 23:29:42 +0000 2016| user = Maykonbelenello| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 23:28:53 +0000 2016| user = ANDERSONGURGEL| text = RT @Brasil2016: Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016: https://t.co/z5AFZp34rj https://t.co/gsK…
+date = Tue Apr 12 23:24:55 +0000 2016| user = solangemendes| text = RT @Grupo_AG: A concessionária Rio Mais, da qual o #GrupoAG faz parte, entregou ontem mais três áreas do Parque Olímpico. #Rio2016 https://…
+date = Tue Apr 12 23:24:20 +0000 2016| user = MarceloLaguna| text = Apesar de pendências, discurso de autoridades brasileiras para a Rio-2016 é otimista | LANCE! https://t.co/sha7tdxCDc
+date = Tue Apr 12 23:23:53 +0000 2016| user = bairrobarreto| text = Jornal do bairro do Barreto - Nit já saiu! https://t.co/06okmgXpAW Graças a @Rio2016 @zecarlosjr @NitFeed
+date = Tue Apr 12 23:23:48 +0000 2016| user = ScuttiSueli| text = RT @Brasil2016: Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016: https://t.co/z5AFZp34rj https://t.co/gsK…
+date = Tue Apr 12 23:23:28 +0000 2016| user = dbull3385| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 23:19:07 +0000 2016| user = TROCA_DE_CANAL| text = RT @fatoonline: Justiça obriga Câmara Municipal a instalar CPI da Olimpíada #Rio2016. https://t.co/kpIbIkCRFr
+date = Tue Apr 12 23:14:48 +0000 2016| user = MsBitte03| text = Bernardinho aposta em experiência e convoca Serginho aos 40 anos https://t.co/hd0aMXOUOW via @UOLEsporte #Rio2016
+date = Tue Apr 12 23:12:32 +0000 2016| user = DEMOCRATABR| text = RT @CintiaG63848882: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/t5z0yIpHt7 via @UOLEsporte #Rio…
+date = Tue Apr 12 23:10:45 +0000 2016| user = calendcorridas| text = Corridas de Rua no Rio de Janeiro? https://t.co/6C0cMrLcqs
+Siga-nos e fique por dentro do calendario de corridas de rua no Brasil. #Rio2016
+date = Tue Apr 12 23:09:29 +0000 2016| user = Malurdesbarros| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 23:07:43 +0000 2016| user = Aparecido00| text = RT @DanielD070590: Presidente da Fifa falta a sorteio da Rio-2016 e escancara racha com a CBF via @UOLEsporte #Rio2016   https://t.co/YwcKb…
+date = Tue Apr 12 23:05:24 +0000 2016| user = brunomedeiros| text = Bora de rolezin hj... 🏂🚩🌛
+#sk8 #long #longboard #rio2016 #errejota @ Ipanema, Rio De Janeiro,… https://t.co/DA1bv6e2pj
+date = Tue Apr 12 23:05:06 +0000 2016| user = RochaVeroliva| text = RT @fatoonline: Justiça obriga Câmara Municipal a instalar CPI da Olimpíada #Rio2016. https://t.co/kpIbIkCRFr
+date = Tue Apr 12 23:03:55 +0000 2016| user = Filonesc/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+io| text = Jogos Olímpicos Rio 2016 Próximo ao Parque Olímpico da Barra da Tijuca https://t.co/5a2aGDOsSP #Rio2016 #rio2016volunteer
+date = Tue Apr 12 23:01:08 +0000 2016| user = fatoonline| text = Justiça obriga Câmara Municipal a instalar CPI da Olimpíada #Rio2016. https://t.co/kpIbIkCRFr
+date = Tue Apr 12 23:00:27 +0000 2016| user = DOlimpico| text = ¿Ana Lago o Alexa Moreno? 
+#Rio2016 #gimnasia https://t.co/2bn5zfW1o8
+date = Tue Apr 12 23:00:07 +0000 2016| user = ROSALIN40901260| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 22:59:35 +0000 2016| user = fabioaquinorio| text = RT @Brasil2016: Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016: https://t.co/z5AFZp34rj https://t.co/gsK…
+date = Tue Apr 12 22:57:39 +0000 2016| user = viniciuspuhl| text = RT @luizatrajano: E olha que bacana essa ação que vai recrutar bandas para tocar nos eventos da #Rio2016! #SobeOSom https://t.co/xs9wWpxXl8
+date = Tue Apr 12 22:53:36 +0000 2016| user = manguaca82| text = Sendo que senhor @JoseIvoSartori não tem medo das sanções do gov @dilmabr ao não pagar a divida do estado. Cc: @brigadamilitar_ @Rio2016
+date = Tue Apr 12 22:52:38 +0000 2016| user = tripedalnet| text = Silvinho Amorim – Medalha de ouro nos jogos Pan-Americanos de MTB https://t.co/pBBV8oC4x6 #XCO #MTB #PAN2016 #RIO2016
+date = Tue Apr 12 22:50:51 +0000 2016| user = MarceloCourrege| text = Sobre a convocação da seleção masculina, 2 coisas me surpreenderam: apenas 18 nomes e a ausência do Leandro Vissoto. #VoleiNaGlobo #Rio2016
+date = Tue Apr 12 22:48:57 +0000 2016| user = manguaca82| text = Não dá pra te entender @JoseIvoSartori usar do argumento das sanções do gov @dilmabr pra liberar 100sargentos @brigadamilitar_ para @Rio2016
+date = Tue Apr 12 22:48:52 +0000 2016| user = luizatrajano| text = E olha que bacana essa ação que vai recrutar bandas para tocar nos eventos da #Rio2016! #SobeOSom https://t.co/xs9wWpxXl8
+date = Tue Apr 12 22:47:23 +0000 2016| user = TIMAOLEMANHABRA| text = Justiça do Rio de Janeiro obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/vNAeuyoTG7 via @UOLEsporte #Rio2016
+date = Tue Apr 12 22:43:47 +0000 2016| user = lsouza73| text = Aquecimento Olímpico: #Atletismo || https://t.co/sm1ZCXzO9B || no @SiteLF #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = BorjaFrancisco_| text = Aquecimento Olímpico: #Atletismo || https://t.co/rmYx294mq7 || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = NeetoMoraes96| text = Aquecimento Olímpico: #Atletismo || https://t.co/fRXPaxOT6r || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = _SiilvaSCFC| text = Aquecimento Olímpico: #Atletismo || https://t.co/s7YwHO7md3 || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = Edumaya7| text = Aquecimento Olímpico: #Atletismo || https://t.co/Q8TR7Dh4De || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = luc4s_andre| text = Aquecimento Olímpico: #Atletismo || https://t.co/FeTXxBmDoU || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = ismahsantos| text = Aquecimento Olímpico: #Atletismo || https://t.co/ctBYpIY0sC || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = VitorBatata3| text = Aquecimento Olímpico: #Atletismo || https://t.co/chSX6krJYD || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = cesareboralli| text = Aquecimento Olímpico: #Atletismo || https://t.co/YwUcN7JS9e || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = stebozza| text = Aquecimento Olímpico: #Atletismo || https://t.co/d9C3oUV0un || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = MatheusGarzon| text = Aquecimento Olímpico: #Atletismo || https://t.co/Fo1DXExZEc || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = _lefiguereedo| text = Aquecimento Olímpico: #Atletismo || https://t.co/9mvN2eUIMe || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = _MFreitas9_| text = Aquecimento Olímpico: #Atletismo || https://t.co/XW13rPlb5R || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = imastargirl| text = Aquecimento Olímpico: #Atletismo || https://t.co/CuVIQFSF9d || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = LuigiLouco999| text = Aquecimento Olímpico: #Atletismo || https://t.co/8XaLZjMJNS || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = gabrielantony_| text = Aquecimento Olímpico: #Atletismo || https://t.co/tODuHG9QxO || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = biapessoaguiar| text = Aquecimento Olímpico: #Atletismo || https://t.co/9BDPLFyEDE || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = RodriPortuga| text = Aquecimento Olímpico: #Atletismo || https://t.co/DgI2EgzKD4 || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = wagneroliveiraf| text = Aquecimento Olímpico: #Atletismo || https://t.co/FX34MyxMXg || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = _guigoluis| text = Aquecimento Olímpico: #Atletismo || https://t.co/DrTL0SY7ct || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = _cassiagouvea| text = Aquecimento Olímpico: #Atletismo || https://t.co/QkoWDOzuhl || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = AtletiCorneta| text = Aquecimento Olímpico: #Atletismo || https://t.co/6znoJud6bq || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = Fred_Metro2002| text = Aquecimento Olímpico: #Atletismo || https://t.co/jGYorUUdVc || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = roberto_kza| text = Aquecimento Olímpico: #Atletismo || https://t.co/BUB3FDHMYB || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = PedroSilveira7| text = Aquecimento Olímpico: #Atletismo || https://t.co/QQ5t7yIIu3 || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = acfmarcelo| text = Aquecimento Olímpico: #Atletismo || https://t.co/ndzkhhlFFo || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = fantastico_scr| text = Aquecimento Olímpico: #Atletismo || https://t.co/2sHf0A5Er3 || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = leo_fernandes_9| text = Aquecimento Olímpico: #Atletismo || https://t.co/gJGzRvUdTB || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:42:50 +0000 2016| user = ismacedo_| text = Aquecimento Olímpico: #Atletismo || https://t.co/DQOceH0KG7 || Por @lsouza73 #Rio2016 #Olimpíadas
+date = Tue Apr 12 22:40:26 +0000 2016| user = yasmilerr| text = Job de hoje! ❤️ #OlympicGames #Rio2016 @ Ipanema, Rio De Janeiro, Brazil https://t.co/RYE6KzKI5W
+date = Tue Apr 12 22:39:13 +0000 2016| user = accorhotelsfr_| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 22:38:58 +0000 2016| user = accorhotelsfr_| text = RT @TheNewYokohamar: “@tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 …… https://t.co/3S6n…
+date = Tue Apr 12 22:32:47 +0000 2016| user = _Lavoisier| text = Sobe para 1.113 o número de casos confirmados de microcefalia por epidemia de zika virus  no Brasil https://t.co/Q6YfyB686P #Rio2016
+date = Tue Apr 12 22:32:09 +0000 2016| user = gallo_dumont| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 22:31:17 +0000 2016| user = ronaldo_ruffo| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 22:25:41 +0000 2016| user = ieda_mara| text = OPERAÇÃO CARCINOMA PRESTEM ATENÇÃO QUE TRISTE&gt; POLÍCIA DO RIO ENVOLVIDA EM ROUBAR DA SAÚDE. #Rio2016 #riodejaneiro #ocupaguanabara
+date = Tue Apr 12 22:25:15 +0000 2016| user = MTITECNOLOGIARS| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 22:21:00 +0000 2016| user = MiLick74| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 22:20:51 +0000 2016| user = agesantana| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 22:17:07 +0000 2016| user = maranhaorafael| text = RT @cpboficial: Sua torcida é aquela força que os #guerreiros precisam! Não é mesmo, @flaviocanto e @FernandoFlife? @Rio2016
+https://t.co/L…
+date = Tue Apr 12 22:14:51 +0000 2016| user = giovanegavio| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 22:13:10 +0000 2016| user = BatesLord| text = RT @ukinbrazil: #WalkForTruce começou! Veja como foi a primeira semana de caminhada de @BatesLord! Destino final: @Rio2016! https://t.co/Fd…
+date = Tue Apr 12 22:10:24 +0000 2016| user = clagraca| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 22:10:03 +0000 2016| user = CartasMarottas| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 22:09:31 +0000 2016| user = mariaandreiaps| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 22:09:21 +0000 2016| user = vitoriaregiaccp| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 22:07:57 +0000 2016| user = RodP13| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 22:07:23 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Suécia completa lista de #classificados do handebol masculino dos Jogos: https://t.co/aT1xEsDZox https://t.co/1VJhWPtPzc
+date = Tue Apr 12 22:05:09 +0000 2016| user = TannensTennis| text = RT @Rio2016: Suécia completa lista de #classificados do handebol masculino dos Jogos: https://t.co/aT1xEsDZox https://t.co/1VJhWPtPzc
+date = Tue Apr 12 22:04:55 +0000 2016| user = JESUISMORO| text = RT @CintiaG63848882: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/t5z0yIpHt7 via @UOLEsporte #Rio…
+date = Tue Apr 12 22:03:45 +0000 2016| user = OdilioA| text = RT @CintiaG63848882: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/t5z0yIpHt7 via @UOLEsporte #Rio…
+date = Tue Apr 12 22:02:39 +0000 2016| user = adriano_vieira| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 22:01:55 +0000 2016| user = ukinbrazil| text = #WalkForTruce começou! Veja como foi a primeira semana de caminhada de @BatesLord! Destino final: @Rio2016! https://t.co/FdOE2aQj6z
+date = Tue Apr 12 22:01:51 +0000 2016| user = RaineriSilva13| text = RT @Brasil2016: O min @RicardoLeyser explica q o COI está confiante quanto às condições do Brasil p/ organizar os Jogos #Rio2016 https://t.…
+date = Tue Apr 12 22:01:44 +0000 2016| user = jaquerrocha| text = RT @Rio2016: Suécia completa lista de #classificados do handebol masculino dos Jogos: https://t.co/aT1xEsDZox https://t.co/1VJhWPtPzc
+date = Tue Apr 12 22:00:58 +0000 2016| user = mayaeduardaa| text = RT @Rio2016: Suécia completa lista de #classificados do handebol masculino dos Jogos: https://t.co/aT1xEsDZox https://t.co/1VJhWPtPzc
+date = Tue Apr 12 22:00:26 +0000 2016| user = Rio2016| text = Suécia completa lista de #classificados do handebol masculino dos Jogos: https://t.co/aT1xEsDZox https://t.co/1VJhWPtPzc
+date = Tue Apr 12 21:58:17 +0000 2016| user = Round_Trip_Tur| text = RT @Brasil2016: Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016. https://t.co/AH7QBFeuiC https://t.co/P1c…
+date = Tue Apr 12 21:57:53 +0000 2016| user = DeMenor_cwb| text = RT @CBW_Oficial: A luta de Eduard Soghomonyan para se naturalizar e defender o Brasil no Rio2016 foi matéria do @DiarioSP desta terça https…
+date = Tue Apr 12 21:57:19 +0000 2016| user = ANDERSONGURGEL| text = RT @Brasil2016: Senado aprova projeto de lei com regras para os Jogos Olímpicos e Paralímpicos #Rio2016: https://t.co/YPlmRcIP5x https://t.…
+date = Tue Apr 12 21:57:13 +0000 2016| user = mudarracoll| text = RT @minesporte: Esse mês tá cheio de eventos-teste do #Rio2016. O da #natação é um deles. Confira os outros: https://t.co/zDqPeV4iA8 https:…
+date = Tue Apr 12 21:57:05 +0000 2016| user = wrg1604| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 21:56:59 +0000 2016| user = wkrio| text = @eduardopaes_ @washfajardo @Rio2016 Quantidade de lâmpadas queimadas nos postes altos do Aterro está bem alta.
+date = Tue Apr 12 21:56:43 +0000 2016| user = brenobarros| text = RT @Brasil2016: O min @RicardoLeyser explica q o COI está confiante quanto às condições do Brasil p/ organizar os Jogos #Rio2016 https://t.…
+date = Tue Apr 12 21:53:49 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Embratur e Itamaraty atuam em parceria na divulgação dos Jogos ...
+Portal Brasil
+A Embratur (In… https://t.co/MKnm53cgp7
+date = Tue Apr 12 21:52:58 +0000 2016| user = TatahPaulista| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 21:52:00 +0000 2016| user = Seba_Pereira| text = RT @Rio2016: Junto com o #triatlo, a #canoagem é uma das estreias dos #JogosParalímpicos!
+Não dá pra explicar, #TemQueIr https://t.co/34Xz1…
+date = Tue Apr 12 21:51:52 +0000 2016| user = TatahPaulista| text = @Rio2016 @giovanegavio QUE LINDOOOOO!!! QUE TUDOOOO!! PARABÉNS!!!! MUITA EMOÇÃO!!! ❤😍💕
+date = Tue Apr 12 21:50:44 +0000 2016| user = Seba_Pereira| text = RT @CBW_Oficial: A luta de Eduard Soghomonyan para se naturalizar e defender o Brasil no Rio2016 foi matéria do @DiarioSP desta terça https…
+date = Tue Apr 12 21:50:02 +0000 2016| user = jmvflu| text = RT @CintiaG63848882: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/t5z0yIpHt7 via @UOLEsporte #Rio…
+date = Tue Apr 12 21:49:39 +0000 2016| user = Seba_Pereira| text = RT @Brasil2016: O min @RicardoLeyser explica q o COI está confiante quanto às condições do Brasil p/ organizar os Jogos #Rio2016 https://t.…
+date = Tue Apr 12 21:49:32 +0000 2016| user = lgcomin| text = RT @Ary_AntiPT: "@ANSBrasil: Oito municípios do RJ enfrentam surto de febre Chikungunya - https://t.co/QH01kMXtvT https://t.co/OHEZTyEhPR"…
+date = Tue Apr 12 21:47:23 +0000 2016| user = Seba_Pereira| text = RT @JogosOlimpicos: Você já conhece o grupo do @timebrasil no pólo aquático? Masculino: 🇷🇸🇬🇷🇧🇷🇦🇺🇯🇵🇭🇺  Feminino: 🇮🇹🇷🇺🇦🇺🇧🇷 https://t.co/0ABFU…
+date = Tue Apr 12 21:45:27 +0000 2016| user = Seba_Pereira| text = RT @osolimpicos: Também se classificaram pro #Rio2016 Hannah Miley (4:33.40 nos 400m medley) e James Guy (3:43.84 nos 400m livre)
+date = Tue Apr 12 21:45:07 +0000 2016| user = AndrewsRibeiro| text = RT @Rio2016: Junto com o #triatlo, a #canoagem é uma das estreias dos #JogosParalímpicos!
+Não dá pra explicar, #TemQueIr https://t.co/34Xz1…
+date = Tue Apr 12 21:44:53 +0000 2016| user = Round_Trip_Tur| text = RT @Rio2016: Junto com o #triatlo, a #canoagem é uma das estreias dos #JogosParalímpicos!
+Não dá pra explicar, #TemQueIr https://t.co/34Xz1…
+date = Tue Apr 12 21:42:48 +0000 2016| user = Mary1709rj| text = RT @Rio2016: Junto com o #triatlo, a #canoagem é uma das estreias dos #JogosParalímpicos!
+Não dá pra explicar, #TemQueIr https://t.co/34Xz1…
+date = Tue Apr 12 21:41:45 +0000 2016| user = CBW_Oficial| text = A luta de Eduard Soghomonyan para se naturalizar e defender o Brasil no Rio2016 foi matéria do @DiarioSP desta terça https://t.co/UaRDbUly2U
+date = Tue Apr 12 21:40:06 +0000 2016| user = defast1| text = RT @Rio2016: Junto com o #triatlo, a #canoagem é uma das estreias dos #JogosParalímpicos!
+Não dá pra explicar, #TemQueIr https://t.co/34Xz1…
+date = Tue Apr 12 21:39:31 +0000 2016| user = Javierhernanz| text = RT @Rio2016: Junto com o #triatlo, a #canoagem é uma das estreias dos #JogosParalímpicos!
+Não dá pra explicar, #TemQueIr https://t.co/34Xz1…
+date = Tue Apr 12 21:38:22 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: Junto com o #triatlo, a #canoagem é uma das estreias dos #JogosParalímpicos!
+Não dá pra explicar, #TemQueIr https://t.co/34Xz1…
+date = Tue Apr 12 21:38:13 +0000 2016| user = Rio2016| text = Junto com o #triatlo, a #canoagem é uma das estreias dos #JogosParalímpicos!
+Não dá pra explicar, #TemQueIr https://t.co/34Xz13hxQS
+date = Tue Apr 12 21:34:40 +0000 2016| user = yuribritoreal| text = RT @BeaBia2015: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/huBFgIct5p via @UOLEsporte #Rio2016
+date = Tue Apr 12 21:33:43 +0000 2016| user = Danielsilva955| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 21:32:09 +0000 2016| user = CintiaG63848882| text = Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/t5z0yIpHt7 via @UOLEsporte #Rio2016 Brasil da CPIs
+date = Tue Apr 12 21:31:01 +0000 2016| user = leandrotk1| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 21:30:49 +0000 2016| user = sigaobrun0| text = RT @iG: Com veterano Serginho, Bernardinho convoca 18 para ano olímpico do vôlei. #Rio2016
+
+→ https://t.co/CVucA3pVpw https://t.co/Qo6IHqIG…
+date = Tue Apr 12 21:28:35 +0000 2016| user = b4b60c86df7e4bd| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 21:27:57 +0000 2016| user = gazetaesportiva| text = Confira todos os nomes chamados por Bernardinho para os Jogos do @Rio2016: https://t.co/vON43Yv8mh https://t.co/PuDPREgk8S
+date = Tue Apr 12 21:26:11 +0000 2016| user = marciomarques| text = RT @Rio2016: Um pouco do #LiveSite #Rio2016 inaugurado hoje! Vocês vão poder assistir aos Jogos lá, se não estiverem no estádio! https://t.…
+date = Tue Apr 12 21:23:00 +0000 2016| user = sonsolesjimenar| text = RT @JogosOlimpicos: Já conferiu como ficou a nova casa da natação e do polo aquático nos Jogos @Rio2016? Inaugurado sábado! 🏊💦 https://t.co…
+date = Tue Apr 12 21:21:08 +0000 2016| user = NATASHA_CONDE| text = Rio 2016 Ingressos – Compre seu ingresso para as Olímpiadas https://t.co/yWBfKz4Cat
+date = Tue Apr 12 21:20:37 +0000 2016| user = abgtcastellanos| text = RT @ForoChavista: RT despachopazvida: Luis Orta clasificado #60 para #Rio2016 || PuntoOlimpico Rio2/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+016_en https://t.co/qsaaLL19OU
+date = Tue Apr 12 21:18:03 +0000 2016| user = brenobarros| text = RT @Brasil2016: Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016: https://t.co/z5AFZp34rj https://t.co/gsK…
+date = Tue Apr 12 21:15:39 +0000 2016| user = carlossandesn| text = Que as mãos desse monstro do vôlei, traga o espírito olímpico necessário para o nosso tri feminino🙌🏽 https://t.co/hGDH3TLUJI
+date = Tue Apr 12 21:15:11 +0000 2016| user = Brasil2016| text = Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016: https://t.co/z5AFZp34rj https://t.co/gsKiQM48wl
+date = Tue Apr 12 21:13:54 +0000 2016| user = edmilson0800| text = RT @iG: Com veterano Serginho, Bernardinho convoca 18 para ano olímpico do vôlei. #Rio2016
+
+→ https://t.co/CVucA3pVpw https://t.co/Qo6IHqIG…
+date = Tue Apr 12 21:13:39 +0000 2016| user = psfurtado2012| text = Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas via @UOLEsporte #Rio2016   https://t.co/tbtajgwkPo
+date = Tue Apr 12 21:12:28 +0000 2016| user = ForoChavista| text = RT despachopazvida: Luis Orta clasificado #60 para #Rio2016 || PuntoOlimpico Rio2016_en https://t.co/qsaaLL19OU
+date = Tue Apr 12 21:11:30 +0000 2016| user = brenobarros| text = com espinha dorsal dos jogos pronta, COI debate detalhes operacionais do #Rio2016 https://t.co/JKPHI4GxXv
+date = Tue Apr 12 21:09:35 +0000 2016| user = cienfuegos20| text = RT @despachopazvida: Luis Orta clasificado #60 para #Rio2016 || @PuntoOlimpico @Rio2016_en https://t.co/UDDiHIaI3B
+date = Tue Apr 12 21:07:21 +0000 2016| user = jcnovaesrio| text = #Rio2016 #CidadeOlimpica e as artimanhas do #Nervosinho, o #PrefeitoPinóquio https://t.co/JBGbhEb60d
+date = Tue Apr 12 21:06:37 +0000 2016| user = marceloraposo| text = RT @Brasil2016: Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016. https://t.co/AH7QBFeuiC https://t.co/P1c…
+date = Tue Apr 12 21:04:58 +0000 2016| user = valdemaravila| text = RT @BeaBia2015: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/huBFgIct5p via @UOLEsporte #Rio2016
+date = Tue Apr 12 21:04:50 +0000 2016| user = Pernelle3| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 21:04:19 +0000 2016| user = Brasil2016| text = Com espinha dorsal dos Jogos pronta, COI debate detalhes operacionais do #Rio2016. https://t.co/AH7QBFeuiC https://t.co/P1ccu9PeUy
+date = Tue Apr 12 21:04:11 +0000 2016| user = sales_amaral| text = RT @santos_agora: #Rio2016 Alunos das escolas de ginástica e atletas do BrasilFC/ Fupes acompanharam o último dia de treinos dos ginastas e…
+date = Tue Apr 12 21:03:20 +0000 2016| user = BeaBia2015| text = Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/huBFgIct5p via @UOLEsporte #Rio2016
+date = Tue Apr 12 21:03:15 +0000 2016| user = marcelitferrara| text = Pôr de sol na praia de Ipanema 30 ° C. #riodejaneiro #Rio2016 https://t.co/MM2NmcIio4
+date = Tue Apr 12 21:01:50 +0000 2016| user = maluiubel| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 21:01:49 +0000 2016| user = nieldebrito| text = RT @KassandraArruda: Que isso Coração Valente?? Rio2016 https://t.co/ul6BafdN4T
+date = Tue Apr 12 21:00:26 +0000 2016| user = iG| text = Com veterano Serginho, Bernardinho convoca 18 para ano olímpico do vôlei. #Rio2016
+
+→ https://t.co/CVucA3pVpw https://t.co/Qo6IHqIGHq
+date = Tue Apr 12 21:00:25 +0000 2016| user = santos_agora| text = #Rio2016 Alunos das escolas de ginástica e atletas do BrasilFC/ Fupes acompanharam o último dia de treinos dos ginastas estrangeiros.
+date = Tue Apr 12 20:58:26 +0000 2016| user = MiAsFez| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:57:53 +0000 2016| user = jornaldomacico| text = RT @minesporte: Esse mês tá cheio de eventos-teste do #Rio2016. O da #natação é um deles. Confira os outros: https://t.co/zDqPeV4iA8 https:…
+date = Tue Apr 12 20:57:30 +0000 2016| user = minesporte| text = Esse mês tá cheio de eventos-teste do #Rio2016. O da #natação é um deles. Confira os outros: https://t.co/zDqPeV4iA8 https://t.co/ZTjBKzWceR
+date = Tue Apr 12 20:53:25 +0000 2016| user = lsferraz| text = Ta ficando bom.. #rio2016 #boatarde https://t.co/Ku0N5RLoUx https://t.co/UprmuwhHq4
+date = Tue Apr 12 20:51:56 +0000 2016| user = otaviopaz| text = RT @KassandraArruda: Que isso Coração Valente?? Rio2016 https://t.co/ul6BafdN4T
+date = Tue Apr 12 20:48:14 +0000 2016| user = terbioss| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 20:46:37 +0000 2016| user = josevanetomaz| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:45:21 +0000 2016| user = scsmorishita| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 20:44:09 +0000 2016| user = brenobarros| text = entrevistei o ministro @RicardoLeyser sobre a última reunião do COI com a #Rio2016. Daqui a pouco no ar.
+date = Tue Apr 12 20:43:06 +0000 2016| user = gugah_almeida| text = Mais uma moeda !!! 😜 #rio2016 #mascote #moedasolimpicas @ Rua… https://t.co/KSI2hKFnTc
+date = Tue Apr 12 20:42:02 +0000 2016| user = heliodecao| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:41:36 +0000 2016| user = NickEllis| text = @Rio2016 @giovanegavio @JogosOlimpicos @timebrasil achei justo!
+date = Tue Apr 12 20:41:28 +0000 2016| user = amo_voleibol| text = Sada Cruzeiro tem quatro convocados para Seleção Brasileira: https://t.co/EYwJB5cl7f #Rio2016 #maislidas https://t.co/F56pmV3Fkd
+date = Tue Apr 12 20:40:39 +0000 2016| user = gatola_j| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:40:38 +0000 2016| user = carlinhosnovack| text = Giovane Gávio será o primeiro brasileiro a carregar a tocha olímpica na Grécia dia 21: https://t.co/2sRSZePjGq
+date = Tue Apr 12 20:39:49 +0000 2016| user = felipe_priante| text = Cuidado para não queimar a língua....literalmente! https://t.co/2beKWrLJas
+date = Tue Apr 12 20:39:33 +0000 2016| user = andrecheverria| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:39:17 +0000 2016| user = tcg277| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:39:15 +0000 2016| user = defast1| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:38:33 +0000 2016| user = Radhika178| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:37:18 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/…
+date = Tue Apr 12 20:36:59 +0000 2016| user = Rio2016| text = .@giovanegavio é o 1º brasileiro a conduzir a #TochaOlímpica após acendimento na Grécia: https://t.co/uerINWHptS https://t.co/CjBqAPEZeJ
+date = Tue Apr 12 20:35:42 +0000 2016| user = Tunnietta| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 20:33:36 +0000 2016| user = anaduducarvalho| text = RT @Brasil2016: Senado aprova projeto de lei com regras para os Jogos Olímpicos e Paralímpicos #Rio2016: https://t.co/YPlmRcIP5x https://t.…
+date = Tue Apr 12 20:33:26 +0000 2016| user = buldogestrela| text = Pessoal vamos comprar os ingressos para os jogos olimpicos e paralimpicos rio 2016! A chapa ta quente!😎👊☇🌟 #Vemjunto https://t.co/ZoI6QBTsuX
+date = Tue Apr 12 20:32:01 +0000 2016| user = geanylim| text = RT @Brasil2016: Senado aprova projeto de lei com regras para os Jogos Olímpicos e Paralímpicos #Rio2016: https://t.co/YPlmRcIP5x https://t.…
+date = Tue Apr 12 20:29:38 +0000 2016| user = MarcellyLopes19| text = RT @portalbrasil: Olha que legal! 😀 #Rio2016 oferece mais de 8 mil vagas temporárias de trabalho https://t.co/1VpYAUzgH0 @minesporte
+date = Tue Apr 12 20:28:56 +0000 2016| user = IagoMDias| text = RT @Brasil2016: Senado aprova projeto de lei com regras para os Jogos Olímpicos e Paralímpicos #Rio2016: https://t.co/YPlmRcIP5x https://t.…
+date = Tue Apr 12 20:27:03 +0000 2016| user = Brasil2016| text = Senado aprova projeto de lei com regras para os Jogos Olímpicos e Paralímpicos #Rio2016: https://t.co/YPlmRcIP5x https://t.co/DHk2XR3Pkf
+date = Tue Apr 12 20:26:38 +0000 2016| user = aidapira| text = RT @mindefensa: Cabo segundo Jorge Ruíz  representará a #Colombia en #Rio2016 #JuegosOlimpicos https://t.co/lzrAWBUe2z @COL_EJERCITO https:…
+date = Tue Apr 12 20:25:04 +0000 2016| user = sergiosfs20anos| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 20:23:50 +0000 2016| user = KassandraArruda| text = Que isso Coração Valente?? Rio2016 https://t.co/ul6BafdN4T
+date = Tue Apr 12 20:21:06 +0000 2016| user = Barrazine| text = RT @JornalOGlobo: Correios cortam patrocínio da natação e tênis às vésperas da #Rio2016 https://t.co/FlGc7gjO6A
+date = Tue Apr 12 20:20:09 +0000 2016| user = fcoveiga| text = RT @Brasil2016: O min @RicardoLeyser explica q o COI está confiante quanto às condições do Brasil p/ organizar os Jogos #Rio2016 https://t.…
+date = Tue Apr 12 20:16:25 +0000 2016| user = carlinhosnovack| text = RT @JogosOlimpicos: Você já conhece o grupo do @timebrasil no pólo aquático? Masculino: 🇷🇸🇬🇷🇧🇷🇦🇺🇯🇵🇭🇺  Feminino: 🇮🇹🇷🇺🇦🇺🇧🇷 https://t.co/0ABFU…
+date = Tue Apr 12 20:14:41 +0000 2016| user = defast1| text = RT @minesporte: O min @RicardoLeyser segue na última reunião do Cocom, discutindo detalhes operacionais dos Jogos #Rio2016 https://t.co/6nj…
+date = Tue Apr 12 20:13:45 +0000 2016| user = JogosOlimpicos| text = Você já conhece o grupo do @timebrasil no pólo aquático? Masculino: 🇷🇸🇬🇷🇧🇷🇦🇺🇯🇵🇭🇺  Feminino: 🇮🇹🇷🇺🇦🇺🇧🇷 https://t.co/0ABFUwL5pk
+date = Tue Apr 12 20:13:02 +0000 2016| user = jhceline_7| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 20:12:44 +0000 2016| user = LuisCol74| text = RT @Rio2016: Detalhes da classificações do #PoloAquático aqui: https://t.co/0RLfMFb6ja https://t.co/E36qrvYQXX
+date = Tue Apr 12 20:11:34 +0000 2016| user = minesporte| text = O min @RicardoLeyser segue na última reunião do Cocom, discutindo detalhes operacionais dos Jogos #Rio2016 https://t.co/6njdIpX3Eo
+date = Tue Apr 12 20:10:13 +0000 2016| user = DlaCastro| text = Chefe de federação russa espera liberação de Sharapova para Rio-2016 via #Rio2016   https://t.co/xHg81p9Xof
+date = Tue Apr 12 20:09:49 +0000 2016| user = MundoLusiada| text = Presidente Marcelo acompanha comitiva portuguesa nos Jogos Olímpicos Rio2016 https://t.co/6VpEXs2dnh
+date = Tue Apr 12 20:09:02 +0000 2016| user = VivaTheLove11| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 20:08:26 +0000 2016| user = BelisarioCh| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 20:08:05 +0000 2016| user = Brasil_comS| text = RT @portalbrasil: Olha que legal! 😀 #Rio2016 oferece mais de 8 mil vagas temporárias de trabalho https://t.co/1VpYAUzgH0 @minesporte
+date = Tue Apr 12 20:07:35 +0000 2016| user = GollyKat| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 20:07:05 +0000 2016| user = ALZIRALOPES18| text = RT @portalbrasil: Olha que legal! 😀 #Rio2016 oferece mais de 8 mil vagas temporárias de trabalho https://t.co/1VpYAUzgH0 @minesporte
+date = Tue Apr 12 20:05:37 +0000 2016| user = andre_vitral| text = RT @Brasil2016: O min @RicardoLeyser explica q o COI está confiante quanto às condições do Brasil p/ organizar os Jogos #Rio2016 https://t.…
+date = Tue Apr 12 20:05:01 +0000 2016| user = Reiko_K_Chinen| text = RT @AqueceRio: #EventoTeste de #LevantamentoDePeso tem brilho alemão e domínio da Colômbia:  https://t.co/RuQsb7g3V5 https://t.co/HGw8RpxoWu
+date = Tue Apr 12 20:04:24 +0000 2016| user = HerbertWolff| text = RT @NLinRio: O esporte e a saúde valem ouro! Sucesso da parceria e o legado social #Holanda #Rio2016 https://t.co/LLdyWwG1f7 https://t.co/2…
+date = Tue Apr 12 20:03:50 +0000 2016| user = minesporte| text = RT @Brasil2016: O min @RicardoLeyser explica q o COI está confiante quanto às condições do Brasil p/ organizar os Jogos #Rio2016 https://t.…
+date = Tue Apr 12 20:01:56 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Irmãs australianas Campbell classificadas para os Jogos do Rio 2016
+O Tempo
+As irmãs australian… https://t.co/s5GyNlwEkr
+date = Tue Apr 12 20:01:47 +0000 2016| user = osolimpicos| text = Também se classificaram pro #Rio2016 Hannah Miley (4:33.40 nos 400m medley) e James Guy (3:43.84 nos 400m livre)
+date = Tue Apr 12 20:01:45 +0000 2016| user = Baraujo| text = RT @reporterbrasil: Faltam 115 dias para os Jogos Olímpicos #Rio2016. #Perguntadodia Qual esporte vai ter sua torcida? https://t.co/jTDAfzI…
+date = Tue Apr 12 19:59:31 +0000 2016| user = tyronemello| text = RT @reporterbrasil: Faltam 115 dias para os Jogos Olímpicos #Rio2016. #Perguntadodia Qual esporte vai ter sua torcida? https://t.co/jTDAfzI…
+date = Tue Apr 12 19:56:32 +0000 2016| user = reporterbrasil| text = Faltam 115 dias para os Jogos Olímpicos #Rio2016. #Perguntadodia Qual esporte vai ter sua torcida? https://t.co/jTDAfzITtS
+date = Tue Apr 12 19:52:48 +0000 2016| user = ScuttiSueli| text = RT @Brasil2016: Giovane Gávio será o primeiro brasileiro a conduzir a tocha olímpica do #Rio2016: https://t.co/zuLj0mT0Af https://t.co/VVYl…
+date = Tue Apr 12 19:52:38 +0000 2016| user = ScuttiSueli| text = RT @Brasil2016: Depois de amanhã tem sorteio dos grupos do futebol no #Rio2016. Veja os detalhes: https://t.co/geAInBIyZH https://t.co/UgFn…
+date = Tue Apr 12 19:52:24 +0000 2016| user = ScuttiSueli| text = RT @Brasil2016: Centro Principal de Mídia é entregue para o Comitê @Rio2016. https://t.co/Y916R0cbNt https://t.co/dqLGaBVbOx
+date = Tue Apr 12 19:51:49 +0000 2016| user = ScuttiSueli| text = RT @Brasil2016: .@RicardoLeyser também afirmou q a obra da @metrolinha4rj ficará pronta a tempo para os Jogos #Rio2016 https://t.co/38j3g8D…
+date = Tue Apr 12 19:51:39 +0000 2016| user = ScuttiSueli| text = RT @Brasil2016: O min @RicardoLeyser explica q o COI está confiante quanto às condições do Brasil p/ organizar os Jogos #Rio2016 https://t.…
+date = Tue Apr 12 19:50:49 +0000 2016| user = AlvesPauloP| text = Bernardinho aposta em experiência e convoca Serginho aos 40 anos via @UOLEsporte #Rio2016   https://t.co/FLVqOcOtpE
+date = Tue Apr 12 19:45:44 +0000 2016| user = AlexAbelardo| text = Últimos ajustes #rio #riodejaneiro #rio2016 #cidademaravilhosa #vejario #rio #cidadeolimpica… https://t.co/G8lGnG7KTr
+date = Tue Apr 12 19:45:28 +0000 2016| user = b2eb9513465742c| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 19:40:36 +0000 2016| user = BrazilBrasil| text = RT @ukinbrazil: Envie uma foto pelo app @Rio2016 e represente sua cidade no revezamento da #TochaOlímpica https://t.co/X8Jcra7sPm https://t…
+date = Tue Apr 12 19:38:28 +0000 2016| user = VanDarckPire| text = Adoro ver a natação no jornal, mas não desta forma. #oglobo #rio2016 #tml2016 Estarei às 17:30… https://t.co/h23U4nZVgg
+date = Tue Apr 12 19:37:56 +0000 2016| user = alexpussieldi| text = Adoro ver a natação no jornal, mas não desta forma. #oglobo #rio2016 #tml2016 Estarei às 17:30… https://t.co/hLgWWCLneZ
+date = Tue Apr 12 19:35:30 +0000 2016| user = sales_amaral| text = RT @santos_agora: #Rio2016 Último dia de treinos na #ZonaNoroeste ginastas da Noruega, Arzebaijão, Coréia do Sul, Bélgica e Canadá https://…
+date = Tue Apr 12 19:35:22 +0000 2016| user = ukinbrazil| text = Envie uma foto pelo app @Rio2016 e represente sua cidade no revezamento da #TochaOlímpica https://t.co/X8Jcra7sPm https://t.co/R6XBJauyAk
+date = Tue Apr 12 19:35:15 +0000 2016| user = sales_amaral| text = RT @santos_agora: #Rio2016 Último dia de treinos na #ZonaNoroeste ginastas da Noruega, Arzebaijão, Coréia do Sul, Bélgica e Canadá https://…
+date = Tue Apr 12 19:33:24 +0000 2016| user = thaliesteffen| text = Muito aplicadas ! #melhormigs #melhortreinamento #melhortime #rio2016 #briefing #líderes @… https://t.co/8NMdWrQLKZ
+date = Tue Apr 12 19:28:53 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Jornal Floripa
+Atletas grávidas não devem viajar para Rio 2016, diz órgão dos EUA
+Jornal Florip… https://t.co/LZiavINnBy
+date = Tue Apr 12 19:28:53 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Yahoo Esportes
+Irmãs australianas Campbell classificadas para os Jogos do Rio-2016
+Yahoo Esport… https://t.co/7xY5yPjbja
+date = Tue Apr 12 19:28:52 +0000 2016| user = rodneygontijo| text = E ai @Rio2016 quando teremos algo assim, um cantor brasileiro e um grande internacional promovendo os jogos? https://t.co/07E9kB4vaK
+date = Tue Apr 12 19:26:47 +0000 2016| user = Tegiranotur| text = #Turismo deve crescer bastante no Brasil durante o período da Olimpíada #Rio2016: https://t.co/fGjuY6uYpY #economia https://t.co/4vnwv4QDVX
+date = Tue Apr 12 19:25:00 +0000 2016| user = thaliesteffen| text = Escutando os mascotes! #rio2016 #faltam115dias #workhardplayhard #melhortime #melhortreinamento… https://t.co/zc3570aOxe
+date = Tue Apr 12 19:24:08 +0000 2016| user = yana150586| text = RT @Rio2016: Detalhes da classificações do #PoloAquático aqui: https://t.co/0RLfMFb6ja https://t.co/E36qrvYQXX
+date = Tue Apr 12 19:22:32 +0000 2016| user = NILLNORTON| text = #Rio2016 - PARABÉNS AOS CONVOCADOS DA SELEÇÃO MASCULINA DE VOLEY. @brunorezende1 @lucao16volei @Lucarelli8 e aos demais. SORTE E SUCESSO.
+date = Tue Apr 12 19:20:09 +0000 2016| user = EuclidesFla| text = RT @pedroivoalmeida: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/95F22Sapz9 @UOL #Rio2016
+date = Tue Apr 12 19:20:01 +0000 2016| user = RadioBlaFM| text = Black Sabbath irá fazer show no Brasil em novembro
+ - https://t.co/DRw2PBaDBy #BláFM #BlackSabbath #Rio2016 #SaoPaulo
+date = Tue Apr 12 19:18:20 +0000 2016| user = jeremiaswernek| text = Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/IBkDiqdUFJ via @UOLEsporte #Rio2016
+date = Tue Apr 12 19:15:58 +0000 2016| user = ruanlucas_fla| text = RT @pedroivoalmeida: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/95F22Sapz9 @UOL #Rio2016
+date = Tue Apr 12 19:14:48 +0000 2016| user = profa_analucia| text = RT @pedroivoa/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+lmeida: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/95F22Sapz9 @UOL #Rio2016
+date = Tue Apr 12 19:14:44 +0000 2016| user = LeoFernandesCRF| text = RT @pedroivoalmeida: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/95F22Sapz9 @UOL #Rio2016
+date = Tue Apr 12 19:12:38 +0000 2016| user = MSavarese| text = RT @pedroivoalmeida: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/95F22Sapz9 @UOL #Rio2016
+date = Tue Apr 12 19:12:27 +0000 2016| user = Tweetfutebol| text = RT @pedroivoalmeida: Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/95F22Sapz9 @UOL #Rio2016
+date = Tue Apr 12 19:09:55 +0000 2016| user = pedroivoalmeida| text = Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/95F22Sapz9 @UOL #Rio2016
+date = Tue Apr 12 19:00:53 +0000 2016| user = juanpabloamaya| text = RT @mindefensa: Cabo segundo Jorge Ruíz  representará a #Colombia en #Rio2016 #JuegosOlimpicos https://t.co/lzrAWBUe2z @COL_EJERCITO https:…
+date = Tue Apr 12 18:58:42 +0000 2016| user = RigobertoPalomi| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 18:58:39 +0000 2016| user = Rio2016| text = Detalhes da classificações do #PoloAquático aqui: https://t.co/0RLfMFb6ja https://t.co/E36qrvYQXX
+date = Tue Apr 12 18:57:00 +0000 2016| user = Esportessencial| text = RT @soudoesporte: #TudopelaVaga! Seleção feminina de ginástica vai brigar pela classificação para #Rio2016 no próximo domingo: https://t.co…
+date = Tue Apr 12 18:56:26 +0000 2016| user = soudoesporte| text = #TudopelaVaga! Seleção feminina de ginástica vai brigar pela classificação para #Rio2016 no próximo domingo: https://t.co/4FErCFqZb7
+date = Tue Apr 12 18:51:23 +0000 2016| user = avozdobrasil| text = Centro Principal de Mídia é entregue para o Comitê #Rio2016  https://t.co/MpvhnQqhxl
+date = Tue Apr 12 18:50:39 +0000 2016| user = tvfloripa| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Tue Apr 12 18:50:31 +0000 2016| user = Natallense| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 18:45:05 +0000 2016| user = esmiltonfernand| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 18:39:00 +0000 2016| user = Rio2016| text = Grupos do #PoloAquático 👨: (2/2)
+GRUPO B
+
+#EUA 🇺🇸
+#Espanha 🇪🇸
+#França 🇫🇷
+#Montenegro 🇲🇪
+#Itália 🇮🇹
+#Croácia 🇭🇷
+
+@CBDAoficial @fina1908
+date = Tue Apr 12 18:38:56 +0000 2016| user = demaguirre1| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 18:36:28 +0000 2016| user = mcrystalino| text = RT @Brasil2016: .@RicardoLeyser também afirmou q a obra da @metrolinha4rj ficará pronta a tempo para os Jogos #Rio2016 https://t.co/38j3g8D…
+date = Tue Apr 12 18:31:21 +0000 2016| user = cidade_maravilh| text = RT @mariaguiarfotos: Arpoador tipo pisicina direto do meu insta @mari.aguiarfotos ❤️ #rio #riodejaneiro #Rio2016 #RJ  #cidademaravilhosa ht…
+date = Tue Apr 12 18:29:28 +0000 2016| user = Brasil2016| text = .@RicardoLeyser também afirmou q a obra da @metrolinha4rj ficará pronta a tempo para os Jogos #Rio2016 https://t.co/38j3g8D2QY
+date = Tue Apr 12 18:24:58 +0000 2016| user = mikybeta| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 18:23:03 +0000 2016| user = Brasil2016| text = O min @RicardoLeyser explica q o COI está confiante quanto às condições do Brasil p/ organizar os Jogos #Rio2016 https://t.co/M7Q9BX2Z7s
+date = Tue Apr 12 18:22:59 +0000 2016| user = despachopazvida| text = Luis Orta clasificado #60 para #Rio2016 || @PuntoOlimpico @Rio2016_en https://t.co/UDDiHIaI3B
+date = Tue Apr 12 18:22:02 +0000 2016| user = jeancabral007| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Tue Apr 12 18:19:41 +0000 2016| user = mariaguiarfotos| text = Arpoador tipo pisicina direto do meu insta @mari.aguiarfotos ❤️ #rio #riodejaneiro #Rio2016 #RJ  #cidademaravilhosa https://t.co/f3CTBaGjjU
+date = Tue Apr 12 18:19:03 +0000 2016| user = tvbombinhas| text = Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https://t.co/fpWXBqODcF
+date = Tue Apr 12 18:16:25 +0000 2016| user = luisadssss| text = uma das recomendações da rio2016 entre lavar direitinho o uniforme, nao sujar e etc é "use sempre o seu uninforme com orgulho"
+date = Tue Apr 12 18:16:11 +0000 2016| user = vhporto| text = RT @ProcopioMariana: Senhoras e senhores: o novo estádio aquático! Aqui serão disputadas provas de natação na @brasilolimpiada. #Rio2016 ht…
+date = Tue Apr 12 18:14:03 +0000 2016| user = tvbombinhas| text = RT @channel100TV: Welcome Rio de Janeiro #RT @MarcariYuste 
+@tvfloripa @kentkristensen1 @channel100TV @tvmercure #Rio2016
+date = Tue Apr 12 18:13:57 +0000 2016| user = tercio| text = RT @ProcopioMariana: Senhoras e senhores: o novo estádio aquático! Aqui serão disputadas provas de natação na @brasilolimpiada. #Rio2016 ht…
+date = Tue Apr 12 18:09:41 +0000 2016| user = Paulao_53| text = RT @JogosOlimpicos: Já conferiu como ficou a nova casa da natação e do polo aquático nos Jogos @Rio2016? Inaugurado sábado! 🏊💦 https://t.co…
+date = Tue Apr 12 18:09:38 +0000 2016| user = eduardogarin| text = RT @ProcopioMariana: Senhoras e senhores: o novo estádio aquático! Aqui serão disputadas provas de natação na @brasilolimpiada. #Rio2016 ht…
+date = Tue Apr 12 18:09:35 +0000 2016| user = Gil_CRN449085| text = Parque Olímpico da Barra ganha espaço para torcedores e jornalistas https://t.co/BRes7yHlFp
+date = Tue Apr 12 18:09:05 +0000 2016| user = bandnewsfmrio| text = RT @ProcopioMariana: Senhoras e senhores: o novo estádio aquático! Aqui serão disputadas provas de natação na @brasilolimpiada. #Rio2016 ht…
+date = Tue Apr 12 18:08:09 +0000 2016| user = Paulao_53| text = RT @Brasil2016: Para @eduardopaes_, os #LiveSites serão o ponto de encontro de pessoas de todas as nações nos Jogos #Rio2016 https://t.co/7…
+date = Tue Apr 12 18:04:10 +0000 2016| user = tvbombinhas| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Tue Apr 12 18:03:37 +0000 2016| user = criss_057| text = RT @mindefensa: Cabo segundo Jorge Ruíz  representará a #Colombia en #Rio2016 #JuegosOlimpicos https://t.co/lzrAWBUe2z @COL_EJERCITO https:…
+date = Tue Apr 12 18:03:16 +0000 2016| user = ScottT11111| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 18:00:51 +0000 2016| user = genovevalaborde| text = RT @mindefensa: Cabo segundo Jorge Ruíz  representará a #Colombia en #Rio2016 #JuegosOlimpicos https://t.co/lzrAWBUe2z @COL_EJERCITO https:…
+date = Tue Apr 12 18:00:46 +0000 2016| user = Brasil2016| text = Giovane Gávio será o primeiro brasileiro a conduzir a tocha olímpica do #Rio2016: https://t.co/zuLj0mT0Af https://t.co/VVYlHJFbEl
+date = Tue Apr 12 18:00:16 +0000 2016| user = mindefensa| text = Cabo segundo Jorge Ruíz  representará a #Colombia en #Rio2016 #JuegosOlimpicos https://t.co/lzrAWBUe2z @COL_EJERCITO https://t.co/xTsaODzADf
+date = Tue Apr 12 17:58:42 +0000 2016| user = LisJoi| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 17:51:18 +0000 2016| user = reginastaff1| text = RT @peltierPOA: A família Peltier certamente curtiu a estreia da segunda temporada de "Os Dez Mandamentos". #Rio2016
+date = Tue Apr 12 17:47:17 +0000 2016| user = juliapessanhaa| text = Thank you @Rio2016_en for giving me various opportunities. Obrigada @Rio2016 por me oferecer várias oportunidades! ☺️❤️😘
+date = Tue Apr 12 17:43:32 +0000 2016| user = Seba_Pereira| text = RT @SurtoOlimpico: Relembrando que foram sorteados os grupos do Polo Aquático no @Rio2016 https://t.co/0gEyHDi4nk https://t.co/6oBLGMIgY6
+date = Tue Apr 12 17:42:23 +0000 2016| user = RadioHelix| text = Jogos Olímpicos oferecem vagas de trabalho no Rio
+https://t.co/8jeVnnyJsr
+#jogosolimpicos #rio2016 #radiohelix https://t.co/TIBg4TYJiN
+date = Tue Apr 12 17:42:11 +0000 2016| user = Xande_Evil13| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 17:41:15 +0000 2016| user = amo_voleibol| text = Quarteto do Vôlei Brasil Kirin está na Seleção Brasileira: https://t.co/ZWgq9eF4ZC #Rio2016 #Maislidas https://t.co/CLC395D9WJ
+date = Tue Apr 12 17:38:06 +0000 2016| user = AqueceRio| text = #EventoTeste de #LevantamentoDePeso tem brilho alemão e domínio da Colômbia:  https://t.co/RuQsb7g3V5 https://t.co/HGw8RpxoWu
+date = Tue Apr 12 17:33:57 +0000 2016| user = merson_gomes| text = RT @santos_agora: #Rio2016 Último dia de treinos na #ZonaNoroeste ginastas da Noruega, Arzebaijão, Coréia do Sul, Bélgica e Canadá https://…
+date = Tue Apr 12 17:31:33 +0000 2016| user = santos_agora| text = #Rio2016 Último dia de treinos na #ZonaNoroeste ginastas da Noruega, Arzebaijão, Coréia do Sul, Bélgica e Canadá https://t.co/6fVs5Gz7xC
+date = Tue Apr 12 17:30:48 +0000 2016| user = hemacedo_| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Tue Apr 12 17:30:34 +0000 2016| user = santos_agora| text = #Rio2016 Último dia de treinos na #ZonaNoroeste ginastas da Noruega, Arzebaijão, Coréia do Sul, Bélgica e Canadá https://t.co/W3W7nGFVjn
+date = Tue Apr 12 17:24:20 +0000 2016| user = DelegacionVzla| text = #Repost 
+・・・
+Faltam quatro meses para a abertura do #Rio2016 e as instalações para o evento… https://t.co/C0SCexqNpg
+date = Tue Apr 12 17:24:17 +0000 2016| user = MelhoraBH| text = @dilmabr @Rio2016 Já não tinham construído um parque aquático para os Jogos Panamericanos? Pra que fazer outro? Tá sobrando dinheiro?

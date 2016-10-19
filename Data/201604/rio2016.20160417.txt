@@ -1,0 +1,391 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sun Apr 17 03:02:27 +0000 2016| user = mengo_fa| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sun Apr 17 02:57:03 +0000 2016| user = ateliedoolhar| text = @Rio2016 Hospedagem p/ voluntários durante jogos. Ainda temos 6 (seis) vagas. Diárias a partir de $ 150. Centro da Barra da Tijuca.
+date = Sun Apr 17 02:51:25 +0000 2016| user = ateliedoolhar| text = @volunta_Rio2016 Hospedagem p/ voluntários durante jogos. Ainda temos 6 (seis) vagas. Diárias a partir de $ 150. Centro da Barra da Tijuca.
+date = Sun Apr 17 02:49:36 +0000 2016| user = ciberchilenos| text = Clasificado para Rio2016 !! https://t.co/HYtxIvSOcq
+date = Sun Apr 17 02:46:26 +0000 2016| user = Setti_Henrique| text = RT @Corinthians: Mais #Timão no @Rio2016! Felipe França faz índice olímpico nos 100m peito no Maria Lenk. https://t.co/KRRZEQxAF0
+date = Sun Apr 17 02:43:59 +0000 2016| user = anabresil| text = RT @JogosOlimpicos: Faltam 111 dias, 11 horas, 11 minutos, 11 segundos! #acaminhodoRio @Rio2016 😍 https://t.co/3a01U5qQai
+date = Sun Apr 17 02:03:40 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: O Japão define a sua equipe de natação para o @Rio2016 https://t.co/ro2OTpJdCQ https://t.co/f82cn9CsFL
+date = Sun Apr 17 02:03:34 +0000 2016| user = prigosling| text = amigo? não precisa se preocupar em atacar o Brasil não. os próprios brasileiros e seu governo dão conta! 😘 #rio2016 https://t.co/qdccxafgAV
+date = Sun Apr 17 02:03:16 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: O Evento Teste do Tiro Esportivo para o @Rio2016 https://t.co/ZQdhp2XtJ8 https://t.co/lfALkT9haB
+date = Sun Apr 17 02:03:13 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A Austrália define a seleção de natação para o @Rio2016 https://t.co/PzXOfv3DRw https://t.co/PymBDxpN1x
+date = Sun Apr 17 02:01:06 +0000 2016| user = SurtoOlimpico| text = O Japão define a sua equipe de natação para o @Rio2016 https://t.co/ro2OTpJdCQ https://t.co/f82cn9CsFL
+date = Sun Apr 17 01:56:53 +0000 2016| user = SurtoOlimpico| text = O Evento Teste do Tiro Esportivo para o @Rio2016 https://t.co/ZQdhp2XtJ8 https://t.co/lfALkT9haB
+date = Sun Apr 17 01:55:25 +0000 2016| user = _FLEX4U| text = RT @Rio2016: Os cavalos do #hipismo tem passaporte especial para viajar! 🐴 ✈
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.c…
+date = Sun Apr 17 01:55:22 +0000 2016| user = SurtoOlimpico| text = A Austrália define a seleção de natação para o @Rio2016 https://t.co/PzXOfv3DRw https://t.co/PymBDxpN1x
+date = Sun Apr 17 01:53:30 +0000 2016| user = brazilcarnival| text = RT @diocalnakano: 1)#foraDilma 2)#foraPT 3)#ForaRenan 4)#foraCunha 5)#LulaNaCadeia 6)#foraComunistas prioridades do Brasil. Depois se der t…
+date = Sun Apr 17 01:50:56 +0000 2016| user = wickky_k| text = RT @Brasil2016: A seleção da França 🇫🇷, ao lado do @ViniciusRio2016, se saiu "très bien" na Arena Olímpica! @Rio2016 @AqueceRio https://t.c…
+date = Sun Apr 17 01:49:52 +0000 2016| user = DuuuGHosT| text = RT @Rio2016: O técnico da seleção da 🇸🇪 #Suécia quer @Ibra_official no #Rio2016! E aí, @desimpedidos, que tal um novo #VemIbra? 😜 https://t…
+date = Sun Apr 17 01:49:36 +0000 2016| user = wickky_k| text = RT @Brasil2016: Etiene Medeiros não melhora o tempo que fez pela manhã, mas conseguiu a vaga pro #Rio2016 nos 100m costas! #BR2016 https://…
+date = Sun Apr 17 01:49:27 +0000 2016| user = aarrio2016| text = RT @Brasil2016: FINAL DE DISPUTA! Alemanha🇩🇪, Ucrânia🇺🇦, Holanda🇳🇱 e França🇫🇷 conquistaram vagas por equipes na ginástica do @Rio2016! #BR2…
+date = Sun Apr 17 01:47:35 +0000 2016| user = wickky_k| text = RT @Brasil2016: Vamos pra última rotação do dia. Depois dessa, vamos conhecer os classificados pras finais e os países pro #Rio2016. https:…
+date = Sun Apr 17 01:46:40 +0000 2016| user = wickky_k| text = RT @Brasil2016: Mais quatro vagas no #Rio2016: sabia como foi o segundo dia do Troféu Maria Lenk: https://t.co/juMsBi8J94 #BR2016 https://t…
+date = Sun Apr 17 01:42:30 +0000 2016| user = celinbamor| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Sun Apr 17 01:38:42 +0000 2016| user = RAFAELRFD| text = RT @Rio2016: Os cavalos do #hipismo tem passaporte especial para viajar! 🐴 ✈
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.c…
+date = Sun Apr 17 01:38:11 +0000 2016| user = cmjornal| text = Rio2016: Ginasta Gustavo Simões apura-se no evento teste no Rio de Janeiro https://t.co/3rbjGZuago
+date = Sun Apr 17 01:31:44 +0000 2016| user = jonaslmoura| text = Etiene sela vaga olímpica nos 100m costas e mistura alívio com cobrança | LANCE! https://t.co/GkGpAtCrFK
+date = Sun Apr 17 01:23:24 +0000 2016| user = renathofelix| text = Que comece as olimpíadas. Oi? #rio2016 #parqueolimpico #natacao #sabado #riodejaneiro #errejota… https://t.co/KUN7CugFvy
+date = Sun Apr 17 01:21:40 +0000 2016| user = Tina_Bel| text = #TestEvent #Gimnastics #Rio2016
+A equipe masculina da Romenia , fica fora das olimpiadas. Uma pena, muito triste :;(
+date = Sun Apr 17 01:17:22 +0000 2016| user = AriIgsilva| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sun Apr 17 01:16:13 +0000 2016| user = _FimDePapo_| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sun Apr 17 01:08:21 +0000 2016| user = Fr4meng0| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sun Apr 17 01:07:41 +0000 2016| user = gabrielperez20| text = Grande Jossimar Calvo!  sencillamente gigante #Rio2016 #Gimnasia #clasificado https://t.co/Nu2yHBcvPf
+date = Sun Apr 17 01:02:53 +0000 2016| user = channel100TV| text = RT @accorhotelsfr_: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ATravelExplorer @Jekyl2 @tvfloripa @channel100TV @hypolito_miryam http…
+date = Sun Apr 17 01:00:08 +0000 2016| user = Brasil2016| text = Mais quatro vagas no #Rio2016: sabia como foi o segundo dia do Troféu Maria Lenk: https://t.co/juMsBi8J94 #BR2016 https://t.co/jMPzZry7Bg
+date = Sun Apr 17 00:59:53 +0000 2016| user = Filonescio| text = Jogos Olímpicos Rio 2016 
+Próximo ao Parque Olímpico da Barra da Tijuca 
+https://t.co/5a2aGDOsSP 
+#Rio2016 
+#rio2016volunteer
+date = Sun Apr 17 00:58:22 +0000 2016| user = 0217k2015| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sun Apr 17 00:58:01 +0000 2016| user = jair83462397| text = @Rio2016 ta ficando lindo
+date = Sun Apr 17 00:55:13 +0000 2016| user = DavidSousaSilv4| text = RT @Brasil2016: FINAL DE DISPUTA! Alemanha🇩🇪, Ucrânia🇺🇦, Holanda🇳🇱 e França🇫🇷 conquistaram vagas por equipes na ginástica do @Rio2016! #BR2…
+date = Sun Apr 17 00:50:00 +0000 2016| user = 0217k2015| text = RT @Corinthians: É nóis no @Rio2016! Brandonn Almeida assegura índice olímpico nos 400m medley no Maria Lenk. #VaiCorinthians https://t.co/…
+date = Sun Apr 17 00:49:22 +0000 2016| user = pires_alex| text = SorteioDeUmLindoExpositorDeMedalhas-CONCORRA! BastaSeguirMeuTwitter,CurtirERetweetarCom #AlexPiresRio2016!.@Rio2016 https://t.co/9XcYXry3HX
+date = Sun Apr 17 00:48:28 +0000 2016| user = PolyAnnaLima5| text = RT @anapdmoreira: Belo Horizonte vai receber a Copa Davis em julho no Minas Tênis Clube com @BrunoSoares82 e @marcelomelo83 jogando juntos…
+date = Sun Apr 17 00:45:24 +0000 2016| user = Guizolelis| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Sun Apr 17 00:37:07 +0000 2016| user = CyroDelgado| text = Piscina dos jogos olímpicos @rio2016_es . No troféu Maria Lenk 2016. Campeonato brasileiro… https://t.co/z4sze0d8Be
+date = Sun Apr 17 00:34:34 +0000 2016| user = TiagoHenrique34| text = RT @CBF_Futebol: Finalizado o sorteio do torneio feminino! Grupo da #SeleçãoFeminina: Brasil, Suécia, China e África do Sul. #Rio2016
+date = Sun Apr 17 00:34:26 +0000 2016| user = TiagoHenrique34| text = RT @CBF_Futebol: Finalizado o sorteio do torneio masculino! Grupo da #SeleçãoOlímpica: Brasil, Iraque, África do Sul e Dinamarca. #Rio2016
+date = Sun Apr 17 00:34:06 +0000 2016| user = CrisDesrosiers_| text = Finalmente consegui um tempo para fazer meu treinamento do Rio2016. 
+Ai que emoçaum.
+date = Sun Apr 17 00:33:18 +0000 2016| user = rohcl| text = @CocaCola_Br @ClaudiaLeitte com certeza! #TochaOlimpica #Rio2016 #IssoÉOuro
+date = Sun Apr 17 00:30:15 +0000 2016| user = theworldofcolor| text = RT @accorhotelsfr_: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ATravelExplorer @Jekyl2 @tvfloripa @channel100TV @hypolito_miryam http…
+date = Sun Apr 17 00:27:38 +0000 2016| user = CrenteAtento| text = @DepBolsonaro É, a Rio2016 é uma ótima oportunidade p/ o EI matar gente de todo o mundo em um só lugar, mas eles passarão a vez p/ o PT...
+date = Sun Apr 17 00:27:16 +0000 2016| user = YesbananasSport| text = Etiene sela vaga nos 100m costas e mistura alívio com cobrança pessoal:  https://t.co/cw01Tlf0pq #sports #esportes
+date = Sun Apr 17 00:27:14 +0000 2016| user = FutebolEspiao| text = Etiene sela vaga nos 100m costas e mistura alívio com cobrança pessoal https://t.co/igmwuasXGs
+date = Sun Apr 17 00:27:12 +0000 2016| user = PortalEsporte10| text = Etiene sela vaga nos 100m costas e mistura alívio com cobrança pessoal https://t.co/6q5pCVSklp
+date = Sun Apr 17 00:27:08 +0000 2016| user = BrunoJaquet03| text = Etiene sela vaga nos 100m costas e mistura alívio com cobrança pessoal:  https://t.co/8PkCjt9ZpP
+date = Sun Apr 17 00:26:31 +0000 2016| user = pgamafilho| text = RT @minesporte: Luta olímpica chega ao Japão para intercâmbio de olho no #Rio2016. https://t.co/FBHfoou1Jv https://t.co/0pkVyWifZ2
+date = Sun Apr 17 00:19:58 +0000 2016| user = lorraniz| text = RT @thaisadiz: imagino os valor dos produto de #Rio2016 
+1 chaveiro de plástico $30
+date = Sun Apr 17 00:19:14 +0000 2016| user = eujulioneves| text = Evento teste de Ginástica Olímpica! #rio2016 #olympics https://t.co/A4e0r5Coxr https://t.co/7jQUPFTIMR
+date = Sun Apr 17 00:15:06 +0000 2016| user = RolandDavi| text = Canais ESPN terão 50 comentaristas na cobertura dos Jogos Olímpicos #Rio2016 https://t.co/gdwmcYgDPU https://t.co/UccWcsb0SO
+date = Sun Apr 17 00:11:37 +0000 2016| user = camiletas| text = Estádio de tênis do Rio2016. Espetacular! #rio2016 #parquedabarra… https://t.co/YGLsBpjT52
+date = Sun Apr 17 00:08:28 +0000 2016| user = alem_do_futebol| text = RT @osolimpicos: Classificados pro #Rio2016 na equipe Masc da ginástica: JPN🇯🇵, GBR🇬🇧, CHN🇨🇳, RUS🇷🇺, USA🇺🇸, SUI🇨🇭, KOR🇰🇷, BRA🇧🇷, GER🇩🇪, UKR…
+date = Sun Apr 17 00:08:13 +0000 2016| user = PT_NW_Sports| text = Rio2016: Ginasta Gustavo Simões apura-se no evento teste no Rio de Janeiro https://t.co/pmlXImxslL
+date = Sun Apr 17 00:06:40 +0000 2016| user = jornalistavitor| text = RT @EstadaoEsporte: Etiene ganha o Maria Lenk e vai ao @Rio2016. Guido volta à Olimpíada após oito anos. https://t.co/nBdbjMAV0V https://t.…
+date = Sun Apr 17 00:05:05 +0000 2016| user = EstadaoEsporte| text = Etiene ganha o Maria Lenk e vai ao @Rio2016. Guido volta à Olimpíada após oito anos. https://t.co/nBdbjMAV0V https://t.co/hiTywSrCeF
+date = Sun Apr 17 00:00:58 +0000 2016| user = Vitor_BMoraes| text = RT @alexpussieldi: #rio2016 10 nadadores confirmados até o segundo de seis dias de competição #tml2016 #trnatacao https://t.co/Ieu3CIcjn9
+date = Sat Apr 16 23:58:00 +0000 2016| user = tcg277| text = RT @SurtoOlimpico: Alemanha, Ucrânia, Holanda e França se classificaram para a competições por equipes masculina da Ginástica Artística no…
+date = Sat Apr 16 23:56:19 +0000 2016| user = Laurafwx| text = RT @Brasil2016: FINAL DE DISPUTA! Alemanha🇩🇪, Ucrânia🇺🇦, Holanda🇳🇱 e França🇫🇷 conquistaram vagas por equipes na ginástica do @Rio2016! #BR2…
+date = Sat Apr 16 23:54:59 +0000 2016| user = lisvato| text = RT @FUTEMENTALES: @desimpedidos @Rio2016 @Ibra_official se eu ganhar um beijo dele nois ajuda
+date = Sat Apr 16 23:54:54 +0000 2016| user = lisvato| text = RT @desimpedidos: @Rio2016  BOA! Vamos fazer um acordo então, a gente traz o @Ibra_official e vocês dão aquela forcinha pra encontrar o mit…
+date = Sat Apr 16 23:54:53 +0000 2016| user = lisvato| text = RT @Rio2016: O técnico da seleção da 🇸🇪 #Suécia quer @Ibra_official no #Rio2016! E aí, @desimpedidos, que tal um novo #VemIbra? 😜 https://t…
+date = Sat Apr 16 23:53:24 +0000 2016| user = julianalisboa| text = RT @osolimpicos: Definidas! GER, UKR, NED e FRA garantem-se no #Rio2016 na ginástica artística por equipe masc!
+date = Sat Apr 16 23:49:34 +0000 2016| user = Laurafwx| text = RT @osolimpicos: Definidas! GER, UKR, NED e FRA garantem-se no #Rio2016 na ginástica artística por equipe masc!
+date = Sat Apr 16 23:49:21 +0000 2016| user = yeshualcb| text = @Brasil2016 @Rio2016 Brasil ficou fora?
+date = Sat Apr 16 23:49:09 +0000 2016| user = SurtoOlimpico| text = Alemanha, Ucrânia, Holanda e França se classificaram para a competições por equipes masculina da Ginástica Artística no @Rio2016
+date = Sat Apr 16 23:47:13 +0000 2016| user = instaipanema| text = E o visual de presente pro dia a dia pesa positivamente!!!! #Praia #ipa #rio2016 #vibe #er… https://t.co/rpQUx92N23 https://t.co/vG2GbPewEX
+date = Sat Apr 16 23:46:38 +0000 2016| user = Brasil2016| text = FINAL DE DISPUTA! Alemanha🇩🇪, Ucrânia🇺🇦, Holanda🇳🇱 e França🇫🇷 conquistaram vagas por equipes na ginástica do @Rio2016! #BR2016
+date = Sat Apr 16 23:45:52 +0000 2016| user = PT_NewsWaver| text = Rio2016: Ginasta Gustavo Simões apura-se no evento teste no Rio de Janeiro https://t.co/FwkTFAh6rK
+date = Sat Apr 16 23:45:33 +0000 2016| user = osolimpicos| text = Classificados pro #Rio2016 na equipe Masc da ginástica: JPN🇯🇵, GBR🇬🇧, CHN🇨🇳, RUS🇷🇺, USA🇺🇸, SUI🇨🇭, KOR🇰🇷, BRA🇧🇷, GER🇩🇪, UKR🇺🇦, NED🇳🇱 e FRA🇫🇷
+date = Sat Apr 16 23:44:28 +0000 2016| user = RicardoRilley86| text = RT @osolimpicos: Definidas! GER, UKR, NED e FRA garantem-se no #Rio2016 na ginástica artística por equipe masc!
+date = Sat Apr 16 23:43:38 +0000 2016| user = ANDERSONGURGEL| text = RT @minesporte: [NA MÍDIA] @RicardoLeyser para @elpais_brasil: “Não há cenário possa por em dúvida a realização dos Jogos #Rio2016" https:/…
+date = Sat Apr 16 23:43:06 +0000 2016| user = osolimpicos| text = Definidas! GER, UKR, NED e FRA garantem-se no #Rio2016 na ginástica artística por equipe masc!
+date = Sat Apr 16 23:39:45 +0000 2016| user = sancar_28| text = Evento teste ginástica artística!  #Rio2016 #EventoTeste #somostodosevs #olimpiadas2016… https://t.co/dCI0nLfUZ6
+date = Sat Apr 16 23:37:44 +0000 2016| user = de_tac| text = RT @alexvictort2: Ajuda Luciano, galera !vamos conseguir esse carro, galera #TochaOlímpica #Rio2016#AjudaLuciano #IssoÉOuro  https://t.co/C…
+date = Sat Apr 16 23:36:35 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 UOL
+Com boa nota e aniversário, Zanetti faz festa em evento-teste da Rio ...
+UOL
+Quer receber n… https://t.co/a2Uil0QUdT
+date = Sat Apr 16 23:36:27 +0000 2016| user = instaipanema| text = ☀🌊Nice day ☆Dia maravilhoso
+#RiodeJaneiro #riodejaneirotop #rio2016 #riodejaneirolovers #r… https://t.co/bADec4Fqwk https://t.co/iPfxmvrs6d
+date = Sat Apr 16 23:33:52 +0000 2016| user = Luanna_SantosP| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 23:32:45 +0000 2016| user = Sharlieoliveira| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 23:26:18 +0000 2016| user = /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+SeuEsporteBR| text = RT @Brasil2016: Nicolas Oliveira e João de Lucca CONFIRMAM vaga no #Rio2016 com índice nos 200m livre! Excelente! #BR2016 🏊🏾
+date = Sat Apr 16 23:26:14 +0000 2016| user = Brasil2016| text = Vamos pra última rotação do dia. Depois dessa, vamos conhecer os classificados pras finais e os países pro #Rio2016. https://t.co/1VbrLEgKKd
+date = Sat Apr 16 23:24:56 +0000 2016| user = tvmercure| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Sat Apr 16 23:20:09 +0000 2016| user = 1Mulambinha| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 23:16:30 +0000 2016| user = SeuEsporteBR| text = Quem também conquistou vaga no #Rio2016 foi Guilherme Guido! Com 53s10 nos 100m costas, @gui_guido é #TimeBrasil! https://t.co/WggCZZB5vT
+date = Sat Apr 16 23:13:56 +0000 2016| user = marcdiogenes| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 23:12:03 +0000 2016| user = azvdo| text = Olimpíada encontra #Rio2016 no vermelho
+https://t.co/BrICtRyU0m
+date = Sat Apr 16 23:10:34 +0000 2016| user = NataliaB_SCCP| text = RT @Corinthians: É nóis no @Rio2016! Brandonn Almeida assegura índice olímpico nos 400m medley no Maria Lenk. #VaiCorinthians https://t.co/…
+date = Sat Apr 16 23:04:18 +0000 2016| user = camiletas| text = RT @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 23:03:05 +0000 2016| user = tvmercure| text = RT @tvbombinhas: Welcome Rio de Janeiro #Brazil #Rio2016 #Olimpia2016 #RT #F4F @tvfloripa @kentkristensen1 @channel100TV @tvbombinhas https…
+date = Sat Apr 16 23:01:23 +0000 2016| user = Luis_Aguilar27| text = RT @fifacom_es: #Río2016 - Sorteo Masculino
+Gr.A: 🇧🇷🇿🇦🇮🇶🇩🇰
+Gr.B: 🇸🇪🇨🇴🇳🇬🇯🇵
+Gr.C: 🇫🇯🇰🇷🇲🇽🇩🇪
+Gr.D: 🇭🇳🇩🇿🇵🇹🇦🇷 https://t.co/FghIji9vsV
+date = Sat Apr 16 23:01:10 +0000 2016| user = noticiaronaldo| text = Mais um português olímpico. Gustavo Simões apura-se na Ginástica https://t.co/SGQjBhBZJv https://t.co/xH8ZjuOwIo
+date = Sat Apr 16 23:00:50 +0000 2016| user = thaisadiz| text = imagino os valor dos produto de #Rio2016 
+1 chaveiro de plástico $30
+date = Sat Apr 16 22:55:42 +0000 2016| user = SabriiComenta| text = RT @SeuEsporteBR: Essa @etiene_medeiros é arretada mesmo! Cravou 1m00s00 nos 100m costas, bateu o recorde da competição e garantiu sua vaga…
+date = Sat Apr 16 22:55:26 +0000 2016| user = SabriiComenta| text = RT @SeuEsporteBR: A nadadora bateu a marca exigida e confirmou sua primeira participação nas Olimpíadas! É #TimeBrasil! #Rio2016 https://t.…
+date = Sat Apr 16 22:55:08 +0000 2016| user = news_portugal| text = #tsf Mais um português olímpico. Gustavo Simões apura-se na Ginástica https://t.co/a7HPvLhzNd
+date = Sat Apr 16 22:53:28 +0000 2016| user = tipogouveia| text = Mais um português olímpico. Gustavo Simões apura-se na Ginástica: Gustavo Simões apurou-se para os Jogos Olímp... https://t.co/ZJabMAclYb
+date = Sat Apr 16 22:51:29 +0000 2016| user = news_portugal| text = #tsf Mais um português olímpico. Gustavo Simões apura-se na Ginástica: Gustavo Simões apurou-se para os Jogos ... https://t.co/KoTKidZkVu
+date = Sat Apr 16 22:49:38 +0000 2016| user = eaibia| text = RT @Brasil2016: 🏊🏾 São eles:
+Brandonn Almeida
+Daiene Dias
+Daynara de Paula
+Luiz Altamir Melo
+Joanna Maranhão
+João Gomes Jr.
+Felipe França
+#…
+date = Sat Apr 16 22:49:33 +0000 2016| user = eaibia| text = RT @Brasil2016: Fechamos o dia então com 7 classificados da #natação para os Jogos #Rio2016, no 1º dia do #TML2016! Parabéns a todos! #BR20…
+date = Sat Apr 16 22:45:53 +0000 2016| user = PestanaAugusto| text = RT @minesporte: [NA MÍDIA] @RicardoLeyser para @elpais_brasil: “Não há cenário possa por em dúvida a realização dos Jogos #Rio2016" https:/…
+date = Sat Apr 16 22:43:48 +0000 2016| user = deboragares| text = Já estou me adaptando ao lugar onde planejo "morar" em agosto! #rio2016 #espntem https://t.co/uTIhDoXSgy
+date = Sat Apr 16 22:43:05 +0000 2016| user = yeshualcb| text = RT @SeuEsporteBR: Essa @etiene_medeiros é arretada mesmo! Cravou 1m00s00 nos 100m costas, bateu o recorde da competição e garantiu sua vaga…
+date = Sat Apr 16 22:42:13 +0000 2016| user = thuramaro| text = RT @SeuEsporteBR: A nadadora bateu a marca exigida e confirmou sua primeira participação nas Olimpíadas! É #TimeBrasil! #Rio2016 https://t.…
+date = Sat Apr 16 22:42:10 +0000 2016| user = thuramaro| text = RT @SeuEsporteBR: Essa @etiene_medeiros é arretada mesmo! Cravou 1m00s00 nos 100m costas, bateu o recorde da competição e garantiu sua vaga…
+date = Sat Apr 16 22:41:51 +0000 2016| user = SeuEsporteBR| text = A nadadora bateu a marca exigida e confirmou sua primeira participação nas Olimpíadas! É #TimeBrasil! #Rio2016 https://t.co/xEvVwzsEpz
+date = Sat Apr 16 22:41:00 +0000 2016| user = luiz_kbcao| text = Sim vai ter #Olimpíadas #Rio2016 😁😁
+date = Sat Apr 16 22:36:46 +0000 2016| user = instaipanema| text = Mais um dia de verão no Rio....ops,  de outono 😊 #rio2016 #aboutrio #carioquissima #carioc… https://t.co/bsPps2S0rv https://t.co/BxnZ995U6E
+date = Sat Apr 16 22:34:54 +0000 2016| user = SeuEsporteBR| text = Essa @etiene_medeiros é arretada mesmo! Cravou 1m00s00 nos 100m costas, bateu o recorde da competição e garantiu sua vaga pra #Rio2016!
+date = Sat Apr 16 22:33:13 +0000 2016| user = danielrobles| text = RT @minesporte: [NA MÍDIA] @RicardoLeyser para @elpais_brasil: “Não há cenário possa por em dúvida a realização dos Jogos #Rio2016" https:/…
+date = Sat Apr 16 22:33:04 +0000 2016| user = TSFRadio| text = #Desporto Mais um português olímpico. Gustavo Simões apura-se na Ginástica https://t.co/85oVFbOhmI Em https://t.co/MDmhqgtnSp
+date = Sat Apr 16 22:29:21 +0000 2016| user = Brasil2016| text = RT @minesporte: [NA MÍDIA] @RicardoLeyser para @elpais_brasil: “Não há cenário possa por em dúvida a realização dos Jogos #Rio2016" https:/…
+date = Sat Apr 16 22:28:52 +0000 2016| user = minesporte| text = [NA MÍDIA] @RicardoLeyser para @elpais_brasil: “Não há cenário possa por em dúvida a realização dos Jogos #Rio2016" https://t.co/OQNMmllUgP
+date = Sat Apr 16 22:26:41 +0000 2016| user = COLONEZE| text = Muito bom! Parabéns pelo encontro! #WheelchairBasketball #Rio2016 #ParalympicGames https://t.co/JAIcUzRzHY
+date = Sat Apr 16 22:23:54 +0000 2016| user = Seba_Pereira| text = RT @alexpussieldi: #rio2016 10 nadadores confirmados até o segundo de seis dias de competição #tml2016 #trnatacao https://t.co/Ieu3CIcjn9
+date = Sat Apr 16 22:21:10 +0000 2016| user = SoraiaRamosLima| text = RT @Brasil2016: Etiene Medeiros não melhora o tempo que fez pela manhã, mas conseguiu a vaga pro #Rio2016 nos 100m costas! #BR2016 https://…
+date = Sat Apr 16 22:19:52 +0000 2016| user = frjunioradv| text = Retweeted Jogos Olímpicos (@JogosOlimpicos):
+
+Contando os dias! 󾌧 #Faltam111Dias #VemAgosto! https://t.co/KoSohQYWD0 https://t.co/XcRwt4NYiY
+date = Sat Apr 16 22:19:51 +0000 2016| user = frjunioradv| text = RT @JogosOlimpicos: Contando os dias! 😍 #Faltam111Dias #VemAgosto! https://t.co/tgYXj5CRUQ
+date = Sat Apr 16 22:19:44 +0000 2016| user = _karenboff| text = RT @JogosOlimpicos: Contando os dias! 😍 #Faltam111Dias #VemAgosto! https://t.co/tgYXj5CRUQ
+date = Sat Apr 16 22:16:55 +0000 2016| user = LciaCorrea| text = RT @JogosOlimpicos: Contando os dias! 😍 #Faltam111Dias #VemAgosto! https://t.co/tgYXj5CRUQ
+date = Sat Apr 16 22:16:13 +0000 2016| user = diocalnakano| text = 1)#foraDilma 2)#foraPT 3)#ForaRenan 4)#foraCunha 5)#LulaNaCadeia 6)#foraComunistas prioridades do Brasil. Depois se der terá #Rio2016
+date = Sat Apr 16 22:15:20 +0000 2016| user = PuntoOlimpico| text = #YoQuieroElTricolor ¡ESPADA PA’ @rio2016_es! @Rubenoszki postulado para ser abanderado https://t.co/ARpvXiVlJJ
+date = Sat Apr 16 22:14:10 +0000 2016| user = suzanesilvadam1| text = RT @JogosOlimpicos: Contando os dias! 😍 #Faltam111Dias #VemAgosto! https://t.co/tgYXj5CRUQ
+date = Sat Apr 16 22:12:58 +0000 2016| user = fimdejogo| text = RT @JogosOlimpicos: Contando os dias! 😍 #Faltam111Dias #VemAgosto! https://t.co/tgYXj5CRUQ
+date = Sat Apr 16 22:12:27 +0000 2016| user = DavidSousaSilv4| text = RT @JogosOlimpicos: Contando os dias! 😍 #Faltam111Dias #VemAgosto! https://t.co/tgYXj5CRUQ
+date = Sat Apr 16 22:12:25 +0000 2016| user = dayannasj| text = @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/0SY1aeVIXK
+date = Sat Apr 16 22:11:12 +0000 2016| user = AndCamps| text = RT @JogosOlimpicos: Contando os dias! 😍 #Faltam111Dias #VemAgosto! https://t.co/tgYXj5CRUQ
+date = Sat Apr 16 22:11:07 +0000 2016| user = eujulioneves| text = #rio2016 Vai ter Olimpíadas sim! 😍 #rebl https://t.co/5UhJEQdBW0 https://t.co/JuNjEerIU2
+date = Sat Apr 16 22:11:02 +0000 2016| user = dayannasj| text = @JogosOlimpicos @Rio2016 que canal está passando ?
+date = Sat Apr 16 22:10:06 +0000 2016| user = JogosOlimpicos| text = Contando os dias! 😍 #Faltam111Dias #VemAgosto! https://t.co/tgYXj5CRUQ
+date = Sat Apr 16 22:09:03 +0000 2016| user = baewkko| text = @CocaCola_Br eu escolho o JHope coca-cola #TochaOlímpica #Rio2016
+date = Sat Apr 16 22:06:57 +0000 2016| user = mfigueiredo777| text = RT @exercitooficial: Estado-Maior do Exército coordena Grupo de Trabalho do Legado dos Jogos Olímpicos #Rio2016 https://t.co/RID8yU88uX
+date = Sat Apr 16 22:06:50 +0000 2016| user = RafaelMundim| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 22:05:03 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Guilherme Guido, que hoje fez o 5º tempo do ano (53s10) nos 100m costas, está CLASSIFICADO pro #Rio2016! #BR2016 🏊🏾
+date = Sat Apr 16 22:04:51 +0000 2016| user = cfredbastos| text = RT @Brasil2016: André Pereira, que chegou em 4º agora há pouco, e Luiz Altamir se juntarão ao Nicolas e ao João no revezamento 4x200m no #R…
+date = Sat Apr 16 22:04:45 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Nicolas Oliveira e João de Lucca CONFIRMAM vaga no #Rio2016 com índice nos 200m livre! Excelente! #BR2016 🏊🏾
+date = Sat Apr 16 22:04:15 +0000 2016| user = Seba_Pereira| text = RT @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 22:03:32 +0000 2016| user = fe_bertola| text = RT @Corinthians: É nóis no @Rio2016! Brandonn Almeida assegura índice olímpico nos 400m medley no Maria Lenk. #VaiCorinthians https://t.co/…
+date = Sat Apr 16 22:03:07 +0000 2016| user = cfredbastos| text = RT @alexpussieldi: #rio2016 10 nadadores confirmados até o segundo de seis dias de competição #tml2016 #trnatacao https://t.co/Ieu3CIcjn9
+date = Sat Apr 16 22:03:00 +0000 2016| user = Seba_Pereira| text = RT @Rio2016: As classificações da #Natação para o #Rio2016 não param! 🎉 https://t.co/6vIcLyQgGE
+date = Sat Apr 16 22:01:51 +0000 2016| user = Rodrigo_Justo15| text = RT @alexpussieldi: #rio2016 10 nadadores confirmados até o segundo de seis dias de competição #tml2016 #trnatacao https://t.co/Ieu3CIcjn9
+date = Sat Apr 16 22:01:45 +0000 2016| user = paulobeto77| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Sat Apr 16 21:56:35 +0000 2016| user = cmd_cris| text = RT @JogosOlimpicos: Faltam 111 dias, 11 horas, 11 minutos, 11 segundos! #acaminhodoRio @Rio2016 😍 https://t.co/3a01U5qQai
+date = Sat Apr 16 21:55:12 +0000 2016| user = alem_do_futebol| text = RT @alexpussieldi: #rio2016 10 nadadores confirmados até o segundo de seis dias de competição #tml2016 #trnatacao https://t.co/Ieu3CIcjn9
+date = Sat Apr 16 21:54:10 +0000 2016| user = alexpussieldi| text = #rio2016 10 nadadores confirmados até o segundo de seis dias de competição #tml2016 #trnatacao https://t.co/Ieu3CIcjn9
+date = Sat Apr 16 21:53:04 +0000 2016| user = TorcidaBrasil2| text = As provas do segundo dia de finais do Trofeu Maria Lenk chegam ao fim.
+#AmanhãTemMais #RumoAoRio #Rio2016
+date = Sat Apr 16 21:51:45 +0000 2016| user = Rio2016HQ| text = As classificações da #Natação para o #Rio2016 não param! 🎉 https://t.co/8yJWDTEf0M
+date = Sat Apr 16 21:51:45 +0000 2016| user = Rio2016HQ| text = A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/9ukIKnZeQ2
+date = Sat Apr 16 21:49:35 +0000 2016| user = Flavin8tor| text = RT @cpboficial: Você já garantiu seu ingresso para assistir aos nossos #Guerreiros nos #JogosParalímpicos @rio2016? ;)
+https://t.co/w7J8vxh…
+date = Sat Apr 16 21:49:23 +0000 2016| user = bressanelliwho| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 21:49:00 +0000 2016| user = Laurafwx| text = RT @Rio2016: As classificações da #Natação para o #Rio2016 não param! 🎉 https://t.co/6vIcLyQgGE
+date = Sat Apr 16 21:48:06 +0000 2016| user = nanamundi| text = RT @SeuEsporteBR: A seleção brasileira feminina de #ginástica tem a última chance de classificação amanhã às 13h #Rio2016 #AqueceRio https:…
+date = Sat Apr 16 21:47:59 +0000 2016| user = TeamK_1| text = RT @Rio2016: As classificações da #Natação para o #Rio2016 não param! 🎉 https://t.co/6vIcLyQgGE
+date = Sat Apr 16 21:47:30 +0000 2016| user = asiankitchens1| text = RT @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 21:47:13 +0000 2016| user = Laurafwx| text = RT @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 21:47:02 +0000 2016| user = InfraeroBrasil| text = #Rio2016 Confira os aeroportos envolvidos: https://t.co/jD26rR8gGW https://t.co/CDmJRpBY6K
+date = Sat Apr 16 21:47:01 +0000 2016| user = Iuri_CRF| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 21:46:50 +0000 2016| user = ficobr| text = RT @Rio2016: As classificações da #Natação para o #Rio2016 não param! 🎉 https://t.co/6vIcLyQgGE
+date = Sat Apr 16 21:45:08 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: As classificações da #Natação para o #Rio2016 não param! 🎉 https://t.co/6vIcLyQgGE
+date = Sat Apr 16 21:45:05 +0000 2016| user = AleAndradeIII| text = RT @DefesaGovBr: Aldo:"Segurança do @Rio2016 é continuidade d grandes eventos já realizados no BR como Copa,Pan,visita do Papa,JMM" https:/…
+date = Sat Apr 16 21:44:16 +0000 2016| user = ficobr| text = RT @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 21:44:12 +0000 2016| user = ficobr| text = RT @Brasil2016: Mas a Manuella já tem índice olímpico nos 200m livre, e amanhã já pode garantir a vaga no @Rio2016 #BR2016
+date = Sat Apr 16 21:43:54 +0000 2016| user = FlaFans| text = RT @cpboficial: Jogadores de basquete do @Flamengo aprendendo sobre o basquete em CR com nossos jogadores! 🏀🏀🏀🏀 #TEMQUEIR @Rio2016 https://…
+date = Sat Apr 16 21:43:50 +0000 2016| user = Brasil2016| text = Mas a Manuella já tem índice olímpico nos 200m livre, e amanhã já pode garantir a vaga no @Rio2016 #BR2016
+date = Sat Apr 16 21:43:35 +0000 2016| user = schnellflu| text = RT @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 21:42:23 +0000 2016| user = DaniFuller2| text = Já estou percebendo o quanto vou sofrer nesses jogos #Rio2016
+date = Sat Apr 16 21:42:23 +0000 2016| user = Brasil2016| text = RT @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 21:42:12 +0000 2016| user = Rio2016| text = As classificações da #Natação para o #Rio2016 não param! 🎉 https://t.co/6vIcLyQgGE
+date = Sat Apr 16 21:41:37 +0000 2016| user = WeltonRenato91| text = RT @Rio2016: A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 21:41:03 +0000 2016| user = Rio2016| text = A #Natação vai ser incrível no #Rio2016! 🏊🎉🎉🎉🎉 https://t.co/RTae9hAl0j
+date = Sat Apr 16 21:40:13 +0000 2016| user = Rio2016| text = Parabéns, @etiene_medeiros! 🏊🎉🎉 https://t.co/cE2oPLBaSd
+date = Sat Apr 16 21:33:08 +0000 2016| user = JornalDestak| text = Rio2016: Ginasta Gustavo Simões apura-se no evento teste no Rio de Janeiro https://t.co/3RbZmk41P4
+date = Sat Apr 16 21:32:50 +0000 2016| user = Rodrigo_Justo15| text = RT @TorcidaBrasil2: Com 53s21, Guilherme Guido vence os 100m costas. Ele será o único brasileiro na prova nos Jogos Olímpicos.
+#Rio2016 #Na…
+date = Sat Apr 16 21:32:43 +0000 2016| user = MARIADE131| text = RT @Brasil2016: 🏊🏾 Campeão do #TML2016 nos 200m livre, João de Lucca tem um convite pra você! @Rio2016 @AqueceRio #BR2016 😉 https://t.co/0p…
+date = Sat Apr 16 21:31:22 +0000 2016| user = rmjordao1| text = RT @Brasil2016: Guilherme Guido, que hoje fez o 5º tempo do ano (53s10) nos 100m costas, está CLASSIFICADO pro #Rio2016! #BR2016 🏊🏾
+date = Sat Apr 16 21:28:42 +0000 2016| user = terbioss| text = RT @Brasil2016: Guilherme Guido, que hoje fez o 5º tempo do ano (53s10) nos 100m costas, está CLASSIFICADO pro #Rio2016! #BR2016 🏊🏾
+date = Sat Apr 16 21:28:37 +0000 2016| user = edumelido| text = Um pouco de natação no #AqueceRio #Rio2016 @ Parque Olímpico Rio 2016 https://t.co/MXjR9Ie9Ru
+date = Sat Apr 16 21:28:22 +0000 2016| user = karlapeq| text = @adrianamaia Obrigada. Necessito de opiniões de brasileiros sobre o #Rio2016 . Particularmente pessoas expressando uma opinião contra online
+date = Sat Apr 16 21:26:43 +0000 2016| user = ma_rimagalhaes| text = RT @Brasil2016: Guilherme Guido, que hoje fez o 5º tempo do ano (53s10) nos 100m costas, está CLASSIFICADO pro #Rio2016! #BR2016 🏊🏾
+date = Sat Apr 16 21:26:42 +0000 2016| user = Lima_Bia| text = Jonas Sulzbach 😆 "@CocaCola_Br: Qual ídolo você escolheria pra conduzir a #TochaOlímpica #Rio2016 junto com você? #IssoÉOuro"
+date = Sat Apr 16 21:26:11 +0000 2016| user = alissonbastoss| text = O @de_lucca_joao conquistou hoje a vaga pro #Rio2016 nos 200m livre,
+date = Sat Apr 16 21:25:38 +0000 2016| user = edumelido| text = Candidata séria a mais bela arena dos Jogos 
+#AqueceRio #Rio2016 #ParqueAquatico #NoFilter https://t.co/Ob1PXGoUXg
+date = Sat Apr 16 21:23:50 +0000 2016| user = tvbombinhas| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Sat Apr 16 21:22:48 +0000 2016| user = JosesanchezJuan| text = RT @accorhotelsfr_: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ATravelExplorer @Jekyl2 @tvfloripa @channel100TV @hypolito_miryam http…
+date = Sat Apr 16 21:22:40 +0000 2016| user = Brasil2016| text = Guilherme Guido, que hoje fez o 5º tempo do ano (53s10) nos 100m costas, está CLASSIFICADO pro #Rio2016! #BR2016 🏊🏾
+date = Sat Apr 16 21:22:07 +0000 2016| user = Laurafwx| text = RT @osolimpicos: Após 5 equipes, GER lidera e classifica equipe masc pro #Rio2016 na ginástica artística!
+date = Sat Apr 16 21:21:59 +0000 2016| user = TorcidaBrasil2| text = Com 53s21, Guilherme Guido vence os 100m costas. Ele será o único brasileiro na prova nos Jogos Olímpicos.
+#Rio2016 #Natação #MariaLenk
+date = Sat Apr 16 21:21:01 +0000 2016| user = DEEJAYHAOLE| text = @VejaSP @folha @Estadao @embassyofsport @Rio2016 @Publico @pd_twitt @usdatagov @lemondefr @guardian
+
+TERCEIRO ESTADO
+https://t.co/ph4f4B57gJ
+date = Sat Apr 16 21:19:19 +0000 2016| user = mathheusoares| text = RT @cpboficial: Jogadores de basquete do @Flamengo aprendendo sobre o basquete em CR com nossos jogadores! 🏀🏀🏀🏀 #TEMQUEIR @Rio2016 https://…
+date = Sat Apr 16 21:17:38 +0000 2016| user = lary_says| text = RT @cpboficial: /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+Jogadores de basquete do @Flamengo aprendendo sobre o basquete em CR com nossos jogadores! 🏀🏀🏀🏀 #TEMQUEIR @Rio2016 https://…
+date = Sat Apr 16 21:15:59 +0000 2016| user = tekpix_usada| text = @Rio2016 Chama o carreta furacão pra abetura dos jogos olímpicos
+date = Sat Apr 16 21:13:17 +0000 2016| user = leonardoune| text = RT @Brasil2016: Etiene Medeiros não melhora o tempo que fez pela manhã, mas conseguiu a vaga pro #Rio2016 nos 100m costas! #BR2016 https://…
+date = Sat Apr 16 21:08:31 +0000 2016| user = CiscoDoBrasil| text = Parabéns ao atleta embaixador da Cisco, Flávio Canto!
+#TeamCisco2016 #FelizAniversário https://t.co/LHyai0Pt3f https://t.co/bNHbkaWqoP
+date = Sat Apr 16 21:07:58 +0000 2016| user = Tina_Bel| text = #TestEvent #Gimnastics #Rio2016
+Go Sergio Sasaki https://t.co/pqxUvU2VOl
+date = Sat Apr 16 21:01:02 +0000 2016| user = agfcardosorj| text = RT @Brasil2016: Etiene Medeiros não melhora o tempo que fez pela manhã, mas conseguiu a vaga pro #Rio2016 nos 100m costas! #BR2016 https://…
+date = Sat Apr 16 21:00:00 +0000 2016| user = hypolito_miryam| text = RT @accorhotelsfr_: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ATravelExplorer @Jekyl2 @tvfloripa @channel100TV @hypolito_miryam http…
+date = Sat Apr 16 20:59:46 +0000 2016| user = Brasil2016| text = 🏊🏾 Campeão do #TML2016 nos 200m livre, João de Lucca tem um convite pra você! @Rio2016 @AqueceRio #BR2016 😉 https://t.co/0pswHjzUP8
+date = Sat Apr 16 20:58:19 +0000 2016| user = daniellbravo| text = Eu escolho o juiz Sérgio Moro!! @delfinasm @Mestre_Tigresa @letu @VaniaOrso #Rio2016 #TochaOlimpica #ForaDilma https://t.co/vV0U2CjQtv
+date = Sat Apr 16 20:56:29 +0000 2016| user = ronaldojorge4| text = RT @cpboficial: Você já garantiu seu ingresso para assistir aos nossos #Guerreiros nos #JogosParalímpicos @rio2016? ;)
+https://t.co/w7J8vxh…
+date = Sat Apr 16 20:54:44 +0000 2016| user = fcastrobr| text = RT @alexpussieldi: 4x200 livre masculino pra #rio2016: NICOLAS OLIVEIRA, JOAO DE LUCCA, LUIZ ALTAMIR e ANDRE PEREIRA
+date = Sat Apr 16 20:53:55 +0000 2016| user = MalikisesDoZayn| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 20:52:45 +0000 2016| user = Reggart| text = Oportunidade!
+
+#Rio2016 O edital "Mostra Funarte de Festivais de Música nas Olimpíadas" irá selecionar seis... https://t.co/tsTluJWdeX
+date = Sat Apr 16 20:51:33 +0000 2016| user = 74vicalves| text = RT @cpboficial: Você já garantiu seu ingresso para assistir aos nossos #Guerreiros nos #JogosParalímpicos @rio2016? ;)
+https://t.co/w7J8vxh…
+date = Sat Apr 16 20:51:30 +0000 2016| user = Araujojunior300| text = @Rio2016 estarei em campina grande conduzindo a tocha com muito orgulho...miito feliz
+date = Sat Apr 16 20:51:17 +0000 2016| user = NelsonLambach| text = RT @alexpussieldi: 4x200 livre masculino pra #rio2016: NICOLAS OLIVEIRA, JOAO DE LUCCA, LUIZ ALTAMIR e ANDRE PEREIRA
+date = Sat Apr 16 20:51:10 +0000 2016| user = Brasil2016| text = André Pereira, que chegou em 4º agora há pouco, e Luiz Altamir se juntarão ao Nicolas e ao João no revezamento 4x200m no #Rio2016
+date = Sat Apr 16 20:50:22 +0000 2016| user = mischaa_27| text = RT @alexpussieldi: 4x200 livre masculino pra #rio2016: NICOLAS OLIVEIRA, JOAO DE LUCCA, LUIZ ALTAMIR e ANDRE PEREIRA
+date = Sat Apr 16 20:49:57 +0000 2016| user = Brasil2016| text = RT @cpboficial: Você já garantiu seu ingresso para assistir aos nossos #Guerreiros nos #JogosParalímpicos @rio2016? ;)
+https://t.co/w7J8vxh…
+date = Sat Apr 16 20:49:05 +0000 2016| user = Rodrigo_Justo15| text = RT @alexpussieldi: 4x200 livre masculino pra #rio2016: NICOLAS OLIVEIRA, JOAO DE LUCCA, LUIZ ALTAMIR e ANDRE PEREIRA
+date = Sat Apr 16 20:48:36 +0000 2016| user = tvfloripa| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Sat Apr 16 20:48:26 +0000 2016| user = mischaa_27| text = RT @Brasil2016: Nicolas Oliveira e João de Lucca CONFIRMAM vaga no #Rio2016 com índice nos 200m livre! Excelente! #BR2016 🏊🏾
+date = Sat Apr 16 20:48:22 +0000 2016| user = cpboficial| text = Você já garantiu seu ingresso para assistir aos nossos #Guerreiros nos #JogosParalímpicos @rio2016? ;)
+https://t.co/w7J8vxhzWa
+date = Sat Apr 16 20:48:17 +0000 2016| user = alexpussieldi| text = 4x200 livre masculino pra #rio2016: NICOLAS OLIVEIRA, JOAO DE LUCCA, LUIZ ALTAMIR e ANDRE PEREIRA
+date = Sat Apr 16 20:47:37 +0000 2016| user = TorcidaBrasil2| text = Nicolas Oliveira e João de Lucca confirmam a vaga olímpica para os 200m livre.
+#NosvemosNoRio #Rio2016 #Natação
+date = Sat Apr 16 20:46:58 +0000 2016| user = thuramaro| text = RT @Brasil2016: Nicolas Oliveira e João de Lucca CONFIRMAM vaga no #Rio2016 com índice nos 200m livre! Excelente! #BR2016 🏊🏾
+date = Sat Apr 16 20:46:03 +0000 2016| user = Brasil2016| text = Nicolas Oliveira e João de Lucca CONFIRMAM vaga no #Rio2016 com índice nos 200m livre! Excelente! #BR2016 🏊🏾
+date = Sat Apr 16 20:45:55 +0000 2016| user = TorcidaBrasil2| text = Já estamos de olho nas finais do segundo dia do #MariaLenk.
+#RumoAoRio #rio2016 #natação
+date = Sat Apr 16 20:44:08 +0000 2016| user = dois_min| text = Falta pouco para conhecer quem enfrenta o Brasil no #Rio2016 https://t.co/OBQOJ3TIeh
+date = Sat Apr 16 20:43:05 +0000 2016| user = schnellflu| text = RT @Brasil2016: Etiene Medeiros não melhora o tempo que fez pela manhã, mas conseguiu a vaga pro #Rio2016 nos 100m costas! #BR2016 https://…
+date = Sat Apr 16 20:41:09 +0000 2016| user = 1Mulambinha| text = RT @cpboficial: Jogadores de basquete do @Flamengo aprendendo sobre o basquete em CR com nossos jogadores! 🏀🏀🏀🏀 #TEMQUEIR @Rio2016 https://…
+date = Sat Apr 16 20:38:35 +0000 2016| user = Brasil2016| text = Etiene Medeiros não melhora o tempo que fez pela manhã, mas conseguiu a vaga pro #Rio2016 nos 100m costas! #BR2016 https://t.co/im4jgF8aDe
+date = Sat Apr 16 20:37:38 +0000 2016| user = 9lleo| text = RT @cpboficial: Jogadores de basquete do @Flamengo aprendendo sobre o basquete em CR com nossos jogadores! 🏀🏀🏀🏀 #TEMQUEIR @Rio2016 https://…
+date = Sat Apr 16 20:37:36 +0000 2016| user = sinbaFERREIRA| text = RT @accorhotelsfr_: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ATravelExplorer @Jekyl2 @tvfloripa @channel100TV @hypolito_miryam http…
+date = Sat Apr 16 20:35:07 +0000 2016| user = imastargirl| text = RT @cpboficial: Jogadores de basquete do @Flamengo aprendendo sobre o basquete em CR com nossos jogadores! 🏀🏀🏀🏀 #TEMQUEIR @Rio2016 https://…
+date = Sat Apr 16 20:34:40 +0000 2016| user = Ninhodanacao| text = RT @cpboficial: Jogadores de basquete do @Flamengo aprendendo sobre o basquete em CR com nossos jogadores! 🏀🏀🏀🏀 #TEMQUEIR @Rio2016 https://…
+date = Sat Apr 16 20:33:15 +0000 2016| user = LeoFernandesCRF| text = RT @cpboficial: Jogadores de basquete do @Flamengo aprendendo sobre o basquete em CR com nossos jogadores! 🏀🏀🏀🏀 #TEMQUEIR @Rio2016 https://…
+date = Sat Apr 16 20:32:33 +0000 2016| user = babe_lla| text = RT @SeuEsporteBR: Confirmado! A ex-ginasta Laís Souza fará parte do quadro de comentaristas de ginástica na SporTV #Rio2016 https://t.co/Jw…
+date = Sat Apr 16 20:29:51 +0000 2016| user = osolimpicos| text = Pal Joensen, que representa as Ilhas Faroe, consegue índice nos 1.500m com 15:04.13 e nadará no #Rio2016 pela DEN
+date = Sat Apr 16 20:23:52 +0000 2016| user = GabiGuims| text = @Rio2016 Olha o q a @intlgymnast anda falando sobre isso.. Achei bastante irresponsável da parte deles, mas enfim... https://t.co/FFc3LHdfNd
+date = Sat Apr 16 20:22:51 +0000 2016| user = AnaBotafogo| text = @Rio2016 @ViniciusRio2016 @Brasil2016 quero um minivinicius 😀
+date = Sat Apr 16 20:22:14 +0000 2016| user = cfredbastos| text = RT @minesporte: Luta olímpica chega ao Japão para intercâmbio de olho no #Rio2016. https://t.co/FBHfoou1Jv https://t.co/0pkVyWifZ2
+date = Sat Apr 16 20:21:36 +0000 2016| user = lat342| text = #Rio2016 uma pena ver a presidente forçando a olimpíada no país,como se fôssemos obrigados a realizá-la.
+date = Sat Apr 16 20:20:36 +0000 2016| user = VanellusC| text = RT @accorhotelsfr_: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ATravelExplorer @Jekyl2 @tvfloripa @channel100TV @hypolito_miryam http…
+date = Sat Apr 16 20:17:36 +0000 2016| user = tvfloripa| text = RT @accorhotelsfr_: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ATravelExplorer @Jekyl2 @tvfloripa @channel100TV @hypolito_miryam http…
+date = Sat Apr 16 20:14:29 +0000 2016| user = anjosluana22| text = RT @Nissan_Oficial: O carro oficial dos Jogos Olímpicos e Paralímpicos Rio2016 só poderia ser ele. https://t.co/NYS4ibvOTj  #NissanKicks ht…
+date = Sat Apr 16 20:14:14 +0000 2016| user = danielmason89| text = RT @Eocebe: Com cervejas! @TeamGB @danielmason89 @ryanblakey @AdamDotBurch #RollOnRio #TeamGB #Rio2016 https://t.co/WRC03MPpBc
+date = Sat Apr 16 20:14:11 +0000 2016| user = osolimpicos| text = Após 5 equipes, GER lidera e classifica equipe masc pro #Rio2016 na ginástica artística!
+date = Sat Apr 16 20:14:05 +0000 2016| user = minesporte| text = Luta olímpica chega ao Japão para intercâmbio de olho no #Rio2016. https://t.co/FBHfoou1Jv https://t.co/0pkVyWifZ2
+date = Sat Apr 16 20:10:31 +0000 2016| user = clebs| text = Mais alto, mais rápido e mais forte...? 🇧🇷 #riodejaneiro #brasil #autumn #2016 #Rio2016 #O… https://t.co/pYRTroRiaB https://t.co/ZADlay2iTg
+date = Sat Apr 16 20:10:24 +0000 2016| user = Brasil2016| text = A seleção da França 🇫🇷, ao lado do @ViniciusRio2016, se saiu "très bien" na Arena Olímpica! @Rio2016 @AqueceRio https://t.co/ESJT16ohXX
+date = Sat Apr 16 20:07:51 +0000 2016| user = eugenioescuela| text = RT @ElUniversal: #MaratónCAF será clasificatorio para #Río2016 https://t.co/5Y9PLAPfAP
+date = Sat Apr 16 20:05:32 +0000 2016| user = clebs| text = Quanto + perto chega, mais da para notar como a organização não se permite pensar no pior! E isso é ótimo! #Rio2016 https://t.co/VnYYTJ2GfQ
+date = Sat Apr 16 20:03:45 +0000 2016| user = clebs| text = Exausto, mas foi bem legal. Descobri que a minha função nos jogos e quicar por todos os venues! Terei acesso à tudo, basicamente! #Rio2016
+date = Sat Apr 16 19:52:03 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Rio 2016. Três portugueses falham apuramento na esgrima
+Observador
+João Cordeiro (espada), Rica… https://t.co/PKkQMZyXGf
+date = Sat Apr 16 19:52:01 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 Após garantir vaga no Rio-2016, João Gomes Jr já fala em brigar por
+Diário do Grande ABC
+O atle… https://t.co/UIlhgiiBzH
+date = Sat Apr 16 19:48:27 +0000 2016| user = AngeloBranco1| text = A sorte de Cunha e a Cia dos corruptos de Brasília é que ainda não existe homem bomba no Brasil. Ainda... #Rio2016 #NaoVaiTerGolpe
+date = Sat Apr 16 19:41:55 +0000 2016| user = MosiahRodrigues| text = RT @Brasil2016: Ainda falta uma subdivisão de países. 4 equipes garantem vaga para o @Rio2016, mas o 🇨🇦 já está fora da disputa. https://t.…
+date = Sat Apr 16 19:41:48 +0000 2016| user = gaabisccp_| text = RT @Corinthians: Mais #Timão no @Rio2016! Felipe França faz índice olímpico nos 100m peito no Maria Lenk. https://t.co/KRRZEQxAF0
+date = Sat Apr 16 19:41:45 +0000 2016| user = gaabisccp_| text = RT @Corinthians: É nóis no @Rio2016! Brandonn Almeida assegura índice olímpico nos 400m medley no Maria Lenk. #VaiCorinthians https://t.co/…
+date = Sat Apr 16 19:38:16 +0000 2016| user = lucrjviola| text = RT @Brasil2016: Na Arena Olímpica, boa nota pro salto do @Sasaki190: 14.866! #BR2016 @AqueceRio @Rio2016 https://t.co/kyHFDnNr0m
+date = Sat Apr 16 19:37:51 +0000 2016| user = lucrjviola| text = RT @Brasil2016: Ainda falta uma subdivisão de países. 4 equipes garantem vaga para o @Rio2016, mas o 🇨🇦 já está fora da disputa. https://t.…
+date = Sat Apr 16 19:30:09 +0000 2016| user = joaodosamba| text = E a vontade de dar um tibum? #trofeumarialenk #marialenk2016 #rio2016 #riodejaneiro #swimming… https://t.co/adIs9Kxmle
+date = Sat Apr 16 19:29:30 +0000 2016| user = JessMayon| text = Bravo @SabreSeppe ! #Rio2016 https://t.co/cSxP8Nrhdo
+date = Sat Apr 16 19:28:44 +0000 2016| user = Tina_Bel| text = #TestEvent #Gymnastcs #RIO2016
+
+Arthur Zanetti. 15.800 - Gooo Zanetti . O campeão esta de volta... https://t.co/9uZSqR6qmY
+date = Sat Apr 16 19:28:18 +0000 2016| user = cesarpeixotof1| text = Derrota à vista! Gilmar Rinaldi confirma Dunga como técnico do Brasil na Olimpíada https://t.co/lHpkDOlsYN via @UOLEsporte #Rio2016
+date = Sat Apr 16 19:27:54 +0000 2016| user = AqueceRio| text = Valendo vaga pro #Rio2016! #EventoTeste #Ginástica https://t.co/7rqemmrGir
+date = Sat Apr 16 19:26:42 +0000 2016| user = Brasil2016| text = Ainda falta uma subdivisão de países. 4 equipes garantem vaga para o @Rio2016, mas o 🇨🇦 já está fora da disputa. https://t.co/QcHMq9cZuO
+date = Sat Apr 16 19:25:04 +0000 2016| user = Rangel_Lucia| text = RT @Brasil2016: Na Arena Olímpica, boa nota pro salto do @Sasaki190: 14.866! #BR2016 @AqueceRio @Rio2016 https://t.co/kyHFDnNr0m
+date = Sat Apr 16 19:24:23 +0000 2016| user = _thaisCRF_| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 19:21:18 +0000 2016| user = Leanderk93| text = RT @JogosOlimpicos: Faltam 111 dias, 11 horas, 11 minutos, 11 segundos! #acaminhodoRio @Rio2016 😍 https://t.co/3a01U5qQai
+date = Sat Apr 16 19:17:22 +0000 2016| user = EnderVader| text = RT @FUTEMENTALES: @desimpedidos @Rio2016 @Ibra_official se eu ganhar um beijo dele nois ajuda
+date = Sat Apr 16 19:15:54 +0000 2016| user = Brasil2016| text = Na Arena Olímpica, boa nota pro salto do @Sasaki190: 14.866! #BR2016 @AqueceRio @Rio2016 https://t.co/kyHFDnNr0m
+date = Sat Apr 16 19:14:53 +0000 2016| user = cfredbastos| text = RT @alexpussieldi: Os atletas confirmados para #rio2016 depois do final do 1o dia #TML2016 https://t.co/fDOOGsEXrd
+date = Sat Apr 16 19:14:28 +0000 2016| user = cesarpeixotof1| text = CORRUPÇÃO? Prefeitura do Rio muda Parque Olímpico para favorecer Odebrecht e parceiros https://t.co/lFmq5MmnCD via @UOLEsporte #Rio2016
+date = Sat Apr 16 19:10:55 +0000 2016| user = cfredbastos| text = RT @JogosOlimpicos: Faltam 111 dias, 11 horas, 11 minutos, 11 segundos! #acaminhodoRio @Rio2016 😍 https://t.co/3a01U5qQai
+date = Sat Apr 16 19:07:37 +0000 2016| user = ochicoefoda| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 19:05:07 +0000 2016| user = AdaByronKing| text = RT @Brasil2016: A torcida agora é pelo @Sasaki190 no salto sobre o cavalo na rotação 5! #Rio2016 #BR2016 https://t.co/NnCfXu7XWm
+date = Sat Apr 16 19:03:38 +0000 2016| user = Brasil2016| text = A torcida agora é pelo @Sasaki190 no salto sobre o cavalo na rotação 5! #Rio2016 #BR2016 https://t.co/NnCfXu7XWm
+date = Sat Apr 16 19:03:35 +0000 2016| user = Mychellk1| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 19:02:40 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Nike apresenta uniformes que atletas brasileiros utilizarão no pódio no #Rio2016: https://t.co/netopW9zfU https://t.co/2MbG…
+date = Sat Apr 16 19:02:29 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Sete nadadores comemoram vaga no #Rio2016 no primeiro dia do Troféu Maria Lenk: https://t.co/7vIISROES1 #BR2016 https://t.c…
+date = Sat Apr 16 19:02:24 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Para defender títulos do passado, lendas da ginástica buscam vagas no Rio: https://t.co/cf5d450a6y #Rio2016 https://t.co/TE…
+date = Sat Apr 16 19:02:06 +0000 2016| user = cfredbastos| text = RT @Brasil2016: 🏊🏾 São eles:
+Brandonn Almeida
+Daiene Dias
+Daynara de Paula
+Luiz Altamir Melo
+Joanna Maranhão
+João Gomes Jr.
+Felipe França
+#…
+date = Sat Apr 16 19:02:05 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Fechamos o dia então com 7 classificados da #natação para os Jogos #Rio2016, no 1º dia do #TML2016! Parabéns a todos! #BR20…
+date = Sat Apr 16 19:02:01 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Tem q ser forte pra chegar a 4 Olimpíadas! Mais forte q o Chapolin! Parabéns, @Jujuca1987 #Rio2016 #BR2016 https://t.co/lEc…
+date = Sat Apr 16 19:01:58 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Disputa MUITO INTENSA! Dos 4 q tinham índice, João Gomes Jr. e Felipe França conseguem as vagas pro #Rio2016 nos 100m peito…
+date = Sat Apr 16 18:57:46 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Polo aquático: sorteio define grupos para os Jogos #Rio2016: https://t.co/d47CmxB5xL https://t.co/eQGGzXUzYY
+date = Sat Apr 16 18:51:18 +0000 2016| user = cesarpeixotof1| text = Justiça do Rio obriga Câmara dos Vereadores a instalar CPI das Olimpíadas https://t.co/GGPuQEuXS7 via @UOLEsporte #Rio2016
+date = Sat Apr 16 18:50:31 +0000 2016| user = epierro| text = Zanetti em seu ambiente #rio2016 #aquecerio https://t.co/6Tyt8H8eDe
+date = Sat Apr 16 18:48:50 +0000 2016| user = zidruxXx| text = 111 dias pras Olimpíadas
+#Rio2016 #111days
+date = Sat Apr 16 18:42:48 +0000 2016| user = marceporticino| text = RT @JogosOlimpicos: Faltam 111 dias, 11 horas, 11 minutos, 11 segundos! #acaminhodoRio @Rio2016 😍 https://t.co/3a01U5qQai
+date = Sat Apr 16 18:38:11 +0000 2016| user = lucasdantas| text = Terminando o dia aqui no @AqueceRio de #TIROESPORTIVO em #Deodoro. Mais um #AqueceRio @Rio2016 #RoadToRio https://t.co/fG6FyOWzN6
+date = Sat Apr 16 18:37:42 +0000 2016| user = f_nandoluis| text = I'm at Comitê Organizador Rio 2016™ - @rio2016 in Rio de Janeiro, RJ https://t.co/5eV0dQCAKs
+date = Sat Apr 16 18:35:45 +0000 2016| user = NelsonLambach| text = RT @alexpussieldi: Pódio do Maria Lenk lugar desejado mas muito menos que uma vaga no Time Brasil para o #Rio2016 #tml2016 https://t.co/9Ov…
+date = Sat Apr 16 18:31:19 +0000 2016| user = mauriciosarubbi| text = RT @JogosOlimpicos: Faltam 111 dias, 11 horas, 11 minutos, 11 segundos! #acaminhodoRio @Rio2016 😍 https://t.co/3a01U5qQai
+date = Sat Apr 16 18:24:45 +0000 2016| user = Lusa_noticias| text = Rio2016: Três portugueses falham apuramento na esgrima
+date = Sat Apr 16 18:21:44 +0000 2016| user = ilobur_news| text = #Rio2016 #ブラジル #五輪 A Tarde On Line
+Rio 2016: Brasil garante sete vagas no 1º dia do Maria Lenk
+A Tarde On Line
+No … https://t.co/JzIrKU9PUC
+date = Sat Apr 16 18:20:22 +0000 2016| user = Lulivianna| text = RT @casa_dos_pobres: País organizava a Copa do Mundo: sabotaram. país realiza maior evento esportivo do mundo continuam sabotando. #Rio2016
+date = Sat Apr 16 18:13:56 +0000 2016| user = MSOIV| text = RT @Flamengo: É DO MENGÃO!
+No Troféu Maria Lenk, Luiz Altamir foi bronze E VAI PARA AS OLIMPÍADAS! #Rio2016 https://t.co/b0HuvwIa2m
+date = Sat Apr 16 18:11:22 +0000 2016| user = alexpussieldi| text = Pódio do Maria Lenk lugar desejado mas muito menos que uma vaga no Time Brasil para o #Rio2016 #tml2016 https://t.co/9Ovi8CV5lg
+date = Sat Apr 16 18:10:53 +0000 2016| user = karynagoes| text = RT @manaus_frases: Ainda tem ingressos para quase todas as partidas de futebol em Manaus a 50,00(inteira) e 25,00(meia) #rio2016
+date = Sat Apr 16 18:10:04 +0000 2016| user = NeophyteSelf| text = Daesh (isis khawarij): Brazil you're our next target #rio2016
+
+Abin confirma ameaças do Estado Islâmico ao Brasil https://t.co/w6qwWf2j1U
+date = Sat Apr 16 18:09:08 +0000 2016| user = anapau_vs| text = RT @JogosOlimpicos: Faltam 111 dias, 11 horas, 11 minutos, 11 segundos! #acaminhodoRio @Rio2016 😍 https://t.co/3a01U5qQai
+date = Sat Apr 16 18:08:26 +0000 2016| user = ACorinthhiana| text = RT @Corinthians: É nóis no @Rio2016! Brandonn Almeida assegura índice olímpico nos 400m medley no Maria Lenk. #VaiCorinthians https://t.co/…
+date = Sat Apr 16 18:04:00 +0000 2016| user = cjara2808| text = RT @JogosOlimpicos: Faltam 111 dias, 11 horas, 11 minutos, 11 segundos! #acaminhodoRio @Rio2016 😍 https://t.co/3a01U5qQai

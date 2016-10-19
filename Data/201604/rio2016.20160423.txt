@@ -1,0 +1,480 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Sat Apr 23 03:11:51 +0000 2016| user = LeandroRamalho| text = Twitter lança campanha para Jogos Olímpicos #Rio2016 https://t.co/jXW4OGcmQE
+date = Sat Apr 23 03:11:00 +0000 2016| user = dorafilha| text = RT @Brasil2016: Festa boa no Rio tem que ter samba! Teremos shows assim nos #LiveSites dos Jogos #Rio2016! #SomosTodosBrasil https://t.co/i…
+date = Sat Apr 23 03:09:29 +0000 2016| user = dorafilha| text = RT @avozdobrasil: #SomosTodosBrasil: Tocha olímpica passará pela Chapada dos Guimarães e o Pantanal antes dos Jogos #Rio2016 https://t.co/9…
+date = Sat Apr 23 03:05:48 +0000 2016| user = Sis_Mascarenhas| text = RT @estigarild: Boa ideia ver isso prá @rioprefeitura - https://t.co/Uj87yiFJe2 #ciclovia #riodejaneiro #Rio2016
+date = Sat Apr 23 02:58:43 +0000 2016| user = CotaCouto| text = RT @alexpussieldi: Resultados do 1o dia do Open de natação paralímpica https://t.co/pvXroHNemX #rio2016 #paralympics
+date = Sat Apr 23 02:56:47 +0000 2016| user = EricoFnando| text = chocado como a Patricia Bezzoubenko perdeu a vaga olímpica garantida, no final ela joga literalmente fora a chance #TestEvent #Rio2016
+date = Sat Apr 23 02:53:00 +0000 2016| user = piemarcy| text = RT @prosapolitica: -E o superfaturamento das obras da #Rio2016 Dilma?
+-É golpe!
+-E o acidente na ciclovia?
+-É golpe! https://t.co/riZqhPeBtR
+date = Sat Apr 23 02:44:13 +0000 2016| user = ribeiroivanir| text = RT @minesporte: Com a chama olímpica acesa na Grécia, tem início o tour rumo aos Jogos #Rio2016. https://t.co/C3wfNbW6AH https://t.co/9HhMF…
+date = Sat Apr 23 02:39:09 +0000 2016| user = MaurinhoBrasil| text = RT @alexpussieldi: Transmissão é no SporTV 2 as 19hrs #testeeventonatacao #rio2016
+date = Sat Apr 23 02:34:18 +0000 2016| user = 2Saopaulo| text = RT @SeuEsporteBR: A evolução das tochas ao longo dos Jogos Olímpicos! À direita, a atual e representante do #Rio2016 https://t.co/dGLd20gpme
+date = Sat Apr 23 02:34:10 +0000 2016| user = 2Saopaulo| text = RT @SeuEsporteBR: Austrália divulga uniformes de Vila Olímpica, atletismo e basquete para #Rio2016. O verde leve substituiu o azul. https:/…
+date = Sat Apr 23 02:34:07 +0000 2016| user = 2Saopaulo| text = RT @SeuEsporteBR: O Comitê Olímpico da Austrália também divulgou o uniforme que será usado na Cerimônia de Abertura dos Jogos #Rio2016 http…
+date = Sat Apr 23 02:33:55 +0000 2016| user = 2Saopaulo| text = RT @SeuEsporteBR: Alemanha, Uzbequistão e Grécia ganharam sua vaga na ginástica rítmica. Ficamos em 5º mas já classificados! #Rio2016 https…
+date = Sat Apr 23 02:30:50 +0000 2016| user = LOVELY_DDOG| text = Que Deus proteja a Cidade da Polícia;
+Para que a Polícia proteja a Cidade do Rio de Janeiro.
+#Rio2016
+ https://t.co/3vsLffiPvl
+date = Sat Apr 23 02:28:11 +0000 2016| user = alexpussieldi| text = Transmissão é no SporTV 2 as 19hrs #testeeventonatacao #rio2016
+date = Sat Apr 23 02:21:28 +0000 2016| user = FeedModa| text = Esgrima lança moda no Rio 2016: pistas em “X” https://t.co/dqQkvq7P7D
+date = Sat Apr 23 02:18:50 +0000 2016| user = AndrepXavier| text = RT @sergiobrother1: O #Flamengo fechou acordo com o Comitê #Rio2016 e vai receber a Argentina no CT Ninho do Urubu por 20 dias @FuteboldaGa…
+date = Sat Apr 23 02:16:28 +0000 2016| user = olahpink| text = Agora começou a ansiedade.. A tocha já foi acesa. #tochaolímpica #rio2016 @CocaCola_Br @OUrsoOficial
+date = Sat Apr 23 02:14:25 +0000 2016| user = cidade_maravilh| text = RT @estigarild: Boa ideia ver isso prá @rioprefeitura - https://t.co/Uj87yiFJe2 #ciclovia #riodejaneiro #Rio2016
+date = Sat Apr 23 02:09:59 +0000 2016| user = gea_cavex| text = RT @exercitooficial: Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https:…
+date = Sat Apr 23 02:08:42 +0000 2016| user = estigarild| text = Boa ideia ver isso prá @rioprefeitura - https://t.co/Uj87yiFJe2 #ciclovia #riodejaneiro #Rio2016
+date = Sat Apr 23 02:05:03 +0000 2016| user = sandrovieirajr| text = @TorcidaBrasil2 @timebrasil @Rio2016 Exatamente, e é tão simples né. É digno de um comentário do @minesporte !
+date = Sat Apr 23 02:03:43 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: a @iaaforg define data para decidir sobre a participação da Rússia no @Rio2016 https://t.co/gzgZlZipEC https://t.co/z9kJ…
+date = Sat Apr 23 02:03:40 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Relembrando que a @ChamaOlimpica dos Jogos do @Rio2016 foi acesa https://t.co/lcYb4XWze9 https://t.co/dzYyU8iTAv
+date = Sat Apr 23 02:03:29 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Com ressalvas, Estádio Aquático do @Rio2016 é aprovado https://t.co/1b8QspT8gj https://t.co/c2XG4cQHxE
+date = Sat Apr 23 02:03:25 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Com narração de Uma Thurman, COI publica vídeo promocional para o @Rio2016 https://t.co/ETLeyJrNq7 https://t.co/DsTMLAuq…
+date = Sat Apr 23 02:03:22 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: a @CBDAoficial apresenta equipe de esportes aquáticos para o @Rio2016 https://t.co/C1VVzGQIgs https://t.co/lW9o7nzYFJ
+date = Sat Apr 23 02:03:18 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Cesar Cielo descarta disputar o @Rio2016 no Revezamento 4x100m https://t.co/COYUefVhA7 https://t.co/wtTZJIXytY
+date = Sat Apr 23 02:03:14 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A Coreia do Sul define a equipe de Tiro com Arco para o @Rio2016 https://t.co/9AUmkonpC9 https://t.co/uITyty4kWp
+date = Sat Apr 23 02:00:18 +0000 2016| user = PlanoDeportivo| text = #Nacionales 
+Nadadora #FernandaGonzález segura de dar marca A para #Rio2016 
+https://t.co/2ksmDXuEsX https://t.co/4KFiGyvIpD
+date = Sat Apr 23 02:00:15 +0000 2016| user = TorcidaBrasil2| text = @sandrovieirajr @timebrasil @Rio2016 Pior que estamos a menos de 4 meses dos Jogos Olímpicos em casa. Vai entender neh?
+date = Sat Apr 23 01:59:53 +0000 2016| user = SurtoOlimpico| text = a @iaaforg define data para decidir sobre a participação da Rússia no @Rio2016 https://t.co/gzgZlZipEC https://t.co/z9kJbH2TjO
+date = Sat Apr 23 01:59:01 +0000 2016| user = SurtoOlimpico| text = Relembrando que a @ChamaOlimpica dos Jogos do @Rio2016 foi acesa https://t.co/lcYb4XWze9 https://t.co/dzYyU8iTAv
+date = Sat Apr 23 01:58:16 +0000 2016| user = sandrovieirajr| text = @TorcidaBrasil2 @timebrasil @Rio2016 No minimo, todas as modalidades olímpicas deveriam ter seus perfis. E com links para entender sobre...
+date = Sat Apr 23 01:57:07 +0000 2016| user = SurtoOlimpico| text = Com ressalvas, Estádio Aquático do @Rio2016 é aprovado https://t.co/1b8QspT8gj https://t.co/c2XG4cQHxE
+date = Sat Apr 23 01:57:01 +0000 2016| user = sandrovieirajr| text = RT @TorcidaBrasil2: @sandrovieirajr @timebrasil @Rio2016 Boa pergunta, Sandro! Mandou bem
+date = Sat Apr 23 01:56:38 +0000 2016| user = TorcidaBrasil2| text = @sandrovieirajr @timebrasil @Rio2016 Boa pergunta, Sandro! Mandou bem
+date = Sat Apr 23 01:55:54 +0000 2016| user = SurtoOlimpico| text = Com narração de Uma Thurman, COI publica vídeo promocional para o @Rio2016 https://t.co/ETLeyJrNq7 https://t.co/DsTMLAuqwb
+date = Sat Apr 23 01:55:26 +0000 2016| user = TheJoshuaStates| text = @Rio2016 @aarrio2016 Assista a "Rio 2016 - Jogos Olímpicos - Sonhos e suor (Joshua States - The Poet)" no YouTube https://t.co/IGakrFBhkm
+date = Sat Apr 23 01:55:02 +0000 2016| user = SurtoOlimpico| text = a @CBDAoficial apresenta equipe de esportes aquáticos para o @Rio2016 https://t.co/C1VVzGQIgs https://t.co/lW9o7nzYFJ
+date = Sat Apr 23 01:54:28 +0000 2016| user = sandrovieirajr| text = @timebrasil @Rio2016 A equipe de Badminton do Brasil, não tem um perfil oficial aqui no twitter? E outra, gostaria de saber sobre. Ajuda?
+date = Sat Apr 23 01:53:54 +0000 2016| user = XicaumHD| text = RT @prosapolitica: -E o superfaturamento das obras da #Rio2016 Dilma?
+-É golpe!
+-E o acidente na ciclovia?
+-É golpe! https://t.co/riZqhPeBtR
+date = Sat Apr 23 01:53:39 +0000 2016| user = SurtoOlimpico| text = Cesar Cielo descarta disputar o @Rio2016 no Revezamento 4x100m https://t.co/COYUefVhA7 https://t.co/wtTZJIXytY
+date = Sat Apr 23 01:52:27 +0000 2016| user = SurtoOlimpico| text = A Coreia do Sul define a equipe de Tiro com Arco para o @Rio2016 https://t.co/9AUmkonpC9 https://t.co/uITyty4kWp
+date = Sat Apr 23 01:51:15 +0000 2016| user = alexpussieldi| text = Juntos! #rio2016 Nova campanha no ar. https://t.co/TIH5cDJ9kg
+date = Sat Apr 23 01:42:11 +0000 2016| user = JulianaScaf| text = Uma Thurman e Camila Pitanga narram campanha - Rio 2016 https://t.co/WnIjHtTrYZ
+date = Sat Apr 23 01:41:01 +0000 2016| user = IBN24H| text = Vídeo do exato momento em que a onda derruba a Ciclovia Tim Lopes #rio2016 #cidadeolimpica  #rio2016olympicgames https://t.co/Cf6QXRavEh
+date = Sat Apr 23 01:32:05 +0000 2016| user = felipe1belchote| text = RT @prosapolitica: -E o superfaturamento das obras da #Rio2016 Dilma?
+-É golpe!
+-E o acidente na ciclovia?
+-É golpe! https://t.co/riZqhPeBtR
+date = Sat Apr 23 01:29:59 +0000 2016| user = prosapolitica| text = -E o superfaturamento das obras da #Rio2016 Dilma?
+-É golpe!
+-E o acidente na ciclovia?
+-É golpe! https://t.co/riZqhPeBtR
+date = Sat Apr 23 01:28:45 +0000 2016| user = MirnaRibeiro1| text = RT @oConsciente: TVNBR: #SomosTodosBrasil: Nordeste participa dos Jogos #Rio2016 durante revezamento da #TochaOlímpica
+https://t.co/iPUgs66…
+date = Sat Apr 23 01:27:35 +0000 2016| user = bandeirathais2| text = Quando eu digo que são maravilhosas, é pq tenho fundamento para.. É daí pra melhor, kiridos! #eventoteste #Rio2016 https://t.co/53VpqjyY8f
+date = Sat Apr 23 01:26:15 +0000 2016| user = marciomtc| text = Uma Thurman e Camila Pitanga narram campanha - Rio 2016 https://t.co/WJSOKNKEuQ
+date = Sat Apr 23 01:15:18 +0000 2016| user = BladeFencingNY| text = Esgrima lança moda no Rio 2016: pistas em “X” para melhor visão do público https://t.co/JO17ESj22C
+date = Sat Apr 23 01:14:18 +0000 2016| user = babe_lla| text = RT @JogosOlimpicos: Faltam #4meses para 🎯🏀⚽⚾🎾🏉⛳🏇🚵🏊👯🏆! @Rio2016, queremos lhe encontrar, seu lindo! #VemAgosto https://t.co/PXCxW40SET
+date = Sat Apr 23 01:05:49 +0000 2016| user = la_vie_en_bleu| text = RT @Itaman: @zehdeabreu Nova modalidade olímpica: Cuspe em fascistas à distância. #Rio2016
+date = Sat Apr 23 01:04:42 +0000 2016| user = EstudantedoBras| text = RT @exercitooficial: Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https:…
+date = Sat Apr 23 01:04:02 +0000 2016| user = Itaman| text = @zehdeabreu Nova modalidade olímpica: Cuspe em fascistas à distância. #Rio2016
+date = Sat Apr 23 00:57:44 +0000 2016| user = pedromigao| text = Ainda tem ingresso paca pra final do futebol e para todas as sessões do atletismo na @Rio2016
+date = Sat Apr 23 00:57:26 +0000 2016| user = Deabra_| text = E ontem num lugar tão distante do Brasil ... Acendeu -se a chama de um sonho #Rio2016 Agora a contagem é regressiva https://t.co/arifiyQgIB
+date = Sat Apr 23 00:56:37 +0000 2016| user = CeliaDalva| text = Por mais que eu tente ,nao consigo me empolgar das Olimpiadas Rio2016
+date = Sat Apr 23 00:52:34 +0000 2016| user = LelezinhaPelaLM| text = Tudo culpa do Rio2016 😪
+date = Sat Apr 23 00:47:12 +0000 2016| user = GKellyGBernardo| text = Notificações de grávidas com suspeita de zika já somam 8.078 no estado https://t.co/nbPAXw4RI7 #RIO2016 #ZIKA
+date = Sat Apr 23 00:45:56 +0000 2016| user = chicopreso| text = RT @TVNBR: #SomosTodosBrasil: Nordeste participa dos Jogos #Rio2016 durante revezamento da #TochaOlímpica
+https://t.co/BRdfRFsTeK
+date = Sat Apr 23 00:44:24 +0000 2016| user = guilhermeat0023| text = \Oi/ Chama é acesa na Grécia Jogos Olímpicos do #Rio2016 https://t.co/sujDKYLLnI twttweb :)&lt;&amp; o/*
+date = Sat Apr 23 00:42:42 +0000 2016| user = van_lages| text = RT @rbfilipe: Julho de 2013 x Abril de 2016 #cidadeolímpica #Rio2016 https://t.co/vbEL3T2XtD
+date = Sat Apr 23 00:42:30 +0000 2016| user = aguuvi| text = Mamá ❤ #eventoteste #ginastica #rio2016 @ Arena Olímpica Do Rio https://t.co/BKLWHQXDYf
+date = Sat Apr 23 00:39:23 +0000 2016| user = claudiomarkz| text = fiquei sabendo que essa ciclovia que caiu faz parte do marketing da rio2016 pra lançar um novo esporte: o ciclosurfe, procede?
+date = Sat Apr 23 00:39:18 +0000 2016| user = sirtigerhai| text = RT @alexpussieldi: Resultados do 1o dia do Open de natação paralímpica https://t.co/pvXroHNemX #rio2016 #paralympics
+date = Sat Apr 23 00:38:33 +0000 2016| user = rbfilipe| text = Julho de 2013 x Abril de 2016 #cidadeolímpica #Rio2016 https://t.co/vbEL3T2XtD
+date = Sat Apr 23 00:37:37 +0000 2016| user = mascotegary| text = nossa, tem olimpíadas esse ano ainda! que nem cagar nas calças bem na hora que a visita chega aff
+#Rio2016
+date = Sat Apr 23 00:32:30 +0000 2016| user = Silviagalv| text = RT @diImabr: Rainha gótica esportista. #Rio2016 http://t.co/vdFogSqrCL
+date = Sat Apr 23 00:30:59 +0000 2016| user = max_jic| text = RT @minesporte: Min. @RicardoLeyser vai falar sobre os preparativos do Brasil para o #Rio2016. PARTICIPE, mande suas perguntas! ;) https://…
+date = Sat Apr 23 00:30:13 +0000 2016| user = coimbramariap| text = RT @TVNBR: #SomosTodosBrasil: Nordeste participa dos Jogos #Rio2016 durante revezamento da #TochaOlímpica
+https://t.co/BRdfRFsTeK
+date = Sat Apr 23 00:25:56 +0000 2016| user = midiacrucis| text = RT @oConsciente: TVNBR: #SomosTodosBrasil: Nordeste participa dos Jogos #Rio2016 durante revezamento da #TochaOlímpica
+https://t.co/iPUgs66…
+date = Sat Apr 23 00:25:41 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: Resultados do 1o dia do Open de natação paralímpica https://t.co/pvXroHNemX #rio2016 #paralympics
+date = Sat Apr 23 00:24:16 +0000 2016| user = MarinesMoura| text = RT @TVNBR: #SomosTodosBrasil: Nordeste participa dos Jogos #Rio2016 durante revezamento da #TochaOlímpica
+https://t.co/BRdfRFsTeK
+date = Sat Apr 23 00:22:56 +0000 2016| user = lufermi| text = RT @oConsciente: TVNBR: #SomosTodosBrasil: Nordeste participa dos Jogos #Rio2016 durante revezamento da #TochaOlímpica
+https://t.co/iPUgs66…
+date = Sat Apr 23 00:22:44 +0000 2016| user = Junior42mg| text = @Rio2016 @g1rio e @eduardopaes ESTA SERÁ A PIOR OLIMPÍADAS REALIZADA EM UM PAÍS https://t.co/yF3AXBiZId
+date = Sat Apr 23 00:22:02 +0000 2016| user = oConsciente| text = TVNBR: #SomosTodosBrasil: Nordeste participa dos Jogos #Rio2016 durante revezamento da #TochaOlímpica
+https://t.co/iPUgs667YK
+date = Sat Apr 23 00:22:01 +0000 2016| user = davidcavalcanti| text = Muito triste.  #rio2016 @ Parque Olímpico Rio 2016 https://t.co/FU18d4lr6F
+date = Sat Apr 23 00:21:38 +0000 2016| user = Junior42mg| text = @Rio2016  @g1rio e @eduardopaes_ obras mal finalizadas e realizadas e muito mal feitas https://t.co/yF3AXBiZId
+date = Sat Apr 23 00:20:00 +0000 2016| user = FernandoFukuda| text = RT @FukudaSolutions: Semana #Jurídica da #UVA - #Olimpíadas #Rio2016: Desafios e Oportunidades - https://t.co/963zpAmKL8 #Direito
+date = Sat Apr 23 00:19:59 +0000 2016| user = Junior42mg| text = @Rio2016  Vcs deverião ter o bom senso e CANCELAR ESTA OLIMPÍADAS NO RIO https://t.co/yF3AXBiZId
+date = Sat Apr 23 00:19:03 +0000 2016| user = TVNBR| text = #SomosTodosBrasil: Nordeste participa dos Jogos #Rio2016 durante revezamento da #TochaOlímpica
+https://t.co/BRdfRFsTeK
+date = Sat Apr 23 00:16:26 +0000 2016| user = alexpussieldi| text = Resultados do 1o dia do Open de natação paralímpica https://t.co/pvXroHNemX #rio2016 #paralympics
+date = Sat Apr 23 00:16:20 +0000 2016| user = klecioboy1| text = RT @EstadaoEsporte: Novo ciclo da natação brasileira classifica só 4 para @Rio2016. CONFIRA: https://t.co/IOAHzCIZFb https://t.co/0ZIz95w9SX
+date = Sat Apr 23 00:16:13 +0000 2016| user = klecioboy1| text = RT @globoesportecom: Chama é acesa, e Giovane dá início ao revezamento da tocha rumo ao Rio https://t.co/KE96VvGiRI #Rio2016 https://t.co/H…
+date = Sat Apr 23 00:13:12 +0000 2016| user = nat_roliveira| text = Que alegria, Zakynthos foi um dos locais escolhidos que recebeu a tocha olímpica! https://t.co/rOH0ro545y. https://t.co/LInGiPHtpf
+date = Sat Apr 23 00:05:50 +0000 2016| user = defesapress| text = RT @DefesaNet: -@exercitooficial faz evento-teste de segura/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+nça para a #Rio2016 https://t.co/lNX0j1jt1h #FotosEB https://t.co/jgLZc5rgQ1
+date = Sat Apr 23 00:01:22 +0000 2016| user = Camilaanjis| text = RT @flaviofachel: Triste e emocionante a edição do RJTV de hoje. O desabamento da ciclovia revela uma cidade em dúvida com a sua própria ca…
+date = Sat Apr 23 00:01:03 +0000 2016| user = CIDADANIA_NEWS| text = RT @luizatrajano: Vocês viram que linda a cerimônia de acendimento da tocha da #Rio2016? https://t.co/4wsndmmIbZ
+date = Fri Apr 22 23:59:15 +0000 2016| user = zoreio| text = RT @alexpussieldi: POLIANA OKIMOTO, confirmadíssima #rio2016 maratonas aquáticas! https://t.co/e7stRsJwS2
+date = Fri Apr 22 23:58:48 +0000 2016| user = zoreio| text = RT @alexpussieldi: ANA MARCELA JESUS SOARES DA CUNHA, confirmadíssima #rio2016 maratonas aquáticas! https://t.co/ylvowIyNRs
+date = Fri Apr 22 23:58:33 +0000 2016| user = zoreio| text = RT @alexpussieldi: ALLAN LOPES MAMÉDIO DO CARMO, confirmadíssimo #rio2016 maratonas aquáticas! https://t.co/6RTuxaYNTh
+date = Fri Apr 22 23:55:31 +0000 2016| user = Rio2016| text = @aarrio2016 oi Adriano. Esse evento é fechado ao público.
+date = Fri Apr 22 23:48:30 +0000 2016| user = itsallaboutdaay| text = Evento-teste de natação paraolimpiadas 2016! #Rio2016 #Fisioterapia #IFRJ @ Parque Olímpico Rio… https://t.co/iRttMHawRp
+date = Fri Apr 22 23:45:37 +0000 2016| user = luisandrefq| text = Lava Jato aponta propina em 2ª obra mais cara da Olimpíada via @UOLEsporte #Rio2016   https://t.co/GWKGCdZ2mi STF e PGR, onde estão vocês?
+date = Fri Apr 22 23:45:19 +0000 2016| user = aarrio2016| text = @Rio2016  boa noite. Gostaria de saber se o evento teste de esgrima q começa amanhã venderá ingresso ao público?  Abracos e obrigado
+date = Fri Apr 22 23:38:12 +0000 2016| user = ForaPTJa| text = Administração do @eduardopaes_ fiscaliza as obras no #RJ depois que desaba e mata. Onde tem propina em curso tudo é moderno. #JN #Rio2016
+date = Fri Apr 22 23:37:43 +0000 2016| user = bunepedro1| text = RT @diImabr: Rainha gótica esportista. #Rio2016 http://t.co/vdFogSqrCL
+date = Fri Apr 22 23:34:01 +0000 2016| user = DavidSousaSilv4| text = RT @alexpussieldi: POLIANA OKIMOTO, confirmadíssima #rio2016 maratonas aquáticas! https://t.co/e7stRsJwS2
+date = Fri Apr 22 23:30:35 +0000 2016| user = alexpussieldi| text = ALLAN LOPES MAMÉDIO DO CARMO, confirmadíssimo #rio2016 maratonas aquáticas! https://t.co/6RTuxaYNTh
+date = Fri Apr 22 23:28:04 +0000 2016| user = rodrigoplatao| text = RT @diImabr: Rainha gótica esportista. #Rio2016 http://t.co/vdFogSqrCL
+date = Fri Apr 22 23:27:41 +0000 2016| user = OlympicsReTweet| text = RT @pessoawander71: Muito honrado em fazer parte do revezamento da Tocha Olímpica, momento único em nossa vida! #Rio2016 #ChamaOlimpica  ht…
+date = Fri Apr 22 23:25:51 +0000 2016| user = JOSYFRONTON| text = RT @Rio2016: Os atletas do #TênisEmCr têm um jeito especial de guardar as bolinhas reservas! Não dá pra explicar, #TemQueIr 🎾 https://t.co/…
+date = Fri Apr 22 23:25:16 +0000 2016| user = JOSYFRONTON| text = RT @Rio2016: Em breve, começa a cerimônia de acendimento da #TochaOlímpica. Não deixe de acompanhar conosco! https://t.co/QWhfY2vu3A
+date = Fri Apr 22 23:25:08 +0000 2016| user = alexpussieldi| text = POLIANA OKIMOTO, confirmadíssima #rio2016 maratonas aquáticas! https://t.co/e7stRsJwS2
+date = Fri Apr 22 23:25:01 +0000 2016| user = JOSYFRONTON| text = RT @Rio2016: Melhores momentos do acendimento da #TochaOlímpica 🔥! Mais 📷 de André Luiz Mello : https://t.co/wsa1CjTcsX https://t.co/EOgEgp…
+date = Fri Apr 22 23:23:54 +0000 2016| user = AndyIniestaCule| text = RT @Rio2016: Amanhã acontece o acendimento da #TochaOlímpica no Templo de Hera, na Grécia 🇬🇷 Acompanhe a partir de 6h da manhã! 🔥 https://t…
+date = Fri Apr 22 23:23:27 +0000 2016| user = Seba_Pereira| text = RT @alexpussieldi: ANA MARCELA JESUS SOARES DA CUNHA, confirmadíssima #rio2016 maratonas aquáticas! https://t.co/ylvowIyNRs
+date = Fri Apr 22 23:23:21 +0000 2016| user = SivanWork| text = RT @jornal_opopular: Começou: tocha olímpica é acesa na Grécia. https://t.co/8hnoUFNqPr #TochaOlimpica #Olimpiada #Rio2016 https://t.co/538…
+date = Fri Apr 22 23:23:13 +0000 2016| user = pessoawander71| text = Muito honrado em fazer parte do revezamento da Tocha Olímpica, momento único em nossa vida! #Rio2016 #ChamaOlimpica  https://t.co/CJAmDq9Y2R
+date = Fri Apr 22 23:22:47 +0000 2016| user = alexpussieldi| text = ANA MARCELA JESUS SOARES DA CUNHA, confirmadíssima #rio2016 maratonas aquáticas! https://t.co/ylvowIyNRs
+date = Fri Apr 22 23:16:11 +0000 2016| user = YesbananasSport| text = COB tenta evitar a perda de foco e cansaço de atletas durante os Jogos:  https://t.co/R0aPb89YcY #sports #esportes
+date = Fri Apr 22 23:16:08 +0000 2016| user = FutebolEspiao| text = COB tenta evitar a perda de foco e cansaço de atletas durante os Jogos https://t.co/sMO0TGQX9u
+date = Fri Apr 22 23:16:08 +0000 2016| user = FutebolMundial5| text = COB tenta evitar a perda de foco e cansaço de atletas durante os Jogos:  https://t.co/TkQG790o5C
+date = Fri Apr 22 23:16:06 +0000 2016| user = PortalEsporte10| text = COB tenta evitar a perda de foco e cansaço de atletas durante os Jogos https://t.co/OOq7Avf672
+date = Fri Apr 22 23:16:04 +0000 2016| user = irafaelbarros| text = COB tenta evitar a perda de foco e cansaço de atletas durante os Jogos:  https://t.co/UbQsrkKavC
+date = Fri Apr 22 23:16:02 +0000 2016| user = BrunoJaquet03| text = COB tenta evitar a perda de foco e cansaço de atletas durante os Jogos:  https://t.co/zUgvL6Fa8h
+date = Fri Apr 22 23:14:21 +0000 2016| user = iDisplaySports| text = #Brasil #Rio2016 Seleção argentina vai treinar no Ninho do Urubu nas Olimpíadas  #Br   https://t.co/swNKYnvkK5
+date = Fri Apr 22 23:09:07 +0000 2016| user = patyangel| text = 🎶 MANDEI MEU CAVACO CHORAR 🎶 e num é que ele é ainda mais gatinho pessoalmente? #rio2016… https://t.co/MTnPZNPVux
+date = Fri Apr 22 23:08:16 +0000 2016| user = itsallaboutdaay| text = Evento paraolímpico 2016! #Rio2016 #Fisioterapia #IFRJ @ Parque Aquático Maria Lenk - Rio De… https://t.co/KDfxpzHxG2
+date = Fri Apr 22 23:04:55 +0000 2016| user = carlinhosnovack| text = Daqui a pouquinho tem texto saindo sobre o primeiro dia do Open Caixa no @best_swimming #Paralympics #Rio2016
+date = Fri Apr 22 23:04:22 +0000 2016| user = Brasil2016| text = RT @minesporte: Min. @RicardoLeyser vai falar sobre os preparativos do Brasil para o #Rio2016. PARTICIPE, mande suas perguntas! ;) https://…
+date = Fri Apr 22 23:02:55 +0000 2016| user = cfredbastos| text = RT @alexpussieldi: 3 índices A até agora: André, Phelippe e Matheus! #rio2016 #paralympics
+date = Fri Apr 22 23:02:11 +0000 2016| user = cfredbastos| text = RT @alexpussieldi: 100 livre msc S10 dobradinha brasileira 1o Andre Brasil 52.16, 2o Phelippe Rodrigues 52.61 #rio2016
+date = Fri Apr 22 23:01:05 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 100 livre msc S10 dobradinha brasileira 1o Andre Brasil 52.16, 2o Phelippe Rodrigues 52.61 #rio2016
+date = Fri Apr 22 23:01:01 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 100 livre masc S11 1o Matheus Souza 59.23 é índice A por 1 centésimo #rio2016 #paralympics
+date = Fri Apr 22 22:58:21 +0000 2016| user = carlinhosnovack| text = RT @alexpussieldi: Valeu galera voltamos amanhã as 19hrs no SporTV3. Resultados e notas do dia mais tarde na @best_swimming #rio2016 #paral…
+date = Fri Apr 22 22:57:50 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: Valeu galera voltamos amanhã as 19hrs no SporTV3. Resultados e notas do dia mais tarde na @best_swimming #rio2016 #paral…
+date = Fri Apr 22 22:57:41 +0000 2016| user = cumeater31500| text = RT @fernandesmacho: eai galera mais uma foto minhapra galera que me curti  abracos #Boatarde #machofetiches #Rio2016 #ativo #carioca https:…
+date = Fri Apr 22 22:57:14 +0000 2016| user = frutilau| text = @lauterbr em Londres não temos ninguém daqui brigando pelo índice? Então devemos ir de Marilson, Paulo, Solonei para o Rio2016.
+date = Fri Apr 22 22:56:37 +0000 2016| user = alexpussieldi| text = Valeu galera voltamos amanhã as 19hrs no SporTV3. Resultados e notas do dia mais tarde na @best_swimming #rio2016 #paralympics
+date = Fri Apr 22 22:56:29 +0000 2016| user = Fabiano44848336| text = RT @SamsungMobileBR: Seu novo Galaxy pode realizar seu sonho de viver os Jogos Olímpicos. #BrasilDesafieBarreiras https://t.co/AG0O7zjKYb h…
+date = Fri Apr 22 22:54:48 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: #2 é entre o americano Roy Perkins e Daniel Dias nos 50 borboleta S5, imperdível. Foi a vitória mais difícil do Daniel e…
+date = Fri Apr 22 22:54:39 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 2 duelos imperdíveis na abertura do Open Caixa  Natação Paralímpica. #1 André Brasil X Phelipe Rodrigues100 livre S10. #…
+date = Fri Apr 22 22:54:32 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: Falta 1 hora, mas público pequeno no Olympic Aquatic Stadium para acompanhar o Teste Evento da Natação Paralímpica. #RIO…
+date = Fri Apr 22 22:54:11 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: Transmissão as 19hrs no sportv2 #rio2016 #paralympics
+date = Fri Apr 22 22:54:07 +0000 2016| user = alexpussieldi| text = 50 borboleta masc S6 1o Nelson Crispin COL 31.07 Recorde das Américas, 3oDaniel Dias classe S5 36.66 ficou a 1 décimo do índice A #rio2016
+date = Fri Apr 22 22:53:58 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: Transmissão começa as 19hrs no SporTV2 antes tem 3 provas: 100 livre masc S5, 100 livre fem S9 e 100 livre masc S9 #rio2…
+date = Fri Apr 22 22:53:50 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 1a prova da transmissão 100 livre fem S10 com a presença da vice campeã paralímpica Lorandi Elodie FRA #rio2016 #paralym…
+date = Fri Apr 22 22:53:44 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 100 livre masc S5 resultado final 1o Roy Perkins USA 1:16.16 #rio2016 #paralympics
+date = Fri Apr 22 22:53:37 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 100 livre fem S9 resultados finais 1o Sarai Gascon1:03.09,Camille Rodrigues 3o 1:05.07 quase índice B p/ a brasileira. #…
+date = Fri Apr 22 22:53:27 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 100 livre masc S9 1a vitória brasileira Vanilton Nascimento 57.56 recorde das américas #rio2016 #paralympics
+date = Fri Apr 22 22:52:58 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 3 índices A até agora: André, Phelippe e Matheus! #rio2016 #paralympics
+date = Fri Apr 22 22:52:52 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 100 livre fem S6 1o Wianey Delgadilo MEX 1:23.04 #rio2016 #paralympics
+date = Fri Apr 22 22:52:43 +0000 2016| user = Laurafwx| text = RT @alexpussieldi: 100 livre masc s8 1o Luis Armando Andrade MEX 1:01.24, 2o Caio Amorim 1:02.52 #rio2016 #paralympics
+date = Fri Apr 22 22:52:39 +0000 2016| user = cjmg88| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 22:51:30 +0000 2016| user = debyzinhaaaaa_| text = Alguem sabe quando o Rio2016 começa a enviar os ingressos?
+date = Fri Apr 22 22:50:10 +0000 2016| user = marciomtc| text = #Rio2016: Twitter lança campanha para conectar marcas, turistas e atletas https://t.co/ZWoPVob73f
+date = Fri Apr 22 22:49:42 +0000 2016| user = GEOVANABIKELIS| text = Pela minha sacada eu vejo Oz.. ..Osasco https://t.co/qNxowVx8Up
+date = Fri Apr 22 22:47:17 +0000 2016| user = zoreio| text = RT @alexpussieldi: 3 índices A até agora: André, Phelippe e Matheus! #rio2016 #paralympics
+date = Fri Apr 22 22:45:35 +0000 2016| user = sirtigerhai| text = RT @alexpussieldi: 100 livre masc s8 1o Luis Armando Andrade MEX 1:01.24, 2o Caio Amorim 1:02.52 #rio2016 #paralympics
+date = Fri Apr 22 22:45:31 +0000 2016| user = sirtigerhai| text = RT @alexpussieldi: 100 livre fem S6 1o Wianey Delgadilo MEX 1:23.04 #rio2016 #paralympics
+date = Fri Apr 22 22:35:15 +0000 2016| user = alexpussieldi| text = 100 livre masc s8 1o Luis Armando Andrade MEX 1:01.24, 2o Caio Amorim 1:02.52 #rio2016 #paralympics
+date = Fri Apr 22 22:34:47 +0000 2016| user = detrinda| text = Uma ciclovia que nao aguenta uma ressaca, jamais deveria se chamar Tim Maia. #rio2016
+date = Fri Apr 22 22:31:22 +0000 2016| user = agenciauva| text = Em mais um dia de competições da @ISSF_Shooting, evento-teste para os jogos #Rio2016, #Croatas se destacam. Confria: https://t.co/em0MI3iQKN
+date = Fri Apr 22 22:31:21 +0000 2016| user = Alebil01| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 22:31:13 +0000 2016| user = alexpussieldi| text = 100 livre fem S6 1o Wianey Delgadilo MEX 1:23.04 #rio2016 #paralympics
+date = Fri Apr 22 22:28:17 +0000 2016| user = VeronicaHelenas| text = RT @avozdobrasil: #SomosTodosBrasil: Tocha olímpica passará pela Chapada dos Guimarães e o Pantanal antes dos Jogos #Rio2016 https://t.co/9…
+date = Fri Apr 22 22:28:05 +0000 2016| user = Alebil01| text = RT @TomRio2016: Um convite por mim não pode ser negado, né? hihihi 😋 https://t.co/Srb4ZcL2O5 💻😍 https://t.co/394IllSlKN
+date = Fri Apr 22 22:28:00 +0000 2016| user = eualfeu| text = Olimpíadas Rio 2016. Curta você também,  entre no clima: https://t.co/41ESXj9eaR
+date = Fri Apr 22 22:27:37 +0000 2016| user = sirtigerhai| text = RT @alexpussieldi: 3 índices A até agora: André, Phelippe e Matheus! #rio2016 #paralympics
+date = Fri Apr 22 22:27:35 +0000 2016| user = sirtigerhai| text = RT @alexpussieldi: 100 livre masc S11 1o Matheus Souza 59.23 é índice A por 1 centésimo #rio2016 #paralympics
+date = Fri Apr 22 22:27:33 +0000 2016| user = sirtigerhai| text = RT @alexpussieldi: 100 livre msc S10 dobradinha brasileira 1o Andre Brasil 52.16, 2o Phelippe Rodrigues 52.61 #rio2016
+date = Fri Apr 22 22:22:12 +0000 2016| user = FClaroRugby| text = Hoje também foi dia de treino! Foco e preparação a mil! #AlemãoRugby #Rio2016 #RumoaoRio #narSP #BrasilRugby... https://t.co/vIt9vvwjF4
+date = Fri Apr 22 22:21:27 +0000 2016| user = AARFLAMENGO| text = RT @aarrio2016: Rumo a #Rio2016 43 ingressos comprados com Basquete / Hóquei / Vôlei / Futebol / Boxe / Badminton / Rugby / Tênis de mesa /…
+date = Fri Apr 22 22:21:01 +0000 2016| user = FlaClones| text = RT @aarrio2016: Rumo a #Rio2016 43 ingressos comprados com Basquete / Hóquei / Vôlei / Futebol / Boxe / Badminton / Rugby / Tênis de mesa /…
+date = Fri Apr 22 22:19:31 +0000 2016| user = josias_alves20| text = RT @sergiobrother1: O #Flamengo fechou acordo com o Comitê #Rio2016 e vai receber a Argentina no CT Ninho do Urubu por 20 dias @FuteboldaGa…
+date = Fri Apr 22 22:18:16 +0000 2016| user = alexpussieldi| text = 3 índices A até agora: André, Phelippe e Matheus! #rio2016 #paralympics
+date = Fri Apr 22 22:18:10 +0000 2016| user = carlinhosnovack| text = RT @alexpussieldi: 100 livre masc S11 1o Matheus Souza 59.23 é índice A por 1 centésimo #rio2016 #paralympics
+date = Fri Apr 22 22:18:05 +0000 2016| user = aarrio2016| text = Rumo a #Rio2016 43 ingressos comprados com Basquete / Hóquei / Vôlei / Futebol / Boxe / Badminton / Rugby / Tênis de mesa / Atletismo....
+date = Fri Apr 22 22:17:47 +0000 2016| user = alexpussieldi| text = 100 livre masc S11 1o Matheus Souza 59.23 é índice A por 1 centésimo #rio2016 #paralympics
+date = Fri Apr 22 22:16:35 +0000 2016| user = decampinasoeste| text = RT @avozdobrasil: #SomosTodosBrasil: Tocha olímpica passará pela Chapada dos Guimarães e o Pantanal antes dos Jogos #Rio2016 https://t.co/9…
+date = Fri Apr 22 22:16:15 +0000 2016| user = avozdobrasil| text = #SomosTodosBrasil: Tocha olímpica passará pela Chapada dos Guimarães e o Pantanal antes dos Jogos #Rio2016 https://t.co/962sYtRL6i
+date = Fri Apr 22 22:14:55 +0000 2016| user = carlinhosnovack| text = Seletivas da Natação Paralimpica pro #Rio2016 
+
+100m (FEM) S10 vitória da francesa Lorandi Elodie 1:01.84 - 3º: Mariana Gesteira BRA 1:04.98
+date = Fri Apr 22 22:13:15 +0000 2016| user = CjIlha| text = 🔊Esse negócio de @Rio2016 já deu! O Prefeito Nervosinho vai ter contas a  acertar! Após o Petrólão virá o Olímpicão! https://t.co/N62jOBSAtG
+date = Fri Apr 22 22:12:09 +0000 2016| user = carlinhosnovack| text = RT @alexpussieldi: 100 livre msc S10 dobradinha brasileira 1o Andre Brasil 52.16, 2o Phelippe Rodrigues 52.61 #rio2016
+date = Fri Apr 22 22:11:28 +0000 2016| user = cconter| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 22:11:16 +0000 2016| user = alexpussieldi| text = 100 livre msc S10 dobradinha brasileira 1o Andre Brasil 52.16, 2o Phelippe Rodrigues 52.61 #rio2016
+date = Fri Apr 22 22:09:49 +0000 2016| user = DomingosMassa| text = RT @MiriaFigueiredo: Tem q ser mt sem noção pra trocar Olimpia por NY. #Olimpíadas #Brasil #Rio2016 #RioOlympics2016 #RJ #Grecee #Olimpia h…
+date = Fri Apr 22 22:08:43 +0000 2016| user = luizatrajano| text = Vocês viram que linda a cerimônia de acendimento da tocha da #Rio2016? https://t.co/4wsndmmIbZ
+date = Fri Apr 22 22:05:13 +0000 2016| user = JogosOlimpicos| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 22:02:55 +0000 2016| user = CoachAsh14| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 22:02:19 +0000 2016| user = alexpussieldi| text = 100 livre masc S9 1a vitória brasileira Vanilton Nascimento 57.56 recorde das américas #rio2016 #paralympics
+date = Fri Apr 22 21:59:33 +0000 2016| user = alnbastos| text = RT @igesporte: O vôlei brasileiro está de roupa nova para o #Rio2016. Confira
+- https://t.co/4PMnG6JSBI https://t.co/4LeUTOOFIR
+date = Fri Apr 22 21:56:47 +0000 2016| user = cynthiarib| text = RT @minesporte: Min. @RicardoLeyser vai falar sobre os preparativos do Brasil para o #Rio2016. PARTICIPE, mande suas perguntas! ;) https://…
+date = Fri Apr 22 21:55:45 +0000 2016| user = martinchab1997| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 21:52:28 +0000 2016| user = KOMISLEOFF| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 21:51:48 +0000 2016| user = marimoraez| text = @minesporte @RicardoLeyser  7 anos para organizar; mas estamos em obras, sem a Baia e com um superfaturamento no orçamento, pq? #Rio2016
+date = Fri Apr 22 21:50:12 +0000 2016| user = AraujoWallin| text = RT @minesporte: Min. @RicardoLeyser vai falar sobre os preparativos do Brasil para o #Rio2016. PARTICIPE, mande suas perguntas! ;) https://…
+date = Fri Apr 22 21:48:12 +0000 2016| user = schnellflu| text = RT @minesporte: Min. @RicardoLeyser vai falar sobre os preparativos do Brasil para o #Rio2016. PARTICIPE, mande suas perguntas! ;) https://…
+date = Fri Apr 22 21:46:08 +0000 2016| user = marciomtc| text = #Rio2016: Twitter lança campanha para conectar marcas, torcedores, turistas e atletas https://t.co/bm1rKC0BOz
+date = Fri Apr 22 21:45:06 +0000 2016| user = comuniquese| text = #Rio2016: Twitter lança campanha para conectar marcas, torcedores, turistas e atletas - https://t.co/nlkROBDrby https://t.co/wFlMMVI6Pp
+date = Fri Apr 22 21:43:17 +0000 2016| user = alexpussieldi| text = 100 livre fem S9 resultados finais 1o Sarai Gascon1:03.09,Camille Rodrigues 3o 1:05.07 quase índice B p/ a brasileira. #rio2016 #paralympics
+date = Fri Apr 22 21:42:01 +0000 2016| user = itsallaboutdaay| text = A caminho do evento de natação paraolímpico! #Rio2016 #paraolimpiadas #Fisioterapia #IFRJ @… https://t.co/uBRHvFy5w6
+date = Fri Apr 22 21:39:49 +0000 2016| user = martinchab1997| text = RT @Rio2016: 🇧🇷 #Brasil exibe seus maiores astros em #EventoTeste de #Natação Paralímpica 🏊: https://t.co/VMrvkT70pv https://t.co/YEOjsEO1Cz
+date = Fri Apr 22 21:37:26 +0000 2016| user = imlau_juliano| text = @minesporte @RicardoLeyser #Rio2016 Como estão as obras para as Olimpíadas? /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+E os ingressos vão ser disponibilizados nos dias do evento?
+date = Fri Apr 22 21:36:01 +0000 2016| user = PremierRugbyPIT| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 21:35:26 +0000 2016| user = alexpussieldi| text = 100 livre masc S5 resultado final 1o Roy Perkins USA 1:16.16 #rio2016 #paralympics
+date = Fri Apr 22 21:34:44 +0000 2016| user = minesporte| text = Min. @RicardoLeyser vai falar sobre os preparativos do Brasil para o #Rio2016. PARTICIPE, mande suas perguntas! ;) https://t.co/gpZKYGpFQj
+date = Fri Apr 22 21:33:09 +0000 2016| user = RubiaMazzini| text = Tragédia anunciada #Rio2016 #RioCidadeOlimpica https://t.co/24nqLO6UzR
+date = Fri Apr 22 21:32:38 +0000 2016| user = mayaeduardaa| text = Nossa, tem treino disso na minha escola KAKAKAKAK https://t.co/50tJ0gsEWD
+date = Fri Apr 22 21:32:15 +0000 2016| user = Rio2016HQ| text = Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/aeUxP3gZZX https://t.co/NIk2xkEZEd
+date = Fri Apr 22 21:32:14 +0000 2016| user = WorldRugby| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 21:32:08 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 21:31:38 +0000 2016| user = alexpussieldi| text = 1a prova da transmissão 100 livre fem S10 com a presença da vice campeã paralímpica Lorandi Elodie FRA #rio2016 #paralympics
+date = Fri Apr 22 21:31:35 +0000 2016| user = GooglandoTudo| text = Comunique-se: #Rio2016: Twitter lança campanha para conectar marcas, turistas e atletas: De olho nos Jogos Olí... https://t.co/Cn8OMJrGOA
+date = Fri Apr 22 21:31:30 +0000 2016| user = giraffa49| text = Grandissima Martina Caironi: portabandira a Rio 2016!!!! @smartinella @olimpiadi2016 @Rio2016_en #cip #italia #italy 🇮🇹🇮🇹🇮🇹 #olimpiadi
+date = Fri Apr 22 21:30:45 +0000 2016| user = alexpussieldi| text = Transmissão começa as 19hrs no SporTV2 antes tem 3 provas: 100 livre masc S5, 100 livre fem S9 e 100 livre masc S9 #rio2016 #paralympic
+date = Fri Apr 22 21:30:05 +0000 2016| user = viniciuszg| text = Record colocou minha parte preferida da abertura da Olimpíada de Londres na chamada da Rio2016 https://t.co/OCVDdo6bNB
+date = Fri Apr 22 21:29:44 +0000 2016| user = Round_Trip_Tur| text = RT @Rio2016: Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 21:29:28 +0000 2016| user = Rio2016| text = Tá por dentro da classificação do #Rugby? 🏉 Não? Então, se liga: https://t.co/tsUPZdYMI3 https://t.co/phTK17cgXq
+date = Fri Apr 22 21:29:01 +0000 2016| user = RSPARADESPORTO| text = RT @alexpussieldi: #2 é entre o americano Roy Perkins e Daniel Dias nos 50 borboleta S5, imperdível. Foi a vitória mais difícil do Daniel e…
+date = Fri Apr 22 21:29:00 +0000 2016| user = RSPARADESPORTO| text = RT @alexpussieldi: 2 duelos imperdíveis na abertura do Open Caixa  Natação Paralímpica. #1 André Brasil X Phelipe Rodrigues100 livre S10. #…
+date = Fri Apr 22 21:27:28 +0000 2016| user = EdvaldoGuimara| text = RT @Hortencia: Começou a corrida da tocha Olímpica #rio2016 nas mãos do nosso bi campeão olímpico Giovani Gávio. 🔥🔥🔥🔥🇧🇷 https://t.co/5sL0AX…
+date = Fri Apr 22 21:19:35 +0000 2016| user = cidade_maravilh| text = RT @instaipanema: Com Cerri ☀️🏄🏼 #ipanemabeach #riodejaneiro #rio2016 #beach #coqueirão #posto9 by marcelo__… https://t.co/zoTsiNTA6E https…
+date = Fri Apr 22 21:18:18 +0000 2016| user = instaipanema| text = Com Cerri ☀️🏄🏼 #ipanemabeach #riodejaneiro #rio2016 #beach #coqueirão #posto9 by marcelo__… https://t.co/zoTsiNTA6E https://t.co/km6KoxutbG
+date = Fri Apr 22 21:18:07 +0000 2016| user = volunta_Rio2016| text = Reta final das classificações Rio 2016: a disputa no rugby:  https://t.co/RTWKp1YcuV
+date = Fri Apr 22 21:18:06 +0000 2016| user = volunta_Rio2016| text = Facebook @Rio2016: fotos dos melhores momentos da #TochaOlímpica:  https://t.co/xhIj7ky1aF
+date = Fri Apr 22 21:18:06 +0000 2016| user = volunta_Rio2016| text = Brasil exibe seus maiores astros em evento-teste do Rio 2016 de natação Paralímpica:  https://t.co/HxF2Vf55lu
+date = Fri Apr 22 21:18:06 +0000 2016| user = volunta_Rio2016| text = Carlos Nuzman destaca valores Olímpicos em momento desafiador para o Brasil:  https://t.co/eaY4HJmWnY
+date = Fri Apr 22 21:18:06 +0000 2016| user = volunta_Rio2016| text = Rio 2016 abre venda de novos ingressos para ver Bolt e as cerimônias:  https://t.co/6bEhbnfFFx
+date = Fri Apr 22 21:18:00 +0000 2016| user = world77world| text = RT @Rio2016: Os cavalos do #hipismo tem passaporte especial para viajar! 🐴 ✈
+#JogosParalímpicos: não dá pra explicar, #TemQueIr https://t.c…
+date = Fri Apr 22 21:17:19 +0000 2016| user = Brasil_2016News| text = Facebook @Rio2016: fotos dos melhores momentos da #TochaOlímpica:  https://t.co/S29HTJHMQT
+date = Fri Apr 22 21:17:19 +0000 2016| user = Brasil_2016News| text = Reta final das classificações Rio 2016: a disputa no rugby:  https://t.co/mPfoSFQH5j
+date = Fri Apr 22 21:16:39 +0000 2016| user = M5Olimpiadas| text = 🇧🇷 #Brasil exibe seus maiores astros em #EventoTeste de #Natação Paralímpica 🏊: https://t.co/NHZSfbre4I… https://t.co/Eal0jHTYFw
+date = Fri Apr 22 21:10:47 +0000 2016| user = alexpussieldi| text = Transmissão as 19hrs no sportv2 #rio2016 #paralympics
+date = Fri Apr 22 21:10:04 +0000 2016| user = alexpussieldi| text = Piscina livre Open Caixa Natação Paralimpica #rio2016 https://t.co/FkOk5QY0ok
+date = Fri Apr 22 21:01:01 +0000 2016| user = alexpussieldi| text = #2 é entre o americano Roy Perkins e Daniel Dias nos 50 borboleta S5, imperdível. Foi a vitória mais difícil do Daniel em Londres. #rio2016
+date = Fri Apr 22 21:00:09 +0000 2016| user = bilio73| text = Legado do @Rio2016 @eduardopaes_ https://t.co/NPuWdSteA9
+date = Fri Apr 22 20:59:54 +0000 2016| user = alexpussieldi| text = 2 duelos imperdíveis na abertura do Open Caixa  Natação Paralímpica. #1 André Brasil X Phelipe Rodrigues100 livre S10. #rio2016 #paralympics
+date = Fri Apr 22 20:57:17 +0000 2016| user = alexpussieldi| text = Falta 1 hora, mas público pequeno no Olympic Aquatic Stadium para acompanhar o Teste Evento da Natação Paralímpica. #RIO2016 #Paralympics
+date = Fri Apr 22 20:55:19 +0000 2016| user = cfredbastos| text = RT @minesporte: Na Mongólia, Luta Olímpica busca mais vagas para os Jogos @Rio2016. https://t.co/l4aZqV3OqE https://t.co/M1JJJBZOtp
+date = Fri Apr 22 20:53:24 +0000 2016| user = FontenelleMauro| text = Eu vou às provas de Mountain Bike da #Rio2016 mas no fundo quero que os jogos sejam um fracasso. Foda-se o Nacionalismo Bananista. #ForaPT
+date = Fri Apr 22 20:49:53 +0000 2016| user = FuteboldaGaucha| text = RT @sergiobrother1: O #Flamengo fechou acordo com o Comitê #Rio2016 e vai receber a Argentina no CT Ninho do Urubu por 20 dias @FuteboldaGa…
+date = Fri Apr 22 20:49:40 +0000 2016| user = sergiobrother1| text = O #Flamengo fechou acordo com o Comitê #Rio2016 e vai receber a Argentina no CT Ninho do Urubu por 20 dias @FuteboldaGaucha
+date = Fri Apr 22 20:40:04 +0000 2016| user = JuventudeGovPt| text = [Stand IPDJ no Rock in Rio2016] - Voluntariado Jovem "Agora Nós"
+
+ Colabora connosco! 
+
+ O teu IPDJ vai estar no... https://t.co/31JvGsvTvn
+date = Fri Apr 22 20:37:49 +0000 2016| user = natalia50202731| text = RT @bbcbrasil: #RIO2016 O bicampeão olímpico de vôlei Giovane é o 1º brasileiro a carregar Tocha Olímpica, em Olímpia, na Grécia. https://t…
+date = Fri Apr 22 20:35:57 +0000 2016| user = avozdobrasil| text = RT @minesporte: Na Mongólia, Luta Olímpica busca mais vagas para os Jogos @Rio2016. https://t.co/l4aZqV3OqE https://t.co/M1JJJBZOtp
+date = Fri Apr 22 20:34:23 +0000 2016| user = m0rgaaaneC| text = Go Rioooo ! @EarvinNgapeth #Rio2016 https://t.co/MxipAx0aVi
+date = Fri Apr 22 20:32:03 +0000 2016| user = minesporte| text = Na Mongólia, Luta Olímpica busca mais vagas para os Jogos @Rio2016. https://t.co/l4aZqV3OqE https://t.co/M1JJJBZOtp
+date = Fri Apr 22 20:30:48 +0000 2016| user = epenteado_net| text = Queda da #ciclovia na #Rio2016 envolve #descaso, #corrupção e #mortes História completa e repercussão internacional: https://t.co/XkcaB9GWCY
+date = Fri Apr 22 20:20:23 +0000 2016| user = Laurafwx| text = RT @TomRio2016: Um convite por mim não pode ser negado, né? hihihi 😋 https://t.co/Srb4ZcL2O5 💻😍 https://t.co/394IllSlKN
+date = Fri Apr 22 20:18:26 +0000 2016| user = leolion87| text = RT @TVNBR: #Rio2016 | #TochaOlímpica é acesa na #Grécia e inicia revezamento que chegará ao Brasil em maio. https://t.co/BEk6Iw2HMR
+date = Fri Apr 22 20:17:10 +0000 2016| user = tvbombinhas| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #F4F @tvfloripa @channel100TV #RT @Photoxscape https://t.co/…
+date = Fri Apr 22 20:16:17 +0000 2016| user = TomRio2016| text = Um convite por mim não pode ser negado, né? hihihi 😋 https://t.co/Srb4ZcL2O5 💻😍 https://t.co/394IllSlKN
+date = Fri Apr 22 20:14:52 +0000 2016| user = tvbombinhas| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Fri Apr 22 20:13:34 +0000 2016| user = gpoficiall| text = Nessa história de muitos culpados,o único inocente é o Mar.
+#CidadeOlímpica #Rio2016
+date = Fri Apr 22 20:09:39 +0000 2016| user = F_camba| text = E está somente começando o 7x1 das Olimpíadas-RIO2016 󾍀󾍀 https://t.co/GfFOhE0y3j
+date = Fri Apr 22 20:05:37 +0000 2016| user = fabiogomes75| text = #Rio2016 vergonha nacional país sem condições de sediar os jogos olímpicos.
+date = Fri Apr 22 20:03:32 +0000 2016| user = YesbananasSport| text = COI lança campanha para a Rio-2016 com participação de Diogo Nogueira e Taís Araújo:  https://t.co/L1AIRbCV37 #sports #esportes
+date = Fri Apr 22 20:03:29 +0000 2016| user = FutebolEspiao| text = COI lança campanha para a Rio-2016 com participação de Diogo Nogueira e Taís Araújo https://t.co/i1f6kyuNi3
+date = Fri Apr 22 20:03:27 +0000 2016| user = PortalEsporte10| text = COI lança campanha para a Rio-2016 com participação de Diogo Nogueira e Taís Araújo https://t.co/sMOne1dX8C
+date = Fri Apr 22 20:03:25 +0000 2016| user = irafaelbarros| text = COI lança campanha para a Rio-2016 com participação de Diogo Nogueira e Taís Araújo:  https://t.co/bccCDC4fAt
+date = Fri Apr 22 20:03:23 +0000 2016| user = BrunoJaquet03| text = COI lança campanha para a Rio-2016 com participação de Diogo Nogueira e Taís Araújo:  https://t.co/IMlmDGr4dG
+date = Fri Apr 22 20:01:47 +0000 2016| user = AlicCabralG| text = Mais um dia de treino. #archerylife #archery #tirocomarco #TimeBrasil #RoadToRio #Rio2016… https://t.co/mrNFBZlV6j
+date = Fri Apr 22 19:44:50 +0000 2016| user = MonicaFilosofia| text = RT @Mudega_: A bicampiona do mundo @caro_marin2 non firma ningunha medalla en #Rio2016 e vai a polo ouro. MOITA FORZA! https://t.co/hbsWpsP…
+date = Fri Apr 22 19:43:00 +0000 2016| user = kafofi| text = Olimpíadas em meio ao caos que está essa cidade, aliás este país?? Chega a ser desrespeitoso com o cidadão #Rio2016  https://t.co/jiqkLC7yV3
+date = Fri Apr 22 19:34:53 +0000 2016| user = fatimasilva0855| text = RT @prosapolitica: -E o superfaturamento das obras da #Rio2016 Dilma?
+-É golpe!
+-E o acidente na ciclovia?
+-É golpe! https://t.co/jnGdQQi6eh
+date = Fri Apr 22 19:34:07 +0000 2016| user = guiguis_17| text = Já é então,#dia 12/05 é em Itabira. #Rio2016 #ChamaOlimpica #ChamaGeral https://t.co/jJabuJ08xm
+date = Fri Apr 22 19:33:33 +0000 2016| user = LPandradee| text = Juntos Nós Movemos o Mundo https://t.co/Rbni6wnlQU Campanha global COI Filme Oficial exalta espírito união @Rio2016 https://t.co/og4E6uqUTA
+date = Fri Apr 22 19:32:46 +0000 2016| user = JJakciel| text = RT @Rio2016: 🇧🇷 #Brasil exibe seus maiores astros em #EventoTeste de #Natação Paralímpica 🏊: https://t.co/VMrvkT70pv https://t.co/YEOjsEO1Cz
+date = Fri Apr 22 19:29:49 +0000 2016| user = LPandradee| text = Impitman Temer ciclovia desabando q zika! Pra ajudar a entrar no Espírito Olímpico https://t.co/Rbni6wnlQU @Rio2016 https://t.co/oP9sYsaHHI
+date = Fri Apr 22 19:29:27 +0000 2016| user = RodrigoGamez7| text = RT @Rio2016: 🇧🇷 #Brasil exibe seus maiores astros em #EventoTeste de #Natação Paralímpica 🏊: https://t.co/VMrvkT70pv https://t.co/YEOjsEO1Cz
+date = Fri Apr 22 19:25:48 +0000 2016| user = ronawebrasil| text = Vem pro #Rio2016 vai ter ciclovia legal com vista pro mar!
+date = Fri Apr 22 19:24:49 +0000 2016| user = LPandradee| text = Eita Geovana! Falta pouco mais de 100 dia p Olimpíadas do Rio. Pra entrar no clima: https://t.co/Rbni6wnlQU @Rio2016 https://t.co/VjXIOApKUb
+date = Fri Apr 22 19:22:43 +0000 2016| user = Rio2016HQ| text = 🇧🇷 #Brasil exibe seus maiores astros em #EventoTeste de #Natação Paralímpica 🏊: https://t.co/hUm5F40zRH https://t.co/OyH4Q1DQho
+date = Fri Apr 22 19:22:07 +0000 2016| user = canteiro_hugo| text = RT @Rio2016: 🇧🇷 #Brasil exibe seus maiores astros em #EventoTeste de #Natação Paralímpica 🏊: https://t.co/VMrvkT70pv https://t.co/YEOjsEO1Cz
+date = Fri Apr 22 19:21:31 +0000 2016| user = ArajoDarcy| text = RT @Rio2016: 🇧🇷 #Brasil exibe seus maiores astros em #EventoTeste de #Natação Paralímpica 🏊: https://t.co/VMrvkT70pv https://t.co/YEOjsEO1Cz
+date = Fri Apr 22 19:21:23 +0000 2016| user = Rio2016| text = 🇧🇷 #Brasil exibe seus maiores astros em #EventoTeste de #Natação Paralímpica 🏊: https://t.co/VMrvkT70pv https://t.co/YEOjsEO1Cz
+date = Fri Apr 22 19:16:41 +0000 2016| user = diogopennajulio| text = #Leisecarj #Rio2016 Documentos achado em Maria da graça RJ..Reinaldo Cardoso Rodrigues https://t.co/UEcQX9QOB5
+date = Fri Apr 22 19:09:18 +0000 2016| user = paginarural| text = RIO2016
+RJ: Mapa tem várias ações para garantir controle sanitário durante as Olimpíadas em https://t.co/wCBpgYxeSW https://t.co/kq1j4GBp2D
+date = Fri Apr 22 19:08:47 +0000 2016| user = schnellflu| text = RT @minesporte: Definidos grupos do basquete em cadeira de rodas do #Rio2016. https://t.co/G1eZKwBEb2
+date = Fri Apr 22 19:06:19 +0000 2016| user = _Lavoisier| text = Três morrem e dois ficam feridos em ataque a padaria no Rio de Janeiro  https://t.co/UDi309QZqv #Rio2016  #rio2016torch #RioOlympics2016
+date = Fri Apr 22 19:00:47 +0000 2016| user = FukudaSolutions| text = Semana #Jurídica da #UVA - #Olimpíadas #Rio2016: Desafios e Oportunidades - https://t.co/963zpAmKL8 #Direito
+date = Fri Apr 22 19:00:29 +0000 2016| user = minesporte| text = Definidos grupos do basquete em cadeira de rodas do #Rio2016. https://t.co/G1eZKwBEb2
+date = Fri Apr 22 18:56:59 +0000 2016| user = JogosOlimpicos| text = RT @Rio2016: Melhores momentos do acendimento da #TochaOlímpica 🔥! Mais 📷 de André Luiz Mello : https://t.co/wsa1CjTcsX https://t.co/EOgEgp…
+date = Fri Apr 22 18:56:27 +0000 2016| user = Drix_11| text = RT @minesporte: Com a chama olímpica acesa na Grécia, tem início o tour rumo aos Jogos #Rio2016. https://t.co/C3wfNbW6AH https://t.co/9HhMF…
+date = Fri Apr 22 18:56:05 +0000 2016| user = zoreio| text = RT @alexpussieldi: Galera, hoje a partir das 19 horas no SporTV3 acompanhe as provas do Teste Evento da natação paralímpica. #RIO2016 #para…
+date = Fri Apr 22 18:50:58 +0000 2016| user = brenobarros| text = mais um evento-teste do @Rio2016. Chegou a hora da esgrima. https://t.co/qpxO1sJAT0
+date = Fri Apr 22 18:49:51 +0000 2016| user = rosenmann65| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Fri Apr 22 18:43:18 +0000 2016| user = arturpinheirom| text = RT @alexpussieldi: Pronto, lancei a campanha #acendeapiraCielo #RIO2016
+date = Fri Apr 22 18:42:35 +0000 2016| user = pedrosalomaor| text = Será q hoje seria possível a construção de uma ponte assim(Rio-Niterói)?? Será que nos sentiríamos seguro/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+s?
+#Rio2016 https://t.co/ynoMRLQbCa
+date = Fri Apr 22 18:39:10 +0000 2016| user = vitinmonteiro55| text = RT @alexpussieldi: Pronto, lancei a campanha #acendeapiraCielo #RIO2016
+date = Fri Apr 22 18:38:31 +0000 2016| user = Silmartinelli| text = RT @JogosOlimpicos: Momento em que o @giovanegavio recebeu a @chamaolimpica 🔥! #chamaolimpica @Rio2016
+https://t.co/DZPi0yqCk6
+date = Fri Apr 22 18:36:17 +0000 2016| user = CamilaAguiarBR| text = Brasil exibe seus maiores astros em evento-teste do - Rio 2016 https://t.co/vMaKrE2XdP
+date = Fri Apr 22 18:34:30 +0000 2016| user = NickEllis| text = @Rio2016 @gugachacra muito obrigado pela resposta e atenção!
+date = Fri Apr 22 18:34:27 +0000 2016| user = gabrieltomich99| text = RT @alexpussieldi: Pronto, lancei a campanha #acendeapiraCielo #RIO2016
+date = Fri Apr 22 18:28:56 +0000 2016| user = grahamtidey| text = RT @ukinbrazil: A #TochaOlímpica está acesa! A @ChamaOlimpica já está caminho dos Jogos @Rio2016 no Brasil! 🔥✨ https://t.co/bjf7LEW4H0
+date = Fri Apr 22 18:19:24 +0000 2016| user = Rio2016| text = @nickellis @gugachacra Nenhuma lista com todos os 12 mil condutores foi divulgada até o momento. Muitos ainda estão sendo chamados.
+date = Fri Apr 22 18:18:31 +0000 2016| user = ewellynDG| text = Morta de cansada, mas todo o esforço valeu a pena!  #Parquenacionaldapedrabranca #Rio2016 #Rio40° #Guaratiba
+date = Fri Apr 22 18:17:28 +0000 2016| user = NicoleNatsume| text = Jogos Rio 2016 geram cerca de 90 mil oportunidades de trabalho https://t.co/74WfUVVri3
+date = Fri Apr 22 18:15:05 +0000 2016| user = LuizaGoes| text = RT @exercitooficial: Sgt Pamela Souza alcança 2° lugar nos 200m nado peito no Troféu Maria Lenk, evento teste para os Jogos #Rio2016 https:…
+date = Fri Apr 22 18:05:01 +0000 2016| user = _marcelim| text = Fla fecha acordo com Rio 2016 e Ninho do Urubu vai receber Argentina nas Olimpíadas #Rio2016 #Flamengo #Argentina https://t.co/IFZifny6bk
+date = Fri Apr 22 18:03:54 +0000 2016| user = LaraNadoSincro| text = Motivação extra ouvir esses dois feras no evento de integração do #timebrasil #RoadToRio #Rio2016 https://t.co/MxpevpgUit
+date = Fri Apr 22 18:01:36 +0000 2016| user = cfredbastos| text = RT @minesporte: .@CBDAoficial apresenta delegação brasileira de esportes aquáticos para o #Rio2016. https://t.co/3yLDy92yeT https://t.co/oy…
+date = Fri Apr 22 18:01:16 +0000 2016| user = Rio2016| text = RT @ChamaOlimpica: Tem alguma pergunta sobre a minha viagem pela 🇬🇷 ? Mais tarde vou tirar as dúvidas pelo @OlympicFlame #ChamaOlímpica htt…
+date = Fri Apr 22 18:00:27 +0000 2016| user = minesporte| text = .@CBDAoficial apresenta delegação brasileira de esportes aquáticos para o #Rio2016. https://t.co/3yLDy92yeT https://t.co/oyGMIAp7Ft
+date = Fri Apr 22 17:59:45 +0000 2016| user = cfredbastos| text = RT @timebrasil: Robenílson defenderá o #TimeBrasil nos ringues durante os Jogos Olímpicos @Rio2016. Vamos torcer? https://t.co/ZkcjpWM5WA
+date = Fri Apr 22 17:59:34 +0000 2016| user = cfredbastos| text = RT @timebrasil: Acompanhe a jornada da @ChamaOlimpica até o Rio de Janeiro! @giovanegavio foi o 1o condutor brasileiro #Rio2016  https://t.…
+date = Fri Apr 22 17:59:11 +0000 2016| user = cfredbastos| text = RT @timebrasil: Gilda Oliveira vestirá a camisa do #TimeBrasil nos Jogos Olímpicos @Rio2016. Está na torcida? https://t.co/ge2tkNGpfr
+date = Fri Apr 22 17:57:02 +0000 2016| user = MORAALVES| text = #Michel é um dos #Condutores da #TochaOlímpica #Rio2016!
+
+Sabem porque?
+Porque ele é um Guerreiro de mão cheia!!!... https://t.co/VwmxBxqqGz
+date = Fri Apr 22 17:52:53 +0000 2016| user = RioDMais| text = #Rio2016 | Chama Olímpica ganha perfil no Twitter, relata sua trajetória até o Rio  @chamaolimpica  @olympicsflame https://t.co/sXqDxxF78e
+date = Fri Apr 22 17:52:17 +0000 2016| user = green20_j| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Fri Apr 22 17:50:11 +0000 2016| user = painellogistico| text = A #Abralog visitou as instalações do Centro de Comando Logístico das Olimpíadas #Rio2016 #Logística . Saiba mais: https://t.co/dZpscGLNRS
+date = Fri Apr 22 17:50:09 +0000 2016| user = VaniltonFilho| text = RT @alexpussieldi: Nas eliminatorias foram 4 recordes brasileiros e 1 recorde das Américas por Vanilton do Nascimento 57.58 100 livre S9 #r…
+date = Fri Apr 22 17:49:16 +0000 2016| user = louiseguille| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #RT @kentkristensen1 @channel100TV @tvfloripa https://t.co/S…
+date = Fri Apr 22 17:49:09 +0000 2016| user = baketa| text = Só nos pipoco.
+
+[Sarah Beard (USA) - Foto Bruno Baketa/CBTE] #issf #rifle #Rio2016 https://t.co/P0Wjqoy4oY
+date = Fri Apr 22 17:48:42 +0000 2016| user = louiseguille| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #F4F @tvfloripa @channel100TV #RT @Photoxscape https://t.co/…
+date = Fri Apr 22 17:48:34 +0000 2016| user = Rosana2418| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Fri Apr 22 17:47:38 +0000 2016| user = rebeka999| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #F4F @tvfloripa @channel100TV #RT @Photoxscape https://t.co/…
+date = Fri Apr 22 17:44:52 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: Foi acesa na Grécia a chama Olímpica do @Rio2016 https://t.co/lcYb4XWze9 https://t.co/fewv7K0Obr
+date = Fri Apr 22 17:44:49 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: .@FCBarcelona libera Neymar para o @Rio2016 https://t.co/5HBbbnFA6D https://t.co/jtoLZrG2wk
+date = Fri Apr 22 17:44:31 +0000 2016| user = cfredbastos| text = RT @SurtoOlimpico: Definidos os potes do sorteio do torneio de Handebol do @Rio2016 https://t.co/bbbD0gJOWh https://t.co/Ni4mDLqqQB
+date = Fri Apr 22 17:42:41 +0000 2016| user = lazabipo| text = RT @channel100TV: Rio de Janeiro, Brazil #travel #Rio2016 #FF #RT @ebubekiryam @ClaudyTheArtist @HKrajewska @Women2Date @tvfloripa https://…
+date = Fri Apr 22 17:42:19 +0000 2016| user = Esportessencial| text = RT @soudoesporte: #VaiBrasil! CBDA apresenta equipe para #Rio2016: https://t.co/jRP8IqHzVL
+#EsportesAquáticos
+date = Fri Apr 22 17:42:09 +0000 2016| user = GarneroBrunno| text = @Miltonneves Esse é o país das Olimpíadas! Viva o #Rio2016 #olimpiadas2016 #vergonha #cicloviariodejaneiro https://t.co/izoHEqawCO
+date = Fri Apr 22 17:41:04 +0000 2016| user = soudoesporte| text = #VaiBrasil! CBDA apresenta equipe para #Rio2016: https://t.co/jRP8IqHzVL
+#EsportesAquáticos
+date = Fri Apr 22 17:39:29 +0000 2016| user = cfredbastos| text = RT @alexpussieldi: Nas eliminatorias foram 4 recordes brasileiros e 1 recorde das Américas por Vanilton do Nascimento 57.58 100 livre S9 #r…
+date = Fri Apr 22 17:36:29 +0000 2016| user = Theria2Francine| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #F4F @tvfloripa @channel100TV #RT @Photoxscape https://t.co/…
+date = Fri Apr 22 17:32:42 +0000 2016| user = alexpussieldi| text = Nas eliminatorias foram 4 recordes brasileiros e 1 recorde das Américas por Vanilton do Nascimento 57.58 100 livre S9 #rio2016 #paralympics
+date = Fri Apr 22 17:31:14 +0000 2016| user = bluebusbr| text = RT #Rio2016 | Chama Olímpica ganha perfil no Twitter, relata sua trajetória até o Rio https://t.co/uzLNFpMHqY
+date = Fri Apr 22 17:31:00 +0000 2016| user = alexpussieldi| text = Galera, hoje a partir das 19 horas no SporTV3 acompanhe as provas do Teste Evento da natação paralímpica. #RIO2016 #paralympicgames
+date = Fri Apr 22 17:29:43 +0000 2016| user = AnaMaisAnaSS| text = RT @Brasil2016: Já leu o relato de @giovanegavio, 1º brasileiro a carregar a tocha do #Rio2016? Confira! https://t.co/OnySzZURRn https://t.…
+date = Fri Apr 22 17:26:16 +0000 2016| user = brenobarros| text = na próxima quinta (28) serão anunciados os atletas brasileiros de badminton que vão disputar o #Rio2016
+date = Fri Apr 22 17:25:33 +0000 2016| user = machado_mil| text = #Rio2016 Chama Olímpica ganha perfil no Twitter, relata sua trajetória até o Rio https://t.co/2kuyq5iJpP
+date = Fri Apr 22 17:17:18 +0000 2016| user = HenriqueReis092| text = Galera estou por trás de dois projetos. Sigam também o @MundoArenaTv e a @WRadioEsportes . #Futebol #Esportes #Rio2016 #Automobilismo
+date = Fri Apr 22 17:15:46 +0000 2016| user = panchito_chico| text = RT @Mitty2011: #ciclovia 🚴 #cicloviaTimMaia  #RiodeJaneiro #Luto #RioFalido #Olimpiadas2016 
+#Rio2016 44,7 Milhões #Odebrecht https://t.co/…
+date = Fri Apr 22 17:14:11 +0000 2016| user = walberr| text = RT @TwitterBrasil: Agora você pode acompanhar a viagem da @ChamaOlimpica pelo 🌎  a caminho da @Rio2016: https://t.co/Y9aqPxYx6y https://t.c…
+date = Fri Apr 22 17:13:30 +0000 2016| user = alvaro1773| text = Será q desabamentos da era #RIO2016 já acabaram, ou ainda haverá +NOVIDADE causada pelo "PENSAMENTO negativo" dos golpistas?A conferir....
+date = Fri Apr 22 17:08:53 +0000 2016| user = OOSE7E| text = Isso é o país das olimpíadas!!! 
+#ForaDilma #Rio2016 https://t.co/Jeuz0ZCynQ
+date = Fri Apr 22 16:59:24 +0000 2016| user = esteladelatorre| text = RT @estelargimnasia: Conjuntos clasificados a #Rio2016: 1.RUS 2.BUL 3.ESP 4.ITA 5.JPN 6.ISR 7.BLR 8.CHN 9.EUA 10.UKR 11.ALE 12.UZB 13.GRE 1…
+date = Fri Apr 22 16:58:50 +0000 2016| user = carlinhosnovack| text = Hoje é dia de cobrir as seletivas da natação Paraolímpica pro @Rio2016, mais tarde tá tudo lá no @best_swimming
+date = Fri Apr 22 16:57:55 +0000 2016| user = estelargimnasia| text = Conjuntos clasificados a #Rio2016: 1.RUS 2.BUL 3.ESP 4.ITA 5.JPN 6.ISR 7.BLR 8.CHN 9.EUA 10.UKR 11.ALE 12.UZB 13.GRE 14.BRA ¡Felicidades!
+date = Fri Apr 22 16:54:22 +0000 2016| user = luciomauro| text = @dilmabr Se tiver Olmpíadas Rio2016 o Estádio tb dará as boas vindas a @MichelTemer com o "Hey, Temer, Vai Tomar no C..."!? #SOSCoupInBrazil
+date = Fri Apr 22 16:54:06 +0000 2016| user = BeefEnt| text = RT @TwitterBrasil: Agora você pode acompanhar a viagem da @ChamaOlimpica pelo 🌎  a caminho da @Rio2016: https://t.co/Y9aqPxYx6y https://t.c…
+date = Fri Apr 22 16:47:14 +0000 2016| user = romanoolimpico| text = RT @brenobarros: olha o depoimento do ex-jogador Giovane sobre carregar a tocha do #Rio2016 https://t.co/MmMR6XYjIg https://t.co/JIvsJzGMJ6
+date = Fri Apr 22 16:44:06 +0000 2016| user = AjeebInsaan15| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Fri Apr 22 16:41:35 +0000 2016| user = HenrikCabral| text = #ciclovia #RioOlympics2016 #Rio2016  empresa responsável obra da ciclovia pertence à família de secretário...normal  https://t.co/Mflbrvj2qO
+date = Fri Apr 22 16:40:47 +0000 2016| user = nando_almeidaa| text = RT @welldohnal: Legado das Olimpiadas no valor de 44 milhões de Reais! Ehhhhh paisinho viu #Rio2016
+date = Fri Apr 22 16:36:03 +0000 2016| user = Patyas| text = RT @kell_batista: O que significa "tira uma chama com a Chama Olímpica"? https://t.co/uyCNmgLNU1
+date = Fri Apr 22 16:34:06 +0000 2016| user = kell_batista| text = O que significa "tira uma chama com a Chama Olímpica"? https://t.co/uyCNmgLNU1
+date = Fri Apr 22 16:33:43 +0000 2016| user = pcvieirah| text = RT @Brasil2016: Já leu o relato de @giovanegavio, 1º brasileiro a carregar a tocha do #Rio2016? Confira! https://t.co/OnySzZURRn https://t.…
+date = Fri Apr 22 16:32:56 +0000 2016| user = Magno_Matarazzo| text = Pô está difícil de #Seguidores  hoje hein. Kkk #gay #boysboys #favsdvcomostagueiros #gayboy #Rio2016  #MafiaTraficandoSDV #SextaDetremuraSdv
+date = Fri Apr 22 16:29:17 +0000 2016| user = fpnatacao| text = ABRAÇO OLÍMPICO RIO 2016 
+#AbraçoOlímpico
+#Rio2016
+#MissãoRio2016 https://t.co/uVYLs5lvuD
+date = Fri Apr 22 16:28:56 +0000 2016| user = Rio2016| text = @Monicaspaixao @ChamaOlimpica Haha, isso aí! Melhor tirar mais de uma para garantir :P
+date = Fri Apr 22 16:28:40 +0000 2016| user = yoshi2krunk| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #F4F @tvfloripa @channel100TV #RT @Photoxscape https://t.co/…
+date = Fri Apr 22 16:28:34 +0000 2016| user = welldohnal| text = Legado das Olimpiadas no valor de 44 milhões de Reais! Ehhhhh paisinho viu #Rio2016
+date = Fri Apr 22 16:23:59 +0000 2016| user = JairPagno| text = Curtam Olimpíadas Rio 2016! https://t.co/kYJR2TStUQ
+date = Fri Apr 22 16:21:31 +0000 2016| user = MariaClaraSpine| text = RT @cpboficial: Os #guerreiros paralímpicos estão preparados para a batalha. E vcs? Preparados para torcer? #TEMQUEIR @Rio2016
+https://t.co…
+date = Fri Apr 22 16:17:10 +0000 2016| user = zoreio| text = RT @Brasil2016: O Open Internacional #caixaloterias começou! Os nadadores paralímpicos estão conhecendo o Estádio do #Rio2016 https://t.co/…
+date = Fri Apr 22 16:14:04 +0000 2016| user = Moglysama| text = Tocha Rio 2016 é destaque no Twitter https://t.co/LOIHsbPdAY
+date = Fri Apr 22 16:13:50 +0000 2016| user = Li_Coelho| text = Com essa turma, a diversão é garantida! 🏊🏊🏊 #Rio2016 #eventoteste… https://t.co/yNoExNfEDM
+date = Fri Apr 22 16:12:02 +0000 2016| user = eduardodore| text = RT @bbcbrasil: #RIO2016 O bicampeão olímpico de vôlei Giovane é o 1º brasileiro a carregar Tocha Olímpica, em Olímpia, na Grécia. https://t…
+date = Fri Apr 22 16:07:41 +0000 2016| user = rlvalves| text = RT @JenerTinoco: Twitter lança campanha para Jogos Olímpicos #Rio2016 https://t.co/3qW1djW6U3 https://t.co/1tn3my5Rna
+date = Fri Apr 22 16:06:39 +0000 2016| user = Monicaspaixao| text = @Rio2016 @ChamaOlimpica Eeeeuuuuu!!! Uma não, várias fotos!!!! kkkkk
+date = Fri Apr 22 16:04:07 +0000 2016| user = xesuspena| text = RT @Rio2016: Estamos quase lá! Daqui a pouco a #TochaOlímpica estará acesa! Tá lindo! @ChamaOlimpica 🔥❤ Foto:André Luiz Mello https://t.co/…
+date = Fri Apr 22 16:03:00 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: A evolução das tochas ao longo dos Jogos Olímpicos! À direita, a atual e representante do #Rio2016 https://t.co/dGLd20gpme
+date = Fri Apr 22 16:02:51 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Austrália divulga uniformes de Vila Olímpica, atletismo e basquete para #Rio2016. O verde leve substituiu o azul. https:/…
+date = Fri Apr 22 16:02:44 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: O Comitê Olímpico da Austrália também divulgou o uniforme que será usado na Cerimônia de Abertura dos Jogos #Rio2016 http…
+date = Fri Apr 22 16:02:37 +0000 2016| user = simoneya| text = RT @prosapolitica: -E o superfaturamento das obras da #Rio2016 Dilma?
+-É golpe!
+-E o acidente na ciclovia?
+-É golpe! https://t.co/jnGdQQi6eh
+date = Fri Apr 22 16:02:22 +0000 2016| user = AlbertoSanttos| text = RT @SeuEsporteBR: Alemanha, Uzbequistão e Grécia ganharam sua vaga na ginástica rítmica. Ficamos em 5º mas já classificados! #Rio2016 https…
+date = Fri Apr 22 16:02:18 +0000 2016| user = prnewswirebr| text = @Bradesco lança #filme sobre Revezamento da #TochaOlimpica https://t.co/prkoGgXZ3o^AS Via @propmark #publicidade #Rio2016 #olipiadas #mkt
+date = Fri Apr 22 16:01:26 +0000 2016| user = JenerTinoco| text = Twitter lança campanha para Jogos Olímpicos #Rio2016 https://t.co/3qW1djW6U3 https://t.co/1tn3my5Rna
+date = Fri Apr 22 16:00:36 +0000 2016| user = Brasil2016| text = Já leu o relato de @giovanegavio, 1º brasileiro a carregar a tocha do #Rio2016? Confira! https://t.co/OnySzZURRn https://t.co/aEI242Z0Sm
+date = Fri Apr 22 16:00:32 +0000 2016| user = armandorjbr| text = RT @gustavo_fields: Se a tocha olímpica acender, já estamos no lucro! #rio2016
+date = Fri Apr 22 15:59:57 +0000 2016| user = FeedNatacao| text = Brasil exibe seus maiores astros em evento-teste do https://t.co/2FuhZpWhk4
+date = Fri Apr 22 15:58:39 +0000 2016| user = Rio2016| text = Quem também quer tira uma chama com a @ChamaOlimpica e a #TochaOlímpica? 📱🔥 https://t.co/s9vHwdn91G
+date = Fri Apr 22 15:57:42 +0000 2016| user = simidea| text = “Juntos Nós Movemos o Mundo” --&gt; https://t.co/REYEfv7ASm  #Rio2016
+date = Fri Apr 22 15:54:03 +0000 2016| user = Guiadolitoral| text = Rio 2016: Tocha Olímpica passará por Ilhabela no dia 25 de julho- #rio2016 #ilhabela https://t.co/TUy6IMd8Ea https://t.co/xR5gSpjuEm
+date = Fri Apr 22 15:52:21 +0000 2016| user = chichaboliviana| text = RT @dilmabr: Inaugurei hj o Estádio Aquático Olímpico, no RJ, q será palco das competições de natação e pólo aquático do @Rio2016 https://t…
+date = Fri Apr 22 15:50:27 +0000 2016| user = maquinaesporte| text = Veja a campanha do COI para o @Rio2016!
+
+https://t.co/WZstP5MA53
+date = Fri Apr 22 15:45:34 +0000 2016| user = marciomtc| text = #Rio2016 | Chama Olímpica ganha perfil no Twitter, relata sua trajetória até o Rio https://t.co/COhuy27A3L
+date = Fri Apr 22 15:42:56 +0000 2016| user = SeuEsporteBR| text = Alemanha, Uzbequistão e Grécia ganharam sua vaga na ginástica rítmica. Ficamos em 5º mas já classificados! #Rio2016 https://t.co/i3pgDmv7cB
+date = Fri Apr 22 15:39:05 +0000 2016| user = kcraFitz| text = obrigado! #rio2016 #nbcolympics  https://t.co/GDLGA8mAng
+date = Fri Apr 22 15:38:52 +0000 2016| user = DJDesulA| text = @Miltonneves É o fim.... Vergonha, tristeza e descaso !! Rumo ao #Rio2016
+date = Fri Apr 22 15:37:56 +0000 2016| user = silvia_sul| text = RT @prosapolitica: -E o superfaturamento das obras da #Rio2016 Dilma?
+-É golpe!
+-E o acidente na ciclovia?
+-É golpe! https://t.co/jnGdQQi6eh
+date = Fri Apr 22 15:35:10 +0000 2016| user = cidade_maravilh| text = RT @avicari2: Ciao Ciao Rio! See you next time... Muito Obrigado!  #rio #copacabana #rio2016 #brazil #laplaya… https://t.co/AVLaH6j1dl
+date = Fri Apr 22 15:31:04 +0000 2016| user = LOVELY_DDOG| text = Triste e lamentável!
+Esse é o clima no ano das olimpíadas...
+#Rio2016 https://t.co/Ie4eipjold
+date = Fri Apr 22 15:28:17 +0000 2016| user = Monicaspaixao| text = @Rio2016 Giovane, eu vou correr com a tocha tão rápido quanto você!!! kkkk A gente fica com vontade de não acabar nunca esse momento!!!!
+date = Fri Apr 22 15:24:11 +0000 2016| user = avicari2| text = Ciao Ciao Rio! See you next time... Muito Obrigado!  #rio #copacabana #rio2016 #brazil #laplaya… https://t.co/AVLaH6j1dl
+date = Fri Apr 22 15:24:09 +0000 2016| user = sebasti4o| text = Até agora não vi os "artistas" W. Moura e L. Sabatella se manifestarem sobre a queda da ciclovia no Rio. Ah tá... isso não é golpe. #Rio2016
+date = Fri Apr 22 15:22:44 +0000 2016| user = maf10721965| text = RT @tvfloripa: Welcome Rio de Janeiro #Brazil #Rio2016 #RoadToRio #Olimpia2016 #F4F @tvfloripa @channel100TV #RT @Photoxscape https://t.co/…
+date = Fri Apr 22 15:22:23 +0000 2016| user = brenobarros| text = olha o depoimento do ex-jogador Giovane sobre carregar a tocha do #Rio2016 https://t.co/MmMR6XYjIg https://t.co/JIvsJzGMJ6
+date = Fri Apr 22 15:21:12 +0000 2016| user = DaniellaRossi| text = Evento teste #rio2016 @ Arena Olímpica Do Rio https://t.co/2r7EpeQODO
+date = Fri Apr 22 15:19:57 +0000 2016| user = marilajolo| text = Cielo fora da @Rio2016 e as dificuldades de se manter no topo https://t.co/Ld6BXyoM4O via @folha_com
+date = Fri Apr 22 15:17:46 +0000 2016| user = dayanegaby_d| text = RT @minesporte: Com a chama olímpica acesa na Grécia, tem início o tour rumo aos Jogos #Rio2016. https://t.co/C3wfNbW6AH https://t.co/9HhMF…
+date = Fri Apr 22 15:14:36 +0000 2016| user = premissadevida| text = RT @prosapolitica: -E o superfaturamento das obras da #Rio2016 Dilma?
+-É golpe!
+-E o acidente na ciclovia?
+-É golpe! https://t.co/jnGdQQi6eh
+date = Fri Apr 22 15:13:05 +0000 2016| user = zabin| text = RT @NickEllis: Explica essa, @Rio2016??? https://t.co/2NhDAgBfiy
+date = Fri Apr 22 15:11:21 +0000 2016| user = UKGovTweets| text = RT @ukinbrazil: A #TochaOlímpica está acesa! A @ChamaOlimpica já está caminho dos Jogos @Rio2016 no Brasil! 🔥✨ https://t.co/bjf7LEW4H0
+date = Fri Apr 22 15:10:20 +0000 2016| user = NickEllis| text = Explica essa, @Rio2016??? https://t.co/2NhDAgBfiy
+date = Fri Apr 22 15:09:14 +0000 2016| user = NatashaVianna| text = How Brasil prepares for #Rio2016  https://t.co/2LfdDAXDCK
+date = Fri Apr 22 /usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+15:09:00 +0000 2016| user = EricoFnando| text = morto, azerbaijão vai perder a vaga olímpica #AqueceRio #Rio2016 #ginasticaritmica
+date = Fri Apr 22 15:06:11 +0000 2016| user = jornal_opopular| text = Nissan Kicks tem dianteira revelada. https://t.co/0IiWsBS7ka #NissanKicks #Nissan #Rio2016 #Olimpiada https://t.co/PC3HRloCno
+date = Fri Apr 22 15:01:53 +0000 2016| user = RedeAngola_INFO| text = Chama olímpica já foi acesa na Grécia https://t.co/i48a0F7OEt #RADesporto #Grécia #Rio2016 #JogosOlímpicos
+date = Fri Apr 22 15:00:40 +0000 2016| user = minesporte| text = Com a chama olímpica acesa na Grécia, tem início o tour rumo aos Jogos #Rio2016. https://t.co/C3wfNbW6AH https://t.co/9HhMF3kUHF
+date = Fri Apr 22 14:58:06 +0000 2016| user = hbucheri| text = Fizeram o perfil da Tocha dos Jogos Olímpicos no twitter!  @ChamaOlimpica #Rio2016
+date = Fri Apr 22 14:51:13 +0000 2016| user = Monicaspaixao| text = RT @felipepower: "A força que nos une é maior que aquilo que nos separa" #TochaOlimpica #Rio2016 https://t.co/BTzKolIbOG
+date = Fri Apr 22 14:50:29 +0000 2016| user = FeSmoak| text = @JulyGQueen https://t.co/w3C4aBB8Zb
+é aqui kakakakaka

@@ -1,0 +1,764 @@
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+date = Thu Mar 17 03:09:49 +0000 2016| user = ricardohirano| text = Notícias https://t.co/zXCzcJ8k62
+date = Thu Mar 17 03:07:39 +0000 2016| user = Pentatlo| text = |IMPERDÍVEL| A @Rio2016 lista 5 motivos p/ ñ se perder o @Pentatlo nos Jogos Olímpicos... https://t.co/dVuEG411Wu
+date = Thu Mar 17 03:01:17 +0000 2016| user = Gabs_do_Chris| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Thu Mar 17 02:56:35 +0000 2016| user = Bia_S1lvah| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 02:53:21 +0000 2016| user = theflawh| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 02:51:19 +0000 2016| user = horanshyyt| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 02:38:11 +0000 2016| user = SousaSsousa2003| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 02:35:09 +0000 2016| user = marcellyferraz_| text = RT @g1: Rio 2016: ainda há vagas para elenco das festas de abertura e encerramento https://t.co/rdT3u0oT0q #G1 https://t.co/mOxnezLGSH
+date = Thu Mar 17 02:32:53 +0000 2016| user = GRIMESAVER| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 02:29:49 +0000 2016| user = estatisticaFAS| text = "@VilmaFGuerra: Agora é oficial. Tudo encaminhando-se para eu conduzir a tocha olímplica. @OUrsoOficial @CocaCola_Br #Rio2016
+date = Thu Mar 17 02:27:57 +0000 2016| user = estatisticaFAS| text = RT @VilmaFGuerra: Agora é oficial. Tudo encaminhando-se para eu conduzir a tocha olímplica. @OUrsoOficial @CocaCola_Br #Rio2016 https://t.c…
+date = Thu Mar 17 02:25:06 +0000 2016| user = allforbuchmann| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Thu Mar 17 02:23:47 +0000 2016| user = LaysHelena| text = RT @brunavieira: OMG! 😱 Acabei de saber que fui selecionado pra carregar a  #TochaOlimpica #Rio2016, valeu @CocaCola_br AHHHHHHH!!!
+date = Thu Mar 17 02:23:09 +0000 2016| user = Tiah_doTao| text = RT @brazilkorea: Kim Jae Bum é um dos judocas + bem sucedidos na #Coreia e participará dos Jogos do #Rio2016: https://t.co/m12zbH14ef https…
+date = Thu Mar 17 02:22:50 +0000 2016| user = zeneretrendy| text = RT @brunavieira: OMG! 😱 Acabei de saber que fui selecionado pra carregar a  #TochaOlimpica #Rio2016, valeu @CocaCola_br AHHHHHHH!!!
+date = Thu Mar 17 02:19:47 +0000 2016| user = MEPEGAKAIO| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 02:19:26 +0000 2016| user = allforbuchmann| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 02:19:17 +0000 2016| user = VilmaFGuerra| text = A hora está chegando. Isso é Ouro, isso é FELICIDADE! @OUrsoOficial @CocaCola_Br #Rio2016 https://t.co/mcGHCVL5dJ
+date = Thu Mar 17 02:17:42 +0000 2016| user = VilmaFGuerra| text = Agora é oficial. Tudo encaminhando-se para eu conduzir a tocha olímplica. @OUrsoOficial @CocaCola_Br #Rio2016 https://t.co/olhVeCe2jC
+date = Thu Mar 17 02:16:42 +0000 2016| user = CataPlaDi| text = RT @TomRio2016: Alguém pode me ajudar a dominar essa bola? 🙈⚽ #Futebolde5 #JogosParalímpicos #Rio2016 @cpboficial @Paralympics https://t.co…
+date = Thu Mar 17 02:10:02 +0000 2016| user = 83thiagao| text = RT @SurtoOlimpico: A @UCI_cycling anunciou as vagas do Ciclismo de Pista para o @Rio2016 https://t.co/bCCFnlI2gi https://t.co/tuvvuP9DRh
+date = Thu Mar 17 02:09:20 +0000 2016| user = perriestrings| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 02:07:08 +0000 2016| user = SENPAIMENOTE| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 02:05:03 +0000 2016| user = Dudado_Bieber| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 02:04:59 +0000 2016| user = VidblogVidigal| text = SOLUÇÃO PARA OS PROBLEMAS DO BRT TRANSOESTE: GÁS LACRIMOGÊNEO!! 
+#VemPraRuaBrasil 
+#Rio2016 
+#BRT 
+
+Insatisfeitos... https://t.co/28AxujPskL
+date = Thu Mar 17 02:04:17 +0000 2016| user = sales_amaral| text = RT @santos_agora: #Rio2016 Entre os 31/8 e 4/9, #Santos vai promover a 3ª edição do Congresso Internacional de Ciência, Educação e Medicina…
+date = Thu Mar 17 02:02:24 +0000 2016| user = _Juandeejhay| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 02:02:17 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A Vila Olímpica do @Rio2016 começa a ser mobiliada https://t.co/HIKBlMMBvp https://t.co/1X9htrGteB
+date = Thu Mar 17 02:02:14 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A @UCI_cycling anunciou as vagas do Ciclismo de Pista para o @Rio2016 https://t.co/bCCFnlI2gi https://t.co/tuvvuP9DRh
+date = Thu Mar 17 02:01:59 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: A @wada_ama vai liderar força tarefa contra o doping antes do @Rio2016 https://t.co/U0PlHsEd14 https://t.co/wpn0Y0eBHE
+date = Thu Mar 17 02:01:55 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Corredor britânico muda de nacionalidade para o @Rio2016 https://t.co/ofeiJKrdqN https://t.co/VEuPg0Ftwb
+date = Thu Mar 17 02:01:52 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Atletas do México de Esportes Aquáticos poderão competir sob a bandeira do pais no @Rio2016 https://t.co/UNdDacr3Nw http…
+date = Thu Mar 17 02:01:46 +0000 2016| user = Regys_Silva| text = RT @SurtoOlimpico: Jogador do @Patriots, @Natebner34 quer disputar o Rugby Sevens no @Rio2016 https://t.co/j7a9viXGuI https://t.co/yC2L8YJa…
+date = Thu Mar 17 02:00:54 +0000 2016| user = lovedanixx| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 01:59:59 +0000 2016| user = carlino92| text = @Rio2016 @pathy @CocaCola_Br porque no site não saiu nada?
+date = Thu Mar 17 01:59:42 +0000 2016| user = tulin_16| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 01:59:18 +0000 2016| user = SurtoOlimpico| text = A Vila Olímpica do @Rio2016 começa a ser mobiliada https://t.co/HIKBlMMBvp https://t.co/1X9htrGteB
+date = Thu Mar 17 01:58:47 +0000 2016| user = cocieloosasco| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 01:58:38 +0000 2016| user = SurtoOlimpico| text = A @UCI_cycling anunciou as vagas do Ciclismo de Pista para o @Rio2016 https://t.co/bCCFnlI2gi https://t.co/tuvvuP9DRh
+date = Thu Mar 17 01:55:46 +0000 2016| user = elydrika| text = RT @TheBlurBarbosa: As meninas da Seleção de Polo Aquático estão fazendo uma campanha para o @Rio2016 🇧🇷
+https://t.co/BMZuTkkk8e https://t.…
+date = Thu Mar 17 01:55:36 +0000 2016| user = SurtoOlimpico| text = A @wada_ama vai liderar força tarefa contra o doping antes do @Rio2016 https://t.co/U0PlHsEd14 https://t.co/wpn0Y0eBHE
+date = Thu Mar 17 01:54:49 +0000 2016| user = SurtoOlimpico| text = Corredor britânico muda de nacionalidade para o @Rio2016 https://t.co/ofeiJKrdqN https://t.co/VEuPg0Ftwb
+date = Thu Mar 17 01:54:11 +0000 2016| user = SurtoOlimpico| text = Atletas do México de Esportes Aquáticos poderão competir sob a bandeira do pais no @Rio2016 https://t.co/UNdDacr3Nw https://t.co/o2OmgmAd1a
+date = Thu Mar 17 01:53:02 +0000 2016| user = SurtoOlimpico| text = Jogador do @Patriots, @Natebner34 quer disputar o Rugby Sevens no @Rio2016 https://t.co/j7a9viXGuI https://t.co/yC2L8YJa36
+date = Thu Mar 17 01:51:04 +0000 2016| user = Fpjump| text = O ministro George Hilton do @minesporte é um cagão! #Rio2016 #LulaMinistro
+date = Thu Mar 17 01:38:39 +0000 2016| user = lari669| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 01:20:49 +0000 2016| user = MaluNascP| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 01:20:06 +0000 2016| user = CassieStag| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Thu Mar 17 01:19:55 +0000 2016| user = MalloJulia| text = RT @SODMGLucas: Quadra da escola já está pique natação, Brota #Rio2016 https://t.co/x03zjFi5MK
+date = Thu Mar 17 01:19:30 +0000 2016| user = welldohnal| text = Outro ridículo! Não vai ter #Rio2016  https://t.co/9qDXi1BtcW
+date = Thu Mar 17 01:17:36 +0000 2016| user = dharasouza360| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 01:13:50 +0000 2016| user = rogermaia16| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 01:01:39 +0000 2016| user = engel_na| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:55:13 +0000 2016| user = AmandaSimao09| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:50:39 +0000 2016| user = WxyTry| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:49:58 +0000 2016| user = EXPERTSEG| text = Sungas, Maios e Biquinis FABIOLA MOLINA - JOGOS OLÍMPICOS RIO2016.
+
+À venda nas lojas RIO2016 , dentro dos... https://t.co/fJP8XMXAaI
+date = Thu Mar 17 00:48:23 +0000 2016| user = _opssharry| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:43:55 +0000 2016| user = PLUSJAUREGUII| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:42:22 +0000 2016| user = justunderbr| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:41:57 +0000 2016| user = zoerariana| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:40:03 +0000 2016| user = Maria_isabellee| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:38:52 +0000 2016| user = Isaflyer33| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:37:48 +0000 2016| user = beadlescuzao| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:36:50 +0000 2016| user = watchachina| text = Tocha Olímpica vai apresentar ao mundo alguns dos lugares mais bonitos do Brasil https://t.co/N8ZhIjEixD
+date = Thu Mar 17 00:36:13 +0000 2016| user = JRmilek| text = E as novas manobras da ginástica política são Duplo Twist Sabão (da Silva) vs. Flip Flap Grampeado (Moro). Quem ganha medalha em Rio2016?
+date = Thu Mar 17 00:34:31 +0000 2016| user = ParkMayIludida| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:34:08 +0000 2016| user = pessoawander71| text = Aehh Parabéns @Monicaspaixao Estamos juntos nessa jornada! @Rio2016 #ChamaGeral
+date = Thu Mar 17 00:33:59 +0000 2016| user = andrecussatt| text = RT @exercitooficial: Forças Armadas contarão com 38 mil militares nos Jogos #Rio2016 https://t.co/BaOMY1SaHa
+date = Thu Mar 17 00:33:48 +0000 2016| user = anacomhyformaan| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:30:11 +0000 2016| user = Street_Elias| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:29:15 +0000 2016| user = pessoawander71| text = Divulgadas as primeiras listas de condutores da tocha Olímpica: confira quem vai fazer história nos Jogos Rio 2016 https://t.co/aL57mKpO4Y
+date = Thu Mar 17 00:21:14 +0000 2016| user = Augusto_Horizon| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Thu Mar 17 00:20:23 +0000 2016| user = favfig| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Thu Mar 17 00:19:50 +0000 2016| user = dzgllitter| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:18:07 +0000 2016| user = anaclara_fraca| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:18:02 +0000 2016| user = Galdino_15| text = RT @TomRio2016: Transformar o que era lixo em um brinquedo pode te render #IngressosRio2016! #DesafioAbraça https://t.co/YqgH1vPpUJ https:/…
+date = Thu Mar 17 00:14:56 +0000 2016| user = eumarcelopedro| text = RT @juliozulu13: Acabo de ver na #TvSenado q foi aprovado benéfico fiscal para as distribuidoras de energia nas olimpíadas. Aponte o erro?
+…
+date = Thu Mar 17 00:14:13 +0000 2016| user = TOVARYSAMIA| text = Divulgadas as primeiras listas de condutores da tocha Olímpica: confira quem vai fazer história nos Jogos Rio 2016 https://t.co/MxRLPjLgvb
+date = Thu Mar 17 00:13:51 +0000 2016| user = piscinaoSG| text = RT @TomRio2016: Transformar o que era lixo em um brinquedo pode te render #IngressosRio2016! #DesafioAbraça https://t.co/YqgH1vPpUJ https:/…
+date = Thu Mar 17 00:12:57 +0000 2016| user = josy_josykah| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:06:41 +0000 2016| user = BiggerZaynDick_| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Thu Mar 17 00:01:32 +0000 2016| user = coxinha_ka| text = RT @beccapires: GENTE!!! Fui selecionada pra carregar a #TochaOlimpica nas Olimpíadas #Rio2016 😍 Obrigada @CocaCola_Br vai ser IRADO ❤️👊🏼
+date = Wed Mar 16 23:58:20 +0000 2016| user = ThalyaDu| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 23:55:07 +0000 2016| user = gbragatwit| text = RT @Rio2016: #Rio2016 oferece chance de primeira experiência profissional para jovens: https://t.co/sfMGfrlNIk https://t.co/OWxFgr8dU2
+date = Wed Mar 16 23:53:48 +0000 2016| user = Geovane_Soares1| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:50:15 +0000 2016| user = CehCastagnoli| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:48:25 +0000 2016| user = mafiaconecriu| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 23:48:21 +0000 2016| user = GiovannaSelle| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:45:18 +0000 2016| user = oppsuzumaki| text = RT @kaiooliveiras: AEEEEEEEEEEE! galera, acabei de receber a notícia q eu tmb vou participar do revezamento da #TochaOlimpica #Rio2016! Val…
+date = Wed Mar 16 23:45:14 +0000 2016| user = oppsuzumaki| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 23:44:47 +0000 2016| user = maribrunetta| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:44:47 +0000 2016| user = oppsuzumaki| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:44:41 +0000 2016| user = oppsuzumaki| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 23:43:59 +0000 2016| user = oppsuzumaki| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 23:42:40 +0000 2016| user = OliSophia| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 23:42:23 +0000 2016| user = nutellitamalik| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:40:45 +0000 2016| user = alexsandraponce| text = RT @portalbrasil: 🇧🇷👍 Brasil está pronto para os Jogos #Rio2016, diz presidente da @EmbraturNews https://t.co/mowphRUmdZ
+date = Wed Mar 16 23:40:24 +0000 2016| user = vsk_samucks| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 23:39:17 +0000 2016| user = coimbramariap| text = RT @portalbrasil: 🇧🇷👍 Brasil está pronto para os Jogos #Rio2016, diz presidente da @EmbraturNews https://t.co/mowphRUmdZ
+date = Wed Mar 16 23:34:38 +0000 2016| user = tassoevan| text = Acabei de ser lembrado que tem as Olimpíadas #Rio2016 ainda por cima. Se não cancelarem por causa da Zika, será por c/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+ausa da zica.
+date = Wed Mar 16 23:31:56 +0000 2016| user = OliSophia| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:31:49 +0000 2016| user = leandro__souz| text = @Rio2016 @kaiooliveiras @CocaCola_Br amigo com e esse negócio de tocha onde participo dar tempo
+date = Wed Mar 16 23:31:27 +0000 2016| user = leandro__souz| text = @Rio2016 @BryanFritzC @CocaCola_Br amigo com e esse negócio de tocha onde participo dar tempo
+date = Wed Mar 16 23:31:20 +0000 2016| user = leandro__souz| text = @williamfda @Rio2016 @OUrsoOficial @CocaCola_Br amigo com e esse negócio de tocha onde participo dar tempo
+date = Wed Mar 16 23:31:15 +0000 2016| user = Pqp_Roh| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 23:28:44 +0000 2016| user = leandro__souz| text = @mpires70 @lullylucky @CocaCola_Br @Rio2016 ai amigo com e esse negócio de tocha onde participo dar tempo
+date = Wed Mar 16 23:23:48 +0000 2016| user = camsslty| text = RT @pathy: Uhhuulll!! Eu fui escolhida pra ser uma das condutoras da #TochaOlimpica!! Obrigada @CocaCola_Br o #Rio2016 que me aguarde!
+date = Wed Mar 16 23:23:37 +0000 2016| user = httwpink| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:21:37 +0000 2016| user = GustavoM2014| text = RT @portalbrasil: 🚆 Obras da linha 4 do metrô do Rio estão 90% concluídas https://t.co/q2UupU8PTP #Rio2016
+date = Wed Mar 16 23:21:07 +0000 2016| user = YesbananasSport| text = Yes!Sports - PRB deixa base de Dilma, e ministro do Esporte está perto de mudar:  https://t.co/1P8AHASPQZ #sports #esportes
+date = Wed Mar 16 23:21:02 +0000 2016| user = FutebolEspiao| text = PRB deixa base de Dilma, e ministro do Esporte está perto de mudar https://t.co/6lwRMGtsrU
+date = Wed Mar 16 23:21:00 +0000 2016| user = PortalEsporte10| text = PRB deixa base de Dilma, e ministro do Esporte está perto de mudar https://t.co/HTwRKwc0F0
+date = Wed Mar 16 23:20:56 +0000 2016| user = BrunoJaquet03| text = PRB deixa base de Dilma, e ministro do Esporte está perto de mudar:  https://t.co/EBagiFUP4C
+date = Wed Mar 16 23:19:49 +0000 2016| user = ffabretti| text = AGORA É OFICIAL! Serei um dos 12 mil condutores a carregar a #TochaOlímpica #Rio2016! Muito… https://t.co/lAss06GfME
+date = Wed Mar 16 23:19:12 +0000 2016| user = laarimorello| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:18:17 +0000 2016| user = l3ddylove_| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 23:18:11 +0000 2016| user = SORRYSHAWNM| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 23:17:33 +0000 2016| user = Julialovatics2| text = RT @WhoIsCarlos: GENTEE MIM SEGURA MEU CORASSAUM EU TO AHIAKSJSJS VOU CARREGAR A #TochaOlímpica #Rio2016 valeu @CocaCola_Br https://t.co/Ko…
+date = Wed Mar 16 23:17:27 +0000 2016| user = HangoutGio| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 23:14:21 +0000 2016| user = flavioguilberty| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 23:11:52 +0000 2016| user = destinoolimpico| text = RT @cpboficial: Os #guerreiros paralímpicos estão preparados para a batalha. E vcs? Preparados para torcer? #TEMQUEIR @Rio2016
+https://t.co…
+date = Wed Mar 16 23:11:34 +0000 2016| user = TonyRojas| text = RT @cpboficial: Os #guerreiros paralímpicos estão preparados para a batalha. E vcs? Preparados para torcer? #TEMQUEIR @Rio2016
+https://t.co…
+date = Wed Mar 16 23:09:33 +0000 2016| user = luciowanderley| text = Em meio a mudanças, George Hilton deixa Ministério do Esporte, diz TV via @UOLEsporte #Rio2016   https://t.co/37kEUf7UKV
+date = Wed Mar 16 23:03:35 +0000 2016| user = josi_peixinho| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 23:02:17 +0000 2016| user = honeymlarry| text = RT @pathy: Uhhuulll!! Eu fui escolhida pra ser uma das condutoras da #TochaOlimpica!! Obrigada @CocaCola_Br o #Rio2016 que me aguarde!
+date = Wed Mar 16 23:01:52 +0000 2016| user = Rosenir_2010| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 22:59:43 +0000 2016| user = Hank_Tornacioli| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:59:28 +0000 2016| user = clexapqp| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:59:27 +0000 2016| user = DanNegresco| text = Recebi o email de confirmação 🎉
+Resultado final, sou um condutor oficial da tocha olímpica! @Rio2016 @OUrsoOficial @Monicaspaixao
+date = Wed Mar 16 22:58:04 +0000 2016| user = cryhoranx| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 22:57:05 +0000 2016| user = luanskid| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 22:55:38 +0000 2016| user = anazeferino76| text = RT @santos_agora: #Rio2016 Entre os 31/8 e 4/9, #Santos vai promover a 3ª edição do Congresso Internacional de Ciência, Educação e Medicina…
+date = Wed Mar 16 22:53:12 +0000 2016| user = Juuh_Meds| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:52:26 +0000 2016| user = Giiovannaa_1D| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:52:07 +0000 2016| user = ooe_tee| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:51:09 +0000 2016| user = williamfda| text = @Rio2016 @OUrsoOficial @CocaCola_Br Fui selecionado para conduzir a Tocha Olímpica! #IssoEOuro #TochaOlimpica #Rio2016
+date = Wed Mar 16 22:50:06 +0000 2016| user = kamilavieira12| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 22:50:01 +0000 2016| user = GyoJadh| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:47:42 +0000 2016| user = andrezous| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:46:28 +0000 2016| user = juhprestes_| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:42:45 +0000 2016| user = potats_Muke| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 22:41:17 +0000 2016| user = camillynobre11| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:40:50 +0000 2016| user = PedroSilveira7| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/hPTnHgWVZC || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = AtletiCorneta| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/JSPwnWheTY || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = ismahsantos| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/eWp1gq5nLZ || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = Fred_Metro2002| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/WN5XXq5OtB || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = VitorBatata3| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/P496ozrZ29 || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = MatheusGarzon| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/fzgzTedKFm || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = imastargirl| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/wFrV70pNU9 || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = _SiilvaSCFC| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/3BP9XVNn6i || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = acfmarcelo| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/LSHGr8fiSA || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = LuigiLouco999| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/TPyNgAMB6D || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = lsouza73| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/LaGHjmVVvm || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = stebozza| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/gfNHIUXVtS || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = BorjaFrancisco_| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/VeptX7XrYM || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = Edumaya7| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/SdLVLezhZr || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = _MFreitas9_| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/TqnFR8Jj84 || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = roberto_kza| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/ms4b3ACFqw || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = leo_fernandes_9| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/WTNU85Lv2V || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = RodriPortuga| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/Gn76f6sIHH || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = _guigoluis| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/nhC5yq05Jc || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = biapessoaguiar| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/Dn1G89XGNM || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:40:50 +0000 2016| user = ismacedo_| text = Aquecimento Olímpico: Tiro Esportivo || https://t.co/tbsIDWiZo7 || Por @leo_fernandes_9 #Rio2016 #Olimpíadas
+date = Wed Mar 16 22:37:00 +0000 2016| user = damiaoo65228488| text = RT @portalbrasil: 🇧🇷👍 Brasil está pronto para os Jogos #Rio2016, diz presidente da @EmbraturNews https://t.co/mowphRUmdZ
+date = Wed Mar 16 22:36:44 +0000 2016| user = tommicro| text = RT @SuperVia_trens: Quem passar pela Central amanhã poderá se informar sobre as inscrições para trabalhar nos Jogos Olímpicos Rio2016: http…
+date = Wed Mar 16 22:36:23 +0000 2016| user = paulocolnaghi| text = RT @luizatrajano: E o Projeto Jovem Aprendiz Desporto está com 450 vagas abertas pra quem quer atuar nos Jogos! #Rio2016 #oportunidade http…
+date = Wed Mar 16 22:31:11 +0000 2016| user = worldlira| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:30:59 +0000 2016| user = Gabuxita_| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:30:59 +0000 2016| user = tyjasmin| text = RT @portalbrasil: 🇧🇷👍 Brasil está pronto para os Jogos #Rio2016, diz presidente da @EmbraturNews https://t.co/mowphRUmdZ
+date = Wed Mar 16 22:30:41 +0000 2016| user = oConsciente| text = portalbrasil: 🇧🇷👍 Brasil está pronto para os Jogos #Rio2016, diz presidente da EmbraturNews https://t.co/udHTknBdhQ
+date = Wed Mar 16 22:30:16 +0000 2016| user = portalbrasil| text = 🇧🇷👍 Brasil está pronto para os Jogos #Rio2016, diz presidente da @EmbraturNews https://t.co/mowphRUmdZ
+date = Wed Mar 16 22:29:30 +0000 2016| user = luizatrajano| text = E o Projeto Jovem Aprendiz Desporto está com 450 vagas abertas pra quem quer atuar nos Jogos! #Rio2016 #oportunidade https://t.co/xfLUSKHMwB
+date = Wed Mar 16 22:28:18 +0000 2016| user = wkndallas| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 22:25:52 +0000 2016| user = karinesouza04| text = RT @kaiooliveiras: AEEEEEEEEEEE! galera, acabei de receber a notícia q eu tmb vou participar do revezamento da #TochaOlimpica #Rio2016! Val…
+date = Wed Mar 16 22:22:07 +0000 2016| user = Aninha_Hobbit| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:17:19 +0000 2016| user = JrWandeir| text = @Englishtown_BR @JrWandeir MAS O APP NÃO DA DIREITO AO #RIO2016
+date = Wed Mar 16 22:17:19 +0000 2016| user = _AmandaLrds| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 22:17:09 +0000 2016| user = cyrusarrandoo| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:15:46 +0000 2016| user = matheusbr72| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 22:13:45 +0000 2016| user = joicejgb| text = RT @eduardodl2: Eu sou ouro! Valeu @CocaCola_Br! @OUrsoOficial @LucianoHuck @Rio2016  #IssoÉOuro #IssoMereceUmBrinde #TochaOlímpica https:/…
+date = Wed Mar 16 22:13:32 +0000 2016| user = cristiina76| text = RT @WhoIsCarlos: GENTEE MIM SEGURA MEU CORASSAUM EU TO AHIAKSJSJS VOU CARREGAR A #TochaOlímpica #Rio2016 valeu @CocaCola_Br https://t.co/Ko…
+date = Wed Mar 16 22:09:25 +0000 2016| user = Step_hanyy| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 22:09:03 +0000 2016| user = allonsyoongi| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 22:08:49 +/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+0000 2016| user = boratogabi_| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 22:06:42 +0000 2016| user = hfcarvalhal| text = @TransitoRioRJ @NewsMobilidade esse são os trens q vão transportar as pessoas nas olimpíadas @eduardopaes_  VERGONHA #Rio2016 @LeiSecaRJ
+date = Wed Mar 16 22:06:35 +0000 2016| user = santos_agora| text = #Rio2016 Entre os 31/8 e 4/9, #Santos vai promover a 3ª edição do Congresso Internacional de Ciência, Educação e Medicina Esportiva
+date = Wed Mar 16 22:03:57 +0000 2016| user = JujuBijuLove| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 21:59:48 +0000 2016| user = JanaainaR| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 21:59:19 +0000 2016| user = AndrewsRibeiro| text = RT @TomRio2016: Transformar o que era lixo em um brinquedo pode te render #IngressosRio2016! #DesafioAbraça https://t.co/YqgH1vPpUJ https:/…
+date = Wed Mar 16 21:52:27 +0000 2016| user = ArajoDarcy| text = RT @TomRio2016: Transformar o que era lixo em um brinquedo pode te render #IngressosRio2016! #DesafioAbraça https://t.co/YqgH1vPpUJ https:/…
+date = Wed Mar 16 21:52:21 +0000 2016| user = Rio2016| text = RT @TomRio2016: Transformar o que era lixo em um brinquedo pode te render #IngressosRio2016! #DesafioAbraça https://t.co/YqgH1vPpUJ https:/…
+date = Wed Mar 16 21:37:31 +0000 2016| user = daniloc38792407| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 21:36:17 +0000 2016| user = SurtoOlimpico| text = A russa corre risco de ser suspensa pela segunda vez, o que a tiraria do @Rio2016 e pegaria uma suspensão maior.
+date = Wed Mar 16 21:33:49 +0000 2016| user = franzoocaas2| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 21:33:10 +0000 2016| user = corotegang| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 21:32:50 +0000 2016| user = marciav2015| text = RT @DefesaGovBr: 🇧🇷 Casa do Time Brasil nos Jogos já está sendo usada na preparação das equipes nacionais: https://t.co/Are1x7QhCu via @Bra…
+date = Wed Mar 16 21:30:32 +0000 2016| user = L34uuu| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 21:28:58 +0000 2016| user = daniloc38792407| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 21:16:48 +0000 2016| user = sakuranaru1| text = RT @brazilkorea: Kim Jae Bum é um dos judocas + bem sucedidos na #Coreia e participará dos Jogos do #Rio2016: https://t.co/m12zbH14ef https…
+date = Wed Mar 16 21:15:24 +0000 2016| user = Bruh_Leh25| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 21:13:53 +0000 2016| user = kittenarianag| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 21:12:55 +0000 2016| user = Kidrauhlamoo| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 21:11:08 +0000 2016| user = Jo_Failde| text = Não é atoa q os grandes eventos nunca são em março,  ia morrer geral afogado no RJ! 🏊🌂☔🌊
+#Rio2016 #olympics2016 #SOSrio
+date = Wed Mar 16 21:11:04 +0000 2016| user = sap500| text = MAIS UMA MODALIDADE OLÍMPICA NADO NA RUA FIGUEIREDO MAGALHÃES...RIO2016...!!! https://t.co/xqFa6xnySX
+date = Wed Mar 16 21:08:47 +0000 2016| user = moniquesabrina6| text = RT @WhoIsCarlos: GENTEE MIM SEGURA MEU CORASSAUM EU TO AHIAKSJSJS VOU CARREGAR A #TochaOlímpica #Rio2016 valeu @CocaCola_Br https://t.co/Ko…
+date = Wed Mar 16 21:06:17 +0000 2016| user = gui_sll| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 21:04:42 +0000 2016| user = ribeiroivanir| text = RT @Brasil2016: Presidente da @EmbraturNews diz que Brasil está pronto para os Jogos #Rio2016: https://t.co/CNQiXy0ZES https://t.co/k2pYUIQ…
+date = Wed Mar 16 21:03:45 +0000 2016| user = ribeiroivanir| text = RT @DefesaGovBr: 🇧🇷 Instalações militares reformadas para os Jogos recebem atletas e vistoria de ministros:  https://t.co/UqyRCeFDAN via @B…
+date = Wed Mar 16 21:03:24 +0000 2016| user = GKellyGBernardo| text = Casos de dengue dobram no Estado do Rio https://t.co/0kYgUQZEfk #RIO2016
+date = Wed Mar 16 21:02:54 +0000 2016| user = Kamilly_Milard| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 20:56:52 +0000 2016| user = flaviodilascio| text = Com R$ 63,4 mi por 10% restantes, Centro de Tênis retoma trabalhos https://t.co/7G3AozAv3z #Rio2016 #Olympics https://t.co/qxhsiZUAre
+date = Wed Mar 16 20:55:50 +0000 2016| user = camillynobre11| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:55:25 +0000 2016| user = UniversoVieira_| text = RT @brunavieira: OMG! 😱 Acabei de saber que fui selecionado pra carregar a  #TochaOlimpica #Rio2016, valeu @CocaCola_br AHHHHHHH!!!
+date = Wed Mar 16 20:55:07 +0000 2016| user = stergpi| text = #SUPERAÇÃO "Tiraram meus olhos, mas não meu espírito", diz atleta cego por terrorismo https://t.co/daAfyQnD2E via @UOLEsporte #Rio2016
+date = Wed Mar 16 20:54:50 +0000 2016| user = noticiascbj| text = RT @Martatx01: Quase 'gêmeas' Maria Suelen e @rochelenunes09 travam duelo de peso por #Rio2016 e quem ganha é @noticiascbj https://t.co/fDx…
+date = Wed Mar 16 20:54:33 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Troca de equipe, perda do pai, cansaço: a trilha de Gideoni Monteiro até o #Rio2016 https://t.co/WXolPFFhfl https://t.co/0b…
+date = Wed Mar 16 20:52:15 +0000 2016| user = camilambuzada| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 20:50:46 +0000 2016| user = Bahianinho| text = RT @Brasil2016: Presidente da @EmbraturNews diz que Brasil está pronto para os Jogos #Rio2016: https://t.co/CNQiXy0ZES https://t.co/k2pYUIQ…
+date = Wed Mar 16 20:49:21 +0000 2016| user = caroldelmazo| text = RT @Brasil2016: Troca de equipe, perda do pai, cansaço: a trilha de Gideoni Monteiro até o #Rio2016 https://t.co/WXolPFFhfl https://t.co/0b…
+date = Wed Mar 16 20:48:10 +0000 2016| user = reinodococielo| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:47:28 +0000 2016| user = andreluizfig| text = Cidade olímpica!  #rio2016 https://t.co/wnARkPumyw
+date = Wed Mar 16 20:46:24 +0000 2016| user = Bruno_Elvas| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 20:44:42 +0000 2016| user = RicardoLeyser| text = RT @Brasil2016: Presidente da @EmbraturNews diz que Brasil está pronto para os Jogos #Rio2016: https://t.co/CNQiXy0ZES https://t.co/k2pYUIQ…
+date = Wed Mar 16 20:44:40 +0000 2016| user = RicardoLeyser| text = RT @Brasil2016: Troca de equipe, perda do pai, cansaço: a trilha de Gideoni Monteiro até o #Rio2016 https://t.co/WXolPFFhfl https://t.co/0b…
+date = Wed Mar 16 20:44:25 +0000 2016| user = JuliaZambo| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 20:44:01 +0000 2016| user = Brasil2016| text = Troca de equipe, perda do pai, cansaço: a trilha de Gideoni Monteiro até o #Rio2016 https://t.co/WXolPFFhfl https://t.co/0bQWJJVC9y
+date = Wed Mar 16 20:42:04 +0000 2016| user = myrianconor| text = RT @DefesaGovBr: 🇧🇷 Casa do Time Brasil nos Jogos já está sendo usada na preparação das equipes nacionais: https://t.co/Are1x7QhCu via @Bra…
+date = Wed Mar 16 20:41:10 +0000 2016| user = eduardoramosde5| text = RT @DefesaGovBr: 🇧🇷 Instalações militares reformadas para os Jogos recebem atletas e vistoria de ministros:  https://t.co/UqyRCeFDAN via @B…
+date = Wed Mar 16 20:40:53 +0000 2016| user = _RenataBarbosa_| text = 5 razões para você não perder o pentatlo moderno nos Jogos Olímpicos Rio 2016 https://t.co/Z1b6EnQYwl
+date = Wed Mar 16 20:40:52 +0000 2016| user = DefesaGovBr| text = 🇧🇷 Casa do Time Brasil nos Jogos já está sendo usada na preparação das equipes nacionais: https://t.co/Are1x7QhCu via @Brasil2016 #Rio2016
+date = Wed Mar 16 20:40:44 +0000 2016| user = Rio2016| text = @BryanFritzC @CocaCola_Br Boa Bryan! Já tá sentindo a emoção de carregar a #TochaOlímpica? Parabens 🔥
+date = Wed Mar 16 20:39:43 +0000 2016| user = Monicaspaixao| text = @eduardodl2 @CocaCola_Br @OUrsoOficial @LucianoHuck @Rio2016 Parabéns!
+date = Wed Mar 16 20:39:41 +0000 2016| user = leighunter| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:39:27 +0000 2016| user = camilamorgado99| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:39:14 +0000 2016| user = sassone04| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 20:39:05 +0000 2016| user = ROMETOMAMA| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:38:12 +0000 2016| user = Kantar_BR| text = Preparado p/ as Olimpíadas #Rio2016? Fora do mundo do Futebol, este é o evento esportivo c/ maior adesão no Brasil 👉 https://t.co/173jmEHoqm
+date = Wed Mar 16 20:38:12 +0000 2016| user = DefesaGovBr| text = 🇧🇷 Instalações militares reformadas para os Jogos recebem atletas e vistoria de ministros:  https://t.co/UqyRCeFDAN via @Brasil2016 #Rio2016
+date = Wed Mar 16 20:37:23 +0000 2016| user = cfredbastos| text = RT @Brasil2016: #Boxe brasileiro está perto de conquistar mais três vagas no #Rio2016: https://t.co/bzJSxGN2Bx https://t.co/QuDu4CD5hH
+date = Wed Mar 16 20:34:25 +0000 2016| user = CataPlaDi| text = RT @Brasil2016: Presidente da @EmbraturNews diz que Brasil está pronto para os Jogos #Rio2016: https://t.co/CNQiXy0ZES https://t.co/k2pYUIQ…
+date = Wed Mar 16 20:34:00 +0000 2016| user = brusomogyi| text = RT @Brasil2016: #Boxe brasileiro está perto de conquistar mais três vagas no #Rio2016: https://t.co/bzJSxGN2Bx https://t.co/QuDu4CD5hH
+date = Wed Mar 16 20:33:45 +0000 2016| user = Brasil2016| text = Presidente da @EmbraturNews diz que Brasil está pronto para os Jogos #Rio2016: https://t.co/CNQiXy0ZES https://t.co/k2pYUIQwLt
+date = Wed Mar 16 20:33:40 +0000 2016| user = Rio2016| text = @pathy @CocaCola_Br Parabéns, Paty! Depois conta pra gente onde vai carregar a #TochaOlímpica 🔥
+date = Wed Mar 16 20:31:09 +0000 2016| user = RicardoLeyser| text = RT @Brasil2016: #Boxe brasileiro está perto de conquistar mais três vagas no #Rio2016: https://t.co/bzJSxGN2Bx https://t.co/QuDu4CD5hH
+date = Wed Mar 16 20:31:06 +0000 2016| user = Rio2016| text = @kaiooliveiras @CocaCola_Br Boa Kaio! Força para o revezamento da #TochaOlímpica, hein? Nos vemo lá
+date = Wed Mar 16 20:30:18 +0000 2016| user = vitcrivelaro| text = @CocaCola_Br @Rio2016 Convida um anônimo, que é fã desses caras, pronto, ta mais que perfeito !!
+date = Wed Mar 16 20:27:52 +0000 2016| user = Rio2016| text = @MauroNakada @CocaCola_Br Parabéns, Mauro! Já sabe onde vai carregar a #TochaOlímpica? Depois conta aí 😁
+date = Wed Mar 16 20:27:38 +0000 2016| user = jessmonteiroc| text = RT @Rio2016: Essa é a mensagem que o artista Pedro Gabriel, do Eu Me Chamo Antônio, quer passar sobre os #JogosParalímpicos! ❤ https://t.co…
+date = Wed Mar 16 20:25:43 +0000 2016| user = Renata_Willrich| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 20:24:51 +0000 2016| user = Brasil2016| text = #Boxe brasileiro está perto de conquistar mais três vagas no #Rio2016: https://t.co/bzJSxGN2Bx https://t.co/QuDu4CD5hH
+date = Wed Mar 16 20:23:20 +0000 2016| user = Rio2016| text = @brunavieira @CocaCola_Br Parabéns, Bruninha \o/ \o/ \o/ Vai ser demais o revezamento da #TochaOlímpica. Nos vemos lá 👍
+date = Wed Mar 16 20:22:50 +0000 2016| user = thainatata4174| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 20:20:45 +0000 2016| user = Rio2016| text = @Christian_fig @CocaCola_Br Parabéns, Christian! Vai ser uma experiência única participar do revezamento da #TochaOlímpica. Nos vemos lá 👍
+date = Wed Mar 16 20:20:16 +0000 2016| user = TiBahia| text = Atos abre 500 vagas CLT para os Jogos Olímpicos Rio 2016 #VagasTI #Rio2016 https://t.co/21tR0quuol
+date = Wed Mar 16 20:19:02 +0000 2016| user = Belieber1994Ana| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 20:18:36 +0000 2016| user = Belieber1994Ana| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:17:36 +0000 2016| user = leandra_vianna| text = Ui delicia! To toda molhadinha!!! De #chuva! #Rio2016 preparado para os esportes aquaticos! nado sincronizado no Centro! #CidadeOlimpica
+date = Wed Mar 16 20:16:55 +0000 2016| user = cfredbastos| text = RT @romanoolimpico: Boxe-Brasil tem 3 atletas na semi do Pré das Américas: Juan Nogueira, Graziele Jesus e Andreia Bandeira.Mais uma vitóri…
+date = Wed Mar 16 20:15:49 +0000 2016| user = Rio2016| text = Bem-vindos, condutores da #TochaOlímpica e preparem o fôlego 🏃🔥 https://t.co/9v5MBqT5Bg
+date = Wed Mar 16 20:15:18 +0000 2016| user = AlbenizeP| text = RT @QueenMariFC: Quem aguenta uma foto dessa?
+É DE MATAR QUALQUER MARILOVER ♥
+Isso msm, deusa, se prepare que #Rio2016 queremos você https:…
+date = Wed Mar 16 20:14:12 +0000 2016| user = allalezan| text = Enquanto isso, na cidade olimPICA ... #Rio2016 https://t.co/6LXJOzvwWL
+date = Wed Mar 16 20:11:45 +0000 2016| user = eduardodl2| text = Eu sou ouro! Valeu @CocaCola_Br! @OUrsoOficial @LucianoHuck @Rio2016  #IssoÉOuro #IssoMereceUmBrinde #TochaOlímpica https://t.co/BA7kh5PRr8
+date = Wed Mar 16 20:09:30 +0000 2016| user = dener_gn| text = RT @GabiLuthai: Bom dia, mundo!!!! Acabei de saber que fui selecionada pra carregar a  #TochaOlimpica #Rio2016, obrigada @CocaCola_br ♡♡♡♡
+date = Wed Mar 16 20:09:17 +0000 2016| user = dener_gn| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:09:09 +0000 2016| user = hevertonsf| text = RT @Brasil2016: Para @HenriqueEAlves, os Jogos #Rio2016 são grande oportunidade de mostrar o Brasil para o mundo. #SomosTodosBrasil https:/…
+date = Wed Mar 16 20:08:23 +0000 2016| user = Mimy_Emaa| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:08:22 +0000 2016| user = cfredbastos| text = RT @Brasil2016: Casa do @timebrasil nos Jogos #Rio2016 já está sendo usada na preparação das equipes: https://t.co/l0fqOlPmjN https://t.co/…
+date = Wed Mar 16 20:06:45 +0000 2016| user = Valetinista98| text = RT @Rio2016: . @neymarjr sobre jogar #futebol no #Rio2016: 'Um sonho, uma grande honra' https://t.co/NdBCfxplEK ⚽ @CBF_Futebol https://t.co…
+date = Wed Mar 16 20:06:24 +0000 2016| user = Franciscco_| text = Rio-2016 e CBDA confirmam que Troféu Maria Lenk será no Estádio Aquático Olímpico https://t.co/uFmeX8EDIY #Rio2016 #esporte
+date = Wed Mar 16 20:05:54 +0000 2016| user = corotielo| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 20:05:48 +0000 2016| user = Mimy_Emaa| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 20:00:33 +0000 2016| user = kakavchung138| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 20:00:24 +0000 2016| user = kakavchung138| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 19:59:59 +0000 2016| user = kakavchung138| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 19:56:47 +0000 2016| user = ju_casal| text = @lightclientes transformador da Light queimado na rua Lauro Muller, em Botafogo!!!!!! #chuvarj #rio2016
+date = Wed Mar 16 19:56:32 +0000 2016| user = mariaero1| text = RT @rio2016_es: Cada segundo vale oro. 🏅🏅
+#JuegosParalímpicos #Rio2016 - #TeSorprenderás - ✨ https://t.co/NQz3h3b0et
+date = Wed Mar 16 19:56:09 +0000 2016| user = AlmirPoeta| text = RT @ieda_mara: O BRASIL NÃO IRÁ ENGOLIR ESSA. #Lula @agenciapf NÃO PAGAREMOS O SALÁRIO DESTE BOSTA.#greve #grevegeralRJ #Rio2016 https://t.…
+date = Wed Mar 16 19:55:16 +0000 2016| user = atletass| text = RT @rio2016_es: Cada segundo vale oro. 🏅🏅
+#JuegosParalímpicos #Rio2016 - #TeSorprenderás - ✨ https://t.co/NQz3h3b0et
+date = Wed Mar 16 19:53:33 +0000 2016| user = Itssnatty| text = RT @GabiLuthai: Bom dia, mundo!!!! Acabei de saber que fui selecionada pra carregar a  #TochaOlimpica #Rio2016, obrigada @CocaCola_br ♡♡♡♡
+date = Wed Mar 16 19:52:56 +0000 2016| user = VidblogVidigal| text = APÓS CHUVA FORTE, ALAGAMENTOS NA ZONA SUL
+#Chuva 
+#RJ 
+#Rio2016 https://t.co/dJcSd0mIsA
+date = Wed Mar 16 19:52:55 +0000 2016| user = DoB3ar| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:52:20 +0000 2016| user = martinchab1997| text = RT @Rio2016: . @neymarjr sobre jogar #futebol no #Rio2016: 'Um sonho, uma grande honra' https://t.co/NdBCfxplEK ⚽ @CBF_Futebol https://t.co…
+date = Wed Mar 16 19:50:51 +0000 2016| user = Rio2016| text = . @neymarjr sobre jogar #futebol no #Rio2016: 'Um sonho, uma grande honra' https://t.co/NdBCfxplEK ⚽ @CBF_Futebol https://t.co/4GCnDVnhQc
+date = Wed Mar 16 19:50:49 +0000 2016| user = Brasil2016| text = Casa do @timebrasil nos Jogos #Rio2016 já está sendo usada na preparação das equipes: https://t.co/l0fqOlPmjN https://t.co/Cw43olLkSg
+date = Wed Mar 16 19:50:48 +00/usr/lib/python2.6/site-packages/requests/packages/urllib3/util/ssl_.py:100: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+00 2016| user = 3yeah_for_life| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:50:43 +0000 2016| user = 3yeah_for_life| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:50:02 +0000 2016| user = SuperVia_trens| text = Quem passar pela Central amanhã poderá se informar sobre as inscrições para trabalhar nos Jogos Olímpicos Rio2016: https://t.co/yjKYDoEqdY
+date = Wed Mar 16 19:49:56 +0000 2016| user = 470713cb1a924e2| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:49:35 +0000 2016| user = IrisVitoriaMor3| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:47:29 +0000 2016| user = louisninfetat| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:45:20 +0000 2016| user = rcorrea_rj| text = @Rio2016 @riodejaneiro @Olimpiadas Cidade Olímpica em plena Zona Sul. 30 minutos de chuva moderada. https://t.co/WNPIWH71XA
+date = Wed Mar 16 19:42:58 +0000 2016| user = ALEX_ANDER_RN| text = E quem irá declarar aberto os Jogos Olímpicos? #Rio2016 
+
+#Lularapio ou #DilmAnta 
+
+#VaiaDesdeJa 
+#Obrigadodenada
+date = Wed Mar 16 19:42:58 +0000 2016| user = kleitinhodiass| text = RT @ViniciusRio2016: Minha programação em #Salvador no @Rio2016: ver as partidas de #futebol e dps ir curtir o pelourinho! ⚽💃 https://t.co/…
+date = Wed Mar 16 19:39:27 +0000 2016| user = beafarias89| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:39:10 +0000 2016| user = ViniciusRio2016| text = Minha programação em #Salvador no @Rio2016: ver as partidas de #futebol e dps ir curtir o pelourinho! ⚽💃 https://t.co/HgvC6m1Ott
+date = Wed Mar 16 19:36:24 +0000 2016| user = ju_casal| text = @lightclientes sem luz na Lauro Muller, em Botafogo!!!! #Rio2016 #riodejaneiro
+date = Wed Mar 16 19:36:05 +0000 2016| user = Kovalskii_| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:32:44 +0000 2016| user = matheusflp_| text = RT @Brasil2016: Para @HenriqueEAlves, os Jogos #Rio2016 são grande oportunidade de mostrar o Brasil para o mundo. #SomosTodosBrasil https:/…
+date = Wed Mar 16 19:31:16 +0000 2016| user = minesporte| text = RT @Brasil2016: Para @GeorgeHilton10, os Jogos #Rio2016 serão um grande 'case' para o turismo do país. #SomosTodosBrasil https://t.co/iJXW0…
+date = Wed Mar 16 19:29:26 +0000 2016| user = GugRocha| text = Ilhado em Botafogo e sem aula... O que fazer?! Tuitar! #Rio2016 #chuvaRJ
+date = Wed Mar 16 19:29:07 +0000 2016| user = schnellflu| text = RT @Brasil2016: Para @GeorgeHilton10, os Jogos #Rio2016 serão um grande 'case' para o turismo do país. #SomosTodosBrasil https://t.co/iJXW0…
+date = Wed Mar 16 19:28:41 +0000 2016| user = MeComeT3ddy| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:27:20 +0000 2016| user = paulo_homem| text = RT @Rio2016: Essa é a mensagem que o artista Pedro Gabriel, do Eu Me Chamo Antônio, quer passar sobre os #JogosParalímpicos! ❤ https://t.co…
+date = Wed Mar 16 19:25:15 +0000 2016| user = Brasil2016| text = Para @GeorgeHilton10, os Jogos #Rio2016 serão um grande 'case' para o turismo do país. #SomosTodosBrasil https://t.co/iJXW0EsuLn
+date = Wed Mar 16 19:22:08 +0000 2016| user = luskate2000| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:22:03 +0000 2016| user = Brasil2016| text = Para @HenriqueEAlves, os Jogos #Rio2016 são grande oportunidade de mostrar o Brasil para o mundo. #SomosTodosBrasil https://t.co/92CnuH2JFz
+date = Wed Mar 16 19:18:39 +0000 2016| user = mafraevandro91| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:16:42 +0000 2016| user = luanna844| text = RT @kaiooliveiras: AEEEEEEEEEEE! galera, acabei de receber a notícia q eu tmb vou participar do revezamento da #TochaOlimpica #Rio2016! Val…
+date = Wed Mar 16 19:16:07 +0000 2016| user = namelesslarrie| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:15:53 +0000 2016| user = cfredbastos| text = RT @alem_do_futebol: Juan Nogueira(91kg), Graziele Sousa(51kg) e Andreia Bandeira(75kg) estão na semifinal. Vencendo, vão p/ @Rio2016  #Roa…
+date = Wed Mar 16 19:15:30 +0000 2016| user = uouharry| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:15:28 +0000 2016| user = Luecia_Styles| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:14:26 +0000 2016| user = FALLTOBASEADO| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:13:11 +0000 2016| user = emypotter67| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 19:12:03 +0000 2016| user = rugbydecalcinha| text = Vídeo feito pelo @Channel7 ... Australianos casa vez mais empolgados com os jogos olímpicos @Rio2016 https://t.co/uXg9Dyh5Ae
+date = Wed Mar 16 19:11:49 +0000 2016| user = deportesanz| text = RT @rio2016_es: Cada segundo vale oro. 🏅🏅
+#JuegosParalímpicos #Rio2016 - #TeSorprenderás - ✨ https://t.co/NQz3h3b0et
+date = Wed Mar 16 19:10:33 +0000 2016| user = cocieIollg| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:09:38 +0000 2016| user = RockRestartDF| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:08:49 +0000 2016| user = QueenMariFC| text = Quem aguenta uma foto dessa?
+É DE MATAR QUALQUER MARILOVER ♥
+Isso msm, deusa, se prepare que #Rio2016 queremos você https://t.co/5xnWgH7cG7
+date = Wed Mar 16 19:08:49 +0000 2016| user = Picharillo77| text = Parada há 2 meses, obra do Centro de Tênis precisa de R$ 63 mi até Rio-2016 https://t.co/WjQfrlTG1U via @UOLEsporte #Rio2016
+date = Wed Mar 16 19:05:20 +0000 2016| user = YesbananasSport| text = Yes!Sports - Boxe: Brasil fica perto de garantir mais uma vaga na Olimpíada do Rio:  https://t.co/4gqrxWD0M7 #sports #esportes
+date = Wed Mar 16 19:05:16 +0000 2016| user = FutebolEspiao| text = Boxe: Brasil fica perto de garantir mais uma vaga na Olimpíada do Rio https://t.co/Gw5NljCgrU
+date = Wed Mar 16 19:05:15 +0000 2016| user = FutebolMundial5| text = Boxe: Brasil fica perto de garantir mais uma vaga na Olimpíada do Rio:  https://t.co/x80gDO7zKp
+date = Wed Mar 16 19:05:13 +0000 2016| user = PortalEsporte10| text = Boxe: Brasil fica perto de garantir mais uma vaga na Olimpíada do Rio https://t.co/TnMtjdrzxP
+date = Wed Mar 16 19:05:09 +0000 2016| user = BrunoJaquet03| text = Boxe: Brasil fica perto de garantir mais uma vaga na Olimpíada do Rio:  https://t.co/8B5w4J8xTV
+date = Wed Mar 16 19:03:06 +0000 2016| user = reistyless| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:02:17 +0000 2016| user = heathlwdgwr| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 19:00:23 +0000 2016| user = Vando_23| text = Rua Prof Alfredo Gomes esq com Botafogo Praia Shopping totalmente alagada #Rio2016 #olimpiadas2016 https://t.co/YQcpgIuSTb
+date = Wed Mar 16 18:59:02 +0000 2016| user = fabiopaleixo| text = Doping de Sharapova acende sinal de alerta em médicos no Brasil https://t.co/gdGDUO11VF via @UOLEsporte #Rio2016
+date = Wed Mar 16 18:58:58 +0000 2016| user = CanoagemPt| text = #Rio2016 Kayaks com sistema antialgas nos Jogos Olímpicos... https://t.co/Qcy3G85hkF
+date = Wed Mar 16 18:58:09 +0000 2016| user = thaay_almeeida| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 18:55:36 +0000 2016| user = taemcasacocielo| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 18:55:20 +0000 2016| user = nathi_ely| text = RT @travinha_esp: #Rio2016 #Boxe: Brasileiros perto de mais três vagas para o @Rio. https://t.co/2LnoH0g8Du @timebrasil https://t.co/wykSjy…
+date = Wed Mar 16 18:54:35 +0000 2016| user = cfredbastos| text = RT @soudoesporte: #RumoaoRio! Três pugilistas do Brasil podem garantir vaga para os Jogos nesta quinta: https://t.co/NnqqiM9Ase
+#Rio2016 #B…
+date = Wed Mar 16 18:50:44 +0000 2016| user = rmandavid1| text = RT @pepinalexandre: Nem é chuva forte, kd o sistema de esgoto @CidadedoRio ? #Rio2016 https://t.co/hh1E1ZQJZW
+date = Wed Mar 16 18:50:33 +0000 2016| user = msenqueen| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 18:48:36 +0000 2016| user = linehoran15| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 18:48:28 +0000 2016| user = cfredbastos| text = RT @Rio2016: #Rio2016 oferece chance de primeira experiência profissional para jovens: https://t.co/sfMGfrlNIk https://t.co/OWxFgr8dU2
+date = Wed Mar 16 18:46:14 +0000 2016| user = DesireeLuanete| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 18:46:05 +0000 2016| user = DesireeLuanete| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 18:45:21 +0000 2016| user = CEC_UL| text = RT @pepinalexandre: Nem é chuva forte, kd o sistema de esgoto @CidadedoRio ? #Rio2016 https://t.co/hh1E1ZQJZW
+date = Wed Mar 16 18:44:37 +0000 2016| user = G_a_b_i_s2| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 18:42:04 +0000 2016| user = cocielodrew| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 18:41:29 +0000 2016| user = cabelloluthai| text = RT @GabiLuthai: Bom dia, mundo!!!! Acabei de saber que fui selecionada pra carregar a  #TochaOlimpica #Rio2016, obrigada @CocaCola_br ♡♡♡♡
+date = Wed Mar 16 18:40:37 +0000 2016| user = sergi_richard| text = RT @SODMGLucas: Quadra da escola já está pique natação, Brota #Rio2016 https://t.co/x03zjFi5MK
+date = Wed Mar 16 18:38:25 +0000 2016| user = lcrive| text = RT @ieda_mara: O BRASIL NÃO IRÁ ENGOLIR ESSA. #Lula @agenciapf NÃO PAGAREMOS O SALÁRIO DESTE BOSTA.#greve #grevegeralRJ #Rio2016 https://t.…
+date = Wed Mar 16 18:37:36 +0000 2016| user = BrennoRJ| text = #RJTV #RadarRj Cidade modelo de alagamento #CidadeModelodeAlagamento #CidadeOlimpica #Rio2016
+date = Wed Mar 16 18:36:53 +0000 2016| user = RioDMais| text = Ipanema, Av Vieira Souto, Anos 60, quase Arpoador. Muitos fusquinhas. Falta @hotelfasano #cuidandodeipanema #Rio2016 https://t.co/1VM68Pj8iF
+date = Wed Mar 16 18:36:21 +0000 2016| user = RenatoJua100| text = RT @Rio2016: São mais medalhas do que caracteres aqui nesse tweet! 😋
+
+Não dá pra explicar, #TemQueIr https://t.co/6mx6BURT1Q
+date = Wed Mar 16 18:36:17 +0000 2016| user = marialuisateix2| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 18:33:36 +0000 2016| user = lyndaddlovato| text = @Rio2016  trsite que cancelou minh aduição no dia 19/03 e quero ir voluntaria como Imprensa, qual o site? aloha....
+date = Wed Mar 16 18:29:48 +0000 2016| user = eliasfreitas_| text = This is Copacabana! #Rio2016 #olimpiadas #olympics https://t.co/7co4KMnWhw
+date = Wed Mar 16 18:29:09 +0000 2016| user = walkeresteves_| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 18:29:08 +0000 2016| user = tipoassim_ana| text = RT @BryanFritzC: Galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 AQUI EM THE ! valeu @CocaCola_Br!  E NOIS…
+date = Wed Mar 16 18:28:58 +0000 2016| user = gleulomon| text = RT @nucepmadrid: Gleuza Salomon @gleulomon entrevista a Luiz Fernando Carrijo da Cunha en @RadioLacan para @AMP_RIO2016 #AMPRio2016 https:/…
+date = Wed Mar 16 18:28:28 +0000 2016| user = Rio2016| text = Imperdível mesmo! #TemQueIr https://t.co/BixICK1PTR
+date = Wed Mar 16 18:28:03 +0000 2016| user = tipoassim_ana| text = RT @BryanFritzC: FELIZZZZZZZZZ ! ! ! ! obg @CocaCola_Br #TochaOlimpica #Rio2016
+date = Wed Mar 16 18:27:50 +0000 2016| user = HelenaDuManeco| text = #Rio2016 Canoagem. Parabéns, @eduardopaes_! https://t.co/WlMF4D3Muc
+date = Wed Mar 16 18:22:45 +0000 2016| user = ColombiaRio2016| text = RT @BlogOurodeTolo: O editor chefe Pedro Migão escreve com dicas de ingressos baratos para a @rio2016, bem como com algumas... https://t.co…
+date = Wed Mar 16 18:20:54 +0000 2016| user = saogoncalo_RJ| text = RT @Rio2016: #Rio2016 oferece chance de primeira experiência profissional para jovens: https://t.co/sfMGfrlNIk https://t.co/OWxFgr8dU2
+date = Wed Mar 16 18:19:59 +0000 2016| user = GKellyGBernardo| text = Chilenos roubam barraqueiro em Copacabana e acabam presos - Rio - O Dia https://t.co/QobDmMWH0W via @jornalodia #RIO2016
+date = Wed Mar 16 18:19:41 +0000 2016| user = pepinalexandre| text = Nem é chuva forte, kd o sistema de esgoto @CidadedoRio ? #Rio2016 https://t.co/hh1E1ZQJZW
+date = Wed Mar 16 18:19:24 +0000 2016| user = GKellyGBernardo| text = Turista americana é assaltada em Copacabana - Rio - O Dia https://t.co/Wa71TVGRIf via @jornalodia #Rio2016
+date = Wed Mar 16 18:19:12 +0000 2016| user = larissaalmedale| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 18:14:01 +0000 2016| user = Esportessencial| text = RT @soudoesporte: #RumoaoRio! Três pugilistas do Brasil podem garantir vaga para os Jogos nesta quinta: https://t.co/NnqqiM9Ase
+#Rio2016 #B…
+date = Wed Mar 16 18:13:58 +0000 2016| user = thii_soaress| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 18:13:31 +0000 2016| user = soudoesporte| text = #RumoaoRio! Três pugilistas do Brasil podem garantir vaga para os Jogos nesta quinta: https://t.co/NnqqiM9Ase
+#Rio2016 #BoxeOlímpico
+date = Wed Mar 16 18:12:31 +0000 2016| user = mutanthorses| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 18:12:10 +0000 2016| user = SODMGLucas| text = Quadra da escola já está pique natação, Brota #Rio2016 https://t.co/x03zjFi5MK
+date = Wed Mar 16 18:10:47 +0000 2016| user = MarianeQueiroz_| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 18:10:40 +0000 2016| user = Lily80436884| text = RT @raphaelscostarj: Zona Sul, Zona Norte, Centro e Zona Oeste e região metropolitana... Todo o Rio debaixo d'água... Imagina na Olimpíada?…
+date = Wed Mar 16 18:08:08 +0000 2016| user = raphaelscostarj| text = Zona Sul, Zona Norte, Centro e Zona Oeste e região metropolitana... Todo o Rio debaixo d'água... Imagina na Olimpíada?! #Rio2016
+date = Wed Mar 16 18:07:24 +0000 2016| user = percyprostituto| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 18:04:17 +0000 2016| user = travinha_esp| text = #Rio2016 #Boxe: Brasileiros perto de mais três vagas para o @Rio. https://t.co/2LnoH0g8Du @timebrasil https://t.co/wykSjyKxKd
+date = Wed Mar 16 18:03:51 +0000 2016| user = MandisB3ar| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 17:59:31 +0000 2016| user = RSPARADESPORTO| text = RT @Rio2016: São mais medalhas do que caracteres aqui nesse tweet! 😋
+
+Não dá pra explicar, #TemQueIr https://t.co/6mx6BURT1Q
+date = Wed Mar 16 17:59:19 +0000 2016| user = RSPARADESPORTO| text = RT @cpboficial: Bom dia, gente! Faltam 175 dias para os #JogosParalímpicos @Rio2016! 😊
+date = Wed Mar 16 17:56:15 +0000 2016| user = tropichay| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 17:55:13 +0000 2016| user = melaniemcyrus| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 17:54:38 +0000 2016| user = RSPARADESPORTO| text = Instalações militares reformadas para os Jogos @Rio2016 recebem atletas https://t.co/sUSVaYZap1 https://t.co/sM3xX0Be8U via @minesporte
+date = Wed Mar 16 17:54:25 +0000 2016| user = Pedrao_USA| text = Alô @Rio2016 choveu ja era, WELCOME TO RIO https://t.co/tFhstHCwgN
+date = Wed Mar 16 17:52:20 +0000 2016| user = Nat_mdelgado| text = RT @MauroNakada: 🎉 Aeeee! Fiquei sabendo que vou participar do revezamento da #TochaOlimpica #Rio2016 , Valeu @CocaCola_Br VEM PRA MIM TOCH…
+date = Wed Mar 16 17:52:10 +0000 2016| user = Nat_mdelgado| text = RT @GabiLuthai: Bom dia, mundo!!!! Acabei de saber que fui selecionada pra carregar a  #TochaOlimpica #Rio2016, obrigada @CocaCola_br ♡♡♡♡
+date = Wed Mar 16 17:51:50 +0000 2016| user = Nat_mdelgado| text = RT @brunavieira: OMG! 😱 Acabei de saber que fui selecionado pra carregar a  #TochaOlimpica #Rio2016, valeu @CocaCola_br AHHHHHHH!!!
+date = Wed Mar 16 17:51:45 +0000 2016| user = Nat_mdelgado| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 17:51:41 +0000 2016| user = Nat_mdelgado| text = RT @t3ddyyyyy: sabe a tocha olimpica? então.....
+
+VOU CARREGAR ELA NAS OLIMPÍADAS 2016 💙✨
+
+obg @CocaCola_Br #TochaOlimpica #Rio2016 https:/…
+date = Wed Mar 16 17:51:27 +0000 2016| user = Nat_mdelgado| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 17:50:34 +0000 2016| user = Gabiflying| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 17:50:07 +0000 2016| user = olokofig| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 17:48:38 +0000 2016| user = TomRio2016| text = @Monicaspaixao @Rio2016 hiihihihi vc que é uma linda! ❤❤
+date = Wed Mar 16 17:43:48 +0000 2016| user = suckgordon| text = RT @juliococielo: galera, eu fui selecionado pra carregar a #TochaOlimpica nas olimpíadas #Rio2016 aqui em OZ! valeu @CocaCola_Br! 😍🙌💕👏🔑
+date = Wed Mar 16 17:42:26 +0000 2016| user = Hudsonvalleykid| text = RT @JeromeShaw: Funicular - Favela Tourism: Santa Marta #Rio de Janeiro #Brazil https://t.co/pNvoitI0uD #Rio2016 #Travel #Brasil https://t.…
+date = Wed Mar 16 17:41:03 +0000 2016| user = 4229b7d8ad3f4e0| text = RT @FeCastanhari: Nssssss!!! Acabei de saber que fui selecionado pra carregar a #TochaOlimpica #Rio2016
+VALEU!!!! @CocaCola_br 
+Estou emoci…
+date = Wed Mar 16 17:38:31 +0000 2016| user = PTagashira| text = RT @WhoIsCarlos: GENTEE MIM SEGURA MEU CORASSAUM EU TO AHIAKSJSJS VOU CARREGAR A #TochaOlímpica #Rio2016 valeu @CocaCola_Br https://t.co/Ko…
+date = Wed Mar 16 17:36:39 +0000 2016| user = cassita| text = RT @GEdoBrasil: #OsJogosJáComeçaram e a tecnologia LED GE beneficiará atletas e torcedores nos Jogos Rio2016:https://t.co/sn2xbAOEuy https:…
