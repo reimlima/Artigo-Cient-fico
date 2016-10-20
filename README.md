@@ -24,9 +24,10 @@ O formato de arquivo que foi usado para o processamento foi o txt, por facilitar
 Para o processamento, foram criados 4 scripts escritos em Perl, abaixo segue a explicação de cada um deles:
 
 * tweetMapper.pl - Responsável por Mapear todos os Campos
-* tweetAccountReducer.pl - Responsável por contar a quantidade de vezes cada perfíl de usuário aparece nos dados
-* tweetTextReducer.pl - Responsável por contar a quantidade de vezes cada texto aparece nos dados
-* tweetWordCountReducer.pl - Responsável por contar a quantidade de vezes cada palavra aparece nos dados
+* tweetDateTimeReducer.pl -  Responsável por contar a quantidade de vezes que algo foi dito naquela data
+* tweetAccountReducer.pl - Responsável por contar a quantidade de vezes que cada perfíl de usuário aparece nos dados
+* tweetTextReducer.pl - Responsável por contar a quantidade de vezes que cada texto aparece nos dados
+* tweetWordCountReducer.pl - Responsável por contar a quantidade de vezes que cada palavra aparece nos dados
 
 A lógica destes scripts foi desenvolvida com base no artigo *[Hadoop Streaming with Perl Script]*.
 
