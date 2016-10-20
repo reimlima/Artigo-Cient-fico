@@ -28,8 +28,11 @@ Para o processamento, foram criados 4 scripts escritos em Perl, abaixo segue a e
 * tweetTextReducer.pl - Responsável por contar a quantidade de vezes cada texto aparece nos dados
 * tweetWordCountReducer.pl - Responsável por contar a quantidade de vezes cada palavra aparece nos dados
 
+A lógica destes scripts foi desenvolvida com base no artigo *[Hadoop Streaming with Perl Script]*.
+
 ### Armazenamento e Indexação
 
 Os dados que foram extraídos, foram armazenados e submetidos ao processo de MapReduce no Hadoop, e finalmente indexados no ElasticSearch usando o script *mrflow* escrito em Shell Script.
 
 [TwitterSearch]: <https://github.com/ckoepp/TwitterSearch>
+[Hadoop Streaming with Perl Script]: <https://hadoopavenue.wordpress.com/2014/10/02/hadoop-streaming-with-perl-script/>
